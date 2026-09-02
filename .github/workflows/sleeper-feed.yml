@@ -1,10 +1,11 @@
 name: Update Sleeper Fantasy Feed
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: "15 * * * *"
-
 permissions:
   contents: write
 
