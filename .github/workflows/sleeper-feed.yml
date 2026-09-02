@@ -1,11 +1,10 @@
 name: Update Sleeper Fantasy Feed
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: "15 * * * *"
+
 permissions:
   contents: write
 
@@ -22,13 +21,27 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install Google Drive dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install google-api-python-client google-auth
+
       - name: Fetch Sleeper league
         run: python fetch_sleeper.py
 
-      - name: Save updated snapshot
+      - name: Save updated feed files
         run: |
           git config user.name "Sleeper Fantasy Bot"
           git config user.email "actions@github.com"
           git add sleeper_snapshot.json sleeper_daily.json index.html
-          git diff --cached --quiet || git commit -m "Update Sleeper league snapshot"
-          git push
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit"
+          else
+            git commit -m "Update Sleeper league snapshot"
+            git push
+          fi
+
+      - name: Upload feed files to Google Drive
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: python upload_to_drive.py
