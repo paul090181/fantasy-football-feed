@@ -1,0 +1,33 @@
+name: Update Sleeper Fantasy Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-sleeper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch Sleeper league
+        run: python fetch_sleeper.py
+
+      - name: Save updated snapshot
+        run: |
+          git config user.name "Sleeper Fantasy Bot"
+          git config user.email "actions@github.com"
+          git add sleeper_snapshot.json
+          git diff --cached --quiet || git commit -m "Update Sleeper league snapshot"
+          git push
