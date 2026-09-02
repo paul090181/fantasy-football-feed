@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-02T16:43:19.910926+00:00",
+  "generated_at_utc": "2026-09-02T18:02:18.711700+00:00",
   "league_id": "1385955289206910976",
   "league": {
     "name": "ECMC Dawgpound ",
@@ -62,6 +62,10 @@
     },
     "avatar": "7875fdee403042a028f51ade493cb27c",
     "company_id": null,
+    "shard": 509,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "qb_hit": 0.0,
@@ -197,10 +201,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 509,
-    "sport": "nfl",
     "last_message_id": "1400890463665291264",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -215,6 +215,8 @@
     "league_id": "1385955289206910976",
     "previous_league_id": "1252357606245142528",
     "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -235,8 +237,6 @@
       "BN",
       "BN"
     ],
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -564,7 +564,7 @@
           "position": "RB",
           "team": "KC",
           "status": "Active",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8167",
@@ -9076,6 +9076,15 @@
       "search_rank": 521
     },
     {
+      "player_id": "12548",
+      "name": "Lenny Krieg",
+      "position": "K",
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 521
+    },
+    {
       "player_id": "8931",
       "name": "Josh Ali",
       "position": "WR",
@@ -13750,7 +13759,7 @@
       "player_id": "3258",
       "name": "Nick Vannett",
       "position": "TE",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "injury_status": null,
       "search_rank": 666
@@ -23131,15 +23140,6 @@
       "team": null,
       "status": "Inactive",
       "injury_status": "Questionable",
-      "search_rank": 9999999
-    },
-    {
-      "player_id": "12548",
-      "name": "Lenny Krieg",
-      "position": "K",
-      "team": null,
-      "status": "Active",
-      "injury_status": null,
       "search_rank": 9999999
     },
     {
