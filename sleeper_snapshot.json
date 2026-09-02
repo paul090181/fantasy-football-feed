@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-02T15:55:23.493528+00:00",
+  "generated_at_utc": "2026-09-02T16:05:30.766351+00:00",
   "league_id": "1385955289206910976",
   "league": {
     "name": "ECMC Dawgpound ",
@@ -206,17 +206,14 @@
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
+    "draft_id": "1385955289219485696",
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1788360823126,
     "last_pinned_message_id": null,
-    "draft_id": "1385955289219485696",
     "last_read_id": null,
     "league_id": "1385955289206910976",
     "previous_league_id": "1252357606245142528",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -237,6 +234,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -8251,7 +8251,7 @@
       "player_id": "12892",
       "name": "Da'Quan Felton",
       "position": "WR",
-      "team": "NYJ",
+      "team": null,
       "status": "Active",
       "injury_status": "Questionable",
       "search_rank": 491
@@ -8611,7 +8611,7 @@
       "player_id": "11557",
       "name": "Joe Milton",
       "position": "QB",
-      "team": "DAL",
+      "team": null,
       "status": "Active",
       "injury_status": null,
       "search_rank": 504
@@ -8971,7 +8971,7 @@
       "player_id": "12079",
       "name": "Treyton Welch",
       "position": "TE",
-      "team": "NO",
+      "team": null,
       "status": "Active",
       "injury_status": null,
       "search_rank": 517
@@ -11599,7 +11599,7 @@
       "player_id": "14008",
       "name": "Rodney Hammond",
       "position": "RB",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "injury_status": null,
       "search_rank": 617
@@ -12283,7 +12283,7 @@
       "player_id": "13780",
       "name": "Terion Stewart",
       "position": "RB",
-      "team": "KC",
+      "team": null,
       "status": "Active",
       "injury_status": null,
       "search_rank": 637
@@ -12571,7 +12571,7 @@
       "player_id": "12826",
       "name": "Ulysses Bentley",
       "position": "RB",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "injury_status": null,
       "search_rank": 644
@@ -12670,7 +12670,7 @@
       "player_id": "11921",
       "name": "Xavier Weaver",
       "position": "WR",
-      "team": "ARI",
+      "team": null,
       "status": "Inactive",
       "injury_status": "Questionable",
       "search_rank": 647
@@ -16945,7 +16945,7 @@
       "player_id": "8200",
       "name": "Kevin Austin",
       "position": "WR",
-      "team": "NO",
+      "team": null,
       "status": "Active",
       "injury_status": null,
       "search_rank": 999
