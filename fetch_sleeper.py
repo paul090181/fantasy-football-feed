@@ -115,4 +115,20 @@ with open("sleeper_snapshot.json", "w", encoding="utf-8") as f:
 print(
     f"Done: {len(readable_rosters)} rosters and "
     f"{len(free_agents)} free agents saved."
-)
+)# Create a smaller daily file for ChatGPT analysis
+daily_feed = {
+    "generated_at_utc": snapshot["generated_at_utc"],
+    "league_id": LEAGUE_ID,
+    "league_name": league.get("name"),
+    "settings": {
+        "num_teams": league.get("settings", {}).get("num_teams"),
+        "waiver_budget": league.get("settings", {}).get("waiver_budget"),
+    },
+    "rosters": readable_rosters,
+    "free_agents": free_agents[:300],
+}
+
+with open("sleeper_daily.json", "w", encoding="utf-8") as f:
+    json.dump(daily_feed, f, separators=(",", ":"))
+
+print("Compact daily feed saved to sleeper_daily.json")
