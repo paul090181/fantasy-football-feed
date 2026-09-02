@@ -21,6 +21,61 @@ league = get_json(f"{BASE}/league/{LEAGUE_ID}")
 users = get_json(f"{BASE}/league/{LEAGUE_ID}/users")
 rosters = get_json(f"{BASE}/league/{LEAGUE_ID}/rosters")
 players = get_json(f"{BASE}/players/nfl")
+nfl_state = get_json(f"{BASE}/state/nfl")
+
+# Sleeper exposes current-week projections through the same public service,
+# although this endpoint is not part of the formally documented v1 API.
+# Keep the feed working even if projections are temporarily unavailable.
+projection_week = nfl_state.get("week")
+projection_season = nfl_state.get("season")
+projection_season_type = nfl_state.get("season_type", "regular")
+projection_source = None
+projections_by_player = {}
+
+try:
+    projection_rows = get_json(
+        f"https://api.sleeper.app/projections/nfl/"
+        f"{projection_season}/{projection_week}"
+        f"?season_type={projection_season_type}"
+    )
+    projections_by_player = {
+        str(row.get("player_id")): row
+        for row in projection_rows
+        if row.get("player_id") is not None
+    }
+    projection_source = "Sleeper projections endpoint"
+except Exception as exc:
+    print(f"Warning: projections unavailable: {exc}")
+
+scoring_settings = league.get("scoring_settings", {})
+roster_positions = league.get("roster_positions", [])
+
+
+def projection_for(player_id):
+    row = projections_by_player.get(str(player_id))
+    if not row:
+        return None
+
+    stats = row.get("stats") or {}
+    projected_points = sum(
+        float(stats.get(stat_name, 0) or 0) * float(point_value or 0)
+        for stat_name, point_value in scoring_settings.items()
+        if stat_name in stats
+    )
+
+    return {
+        "week": row.get("week"),
+        "season": row.get("season"),
+        "season_type": row.get("season_type"),
+        "opponent": row.get("opponent"),
+        "game_date": row.get("date"),
+        "projected_points": round(projected_points, 2),
+        "pts_ppr": stats.get("pts_ppr"),
+        "pts_half_ppr": stats.get("pts_half_ppr"),
+        "pts_std": stats.get("pts_std"),
+        "updated_at": row.get("updated_at"),
+        "company": row.get("company"),
+    }
 
 # Convert Sleeper user IDs into manager names
 user_names = {}
@@ -39,6 +94,12 @@ rostered_player_ids = set()
 for roster in rosters:
     player_ids = roster.get("players") or []
     rostered_player_ids.update(player_ids)
+    starter_ids = roster.get("starters") or []
+    starter_slots = {
+        str(player_id): roster_positions[index]
+        for index, player_id in enumerate(starter_ids)
+        if index < len(roster_positions) and player_id not in {None, "0"}
+    }
 
     roster_players = []
 
@@ -52,6 +113,9 @@ for roster in rosters:
             "team": player.get("team"),
             "status": player.get("status"),
             "injury_status": player.get("injury_status"),
+            "is_starter": str(player_id) in starter_slots,
+            "starter_slot": starter_slots.get(str(player_id)),
+            "projection": projection_for(player_id),
         })
 
     readable_rosters.append({
@@ -62,6 +126,20 @@ for roster in rosters:
             roster.get("owner_id")
         ),
         "settings": roster.get("settings", {}),
+        "starter_ids": starter_ids,
+        "starter_slots": [
+            {
+                "slot": roster_positions[index]
+                if index < len(roster_positions)
+                else None,
+                "player_id": player_id,
+                "player_name": players.get(str(player_id), {}).get(
+                    "full_name",
+                    player_id,
+                ),
+            }
+            for index, player_id in enumerate(starter_ids)
+        ],
         "players": roster_players,
     })
 
@@ -90,6 +168,7 @@ for player_id, player in players.items():
         "status": player.get("status"),
         "injury_status": player.get("injury_status"),
         "search_rank": player.get("search_rank"),
+        "projection": projection_for(player_id),
     })
 
 # Put the more fantasy-relevant players toward the top.
@@ -104,6 +183,15 @@ snapshot = {
     "generated_at_utc": datetime.now(timezone.utc).isoformat(),
     "league_id": LEAGUE_ID,
     "league": league,
+    "nfl_state": nfl_state,
+    "projection_metadata": {
+        "available": bool(projections_by_player),
+        "source": projection_source,
+        "season": projection_season,
+        "season_type": projection_season_type,
+        "week": projection_week,
+        "scoring": "Calculated from league scoring_settings",
+    },
     "managers": users,
     "rosters": readable_rosters,
     "free_agents": free_agents,
@@ -123,7 +211,17 @@ daily_feed = {
     "settings": {
         "num_teams": league.get("settings", {}).get("num_teams"),
         "waiver_budget": league.get("settings", {}).get("waiver_budget"),
+        "waiver_day_of_week": league.get("settings", {}).get(
+            "waiver_day_of_week"
+        ),
+        "daily_waivers_hour": league.get("settings", {}).get(
+            "daily_waivers_hour"
+        ),
+        "roster_positions": roster_positions,
+        "scoring_settings": scoring_settings,
     },
+    "nfl_state": nfl_state,
+    "projection_metadata": snapshot["projection_metadata"],
     "rosters": readable_rosters,
     "free_agents": free_agents[:300],
 }
