@@ -132,3 +132,68 @@ with open("sleeper_daily.json", "w", encoding="utf-8") as f:
     json.dump(daily_feed, f, separators=(",", ":"))
 
 print("Compact daily feed saved to sleeper_daily.json")
+
+# Build a simple HTML page that ChatGPT can read easily
+html = []
+
+html.append("<!DOCTYPE html>")
+html.append("<html>")
+html.append("<head>")
+html.append("<meta charset='utf-8'>")
+html.append("<title>Fantasy Football Feed</title>")
+html.append("</head>")
+html.append("<body>")
+
+html.append("<h1>Fantasy Football Feed</h1>")
+html.append(f"<p>Last updated: {snapshot['generated_at_utc']}</p>")
+
+html.append("<h2>Sleeper League</h2>")
+html.append(f"<p><strong>League:</strong> {league.get('name')}</p>")
+html.append(f"<p><strong>Teams:</strong> {league.get('settings', {}).get('num_teams')}</p>")
+
+html.append("<h2>Rosters</h2>")
+
+for roster in readable_rosters:
+    html.append(f"<h3>{roster['manager']}</h3>")
+    html.append("<ul>")
+
+    for player in roster["players"]:
+        injury = player.get("injury_status")
+        injury_text = f" - {injury}" if injury else ""
+
+        html.append(
+            f"<li>{player['name']} - "
+            f"{player.get('position')} - "
+            f"{player.get('team')}"
+            f"{injury_text}</li>"
+        )
+
+    html.append("</ul>")
+
+html.append("<h2>Top Available Players</h2>")
+html.append("<ul>")
+
+for player in free_agents[:100]:
+    injury = player.get("injury_status")
+    injury_text = f" - {injury}" if injury else ""
+
+    html.append(
+        f"<li>{player['name']} - "
+        f"{player.get('position')} - "
+        f"{player.get('team')}"
+        f"{injury_text}</li>"
+    )
+
+html.append("</ul>")
+
+html.append(
+    "<p><a href='sleeper_daily.json'>Raw Sleeper Daily Data</a></p>"
+)
+
+html.append("</body>")
+html.append("</html>")
+
+with open("index.html", "w", encoding="utf-8") as f:
+    f.write("\n".join(html))
+
+print("Readable HTML feed saved to index.html")
