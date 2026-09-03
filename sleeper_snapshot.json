@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-03T01:06:04.034732+00:00",
+  "generated_at_utc": "2026-09-03T05:44:46.180446+00:00",
   "league_id": "1385955289206910976",
   "league": {
     "name": "ECMC Dawgpound ",
@@ -62,6 +62,10 @@
     },
     "avatar": "7875fdee403042a028f51ade493cb27c",
     "company_id": null,
+    "shard": 509,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "qb_hit": 0.0,
@@ -197,10 +201,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 509,
-    "sport": "nfl",
     "last_message_id": "1400890463665291264",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -215,6 +215,8 @@
     "league_id": "1385955289206910976",
     "previous_league_id": "1252357606245142528",
     "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -235,8 +237,6 @@
       "BN",
       "BN"
     ],
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -555,7 +555,7 @@
             "pts_ppr": 10.93,
             "pts_half_ppr": 9.92,
             "pts_std": 8.91,
-            "updated_at": 1788396639474,
+            "updated_at": 1788413441309,
             "company": "rotowire"
           }
         },
@@ -578,7 +578,7 @@
             "pts_ppr": 10.68,
             "pts_half_ppr": 9.02,
             "pts_std": 7.37,
-            "updated_at": 1788396639569,
+            "updated_at": 1788413441393,
             "company": "rotowire"
           }
         },
@@ -601,7 +601,7 @@
             "pts_ppr": 4.32,
             "pts_half_ppr": 3.65,
             "pts_std": 2.98,
-            "updated_at": 1788396639315,
+            "updated_at": 1788413441195,
             "company": "rotowire"
           }
         },
@@ -624,7 +624,7 @@
             "pts_ppr": 7.91,
             "pts_half_ppr": 7.91,
             "pts_std": 7.91,
-            "updated_at": 1788396639191,
+            "updated_at": 1788413441073,
             "company": "rotowire"
           }
         },
@@ -647,7 +647,7 @@
             "pts_ppr": 11.0,
             "pts_half_ppr": 8.75,
             "pts_std": 6.5,
-            "updated_at": 1788396639727,
+            "updated_at": 1788413441525,
             "company": "rotowire"
           }
         },
@@ -670,7 +670,7 @@
             "pts_ppr": 10.88,
             "pts_half_ppr": 8.89,
             "pts_std": 6.89,
-            "updated_at": 1788396639183,
+            "updated_at": 1788413441063,
             "company": "rotowire"
           }
         },
@@ -693,7 +693,7 @@
             "pts_ppr": 10.13,
             "pts_half_ppr": 8.47,
             "pts_std": 6.81,
-            "updated_at": 1788396639248,
+            "updated_at": 1788413441124,
             "company": "rotowire"
           }
         },
@@ -716,7 +716,7 @@
             "pts_ppr": 14.45,
             "pts_half_ppr": 13.41,
             "pts_std": 12.38,
-            "updated_at": 1788396639374,
+            "updated_at": 1788413441239,
             "company": "rotowire"
           }
         },
@@ -739,7 +739,7 @@
             "pts_ppr": 15.64,
             "pts_half_ppr": 13.32,
             "pts_std": 10.99,
-            "updated_at": 1788396639150,
+            "updated_at": 1788413441025,
             "company": "rotowire"
           }
         },
@@ -762,7 +762,7 @@
             "pts_ppr": 19.73,
             "pts_half_ppr": 19.73,
             "pts_std": 19.73,
-            "updated_at": 1788396639471,
+            "updated_at": 1788413441308,
             "company": "rotowire"
           }
         },
@@ -785,7 +785,7 @@
             "pts_ppr": 8.07,
             "pts_half_ppr": 6.75,
             "pts_std": 5.44,
-            "updated_at": 1788396639563,
+            "updated_at": 1788413441381,
             "company": "rotowire"
           }
         },
@@ -808,7 +808,7 @@
             "pts_ppr": 20.1,
             "pts_half_ppr": 20.1,
             "pts_std": 20.1,
-            "updated_at": 1788396639407,
+            "updated_at": 1788413441249,
             "company": "rotowire"
           }
         },
@@ -831,7 +831,7 @@
             "pts_ppr": 19.74,
             "pts_half_ppr": 16.42,
             "pts_std": 13.11,
-            "updated_at": 1788396639154,
+            "updated_at": 1788413441028,
             "company": "rotowire"
           }
         },
@@ -854,7 +854,7 @@
             "pts_ppr": 15.15,
             "pts_half_ppr": 12.72,
             "pts_std": 10.3,
-            "updated_at": 1788396639618,
+            "updated_at": 1788413441433,
             "company": "rotowire"
           }
         },
@@ -877,7 +877,7 @@
             "pts_ppr": 15.85,
             "pts_half_ppr": 14.37,
             "pts_std": 12.89,
-            "updated_at": 1788396639709,
+            "updated_at": 1788413441510,
             "company": "rotowire"
           }
         },
@@ -900,7 +900,7 @@
             "pts_ppr": 13.67,
             "pts_half_ppr": 11.71,
             "pts_std": 9.75,
-            "updated_at": 1788396639495,
+            "updated_at": 1788413441325,
             "company": "rotowire"
           }
         },
@@ -923,7 +923,7 @@
             "pts_ppr": 9.1,
             "pts_half_ppr": 8.6,
             "pts_std": 8.1,
-            "updated_at": 1788396639553,
+            "updated_at": 1788413441372,
             "company": "rotowire"
           }
         },
@@ -946,7 +946,7 @@
             "pts_ppr": 8.47,
             "pts_half_ppr": 8.47,
             "pts_std": 8.47,
-            "updated_at": 1788396639403,
+            "updated_at": 1788413441247,
             "company": "rotowire"
           }
         }
@@ -1056,7 +1056,7 @@
             "pts_ppr": 11.33,
             "pts_half_ppr": 9.36,
             "pts_std": 7.38,
-            "updated_at": 1788396639577,
+            "updated_at": 1788413441400,
             "company": "rotowire"
           }
         },
@@ -1079,7 +1079,7 @@
             "pts_ppr": 20.83,
             "pts_half_ppr": 20.83,
             "pts_std": 20.83,
-            "updated_at": 1788396639540,
+            "updated_at": 1788413441358,
             "company": "rotowire"
           }
         },
@@ -1102,7 +1102,7 @@
             "pts_ppr": 3.37,
             "pts_half_ppr": 3.11,
             "pts_std": 2.84,
-            "updated_at": 1788396639334,
+            "updated_at": 1788413441197,
             "company": "rotowire"
           }
         },
@@ -1125,7 +1125,7 @@
             "pts_ppr": 9.61,
             "pts_half_ppr": 8.57,
             "pts_std": 7.54,
-            "updated_at": 1788396639440,
+            "updated_at": 1788413441304,
             "company": "rotowire"
           }
         },
@@ -1148,7 +1148,7 @@
             "pts_ppr": 13.78,
             "pts_half_ppr": 11.27,
             "pts_std": 8.76,
-            "updated_at": 1788396639709,
+            "updated_at": 1788413441495,
             "company": "rotowire"
           }
         },
@@ -1171,7 +1171,7 @@
             "pts_ppr": 13.31,
             "pts_half_ppr": 10.98,
             "pts_std": 8.65,
-            "updated_at": 1788396639658,
+            "updated_at": 1788413441464,
             "company": "rotowire"
           }
         },
@@ -1194,7 +1194,7 @@
             "pts_ppr": 7.51,
             "pts_half_ppr": 7.51,
             "pts_std": 7.51,
-            "updated_at": 1788396639443,
+            "updated_at": 1788413441280,
             "company": "rotowire"
           }
         },
@@ -1217,7 +1217,7 @@
             "pts_ppr": 11.48,
             "pts_half_ppr": 9.24,
             "pts_std": 7.01,
-            "updated_at": 1788396639348,
+            "updated_at": 1788413441211,
             "company": "rotowire"
           }
         },
@@ -1240,7 +1240,7 @@
             "pts_ppr": 3.9,
             "pts_half_ppr": 3.3,
             "pts_std": 2.69,
-            "updated_at": 1788396639339,
+            "updated_at": 1788413441204,
             "company": "rotowire"
           }
         },
@@ -1263,7 +1263,7 @@
             "pts_ppr": 9.47,
             "pts_half_ppr": 7.91,
             "pts_std": 6.35,
-            "updated_at": 1788396639337,
+            "updated_at": 1788413441199,
             "company": "rotowire"
           }
         },
@@ -1286,7 +1286,7 @@
             "pts_ppr": 3.85,
             "pts_half_ppr": 3.46,
             "pts_std": 3.07,
-            "updated_at": 1788396639707,
+            "updated_at": 1788413441507,
             "company": "rotowire"
           }
         },
@@ -1309,7 +1309,7 @@
             "pts_ppr": 12.28,
             "pts_half_ppr": 10.35,
             "pts_std": 8.42,
-            "updated_at": 1788396639161,
+            "updated_at": 1788413441028,
             "company": "rotowire"
           }
         },
@@ -1332,7 +1332,7 @@
             "pts_ppr": 15.68,
             "pts_half_ppr": 15.11,
             "pts_std": 14.55,
-            "updated_at": 1788396639140,
+            "updated_at": 1788413441016,
             "company": "rotowire"
           }
         },
@@ -1355,7 +1355,7 @@
             "pts_ppr": 8.42,
             "pts_half_ppr": 6.55,
             "pts_std": 4.69,
-            "updated_at": 1788396639571,
+            "updated_at": 1788413441388,
             "company": "rotowire"
           }
         },
@@ -1378,7 +1378,7 @@
             "pts_ppr": 19.42,
             "pts_half_ppr": 19.42,
             "pts_std": 19.42,
-            "updated_at": 1788396639547,
+            "updated_at": 1788413441368,
             "company": "rotowire"
           }
         },
@@ -1401,7 +1401,7 @@
             "pts_ppr": 8.3,
             "pts_half_ppr": 6.99,
             "pts_std": 5.67,
-            "updated_at": 1788396639382,
+            "updated_at": 1788413441253,
             "company": "rotowire"
           }
         },
@@ -1424,7 +1424,7 @@
             "pts_ppr": 21.53,
             "pts_half_ppr": 19.4,
             "pts_std": 17.27,
-            "updated_at": 1788396639428,
+            "updated_at": 1788413441274,
             "company": "rotowire"
           }
         },
@@ -1447,7 +1447,7 @@
             "pts_ppr": 7.63,
             "pts_half_ppr": 7.63,
             "pts_std": 7.63,
-            "updated_at": 1788396639134,
+            "updated_at": 1788413441012,
             "company": "rotowire"
           }
         }
@@ -1557,7 +1557,7 @@
             "pts_ppr": 20.33,
             "pts_half_ppr": 20.33,
             "pts_std": 20.33,
-            "updated_at": 1788396639622,
+            "updated_at": 1788413441436,
             "company": "rotowire"
           }
         },
@@ -1580,7 +1580,7 @@
             "pts_ppr": 8.46,
             "pts_half_ppr": 8.07,
             "pts_std": 7.68,
-            "updated_at": 1788396639145,
+            "updated_at": 1788413441016,
             "company": "rotowire"
           }
         },
@@ -1603,7 +1603,7 @@
             "pts_ppr": 16.03,
             "pts_half_ppr": 12.73,
             "pts_std": 9.44,
-            "updated_at": 1788396639612,
+            "updated_at": 1788413441426,
             "company": "rotowire"
           }
         },
@@ -1626,7 +1626,7 @@
             "pts_ppr": 12.08,
             "pts_half_ppr": 9.93,
             "pts_std": 7.77,
-            "updated_at": 1788396639455,
+            "updated_at": 1788413441316,
             "company": "rotowire"
           }
         },
@@ -1649,7 +1649,7 @@
             "pts_ppr": 7.54,
             "pts_half_ppr": 7.54,
             "pts_std": 7.54,
-            "updated_at": 1788396639578,
+            "updated_at": 1788413441391,
             "company": "rotowire"
           }
         },
@@ -1672,7 +1672,7 @@
             "pts_ppr": 3.69,
             "pts_half_ppr": 3.02,
             "pts_std": 2.35,
-            "updated_at": 1788396639187,
+            "updated_at": 1788413441045,
             "company": "rotowire"
           }
         },
@@ -1695,7 +1695,7 @@
             "pts_ppr": 11.14,
             "pts_half_ppr": 10.24,
             "pts_std": 9.34,
-            "updated_at": 1788396639417,
+            "updated_at": 1788413441258,
             "company": "rotowire"
           }
         },
@@ -1718,7 +1718,7 @@
             "pts_ppr": 13.49,
             "pts_half_ppr": 11.14,
             "pts_std": 8.8,
-            "updated_at": 1788396639532,
+            "updated_at": 1788413441387,
             "company": "rotowire"
           }
         },
@@ -1741,7 +1741,7 @@
             "pts_ppr": 4.65,
             "pts_half_ppr": 4.2,
             "pts_std": 3.75,
-            "updated_at": 1788396639594,
+            "updated_at": 1788413441413,
             "company": "rotowire"
           }
         },
@@ -1787,7 +1787,7 @@
             "pts_ppr": 13.44,
             "pts_half_ppr": 12.33,
             "pts_std": 11.21,
-            "updated_at": 1788396639519,
+            "updated_at": 1788413441376,
             "company": "rotowire"
           }
         },
@@ -1810,7 +1810,7 @@
             "pts_ppr": 19.8,
             "pts_half_ppr": 16.27,
             "pts_std": 12.75,
-            "updated_at": 1788396639329,
+            "updated_at": 1788413441185,
             "company": "rotowire"
           }
         },
@@ -1833,7 +1833,7 @@
             "pts_ppr": 9.47,
             "pts_half_ppr": 8.12,
             "pts_std": 6.76,
-            "updated_at": 1788396639230,
+            "updated_at": 1788413441106,
             "company": "rotowire"
           }
         },
@@ -1856,7 +1856,7 @@
             "pts_ppr": 15.48,
             "pts_half_ppr": 14.22,
             "pts_std": 12.96,
-            "updated_at": 1788396639608,
+            "updated_at": 1788413441424,
             "company": "rotowire"
           }
         },
@@ -1879,7 +1879,7 @@
             "pts_ppr": 10.57,
             "pts_half_ppr": 8.71,
             "pts_std": 6.85,
-            "updated_at": 1788396639156,
+            "updated_at": 1788413441029,
             "company": "rotowire"
           }
         },
@@ -1902,7 +1902,7 @@
             "pts_ppr": 9.85,
             "pts_half_ppr": 7.89,
             "pts_std": 5.92,
-            "updated_at": 1788396639422,
+            "updated_at": 1788413441273,
             "company": "rotowire"
           }
         },
@@ -1925,7 +1925,7 @@
             "pts_ppr": 18.79,
             "pts_half_ppr": 18.79,
             "pts_std": 18.79,
-            "updated_at": 1788396639658,
+            "updated_at": 1788413441464,
             "company": "rotowire"
           }
         },
@@ -1948,7 +1948,7 @@
             "pts_ppr": 7.24,
             "pts_half_ppr": 7.24,
             "pts_std": 7.24,
-            "updated_at": 1788396639544,
+            "updated_at": 1788413441364,
             "company": "rotowire"
           }
         }
@@ -2058,7 +2058,7 @@
             "pts_ppr": 12.07,
             "pts_half_ppr": 9.78,
             "pts_std": 7.49,
-            "updated_at": 1788396639334,
+            "updated_at": 1788413441189,
             "company": "rotowire"
           }
         },
@@ -2081,7 +2081,7 @@
             "pts_ppr": 7.91,
             "pts_half_ppr": 7.91,
             "pts_std": 7.91,
-            "updated_at": 1788396639630,
+            "updated_at": 1788413441443,
             "company": "rotowire"
           }
         },
@@ -2104,7 +2104,7 @@
             "pts_ppr": 11.8,
             "pts_half_ppr": 9.8,
             "pts_std": 7.8,
-            "updated_at": 1788396639424,
+            "updated_at": 1788413441269,
             "company": "rotowire"
           }
         },
@@ -2150,7 +2150,7 @@
             "pts_ppr": 1.93,
             "pts_half_ppr": 1.77,
             "pts_std": 1.62,
-            "updated_at": 1788396639238,
+            "updated_at": 1788413441120,
             "company": "rotowire"
           }
         },
@@ -2173,7 +2173,7 @@
             "pts_ppr": 8.0,
             "pts_half_ppr": 6.53,
             "pts_std": 5.05,
-            "updated_at": 1788396639464,
+            "updated_at": 1788413441331,
             "company": "rotowire"
           }
         },
@@ -2196,7 +2196,7 @@
             "pts_ppr": 20.34,
             "pts_half_ppr": 20.34,
             "pts_std": 20.34,
-            "updated_at": 1788396639316,
+            "updated_at": 1788413441174,
             "company": "rotowire"
           }
         },
@@ -2219,7 +2219,7 @@
             "pts_ppr": 6.54,
             "pts_half_ppr": 5.37,
             "pts_std": 4.2,
-            "updated_at": 1788396639332,
+            "updated_at": 1788413441195,
             "company": "rotowire"
           }
         },
@@ -2242,7 +2242,7 @@
             "pts_ppr": 20.05,
             "pts_half_ppr": 20.05,
             "pts_std": 20.05,
-            "updated_at": 1788396639634,
+            "updated_at": 1788413441444,
             "company": "rotowire"
           }
         },
@@ -2265,7 +2265,7 @@
             "pts_ppr": 8.01,
             "pts_half_ppr": 7.48,
             "pts_std": 6.95,
-            "updated_at": 1788396639630,
+            "updated_at": 1788413441442,
             "company": "rotowire"
           }
         },
@@ -2288,7 +2288,7 @@
             "pts_ppr": 12.37,
             "pts_half_ppr": 11.05,
             "pts_std": 9.73,
-            "updated_at": 1788396639494,
+            "updated_at": 1788413441328,
             "company": "rotowire"
           }
         },
@@ -2311,7 +2311,7 @@
             "pts_ppr": 1.72,
             "pts_half_ppr": 1.51,
             "pts_std": 1.3,
-            "updated_at": 1788396639692,
+            "updated_at": 1788413441482,
             "company": "rotowire"
           }
         },
@@ -2334,7 +2334,7 @@
             "pts_ppr": 17.38,
             "pts_half_ppr": 14.52,
             "pts_std": 11.67,
-            "updated_at": 1788396639384,
+            "updated_at": 1788413441246,
             "company": "rotowire"
           }
         },
@@ -2357,7 +2357,7 @@
             "pts_ppr": 9.62,
             "pts_half_ppr": 7.64,
             "pts_std": 5.67,
-            "updated_at": 1788396639714,
+            "updated_at": 1788413441506,
             "company": "rotowire"
           }
         },
@@ -2380,7 +2380,7 @@
             "pts_ppr": 14.26,
             "pts_half_ppr": 13.25,
             "pts_std": 12.25,
-            "updated_at": 1788396639142,
+            "updated_at": 1788413441018,
             "company": "rotowire"
           }
         },
@@ -2403,7 +2403,7 @@
             "pts_ppr": 4.75,
             "pts_half_ppr": 4.38,
             "pts_std": 4.0,
-            "updated_at": 1788396639431,
+            "updated_at": 1788413441276,
             "company": "rotowire"
           }
         },
@@ -2426,7 +2426,7 @@
             "pts_ppr": 8.26,
             "pts_half_ppr": 6.93,
             "pts_std": 5.59,
-            "updated_at": 1788396639602,
+            "updated_at": 1788413441418,
             "company": "rotowire"
           }
         },
@@ -2449,7 +2449,7 @@
             "pts_ppr": 9.07,
             "pts_half_ppr": 7.64,
             "pts_std": 6.2,
-            "updated_at": 1788396639230,
+            "updated_at": 1788413441115,
             "company": "rotowire"
           }
         },
@@ -2472,7 +2472,7 @@
             "pts_ppr": 7.12,
             "pts_half_ppr": 7.12,
             "pts_std": 7.12,
-            "updated_at": 1788396639369,
+            "updated_at": 1788413441235,
             "company": "rotowire"
           }
         }
@@ -2582,7 +2582,7 @@
             "pts_ppr": 8.09,
             "pts_half_ppr": 7.83,
             "pts_std": 7.57,
-            "updated_at": 1788396639415,
+            "updated_at": 1788413441256,
             "company": "rotowire"
           }
         },
@@ -2605,7 +2605,7 @@
             "pts_ppr": 10.48,
             "pts_half_ppr": 8.79,
             "pts_std": 7.1,
-            "updated_at": 1788396639428,
+            "updated_at": 1788413441268,
             "company": "rotowire"
           }
         },
@@ -2628,7 +2628,7 @@
             "pts_ppr": 5.52,
             "pts_half_ppr": 5.13,
             "pts_std": 4.73,
-            "updated_at": 1788396639683,
+            "updated_at": 1788413441484,
             "company": "rotowire"
           }
         },
@@ -2651,7 +2651,7 @@
             "pts_ppr": 6.72,
             "pts_half_ppr": 5.69,
             "pts_std": 4.67,
-            "updated_at": 1788396639321,
+            "updated_at": 1788413441188,
             "company": "rotowire"
           }
         },
@@ -2674,7 +2674,7 @@
             "pts_ppr": 13.81,
             "pts_half_ppr": 12.46,
             "pts_std": 11.11,
-            "updated_at": 1788396639689,
+            "updated_at": 1788413441488,
             "company": "rotowire"
           }
         },
@@ -2697,7 +2697,7 @@
             "pts_ppr": 7.93,
             "pts_half_ppr": 6.4,
             "pts_std": 4.88,
-            "updated_at": 1788396639247,
+            "updated_at": 1788413441115,
             "company": "rotowire"
           }
         },
@@ -2720,7 +2720,7 @@
             "pts_ppr": 7.0,
             "pts_half_ppr": 7.0,
             "pts_std": 7.0,
-            "updated_at": 1788396639518,
+            "updated_at": 1788413441349,
             "company": "rotowire"
           }
         },
@@ -2743,7 +2743,7 @@
             "pts_ppr": 12.77,
             "pts_half_ppr": 10.82,
             "pts_std": 8.86,
-            "updated_at": 1788396639242,
+            "updated_at": 1788413441134,
             "company": "rotowire"
           }
         },
@@ -2766,7 +2766,7 @@
             "pts_ppr": 22.64,
             "pts_half_ppr": 22.64,
             "pts_std": 22.64,
-            "updated_at": 1788396639137,
+            "updated_at": 1788413441014,
             "company": "rotowire"
           }
         },
@@ -2789,7 +2789,7 @@
             "pts_ppr": 10.43,
             "pts_half_ppr": 8.5,
             "pts_std": 6.57,
-            "updated_at": 1788396639424,
+            "updated_at": 1788413441266,
             "company": "rotowire"
           }
         },
@@ -2812,7 +2812,7 @@
             "pts_ppr": 9.7,
             "pts_half_ppr": 7.55,
             "pts_std": 5.4,
-            "updated_at": 1788396639628,
+            "updated_at": 1788413441441,
             "company": "rotowire"
           }
         },
@@ -2835,7 +2835,7 @@
             "pts_ppr": 15.83,
             "pts_half_ppr": 13.19,
             "pts_std": 10.56,
-            "updated_at": 1788396639436,
+            "updated_at": 1788413441280,
             "company": "rotowire"
           }
         },
@@ -2858,7 +2858,7 @@
             "pts_ppr": 16.21,
             "pts_half_ppr": 13.27,
             "pts_std": 10.33,
-            "updated_at": 1788396639399,
+            "updated_at": 1788413441249,
             "company": "rotowire"
           }
         },
@@ -2881,7 +2881,7 @@
             "pts_ppr": 13.22,
             "pts_half_ppr": 11.65,
             "pts_std": 10.08,
-            "updated_at": 1788396639491,
+            "updated_at": 1788413441326,
             "company": "rotowire"
           }
         },
@@ -2904,7 +2904,7 @@
             "pts_ppr": 8.22,
             "pts_half_ppr": 6.54,
             "pts_std": 4.86,
-            "updated_at": 1788396639438,
+            "updated_at": 1788413441276,
             "company": "rotowire"
           }
         },
@@ -2927,7 +2927,7 @@
             "pts_ppr": 20.48,
             "pts_half_ppr": 16.84,
             "pts_std": 13.2,
-            "updated_at": 1788396639158,
+            "updated_at": 1788413441034,
             "company": "rotowire"
           }
         },
@@ -2950,7 +2950,7 @@
             "pts_ppr": 7.37,
             "pts_half_ppr": 6.18,
             "pts_std": 4.99,
-            "updated_at": 1788396639403,
+            "updated_at": 1788413441260,
             "company": "rotowire"
           }
         },
@@ -2973,7 +2973,7 @@
             "pts_ppr": 7.85,
             "pts_half_ppr": 7.85,
             "pts_std": 7.85,
-            "updated_at": 1788396639213,
+            "updated_at": 1788413441094,
             "company": "rotowire"
           }
         }
@@ -3083,7 +3083,7 @@
             "pts_ppr": 9.54,
             "pts_half_ppr": 8.0,
             "pts_std": 6.46,
-            "updated_at": 1788396639599,
+            "updated_at": 1788413441417,
             "company": "rotowire"
           }
         },
@@ -3106,7 +3106,7 @@
             "pts_ppr": 12.74,
             "pts_half_ppr": 10.34,
             "pts_std": 7.95,
-            "updated_at": 1788396639257,
+            "updated_at": 1788413441123,
             "company": "rotowire"
           }
         },
@@ -3129,7 +3129,7 @@
             "pts_ppr": 9.09,
             "pts_half_ppr": 8.56,
             "pts_std": 8.03,
-            "updated_at": 1788396639219,
+            "updated_at": 1788413441097,
             "company": "rotowire"
           }
         },
@@ -3152,7 +3152,7 @@
             "pts_ppr": 10.99,
             "pts_half_ppr": 8.87,
             "pts_std": 6.76,
-            "updated_at": 1788396639245,
+            "updated_at": 1788413441116,
             "company": "rotowire"
           }
         },
@@ -3198,7 +3198,7 @@
             "pts_ppr": 10.09,
             "pts_half_ppr": 8.22,
             "pts_std": 6.35,
-            "updated_at": 1788396639255,
+            "updated_at": 1788413441138,
             "company": "rotowire"
           }
         },
@@ -3221,7 +3221,7 @@
             "pts_ppr": 16.84,
             "pts_half_ppr": 14.13,
             "pts_std": 11.42,
-            "updated_at": 1788396639160,
+            "updated_at": 1788413441034,
             "company": "rotowire"
           }
         },
@@ -3244,7 +3244,7 @@
             "pts_ppr": 22.4,
             "pts_half_ppr": 22.4,
             "pts_std": 22.4,
-            "updated_at": 1788396639136,
+            "updated_at": 1788413441014,
             "company": "rotowire"
           }
         },
@@ -3267,7 +3267,7 @@
             "pts_ppr": 7.58,
             "pts_half_ppr": 7.58,
             "pts_std": 7.58,
-            "updated_at": 1788396639170,
+            "updated_at": 1788413441044,
             "company": "rotowire"
           }
         },
@@ -3290,7 +3290,7 @@
             "pts_ppr": 9.97,
             "pts_half_ppr": 8.39,
             "pts_std": 6.82,
-            "updated_at": 1788396639548,
+            "updated_at": 1788413441365,
             "company": "rotowire"
           }
         },
@@ -3313,7 +3313,7 @@
             "pts_ppr": 21.23,
             "pts_half_ppr": 21.23,
             "pts_std": 21.23,
-            "updated_at": 1788396639228,
+            "updated_at": 1788413441111,
             "company": "rotowire"
           }
         },
@@ -3336,7 +3336,7 @@
             "pts_ppr": 4.56,
             "pts_half_ppr": 4.27,
             "pts_std": 3.98,
-            "updated_at": 1788396639610,
+            "updated_at": 1788413441426,
             "company": "rotowire"
           }
         },
@@ -3359,7 +3359,7 @@
             "pts_ppr": 22.51,
             "pts_half_ppr": 20.51,
             "pts_std": 18.51,
-            "updated_at": 1788396639319,
+            "updated_at": 1788413441176,
             "company": "rotowire"
           }
         },
@@ -3382,7 +3382,7 @@
             "pts_ppr": 16.72,
             "pts_half_ppr": 14.62,
             "pts_std": 12.51,
-            "updated_at": 1788396639145,
+            "updated_at": 1788413441021,
             "company": "rotowire"
           }
         },
@@ -3405,7 +3405,7 @@
             "pts_ppr": 11.93,
             "pts_half_ppr": 9.98,
             "pts_std": 8.02,
-            "updated_at": 1788396639430,
+            "updated_at": 1788413441270,
             "company": "rotowire"
           }
         },
@@ -3428,7 +3428,7 @@
             "pts_ppr": 12.53,
             "pts_half_ppr": 10.17,
             "pts_std": 7.8,
-            "updated_at": 1788396639242,
+            "updated_at": 1788413441112,
             "company": "rotowire"
           }
         },
@@ -3451,7 +3451,7 @@
             "pts_ppr": 6.59,
             "pts_half_ppr": 5.96,
             "pts_std": 5.34,
-            "updated_at": 1788396639636,
+            "updated_at": 1788413441446,
             "company": "rotowire"
           }
         },
@@ -3474,7 +3474,7 @@
             "pts_ppr": 7.01,
             "pts_half_ppr": 7.01,
             "pts_std": 7.01,
-            "updated_at": 1788396639133,
+            "updated_at": 1788413441011,
             "company": "rotowire"
           }
         },
@@ -3497,7 +3497,7 @@
             "pts_ppr": 7.97,
             "pts_half_ppr": 7.97,
             "pts_std": 7.97,
-            "updated_at": 1788396639485,
+            "updated_at": 1788413441322,
             "company": "rotowire"
           }
         }
@@ -3607,7 +3607,7 @@
             "pts_ppr": 9.41,
             "pts_half_ppr": 7.57,
             "pts_std": 5.73,
-            "updated_at": 1788396639320,
+            "updated_at": 1788413441198,
             "company": "rotowire"
           }
         },
@@ -3630,7 +3630,7 @@
             "pts_ppr": 11.52,
             "pts_half_ppr": 9.69,
             "pts_std": 7.86,
-            "updated_at": 1788396639527,
+            "updated_at": 1788413441383,
             "company": "rotowire"
           }
         },
@@ -3653,7 +3653,7 @@
             "pts_ppr": 8.64,
             "pts_half_ppr": 7.01,
             "pts_std": 5.37,
-            "updated_at": 1788396639404,
+            "updated_at": 1788413441253,
             "company": "rotowire"
           }
         },
@@ -3676,7 +3676,7 @@
             "pts_ppr": 7.41,
             "pts_half_ppr": 6.85,
             "pts_std": 6.29,
-            "updated_at": 1788396639516,
+            "updated_at": 1788413441372,
             "company": "rotowire"
           }
         },
@@ -3699,7 +3699,7 @@
             "pts_ppr": 13.19,
             "pts_half_ppr": 11.61,
             "pts_std": 10.03,
-            "updated_at": 1788396639558,
+            "updated_at": 1788413441383,
             "company": "rotowire"
           }
         },
@@ -3722,7 +3722,7 @@
             "pts_ppr": 2.32,
             "pts_half_ppr": 2.07,
             "pts_std": 1.82,
-            "updated_at": 1788396639409,
+            "updated_at": 1788413441259,
             "company": "rotowire"
           }
         },
@@ -3745,7 +3745,7 @@
             "pts_ppr": 21.11,
             "pts_half_ppr": 21.11,
             "pts_std": 21.11,
-            "updated_at": 1788396639605,
+            "updated_at": 1788413441423,
             "company": "rotowire"
           }
         },
@@ -3768,7 +3768,7 @@
             "pts_ppr": 3.33,
             "pts_half_ppr": 2.92,
             "pts_std": 2.5,
-            "updated_at": 1788396639385,
+            "updated_at": 1788413441238,
             "company": "rotowire"
           }
         },
@@ -3791,7 +3791,7 @@
             "pts_ppr": 17.13,
             "pts_half_ppr": 14.11,
             "pts_std": 11.08,
-            "updated_at": 1788396639616,
+            "updated_at": 1788413441431,
             "company": "rotowire"
           }
         },
@@ -3814,7 +3814,7 @@
             "pts_ppr": 16.77,
             "pts_half_ppr": 13.84,
             "pts_std": 10.91,
-            "updated_at": 1788396639561,
+            "updated_at": 1788413441378,
             "company": "rotowire"
           }
         },
@@ -3837,7 +3837,7 @@
             "pts_ppr": 10.75,
             "pts_half_ppr": 8.67,
             "pts_std": 6.59,
-            "updated_at": 1788396639501,
+            "updated_at": 1788413441335,
             "company": "rotowire"
           }
         },
@@ -3860,7 +3860,7 @@
             "pts_ppr": 21.92,
             "pts_half_ppr": 21.92,
             "pts_std": 21.92,
-            "updated_at": 1788396639475,
+            "updated_at": 1788413441309,
             "company": "rotowire"
           }
         },
@@ -3883,7 +3883,7 @@
             "pts_ppr": 8.47,
             "pts_half_ppr": 7.88,
             "pts_std": 7.29,
-            "updated_at": 1788396639562,
+            "updated_at": 1788413441387,
             "company": "rotowire"
           }
         },
@@ -3906,7 +3906,7 @@
             "pts_ppr": 13.77,
             "pts_half_ppr": 12.59,
             "pts_std": 11.4,
-            "updated_at": 1788396639329,
+            "updated_at": 1788413441202,
             "company": "rotowire"
           }
         },
@@ -3929,7 +3929,7 @@
             "pts_ppr": 8.04,
             "pts_half_ppr": 8.04,
             "pts_std": 8.04,
-            "updated_at": 1788396639668,
+            "updated_at": 1788413441473,
             "company": "rotowire"
           }
         },
@@ -3952,7 +3952,7 @@
             "pts_ppr": 7.85,
             "pts_half_ppr": 6.53,
             "pts_std": 5.21,
-            "updated_at": 1788396639491,
+            "updated_at": 1788413441325,
             "company": "rotowire"
           }
         },
@@ -3975,7 +3975,7 @@
             "pts_ppr": 1.73,
             "pts_half_ppr": 1.56,
             "pts_std": 1.38,
-            "updated_at": 1788396639393,
+            "updated_at": 1788413441245,
             "company": "rotowire"
           }
         },
@@ -3998,7 +3998,7 @@
             "pts_ppr": 7.4,
             "pts_half_ppr": 7.4,
             "pts_std": 7.4,
-            "updated_at": 1788396639619,
+            "updated_at": 1788413441433,
             "company": "rotowire"
           }
         }
@@ -4108,7 +4108,7 @@
             "pts_ppr": 21.45,
             "pts_half_ppr": 21.45,
             "pts_std": 21.45,
-            "updated_at": 1788396639511,
+            "updated_at": 1788413441369,
             "company": "rotowire"
           }
         },
@@ -4131,7 +4131,7 @@
             "pts_ppr": 8.41,
             "pts_half_ppr": 6.72,
             "pts_std": 5.03,
-            "updated_at": 1788396639680,
+            "updated_at": 1788413441483,
             "company": "rotowire"
           }
         },
@@ -4154,7 +4154,7 @@
             "pts_ppr": 15.57,
             "pts_half_ppr": 13.79,
             "pts_std": 12.01,
-            "updated_at": 1788396639641,
+            "updated_at": 1788413441450,
             "company": "rotowire"
           }
         },
@@ -4177,7 +4177,7 @@
             "pts_ppr": 12.24,
             "pts_half_ppr": 11.26,
             "pts_std": 10.29,
-            "updated_at": 1788396639326,
+            "updated_at": 1788413441193,
             "company": "rotowire"
           }
         },
@@ -4200,7 +4200,7 @@
             "pts_ppr": 11.67,
             "pts_half_ppr": 9.9,
             "pts_std": 8.13,
-            "updated_at": 1788396639254,
+            "updated_at": 1788413441122,
             "company": "rotowire"
           }
         },
@@ -4223,7 +4223,7 @@
             "pts_ppr": 10.05,
             "pts_half_ppr": 9.0,
             "pts_std": 7.96,
-            "updated_at": 1788396639140,
+            "updated_at": 1788413441016,
             "company": "rotowire"
           }
         },
@@ -4246,7 +4246,7 @@
             "pts_ppr": 4.03,
             "pts_half_ppr": 3.17,
             "pts_std": 2.32,
-            "updated_at": 1788396639359,
+            "updated_at": 1788413441222,
             "company": "rotowire"
           }
         },
@@ -4269,7 +4269,7 @@
             "pts_ppr": 6.77,
             "pts_half_ppr": 5.61,
             "pts_std": 4.44,
-            "updated_at": 1788396639345,
+            "updated_at": 1788413441209,
             "company": "rotowire"
           }
         },
@@ -4292,7 +4292,7 @@
             "pts_ppr": 6.9,
             "pts_half_ppr": 5.75,
             "pts_std": 4.6,
-            "updated_at": 1788396639250,
+            "updated_at": 1788413441127,
             "company": "rotowire"
           }
         },
@@ -4315,7 +4315,7 @@
             "pts_ppr": 7.7,
             "pts_half_ppr": 7.7,
             "pts_std": 7.7,
-            "updated_at": 1788396639402,
+            "updated_at": 1788413441268,
             "company": "rotowire"
           }
         },
@@ -4338,7 +4338,7 @@
             "pts_ppr": 19.31,
             "pts_half_ppr": 19.31,
             "pts_std": 19.31,
-            "updated_at": 1788396639136,
+            "updated_at": 1788413441014,
             "company": "rotowire"
           }
         },
@@ -4361,7 +4361,7 @@
             "pts_ppr": 9.35,
             "pts_half_ppr": 7.4,
             "pts_std": 5.45,
-            "updated_at": 1788396639394,
+            "updated_at": 1788413441256,
             "company": "rotowire"
           }
         },
@@ -4407,7 +4407,7 @@
             "pts_ppr": 18.5,
             "pts_half_ppr": 16.97,
             "pts_std": 15.45,
-            "updated_at": 1788396639234,
+            "updated_at": 1788413441105,
             "company": "rotowire"
           }
         },
@@ -4430,7 +4430,7 @@
             "pts_ppr": 10.43,
             "pts_half_ppr": 8.25,
             "pts_std": 6.06,
-            "updated_at": 1788396639409,
+            "updated_at": 1788413441257,
             "company": "rotowire"
           }
         },
@@ -4453,7 +4453,7 @@
             "pts_ppr": 11.29,
             "pts_half_ppr": 10.36,
             "pts_std": 9.43,
-            "updated_at": 1788396639145,
+            "updated_at": 1788413441020,
             "company": "rotowire"
           }
         },
@@ -4476,7 +4476,7 @@
             "pts_ppr": 4.41,
             "pts_half_ppr": 3.62,
             "pts_std": 2.84,
-            "updated_at": 1788396639644,
+            "updated_at": 1788413441451,
             "company": "rotowire"
           }
         },
@@ -4499,7 +4499,7 @@
             "pts_ppr": 8.0,
             "pts_half_ppr": 8.0,
             "pts_std": 8.0,
-            "updated_at": 1788396639134,
+            "updated_at": 1788413441011,
             "company": "rotowire"
           }
         }
@@ -4609,7 +4609,7 @@
             "pts_ppr": 14.49,
             "pts_half_ppr": 11.72,
             "pts_std": 8.96,
-            "updated_at": 1788396639720,
+            "updated_at": 1788413441520,
             "company": "rotowire"
           }
         },
@@ -4632,7 +4632,7 @@
             "pts_ppr": 21.35,
             "pts_half_ppr": 21.35,
             "pts_std": 21.35,
-            "updated_at": 1788396639136,
+            "updated_at": 1788413441014,
             "company": "rotowire"
           }
         },
@@ -4655,7 +4655,7 @@
             "pts_ppr": 9.91,
             "pts_half_ppr": 8.24,
             "pts_std": 6.57,
-            "updated_at": 1788396639482,
+            "updated_at": 1788413441315,
             "company": "rotowire"
           }
         },
@@ -4678,7 +4678,7 @@
             "pts_ppr": 13.8,
             "pts_half_ppr": 12.35,
             "pts_std": 10.9,
-            "updated_at": 1788396639591,
+            "updated_at": 1788413441412,
             "company": "rotowire"
           }
         },
@@ -4701,7 +4701,7 @@
             "pts_ppr": 6.8,
             "pts_half_ppr": 6.8,
             "pts_std": 6.8,
-            "updated_at": 1788396639169,
+            "updated_at": 1788413441046,
             "company": "rotowire"
           }
         },
@@ -4724,7 +4724,7 @@
             "pts_ppr": 3.7,
             "pts_half_ppr": 3.1,
             "pts_std": 2.51,
-            "updated_at": 1788396639148,
+            "updated_at": 1788413441023,
             "company": "rotowire"
           }
         },
@@ -4747,7 +4747,7 @@
             "pts_ppr": 5.38,
             "pts_half_ppr": 4.45,
             "pts_std": 3.52,
-            "updated_at": 1788396639676,
+            "updated_at": 1788413441479,
             "company": "rotowire"
           }
         },
@@ -4770,7 +4770,7 @@
             "pts_ppr": 3.12,
             "pts_half_ppr": 2.55,
             "pts_std": 1.99,
-            "updated_at": 1788396639551,
+            "updated_at": 1788413441372,
             "company": "rotowire"
           }
         },
@@ -4793,7 +4793,7 @@
             "pts_ppr": 2.6,
             "pts_half_ppr": 2.11,
             "pts_std": 1.63,
-            "updated_at": 1788396639438,
+            "updated_at": 1788413441282,
             "company": "rotowire"
           }
         },
@@ -4816,7 +4816,7 @@
             "pts_ppr": 1.65,
             "pts_half_ppr": 1.37,
             "pts_std": 1.08,
-            "updated_at": 1788396639725,
+            "updated_at": 1788413441523,
             "company": "rotowire"
           }
         },
@@ -4839,7 +4839,7 @@
             "pts_ppr": 11.41,
             "pts_half_ppr": 9.16,
             "pts_std": 6.92,
-            "updated_at": 1788396639558,
+            "updated_at": 1788413441379,
             "company": "rotowire"
           }
         },
@@ -4862,7 +4862,7 @@
             "pts_ppr": 21.03,
             "pts_half_ppr": 18.6,
             "pts_std": 16.16,
-            "updated_at": 1788396639235,
+            "updated_at": 1788413441117,
             "company": "rotowire"
           }
         },
@@ -4885,7 +4885,7 @@
             "pts_ppr": 14.76,
             "pts_half_ppr": 12.2,
             "pts_std": 9.65,
-            "updated_at": 1788396639647,
+            "updated_at": 1788413441452,
             "company": "rotowire"
           }
         },
@@ -4908,7 +4908,7 @@
             "pts_ppr": 10.26,
             "pts_half_ppr": 9.44,
             "pts_std": 8.62,
-            "updated_at": 1788396639443,
+            "updated_at": 1788413441307,
             "company": "rotowire"
           }
         },
@@ -4931,7 +4931,7 @@
             "pts_ppr": 10.86,
             "pts_half_ppr": 9.01,
             "pts_std": 7.16,
-            "updated_at": 1788396639503,
+            "updated_at": 1788413441332,
             "company": "rotowire"
           }
         },
@@ -4954,7 +4954,7 @@
             "pts_ppr": 11.24,
             "pts_half_ppr": 9.48,
             "pts_std": 7.72,
-            "updated_at": 1788396639566,
+            "updated_at": 1788413441383,
             "company": "rotowire"
           }
         },
@@ -4977,7 +4977,7 @@
             "pts_ppr": 18.45,
             "pts_half_ppr": 18.45,
             "pts_std": 18.45,
-            "updated_at": 1788396639372,
+            "updated_at": 1788413441237,
             "company": "rotowire"
           }
         },
@@ -5000,7 +5000,7 @@
             "pts_ppr": 7.8,
             "pts_half_ppr": 7.8,
             "pts_std": 7.8,
-            "updated_at": 1788396639473,
+            "updated_at": 1788413441307,
             "company": "rotowire"
           }
         }
@@ -5110,7 +5110,7 @@
             "pts_ppr": 13.13,
             "pts_half_ppr": 10.9,
             "pts_std": 8.68,
-            "updated_at": 1788396639492,
+            "updated_at": 1788413441323,
             "company": "rotowire"
           }
         },
@@ -5133,7 +5133,7 @@
             "pts_ppr": 8.09,
             "pts_half_ppr": 8.09,
             "pts_std": 8.09,
-            "updated_at": 1788396639339,
+            "updated_at": 1788413441192,
             "company": "rotowire"
           }
         },
@@ -5156,7 +5156,7 @@
             "pts_ppr": 12.13,
             "pts_half_ppr": 10.94,
             "pts_std": 9.76,
-            "updated_at": 1788396639233,
+            "updated_at": 1788413441107,
             "company": "rotowire"
           }
         },
@@ -5179,7 +5179,7 @@
             "pts_ppr": 7.35,
             "pts_half_ppr": 6.63,
             "pts_std": 5.92,
-            "updated_at": 1788396639377,
+            "updated_at": 1788413441241,
             "company": "rotowire"
           }
         },
@@ -5202,7 +5202,7 @@
             "pts_ppr": 10.27,
             "pts_half_ppr": 8.97,
             "pts_std": 7.66,
-            "updated_at": 1788396639633,
+            "updated_at": 1788413441444,
             "company": "rotowire"
           }
         },
@@ -5225,7 +5225,7 @@
             "pts_ppr": 6.78,
             "pts_half_ppr": 5.58,
             "pts_std": 4.38,
-            "updated_at": 1788396639695,
+            "updated_at": 1788413441497,
             "company": "rotowire"
           }
         },
@@ -5248,7 +5248,7 @@
             "pts_ppr": 9.41,
             "pts_half_ppr": 7.61,
             "pts_std": 5.81,
-            "updated_at": 1788396639163,
+            "updated_at": 1788413441041,
             "company": "rotowire"
           }
         },
@@ -5271,7 +5271,7 @@
             "pts_ppr": 19.81,
             "pts_half_ppr": 19.81,
             "pts_std": 19.81,
-            "updated_at": 1788396639216,
+            "updated_at": 1788413441095,
             "company": "rotowire"
           }
         },
@@ -5294,7 +5294,7 @@
             "pts_ppr": 23.26,
             "pts_half_ppr": 23.26,
             "pts_std": 23.26,
-            "updated_at": 1788396639297,
+            "updated_at": 1788413441178,
             "company": "rotowire"
           }
         },
@@ -5317,7 +5317,7 @@
             "pts_ppr": 10.05,
             "pts_half_ppr": 9.16,
             "pts_std": 8.27,
-            "updated_at": 1788396639406,
+            "updated_at": 1788413441256,
             "company": "rotowire"
           }
         },
@@ -5340,7 +5340,7 @@
             "pts_ppr": 10.87,
             "pts_half_ppr": 8.77,
             "pts_std": 6.66,
-            "updated_at": 1788396639449,
+            "updated_at": 1788413441291,
             "company": "rotowire"
           }
         },
@@ -5363,7 +5363,7 @@
             "pts_ppr": 15.58,
             "pts_half_ppr": 12.19,
             "pts_std": 8.8,
-            "updated_at": 1788396639579,
+            "updated_at": 1788413441402,
             "company": "rotowire"
           }
         },
@@ -5386,7 +5386,7 @@
             "pts_ppr": 9.14,
             "pts_half_ppr": 7.14,
             "pts_std": 5.14,
-            "updated_at": 1788396639575,
+            "updated_at": 1788413441386,
             "company": "rotowire"
           }
         },
@@ -5409,7 +5409,7 @@
             "pts_ppr": 19.69,
             "pts_half_ppr": 16.28,
             "pts_std": 12.86,
-            "updated_at": 1788396639232,
+            "updated_at": 1788413441117,
             "company": "rotowire"
           }
         },
@@ -5455,7 +5455,7 @@
             "pts_ppr": 11.08,
             "pts_half_ppr": 9.37,
             "pts_std": 7.66,
-            "updated_at": 1788396639649,
+            "updated_at": 1788413441456,
             "company": "rotowire"
           }
         },
@@ -5478,7 +5478,7 @@
             "pts_ppr": 15.62,
             "pts_half_ppr": 12.86,
             "pts_std": 10.11,
-            "updated_at": 1788396639158,
+            "updated_at": 1788413441033,
             "company": "rotowire"
           }
         },
@@ -5501,7 +5501,7 @@
             "pts_ppr": 7.45,
             "pts_half_ppr": 7.45,
             "pts_std": 7.45,
-            "updated_at": 1788396639314,
+            "updated_at": 1788413441172,
             "company": "rotowire"
           }
         }
@@ -5611,7 +5611,7 @@
             "pts_ppr": 7.34,
             "pts_half_ppr": 6.17,
             "pts_std": 5.0,
-            "updated_at": 1788396639251,
+            "updated_at": 1788413441119,
             "company": "rotowire"
           }
         },
@@ -5680,7 +5680,7 @@
             "pts_ppr": 21.61,
             "pts_half_ppr": 21.61,
             "pts_std": 21.61,
-            "updated_at": 1788396639680,
+            "updated_at": 1788413441480,
             "company": "rotowire"
           }
         },
@@ -5703,7 +5703,7 @@
             "pts_ppr": 14.0,
             "pts_half_ppr": 11.77,
             "pts_std": 9.55,
-            "updated_at": 1788396639450,
+            "updated_at": 1788413441312,
             "company": "rotowire"
           }
         },
@@ -5726,7 +5726,7 @@
             "pts_ppr": 6.03,
             "pts_half_ppr": 4.96,
             "pts_std": 3.89,
-            "updated_at": 1788396639496,
+            "updated_at": 1788413441327,
             "company": "rotowire"
           }
         },
@@ -5749,7 +5749,7 @@
             "pts_ppr": 7.91,
             "pts_half_ppr": 6.51,
             "pts_std": 5.1,
-            "updated_at": 1788396639235,
+            "updated_at": 1788413441119,
             "company": "rotowire"
           }
         },
@@ -5772,7 +5772,7 @@
             "pts_ppr": 8.27,
             "pts_half_ppr": 7.48,
             "pts_std": 6.69,
-            "updated_at": 1788396639550,
+            "updated_at": 1788413441370,
             "company": "rotowire"
           }
         },
@@ -5795,7 +5795,7 @@
             "pts_ppr": 14.92,
             "pts_half_ppr": 13.67,
             "pts_std": 12.42,
-            "updated_at": 1788396639481,
+            "updated_at": 1788413441313,
             "company": "rotowire"
           }
         },
@@ -5818,7 +5818,7 @@
             "pts_ppr": 9.75,
             "pts_half_ppr": 7.89,
             "pts_std": 6.03,
-            "updated_at": 1788396639499,
+            "updated_at": 1788413441328,
             "company": "rotowire"
           }
         },
@@ -5841,7 +5841,7 @@
             "pts_ppr": 7.11,
             "pts_half_ppr": 7.11,
             "pts_std": 7.11,
-            "updated_at": 1788396639270,
+            "updated_at": 1788413441133,
             "company": "rotowire"
           }
         },
@@ -5864,7 +5864,7 @@
             "pts_ppr": 14.87,
             "pts_half_ppr": 12.22,
             "pts_std": 9.57,
-            "updated_at": 1788396639489,
+            "updated_at": 1788413441322,
             "company": "rotowire"
           }
         },
@@ -5887,7 +5887,7 @@
             "pts_ppr": 11.39,
             "pts_half_ppr": 9.11,
             "pts_std": 6.83,
-            "updated_at": 1788396639310,
+            "updated_at": 1788413441190,
             "company": "rotowire"
           }
         },
@@ -5910,7 +5910,7 @@
             "pts_ppr": 8.83,
             "pts_half_ppr": 7.61,
             "pts_std": 6.4,
-            "updated_at": 1788396639252,
+            "updated_at": 1788413441119,
             "company": "rotowire"
           }
         },
@@ -5933,7 +5933,7 @@
             "pts_ppr": 13.53,
             "pts_half_ppr": 11.15,
             "pts_std": 8.77,
-            "updated_at": 1788396639350,
+            "updated_at": 1788413441213,
             "company": "rotowire"
           }
         },
@@ -5956,7 +5956,7 @@
             "pts_ppr": 13.91,
             "pts_half_ppr": 11.88,
             "pts_std": 9.85,
-            "updated_at": 1788396639326,
+            "updated_at": 1788413441183,
             "company": "rotowire"
           }
         },
@@ -5979,7 +5979,7 @@
             "pts_ppr": 3.62,
             "pts_half_ppr": 3.44,
             "pts_std": 3.25,
-            "updated_at": 1788396639484,
+            "updated_at": 1788413441315,
             "company": "rotowire"
           }
         },
@@ -6002,7 +6002,7 @@
             "pts_ppr": 17.47,
             "pts_half_ppr": 15.81,
             "pts_std": 14.15,
-            "updated_at": 1788396639669,
+            "updated_at": 1788413441474,
             "company": "rotowire"
           }
         },
@@ -6048,7 +6048,7 @@
             "pts_ppr": 6.67,
             "pts_half_ppr": 6.67,
             "pts_std": 6.67,
-            "updated_at": 1788396639509,
+            "updated_at": 1788413441366,
             "company": "rotowire"
           }
         }
@@ -6158,7 +6158,7 @@
             "pts_ppr": 3.89,
             "pts_half_ppr": 3.54,
             "pts_std": 3.19,
-            "updated_at": 1788396639302,
+            "updated_at": 1788413441184,
             "company": "rotowire"
           }
         },
@@ -6181,7 +6181,7 @@
             "pts_ppr": 9.32,
             "pts_half_ppr": 7.43,
             "pts_std": 5.55,
-            "updated_at": 1788396639242,
+            "updated_at": 1788413441125,
             "company": "rotowire"
           }
         },
@@ -6204,7 +6204,7 @@
             "pts_ppr": 9.8,
             "pts_half_ppr": 8.27,
             "pts_std": 6.75,
-            "updated_at": 1788396639714,
+            "updated_at": 1788413441515,
             "company": "rotowire"
           }
         },
@@ -6227,7 +6227,7 @@
             "pts_ppr": 14.17,
             "pts_half_ppr": 11.62,
             "pts_std": 9.07,
-            "updated_at": 1788396639539,
+            "updated_at": 1788413441395,
             "company": "rotowire"
           }
         },
@@ -6250,7 +6250,7 @@
             "pts_ppr": 3.59,
             "pts_half_ppr": 2.94,
             "pts_std": 2.29,
-            "updated_at": 1788396639422,
+            "updated_at": 1788413441264,
             "company": "rotowire"
           }
         },
@@ -6273,7 +6273,7 @@
             "pts_ppr": 8.77,
             "pts_half_ppr": 8.14,
             "pts_std": 7.51,
-            "updated_at": 1788396639545,
+            "updated_at": 1788413441360,
             "company": "rotowire"
           }
         },
@@ -6296,7 +6296,7 @@
             "pts_ppr": 3.48,
             "pts_half_ppr": 3.08,
             "pts_std": 2.69,
-            "updated_at": 1788396639628,
+            "updated_at": 1788413441440,
             "company": "rotowire"
           }
         },
@@ -6319,7 +6319,7 @@
             "pts_ppr": 7.75,
             "pts_half_ppr": 7.75,
             "pts_std": 7.75,
-            "updated_at": 1788396639245,
+            "updated_at": 1788413441127,
             "company": "rotowire"
           }
         },
@@ -6342,7 +6342,7 @@
             "pts_ppr": 19.22,
             "pts_half_ppr": 19.22,
             "pts_std": 19.22,
-            "updated_at": 1788396639701,
+            "updated_at": 1788413441501,
             "company": "rotowire"
           }
         },
@@ -6365,7 +6365,7 @@
             "pts_ppr": 7.22,
             "pts_half_ppr": 7.22,
             "pts_std": 7.22,
-            "updated_at": 1788396639733,
+            "updated_at": 1788413441529,
             "company": "rotowire"
           }
         },
@@ -6388,7 +6388,7 @@
             "pts_ppr": 19.81,
             "pts_half_ppr": 19.81,
             "pts_std": 19.81,
-            "updated_at": 1788396639228,
+            "updated_at": 1788413441104,
             "company": "rotowire"
           }
         },
@@ -6411,7 +6411,7 @@
             "pts_ppr": 12.09,
             "pts_half_ppr": 10.02,
             "pts_std": 7.96,
-            "updated_at": 1788396639308,
+            "updated_at": 1788413441188,
             "company": "rotowire"
           }
         },
@@ -6434,7 +6434,7 @@
             "pts_ppr": 10.6,
             "pts_half_ppr": 8.82,
             "pts_std": 7.03,
-            "updated_at": 1788396639650,
+            "updated_at": 1788413441454,
             "company": "rotowire"
           }
         },
@@ -6457,7 +6457,7 @@
             "pts_ppr": 11.9,
             "pts_half_ppr": 10.11,
             "pts_std": 8.31,
-            "updated_at": 1788396639499,
+            "updated_at": 1788413441333,
             "company": "rotowire"
           }
         },
@@ -6480,7 +6480,7 @@
             "pts_ppr": 13.62,
             "pts_half_ppr": 11.26,
             "pts_std": 8.9,
-            "updated_at": 1788396639556,
+            "updated_at": 1788413441369,
             "company": "rotowire"
           }
         },
@@ -6503,7 +6503,7 @@
             "pts_ppr": 13.88,
             "pts_half_ppr": 12.55,
             "pts_std": 11.21,
-            "updated_at": 1788396639391,
+            "updated_at": 1788413441242,
             "company": "rotowire"
           }
         },
@@ -6526,7 +6526,7 @@
             "pts_ppr": 17.03,
             "pts_half_ppr": 15.73,
             "pts_std": 14.44,
-            "updated_at": 1788396639300,
+            "updated_at": 1788413441180,
             "company": "rotowire"
           }
         },
@@ -6549,7 +6549,7 @@
             "pts_ppr": 7.45,
             "pts_half_ppr": 7.45,
             "pts_std": 7.45,
-            "updated_at": 1788396639631,
+            "updated_at": 1788413441443,
             "company": "rotowire"
           }
         }
@@ -6663,7 +6663,7 @@
         "pts_ppr": 4.84,
         "pts_half_ppr": 3.98,
         "pts_std": 3.13,
-        "updated_at": 1788396639666,
+        "updated_at": 1788413441471,
         "company": "rotowire"
       }
     },
@@ -6685,7 +6685,7 @@
         "pts_ppr": 19.55,
         "pts_half_ppr": 19.55,
         "pts_std": 19.55,
-        "updated_at": 1788396639381,
+        "updated_at": 1788413441230,
         "company": "rotowire"
       }
     },
@@ -6773,7 +6773,7 @@
         "pts_ppr": 17.12,
         "pts_half_ppr": 17.12,
         "pts_std": 17.12,
-        "updated_at": 1788396639400,
+        "updated_at": 1788413441254,
         "company": "rotowire"
       }
     },
@@ -6971,7 +6971,7 @@
         "pts_ppr": 18.11,
         "pts_half_ppr": 18.11,
         "pts_std": 18.11,
-        "updated_at": 1788396639437,
+        "updated_at": 1788413441301,
         "company": "rotowire"
       }
     },
@@ -7015,7 +7015,7 @@
         "pts_ppr": 18.01,
         "pts_half_ppr": 18.01,
         "pts_std": 18.01,
-        "updated_at": 1788396639231,
+        "updated_at": 1788413441102,
         "company": "rotowire"
       }
     },
@@ -7059,7 +7059,7 @@
         "pts_ppr": 3.98,
         "pts_half_ppr": 3.18,
         "pts_std": 2.37,
-        "updated_at": 1788396639661,
+        "updated_at": 1788413441467,
         "company": "rotowire"
       }
     },
@@ -7081,7 +7081,7 @@
         "pts_ppr": 5.42,
         "pts_half_ppr": 4.33,
         "pts_std": 3.25,
-        "updated_at": 1788396639169,
+        "updated_at": 1788413441070,
         "company": "rotowire"
       }
     },
@@ -7103,7 +7103,7 @@
         "pts_ppr": 5.63,
         "pts_half_ppr": 4.36,
         "pts_std": 3.1,
-        "updated_at": 1788396639361,
+        "updated_at": 1788413441218,
         "company": "rotowire"
       }
     },
@@ -7125,7 +7125,7 @@
         "pts_ppr": 2.69,
         "pts_half_ppr": 2.16,
         "pts_std": 1.63,
-        "updated_at": 1788396639501,
+        "updated_at": 1788413441330,
         "company": "rotowire"
       }
     },
@@ -7147,7 +7147,7 @@
         "pts_ppr": 1.31,
         "pts_half_ppr": 1.22,
         "pts_std": 1.13,
-        "updated_at": 1788396639639,
+        "updated_at": 1788413441449,
         "company": "rotowire"
       }
     },
@@ -7169,7 +7169,7 @@
         "pts_ppr": 3.66,
         "pts_half_ppr": 2.97,
         "pts_std": 2.27,
-        "updated_at": 1788396639712,
+        "updated_at": 1788413441501,
         "company": "rotowire"
       }
     },
@@ -7213,7 +7213,7 @@
         "pts_ppr": 7.42,
         "pts_half_ppr": 5.85,
         "pts_std": 4.28,
-        "updated_at": 1788396639268,
+        "updated_at": 1788413441131,
         "company": "rotowire"
       }
     },
@@ -7235,7 +7235,7 @@
         "pts_ppr": 7.78,
         "pts_half_ppr": 7.78,
         "pts_std": 7.78,
-        "updated_at": 1788396639185,
+        "updated_at": 1788413441065,
         "company": "rotowire"
       }
     },
@@ -7301,7 +7301,7 @@
         "pts_ppr": 7.21,
         "pts_half_ppr": 5.72,
         "pts_std": 4.23,
-        "updated_at": 1788396639432,
+        "updated_at": 1788413441276,
         "company": "rotowire"
       }
     },
@@ -7323,7 +7323,7 @@
         "pts_ppr": 3.74,
         "pts_half_ppr": 3.63,
         "pts_std": 3.51,
-        "updated_at": 1788396639236,
+        "updated_at": 1788413441109,
         "company": "rotowire"
       }
     },
@@ -7345,7 +7345,7 @@
         "pts_ppr": 1.06,
         "pts_half_ppr": 0.99,
         "pts_std": 0.93,
-        "updated_at": 1788396639543,
+        "updated_at": 1788413441363,
         "company": "rotowire"
       }
     },
@@ -7389,7 +7389,7 @@
         "pts_ppr": 2.42,
         "pts_half_ppr": 2.28,
         "pts_std": 2.13,
-        "updated_at": 1788396639222,
+        "updated_at": 1788413441107,
         "company": "rotowire"
       }
     },
@@ -7411,7 +7411,7 @@
         "pts_ppr": 6.48,
         "pts_half_ppr": 5.5,
         "pts_std": 4.52,
-        "updated_at": 1788396639345,
+        "updated_at": 1788413441207,
         "company": "rotowire"
       }
     },
@@ -7521,7 +7521,7 @@
         "pts_ppr": 2.72,
         "pts_half_ppr": 2.26,
         "pts_std": 1.8,
-        "updated_at": 1788396639639,
+        "updated_at": 1788413441447,
         "company": "rotowire"
       }
     },
@@ -7543,7 +7543,7 @@
         "pts_ppr": 7.34,
         "pts_half_ppr": 5.98,
         "pts_std": 4.61,
-        "updated_at": 1788396639637,
+        "updated_at": 1788413441445,
         "company": "rotowire"
       }
     },
@@ -7587,7 +7587,7 @@
         "pts_ppr": 0.37,
         "pts_half_ppr": 0.35,
         "pts_std": 0.32,
-        "updated_at": 1788396639477,
+        "updated_at": 1788413441311,
         "company": "rotowire"
       }
     },
@@ -7609,7 +7609,7 @@
         "pts_ppr": 2.77,
         "pts_half_ppr": 2.46,
         "pts_std": 2.14,
-        "updated_at": 1788396639661,
+        "updated_at": 1788413441467,
         "company": "rotowire"
       }
     },
@@ -7631,7 +7631,7 @@
         "pts_ppr": 3.21,
         "pts_half_ppr": 2.63,
         "pts_std": 2.04,
-        "updated_at": 1788396639414,
+        "updated_at": 1788413441264,
         "company": "rotowire"
       }
     },
@@ -7653,7 +7653,7 @@
         "pts_ppr": 2.29,
         "pts_half_ppr": 1.84,
         "pts_std": 1.4,
-        "updated_at": 1788396639556,
+        "updated_at": 1788413441374,
         "company": "rotowire"
       }
     },
@@ -7675,7 +7675,7 @@
         "pts_ppr": 7.19,
         "pts_half_ppr": 7.19,
         "pts_std": 7.19,
-        "updated_at": 1788396639263,
+        "updated_at": 1788413441141,
         "company": "rotowire"
       }
     },
@@ -7719,7 +7719,7 @@
         "pts_ppr": 6.9,
         "pts_half_ppr": 6.9,
         "pts_std": 6.9,
-        "updated_at": 1788396639659,
+        "updated_at": 1788413441461,
         "company": "rotowire"
       }
     },
@@ -7763,7 +7763,7 @@
         "pts_ppr": 2.17,
         "pts_half_ppr": 1.75,
         "pts_std": 1.32,
-        "updated_at": 1788396639260,
+        "updated_at": 1788413441136,
         "company": "rotowire"
       }
     },
@@ -7785,7 +7785,7 @@
         "pts_ppr": 5.94,
         "pts_half_ppr": 4.81,
         "pts_std": 3.68,
-        "updated_at": 1788396639644,
+        "updated_at": 1788413441452,
         "company": "rotowire"
       }
     },
@@ -7807,7 +7807,7 @@
         "pts_ppr": 17.16,
         "pts_half_ppr": 17.16,
         "pts_std": 17.16,
-        "updated_at": 1788396639556,
+        "updated_at": 1788413441380,
         "company": "rotowire"
       }
     },
@@ -7829,7 +7829,7 @@
         "pts_ppr": 6.57,
         "pts_half_ppr": 5.6,
         "pts_std": 4.63,
-        "updated_at": 1788396639419,
+        "updated_at": 1788413441271,
         "company": "rotowire"
       }
     },
@@ -7851,7 +7851,7 @@
         "pts_ppr": 0.86,
         "pts_half_ppr": 0.74,
         "pts_std": 0.61,
-        "updated_at": 1788396639704,
+        "updated_at": 1788413441503,
         "company": "rotowire"
       }
     },
@@ -7917,7 +7917,7 @@
         "pts_ppr": 3.81,
         "pts_half_ppr": 3.18,
         "pts_std": 2.55,
-        "updated_at": 1788396639331,
+        "updated_at": 1788413441187,
         "company": "rotowire"
       }
     },
@@ -7939,7 +7939,7 @@
         "pts_ppr": 2.91,
         "pts_half_ppr": 2.46,
         "pts_std": 2.0,
-        "updated_at": 1788396639417,
+        "updated_at": 1788413441267,
         "company": "rotowire"
       }
     },
@@ -7961,7 +7961,7 @@
         "pts_ppr": 17.63,
         "pts_half_ppr": 17.63,
         "pts_std": 17.63,
-        "updated_at": 1788396639488,
+        "updated_at": 1788413441324,
         "company": "rotowire"
       }
     },
@@ -8027,7 +8027,7 @@
         "pts_ppr": 1.53,
         "pts_half_ppr": 1.4,
         "pts_std": 1.28,
-        "updated_at": 1788396639388,
+        "updated_at": 1788413441240,
         "company": "rotowire"
       }
     },
@@ -8049,7 +8049,7 @@
         "pts_ppr": 4.31,
         "pts_half_ppr": 3.55,
         "pts_std": 2.8,
-        "updated_at": 1788396639379,
+        "updated_at": 1788413441249,
         "company": "rotowire"
       }
     },
@@ -8071,7 +8071,7 @@
         "pts_ppr": 7.32,
         "pts_half_ppr": 7.32,
         "pts_std": 7.32,
-        "updated_at": 1788396639541,
+        "updated_at": 1788413441397,
         "company": "rotowire"
       }
     },
@@ -8115,7 +8115,7 @@
         "pts_ppr": 5.21,
         "pts_half_ppr": 4.35,
         "pts_std": 3.48,
-        "updated_at": 1788396639707,
+        "updated_at": 1788413441493,
         "company": "rotowire"
       }
     },
@@ -8137,7 +8137,7 @@
         "pts_ppr": 5.39,
         "pts_half_ppr": 4.43,
         "pts_std": 3.48,
-        "updated_at": 1788396639496,
+        "updated_at": 1788413441330,
         "company": "rotowire"
       }
     },
@@ -8159,29 +8159,7 @@
         "pts_ppr": 0.27,
         "pts_half_ppr": 0.23,
         "pts_std": 0.19,
-        "updated_at": 1788396639148,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13545",
-      "name": "Trey Smack",
-      "position": "K",
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 196,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "MIN",
-        "game_date": "2026-09-13",
-        "projected_points": 7.73,
-        "pts_ppr": 7.74,
-        "pts_half_ppr": 7.74,
-        "pts_std": 7.74,
-        "updated_at": 1788396639506,
+        "updated_at": 1788413441023,
         "company": "rotowire"
       }
     },
@@ -8203,7 +8181,29 @@
         "pts_ppr": 3.15,
         "pts_half_ppr": 2.63,
         "pts_std": 2.12,
-        "updated_at": 1788396639248,
+        "updated_at": 1788413441117,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13545",
+      "name": "Trey Smack",
+      "position": "K",
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 197,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "MIN",
+        "game_date": "2026-09-13",
+        "projected_points": 7.73,
+        "pts_ppr": 7.74,
+        "pts_half_ppr": 7.74,
+        "pts_std": 7.74,
+        "updated_at": 1788413441334,
         "company": "rotowire"
       }
     },
@@ -8247,7 +8247,7 @@
         "pts_ppr": 3.52,
         "pts_half_ppr": 2.92,
         "pts_std": 2.31,
-        "updated_at": 1788396639227,
+        "updated_at": 1788413441113,
         "company": "rotowire"
       }
     },
@@ -8269,7 +8269,7 @@
         "pts_ppr": 7.26,
         "pts_half_ppr": 5.99,
         "pts_std": 4.72,
-        "updated_at": 1788396639613,
+        "updated_at": 1788413441429,
         "company": "rotowire"
       }
     },
@@ -8313,7 +8313,7 @@
         "pts_ppr": 0.98,
         "pts_half_ppr": 0.81,
         "pts_std": 0.64,
-        "updated_at": 1788396639150,
+        "updated_at": 1788413441025,
         "company": "rotowire"
       }
     },
@@ -8379,7 +8379,7 @@
         "pts_ppr": 7.57,
         "pts_half_ppr": 6.4,
         "pts_std": 5.22,
-        "updated_at": 1788396639162,
+        "updated_at": 1788413441035,
         "company": "rotowire"
       }
     },
@@ -8401,7 +8401,7 @@
         "pts_ppr": 4.4,
         "pts_half_ppr": 3.6,
         "pts_std": 2.8,
-        "updated_at": 1788396639604,
+        "updated_at": 1788413441420,
         "company": "rotowire"
       }
     },
@@ -8467,7 +8467,7 @@
         "pts_ppr": 16.49,
         "pts_half_ppr": 16.49,
         "pts_std": 16.49,
-        "updated_at": 1788396639326,
+        "updated_at": 1788413441193,
         "company": "rotowire"
       }
     },
@@ -8577,7 +8577,7 @@
         "pts_ppr": 1.66,
         "pts_half_ppr": 1.32,
         "pts_std": 0.98,
-        "updated_at": 1788396639184,
+        "updated_at": 1788413441067,
         "company": "rotowire"
       }
     },
@@ -8626,28 +8626,6 @@
       }
     },
     {
-      "player_id": "4195",
-      "name": "Jake Elliott",
-      "position": "K",
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 218,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "WAS",
-        "game_date": "2026-09-13",
-        "projected_points": 6.77,
-        "pts_ppr": 6.77,
-        "pts_half_ppr": 6.77,
-        "pts_std": 6.77,
-        "updated_at": 1788396639504,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "4571",
       "name": "Blake Jarwin",
       "position": "TE",
@@ -8687,7 +8665,7 @@
         "pts_ppr": 4.89,
         "pts_half_ppr": 4.17,
         "pts_std": 3.44,
-        "updated_at": 1788396639142,
+        "updated_at": 1788413441018,
         "company": "rotowire"
       }
     },
@@ -8710,6 +8688,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "4195",
+      "name": "Jake Elliott",
+      "position": "K",
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 219,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "WAS",
+        "game_date": "2026-09-13",
+        "projected_points": 6.77,
+        "pts_ppr": 6.77,
+        "pts_half_ppr": 6.77,
+        "pts_std": 6.77,
+        "updated_at": 1788413441332,
         "company": "rotowire"
       }
     },
@@ -8819,7 +8819,7 @@
         "pts_ppr": 1.73,
         "pts_half_ppr": 1.59,
         "pts_std": 1.45,
-        "updated_at": 1788396639233,
+        "updated_at": 1788413441115,
         "company": "rotowire"
       }
     },
@@ -8907,7 +8907,7 @@
         "pts_ppr": 7.34,
         "pts_half_ppr": 5.84,
         "pts_std": 4.35,
-        "updated_at": 1788396639515,
+        "updated_at": 1788413441346,
         "company": "rotowire"
       }
     },
@@ -8929,7 +8929,7 @@
         "pts_ppr": 6.43,
         "pts_half_ppr": 5.15,
         "pts_std": 3.87,
-        "updated_at": 1788396639688,
+        "updated_at": 1788413441489,
         "company": "rotowire"
       }
     },
@@ -8995,7 +8995,7 @@
         "pts_ppr": 18.33,
         "pts_half_ppr": 18.33,
         "pts_std": 18.33,
-        "updated_at": 1788396639424,
+        "updated_at": 1788413441272,
         "company": "rotowire"
       }
     },
@@ -9127,7 +9127,7 @@
         "pts_ppr": 7.51,
         "pts_half_ppr": 7.51,
         "pts_std": 7.51,
-        "updated_at": 1788396639617,
+        "updated_at": 1788413441431,
         "company": "rotowire"
       }
     },
@@ -9149,7 +9149,7 @@
         "pts_ppr": 6.23,
         "pts_half_ppr": 6.23,
         "pts_std": 6.23,
-        "updated_at": 1788396639690,
+        "updated_at": 1788413441491,
         "company": "rotowire"
       }
     },
@@ -9159,28 +9159,6 @@
       "position": "RB",
       "team": null,
       "status": "Injured Reserve",
-      "injury_status": null,
-      "search_rank": 242,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "4443",
-      "name": "Pharaoh Brown",
-      "position": "TE",
-      "team": "IND",
-      "status": "Active",
       "injury_status": null,
       "search_rank": 242,
       "projection": {
@@ -9215,7 +9193,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.19,
         "pts_std": 0.17,
-        "updated_at": 1788396639339,
+        "updated_at": 1788413441202,
         "company": "rotowire"
       }
     },
@@ -9271,6 +9249,28 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 242,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "11806",
+      "name": "Casey Washington",
+      "position": "WR",
+      "team": "CAR",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 243,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -9506,28 +9506,6 @@
       }
     },
     {
-      "player_id": "7536",
-      "name": "Quintin Morris",
-      "position": "TE",
-      "team": "JAX",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 249,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "CLE",
-        "game_date": "2026-09-13",
-        "projected_points": 0.5,
-        "pts_ppr": 0.47,
-        "pts_half_ppr": 0.38,
-        "pts_std": 0.28,
-        "updated_at": 1788396639440,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "650",
       "name": "Nick Folk",
       "position": "K",
@@ -9545,7 +9523,7 @@
         "pts_ppr": 6.75,
         "pts_half_ppr": 6.75,
         "pts_std": 6.75,
-        "updated_at": 1788396639451,
+        "updated_at": 1788413441294,
         "company": "rotowire"
       }
     },
@@ -9704,6 +9682,28 @@
       }
     },
     {
+      "player_id": "11508",
+      "name": "Princeton Fant",
+      "position": "TE",
+      "team": "DAL",
+      "status": "Inactive",
+      "injury_status": "IR",
+      "search_rank": 256,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "7237",
       "name": "Scotty Washington",
       "position": "WR",
@@ -9836,28 +9836,6 @@
       }
     },
     {
-      "player_id": "12901",
-      "name": "Patrick Herbert",
-      "position": "TE",
-      "team": "LAC",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 261,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "8040",
       "name": "Quinn Nordin",
       "position": "K",
@@ -9909,6 +9887,28 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 268,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "7066",
+      "name": "K.J. Osborn",
+      "position": "WR",
+      "team": "TEN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 270,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -10150,28 +10150,6 @@
       "team": null,
       "status": "Active",
       "injury_status": null,
-      "search_rank": 277,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "11508",
-      "name": "Princeton Fant",
-      "position": "TE",
-      "team": "DAL",
-      "status": "Inactive",
-      "injury_status": "IR",
       "search_rank": 277,
       "projection": {
         "week": 1,
@@ -10430,28 +10408,6 @@
       }
     },
     {
-      "player_id": "13577",
-      "name": "Dallen Bentley",
-      "position": "TE",
-      "team": "DEN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 283,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "2446",
       "name": "MyCole Pruitt",
       "position": "TE",
@@ -10535,7 +10491,7 @@
         "pts_ppr": 17.01,
         "pts_half_ppr": 17.01,
         "pts_std": 17.01,
-        "updated_at": 1788396639585,
+        "updated_at": 1788413441408,
         "company": "rotowire"
       }
     },
@@ -10672,28 +10628,6 @@
       }
     },
     {
-      "player_id": "7066",
-      "name": "K.J. Osborn",
-      "position": "WR",
-      "team": "TEN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 288,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "1612",
       "name": "Tyler Bray",
       "position": "QB",
@@ -10777,7 +10711,7 @@
         "pts_ppr": 7.0,
         "pts_half_ppr": 7.0,
         "pts_std": 7.0,
-        "updated_at": 1788396639330,
+        "updated_at": 1788413441204,
         "company": "rotowire"
       }
     },
@@ -11107,18 +11041,18 @@
         "pts_ppr": 16.31,
         "pts_half_ppr": 16.31,
         "pts_std": 16.31,
-        "updated_at": 1788396639318,
+        "updated_at": 1788413441186,
         "company": "rotowire"
       }
     },
     {
-      "player_id": "6964",
-      "name": "Sean McKeon",
-      "position": "TE",
-      "team": "IND",
-      "status": "Inactive",
-      "injury_status": "Questionable",
-      "search_rank": 298,
+      "player_id": "6967",
+      "name": "Aaron Fuller",
+      "position": "WR",
+      "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 299,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -11134,10 +11068,10 @@
       }
     },
     {
-      "player_id": "6967",
-      "name": "Aaron Fuller",
-      "position": "WR",
-      "team": null,
+      "player_id": "13577",
+      "name": "Dallen Bentley",
+      "position": "TE",
+      "team": "DEN",
       "status": "Active",
       "injury_status": null,
       "search_rank": 299,
@@ -11618,28 +11552,6 @@
       }
     },
     {
-      "player_id": "4995",
-      "name": "Ian Thomas",
-      "position": "TE",
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 311,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "MIA",
-        "game_date": "2026-09-13",
-        "projected_points": 0.3,
-        "pts_ppr": 0.29,
-        "pts_half_ppr": 0.23,
-        "pts_std": 0.17,
-        "updated_at": 1788396639614,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "12126",
       "name": "Isaac Rex",
       "position": "TE",
@@ -11691,28 +11603,6 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 312,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "11304",
-      "name": "E.J. Jenkins",
-      "position": "TE",
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 313,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -11943,7 +11833,7 @@
         "pts_ppr": 5.41,
         "pts_half_ppr": 5.41,
         "pts_std": 5.41,
-        "updated_at": 1788396639356,
+        "updated_at": 1788413441218,
         "company": "rotowire"
       }
     },
@@ -12168,6 +12058,28 @@
       }
     },
     {
+      "player_id": "13013",
+      "name": "Mark Redman",
+      "position": "TE",
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 323,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "10955",
       "name": "Chad Ryland",
       "position": "K",
@@ -12185,7 +12097,7 @@
         "pts_ppr": 6.13,
         "pts_half_ppr": 6.13,
         "pts_std": 6.13,
-        "updated_at": 1788396639588,
+        "updated_at": 1788413441407,
         "company": "rotowire"
       }
     },
@@ -12273,7 +12185,7 @@
         "pts_ppr": 6.67,
         "pts_half_ppr": 6.67,
         "pts_std": 6.67,
-        "updated_at": 1788396639435,
+        "updated_at": 1788413441280,
         "company": "rotowire"
       }
     },
@@ -12339,7 +12251,7 @@
         "pts_ppr": 6.78,
         "pts_half_ppr": 6.78,
         "pts_std": 6.78,
-        "updated_at": 1788396639471,
+        "updated_at": 1788413441333,
         "company": "rotowire"
       }
     },
@@ -12427,7 +12339,7 @@
         "pts_ppr": 7.03,
         "pts_half_ppr": 7.03,
         "pts_std": 7.03,
-        "updated_at": 1788396639720,
+        "updated_at": 1788413441509,
         "company": "rotowire"
       }
     },
@@ -12823,7 +12735,7 @@
         "pts_ppr": 2.24,
         "pts_half_ppr": 1.76,
         "pts_std": 1.29,
-        "updated_at": 1788396639166,
+        "updated_at": 1788413441043,
         "company": "rotowire"
       }
     },
@@ -13417,7 +13329,7 @@
         "pts_ppr": 0.08,
         "pts_half_ppr": 0.07,
         "pts_std": 0.06,
-        "updated_at": 1788396639461,
+        "updated_at": 1788413441322,
         "company": "rotowire"
       }
     },
@@ -13470,28 +13382,6 @@
       "name": "OJ Hiliare",
       "position": "WR",
       "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 352,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13013",
-      "name": "Mark Redman",
-      "position": "TE",
-      "team": "GB",
       "status": "Active",
       "injury_status": null,
       "search_rank": 352,
@@ -13725,7 +13615,7 @@
         "pts_ppr": 8.51,
         "pts_half_ppr": 8.51,
         "pts_std": 8.51,
-        "updated_at": 1788396639262,
+        "updated_at": 1788413441128,
         "company": "rotowire"
       }
     },
@@ -13857,7 +13747,7 @@
         "pts_ppr": 1.09,
         "pts_half_ppr": 0.91,
         "pts_std": 0.72,
-        "updated_at": 1788396639318,
+        "updated_at": 1788413441196,
         "company": "rotowire"
       }
     },
@@ -13891,6 +13781,50 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 358,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "7559",
+      "name": "Ihmir Smith-Marsette",
+      "position": "WR",
+      "team": "ARI",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 358,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "11304",
+      "name": "E.J. Jenkins",
+      "position": "TE",
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 359,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -13994,6 +13928,28 @@
       }
     },
     {
+      "player_id": "13122",
+      "name": "Carter Runyon",
+      "position": "TE",
+      "team": "LV",
+      "status": "Active",
+      "injury_status": "IR",
+      "search_rank": 363,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "12218",
       "name": "Jalen Jackson",
       "position": "RB",
@@ -14066,28 +14022,6 @@
       "team": "NYG",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 365,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13122",
-      "name": "Carter Runyon",
-      "position": "TE",
-      "team": "LV",
-      "status": "Active",
-      "injury_status": "IR",
       "search_rank": 365,
       "projection": {
         "week": 1,
@@ -14566,6 +14500,28 @@
       }
     },
     {
+      "player_id": "4443",
+      "name": "Pharaoh Brown",
+      "position": "TE",
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 371,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "11377",
       "name": "Tyrell Shavers",
       "position": "WR",
@@ -14918,6 +14874,28 @@
       }
     },
     {
+      "player_id": "4995",
+      "name": "Ian Thomas",
+      "position": "TE",
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 378,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "MIA",
+        "game_date": "2026-09-13",
+        "projected_points": 0.3,
+        "pts_ppr": 0.29,
+        "pts_half_ppr": 0.23,
+        "pts_std": 0.17,
+        "updated_at": 1788413441429,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "8199",
       "name": "D'Eriq King",
       "position": "QB",
@@ -15079,28 +15057,6 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 382,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "12171",
-      "name": "British Brooks",
-      "position": "RB",
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "search_rank": 383,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -15424,6 +15380,28 @@
       }
     },
     {
+      "player_id": "12171",
+      "name": "British Brooks",
+      "position": "RB",
+      "team": "HOU",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "search_rank": 390,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "13411",
       "name": "Zavion Thomas",
       "position": "WR",
@@ -15441,7 +15419,7 @@
         "pts_ppr": 2.11,
         "pts_half_ppr": 1.73,
         "pts_std": 1.36,
-        "updated_at": 1788396639522,
+        "updated_at": 1788413441378,
         "company": "rotowire"
       }
     },
@@ -15666,28 +15644,6 @@
       }
     },
     {
-      "player_id": "13151",
-      "name": "Nick Kallerup",
-      "position": "TE",
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 398,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "1144",
       "name": "Cole Beasley",
       "position": "WR",
@@ -15780,28 +15736,6 @@
       "name": "Chris Brazzell",
       "position": "WR",
       "team": "CAR",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "search_rank": 400,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13725",
-      "name": "Dominic Richardson",
-      "position": "RB",
-      "team": "NYJ",
       "status": "Inactive",
       "injury_status": "IR",
       "search_rank": 400,
@@ -16123,7 +16057,7 @@
         "pts_ppr": 1.65,
         "pts_half_ppr": 1.47,
         "pts_std": 1.28,
-        "updated_at": 1788396639237,
+        "updated_at": 1788413441107,
         "company": "rotowire"
       }
     },
@@ -16233,7 +16167,7 @@
         "pts_ppr": 0.16,
         "pts_half_ppr": 0.15,
         "pts_std": 0.14,
-        "updated_at": 1788396639139,
+        "updated_at": 1788413441021,
         "company": "rotowire"
       }
     },
@@ -16277,7 +16211,7 @@
         "pts_ppr": 0.11,
         "pts_half_ppr": 0.09,
         "pts_std": 0.06,
-        "updated_at": 1788396639616,
+        "updated_at": 1788413441418,
         "company": "rotowire"
       }
     },
@@ -16348,6 +16282,28 @@
       }
     },
     {
+      "player_id": "11113",
+      "name": "Joel Wilson",
+      "position": "TE",
+      "team": "TEN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 408,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "12259",
       "name": "Taulia Tagovailoa",
       "position": "QB",
@@ -16387,7 +16343,7 @@
         "pts_ppr": 3.34,
         "pts_half_ppr": 2.87,
         "pts_std": 2.4,
-        "updated_at": 1788396639139,
+        "updated_at": 1788413441016,
         "company": "rotowire"
       }
     },
@@ -16541,7 +16497,7 @@
         "pts_ppr": 2.35,
         "pts_half_ppr": 1.83,
         "pts_std": 1.32,
-        "updated_at": 1788396639412,
+        "updated_at": 1788413441259,
         "company": "rotowire"
       }
     },
@@ -16634,13 +16590,13 @@
       }
     },
     {
-      "player_id": "13438",
-      "name": "DeaMonte Trayanum",
-      "position": "RB",
-      "team": "NYJ",
-      "status": "Inactive",
+      "player_id": "13151",
+      "name": "Nick Kallerup",
+      "position": "TE",
+      "team": "SEA",
+      "status": "Active",
       "injury_status": null,
-      "search_rank": 415,
+      "search_rank": 414,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -16739,7 +16695,7 @@
         "pts_ppr": 6.44,
         "pts_half_ppr": 5.05,
         "pts_std": 3.67,
-        "updated_at": 1788396639162,
+        "updated_at": 1788413441034,
         "company": "rotowire"
       }
     },
@@ -16810,6 +16766,28 @@
       }
     },
     {
+      "player_id": "13725",
+      "name": "Dominic Richardson",
+      "position": "RB",
+      "team": "NYJ",
+      "status": "Inactive",
+      "injury_status": "IR",
+      "search_rank": 417,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "12085",
       "name": "Alec Holler",
       "position": "TE",
@@ -16849,7 +16827,7 @@
         "pts_ppr": 3.9,
         "pts_half_ppr": 3.19,
         "pts_std": 2.47,
-        "updated_at": 1788396639240,
+        "updated_at": 1788413441122,
         "company": "rotowire"
       }
     },
@@ -17030,28 +17008,6 @@
       }
     },
     {
-      "player_id": "12539",
-      "name": "Arian Smith",
-      "position": "WR",
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 422,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "TEN",
-        "game_date": "2026-09-13",
-        "projected_points": 0.3,
-        "pts_ppr": 0.32,
-        "pts_half_ppr": 0.27,
-        "pts_std": 0.22,
-        "updated_at": 1788396639353,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "5275",
       "name": "Jeff Badet",
       "position": "WR",
@@ -17080,28 +17036,6 @@
       "team": "CLE",
       "status": "Inactive",
       "injury_status": "IR",
-      "search_rank": 423,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "11113",
-      "name": "Joel Wilson",
-      "position": "TE",
-      "team": "TEN",
-      "status": "Active",
-      "injury_status": null,
       "search_rank": 423,
       "projection": {
         "week": 1,
@@ -17399,7 +17333,7 @@
         "pts_ppr": 0.46,
         "pts_half_ppr": 0.37,
         "pts_std": 0.28,
-        "updated_at": 1788396639255,
+        "updated_at": 1788413441121,
         "company": "rotowire"
       }
     },
@@ -17465,7 +17399,7 @@
         "pts_ppr": 2.63,
         "pts_half_ppr": 2.31,
         "pts_std": 1.99,
-        "updated_at": 1788396639664,
+        "updated_at": 1788413441469,
         "company": "rotowire"
       }
     },
@@ -17553,7 +17487,7 @@
         "pts_ppr": 2.67,
         "pts_half_ppr": 2.11,
         "pts_std": 1.56,
-        "updated_at": 1788396639446,
+        "updated_at": 1788413441289,
         "company": "rotowire"
       }
     },
@@ -17976,6 +17910,28 @@
       }
     },
     {
+      "player_id": "12539",
+      "name": "Arian Smith",
+      "position": "WR",
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 438,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "TEN",
+        "game_date": "2026-09-13",
+        "projected_points": 0.3,
+        "pts_ppr": 0.32,
+        "pts_half_ppr": 0.27,
+        "pts_std": 0.22,
+        "updated_at": 1788413441216,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "6178",
       "name": "Darwin Thompson",
       "position": "RB",
@@ -18081,7 +18037,7 @@
         "pts_ppr": 1.91,
         "pts_half_ppr": 1.56,
         "pts_std": 1.21,
-        "updated_at": 1788396639401,
+        "updated_at": 1788413441251,
         "company": "rotowire"
       }
     },
@@ -18112,28 +18068,6 @@
       "name": "Jordan Thomas",
       "position": "TE",
       "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 442,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "12389",
-      "name": "Hayden Rucci",
-      "position": "TE",
-      "team": "JAX",
       "status": "Active",
       "injury_status": null,
       "search_rank": 442,
@@ -18257,7 +18191,7 @@
         "pts_ppr": 0.07,
         "pts_half_ppr": 0.06,
         "pts_std": 0.04,
-        "updated_at": 1788396639513,
+        "updated_at": 1788413441344,
         "company": "rotowire"
       }
     },
@@ -18389,7 +18323,7 @@
         "pts_ppr": 3.95,
         "pts_half_ppr": 3.07,
         "pts_std": 2.2,
-        "updated_at": 1788396639609,
+        "updated_at": 1788413441428,
         "company": "rotowire"
       }
     },
@@ -18455,7 +18389,7 @@
         "pts_ppr": 1.04,
         "pts_half_ppr": 0.82,
         "pts_std": 0.59,
-        "updated_at": 1788396639624,
+        "updated_at": 1788413441437,
         "company": "rotowire"
       }
     },
@@ -18509,6 +18443,28 @@
       "position": "TE",
       "team": null,
       "status": "Active",
+      "injury_status": null,
+      "search_rank": 449,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13438",
+      "name": "DeaMonte Trayanum",
+      "position": "RB",
+      "team": "NYJ",
+      "status": "Inactive",
       "injury_status": null,
       "search_rank": 449,
       "projection": {
@@ -18719,7 +18675,7 @@
         "pts_ppr": 2.12,
         "pts_half_ppr": 1.66,
         "pts_std": 1.2,
-        "updated_at": 1788396639165,
+        "updated_at": 1788413441037,
         "company": "rotowire"
       }
     },
@@ -19049,7 +19005,7 @@
         "pts_ppr": 0.48,
         "pts_half_ppr": 0.37,
         "pts_std": 0.27,
-        "updated_at": 1788396639237,
+        "updated_at": 1788413441121,
         "company": "rotowire"
       }
     },
@@ -19212,6 +19168,28 @@
       "name": "Fred Brown",
       "position": "WR",
       "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 466,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "12389",
+      "name": "Hayden Rucci",
+      "position": "TE",
+      "team": "JAX",
       "status": "Active",
       "injury_status": null,
       "search_rank": 466,
@@ -19406,28 +19384,6 @@
       }
     },
     {
-      "player_id": "11911",
-      "name": "Jeshaun Jones",
-      "position": "WR",
-      "team": "MIN",
-      "status": "Active",
-      "injury_status": "Sus",
-      "search_rank": 469,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "7905",
       "name": "Dylan Soehner",
       "position": "TE",
@@ -19577,7 +19533,7 @@
         "pts_ppr": 1.09,
         "pts_half_ppr": 0.89,
         "pts_std": 0.69,
-        "updated_at": 1788396639698,
+        "updated_at": 1788413441499,
         "company": "rotowire"
       }
     },
@@ -19687,7 +19643,7 @@
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1788396639564,
+        "updated_at": 1788413441374,
         "company": "rotowire"
       }
     },
@@ -19907,7 +19863,7 @@
         "pts_ppr": 3.68,
         "pts_half_ppr": 3.19,
         "pts_std": 2.7,
-        "updated_at": 1788396639621,
+        "updated_at": 1788413441435,
         "company": "rotowire"
       }
     },
@@ -19973,7 +19929,7 @@
         "pts_ppr": 5.87,
         "pts_half_ppr": 5.15,
         "pts_std": 4.42,
-        "updated_at": 1788396639479,
+        "updated_at": 1788413441313,
         "company": "rotowire"
       }
     },
@@ -20083,7 +20039,7 @@
         "pts_ppr": 2.16,
         "pts_half_ppr": 1.74,
         "pts_std": 1.32,
-        "updated_at": 1788396639396,
+        "updated_at": 1788413441247,
         "company": "rotowire"
       }
     },
@@ -20325,7 +20281,7 @@
         "pts_ppr": 3.97,
         "pts_half_ppr": 3.02,
         "pts_std": 2.07,
-        "updated_at": 1788396639654,
+        "updated_at": 1788413441458,
         "company": "rotowire"
       }
     },
@@ -20435,7 +20391,29 @@
         "pts_ppr": 5.13,
         "pts_half_ppr": 4.49,
         "pts_std": 3.84,
-        "updated_at": 1788396639224,
+        "updated_at": 1788413441110,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "7536",
+      "name": "Quintin Morris",
+      "position": "TE",
+      "team": "JAX",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 485,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "CLE",
+        "game_date": "2026-09-13",
+        "projected_points": 0.5,
+        "pts_ppr": 0.47,
+        "pts_half_ppr": 0.38,
+        "pts_std": 0.28,
+        "updated_at": 1788413441279,
         "company": "rotowire"
       }
     },
@@ -20567,7 +20545,7 @@
         "pts_ppr": 0.05,
         "pts_half_ppr": 0.04,
         "pts_std": 0.04,
-        "updated_at": 1788396639142,
+        "updated_at": 1788413441018,
         "company": "rotowire"
       }
     },
@@ -20699,7 +20677,7 @@
         "pts_ppr": 3.3,
         "pts_half_ppr": 3.12,
         "pts_std": 2.94,
-        "updated_at": 1788396639321,
+        "updated_at": 1788413441179,
         "company": "rotowire"
       }
     },
@@ -20831,7 +20809,7 @@
         "pts_ppr": 0.62,
         "pts_half_ppr": 0.49,
         "pts_std": 0.35,
-        "updated_at": 1788396639257,
+        "updated_at": 1788413441139,
         "company": "rotowire"
       }
     },
@@ -20941,7 +20919,7 @@
         "pts_ppr": 4.66,
         "pts_half_ppr": 3.71,
         "pts_std": 2.76,
-        "updated_at": 1788396639510,
+        "updated_at": 1788413441342,
         "company": "rotowire"
       }
     },
@@ -21161,7 +21139,7 @@
         "pts_ppr": 0.89,
         "pts_half_ppr": 0.69,
         "pts_std": 0.49,
-        "updated_at": 1788396639356,
+        "updated_at": 1788413441220,
         "company": "rotowire"
       }
     },
@@ -21227,7 +21205,29 @@
         "pts_ppr": 4.56,
         "pts_half_ppr": 3.59,
         "pts_std": 2.61,
-        "updated_at": 1788396639537,
+        "updated_at": 1788413441392,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "11911",
+      "name": "Jeshaun Jones",
+      "position": "WR",
+      "team": "MIN",
+      "status": "Active",
+      "injury_status": "Sus",
+      "search_rank": 496,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -21271,7 +21271,7 @@
         "pts_ppr": 0.01,
         "pts_half_ppr": 0.01,
         "pts_std": 0.01,
-        "updated_at": 1788396639607,
+        "updated_at": 1788413441423,
         "company": "rotowire"
       }
     },
@@ -21359,7 +21359,7 @@
         "pts_ppr": 0.15,
         "pts_half_ppr": 0.13,
         "pts_std": 0.11,
-        "updated_at": 1788396639717,
+        "updated_at": 1788413441517,
         "company": "rotowire"
       }
     },
@@ -21579,7 +21579,7 @@
         "pts_ppr": 2.65,
         "pts_half_ppr": 2.12,
         "pts_std": 1.59,
-        "updated_at": 1788396639412,
+        "updated_at": 1788413441254,
         "company": "rotowire"
       }
     },
@@ -21755,7 +21755,7 @@
         "pts_ppr": 1.46,
         "pts_half_ppr": 1.26,
         "pts_std": 1.06,
-        "updated_at": 1788396639240,
+        "updated_at": 1788413441110,
         "company": "rotowire"
       }
     },
@@ -21909,7 +21909,7 @@
         "pts_ppr": 0.18,
         "pts_half_ppr": 0.14,
         "pts_std": 0.11,
-        "updated_at": 1788396639430,
+        "updated_at": 1788413441275,
         "company": "rotowire"
       }
     },
@@ -21931,7 +21931,7 @@
         "pts_ppr": 1.31,
         "pts_half_ppr": 1.09,
         "pts_std": 0.86,
-        "updated_at": 1788396639655,
+        "updated_at": 1788413441461,
         "company": "rotowire"
       }
     },
@@ -21975,7 +21975,7 @@
         "pts_ppr": 5.47,
         "pts_half_ppr": 4.6,
         "pts_std": 3.73,
-        "updated_at": 1788396639157,
+        "updated_at": 1788413441030,
         "company": "rotowire"
       }
     },
@@ -22019,7 +22019,7 @@
         "pts_ppr": 4.83,
         "pts_half_ppr": 4.04,
         "pts_std": 3.24,
-        "updated_at": 1788396639433,
+        "updated_at": 1788413441278,
         "company": "rotowire"
       }
     },
@@ -22041,7 +22041,7 @@
         "pts_ppr": 0.65,
         "pts_half_ppr": 0.51,
         "pts_std": 0.37,
-        "updated_at": 1788396639159,
+        "updated_at": 1788413441032,
         "company": "rotowire"
       }
     },
@@ -22107,7 +22107,7 @@
         "pts_ppr": 1.75,
         "pts_half_ppr": 1.39,
         "pts_std": 1.02,
-        "updated_at": 1788396639400,
+        "updated_at": 1788413441266,
         "company": "rotowire"
       }
     },
@@ -22173,7 +22173,7 @@
         "pts_ppr": 5.22,
         "pts_half_ppr": 4.24,
         "pts_std": 3.27,
-        "updated_at": 1788396639158,
+        "updated_at": 1788413441032,
         "company": "rotowire"
       }
     },
@@ -22185,28 +22185,6 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 510,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "12817",
-      "name": "Jake Briningstool",
-      "position": "TE",
-      "team": "KC",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 511,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -22437,7 +22415,7 @@
         "pts_ppr": 1.82,
         "pts_half_ppr": 1.45,
         "pts_std": 1.09,
-        "updated_at": 1788396639167,
+        "updated_at": 1788413441043,
         "company": "rotowire"
       }
     },
@@ -22706,28 +22684,6 @@
       }
     },
     {
-      "player_id": "8107",
-      "name": "Nikola Kalinic",
-      "position": "TE",
-      "team": "CHI",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "search_rank": 518,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "1992",
       "name": "Allen Robinson",
       "position": "WR",
@@ -22833,7 +22789,7 @@
         "pts_ppr": 4.02,
         "pts_half_ppr": 3.14,
         "pts_std": 2.27,
-        "updated_at": 1788396639685,
+        "updated_at": 1788413441487,
         "company": "rotowire"
       }
     },
@@ -23053,7 +23009,7 @@
         "pts_ppr": 5.15,
         "pts_half_ppr": 4.53,
         "pts_std": 3.92,
-        "updated_at": 1788396639336,
+        "updated_at": 1788413441200,
         "company": "rotowire"
       }
     },
@@ -23141,7 +23097,29 @@
         "pts_ppr": 4.08,
         "pts_half_ppr": 3.28,
         "pts_std": 2.48,
-        "updated_at": 1788396639673,
+        "updated_at": 1788413441477,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "6964",
+      "name": "Sean McKeon",
+      "position": "TE",
+      "team": "IND",
+      "status": "Inactive",
+      "injury_status": "Questionable",
+      "search_rank": 524,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -23361,7 +23339,7 @@
         "pts_ppr": 0.48,
         "pts_half_ppr": 0.46,
         "pts_std": 0.44,
-        "updated_at": 1788396639324,
+        "updated_at": 1788413441180,
         "company": "rotowire"
       }
     },
@@ -23427,7 +23405,7 @@
         "pts_ppr": 1.24,
         "pts_half_ppr": 0.99,
         "pts_std": 0.73,
-        "updated_at": 1788396639260,
+        "updated_at": 1788413441125,
         "company": "rotowire"
       }
     },
@@ -23515,7 +23493,7 @@
         "pts_ppr": 4.95,
         "pts_half_ppr": 4.24,
         "pts_std": 3.53,
-        "updated_at": 1788396639712,
+        "updated_at": 1788413441512,
         "company": "rotowire"
       }
     },
@@ -23608,6 +23586,28 @@
       }
     },
     {
+      "player_id": "12901",
+      "name": "Patrick Herbert",
+      "position": "TE",
+      "team": "LAC",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 531,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "12500",
       "name": "Quinn Ewers",
       "position": "QB",
@@ -23669,7 +23669,7 @@
         "pts_ppr": 2.98,
         "pts_half_ppr": 2.46,
         "pts_std": 1.94,
-        "updated_at": 1788396639448,
+        "updated_at": 1788413441310,
         "company": "rotowire"
       }
     },
@@ -23801,7 +23801,7 @@
         "pts_ppr": 1.04,
         "pts_half_ppr": 0.82,
         "pts_std": 0.61,
-        "updated_at": 1788396639458,
+        "updated_at": 1788413441324,
         "company": "rotowire"
       }
     },
@@ -23867,7 +23867,7 @@
         "pts_ppr": 3.99,
         "pts_half_ppr": 3.46,
         "pts_std": 2.93,
-        "updated_at": 1788396639305,
+        "updated_at": 1788413441186,
         "company": "rotowire"
       }
     },
@@ -23982,6 +23982,28 @@
       }
     },
     {
+      "player_id": "12817",
+      "name": "Jake Briningstool",
+      "position": "TE",
+      "team": "KC",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 537,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "6960",
       "name": "Tyler Johnson",
       "position": "WR",
@@ -24055,6 +24077,28 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 539,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13580",
+      "name": "Carsen Ryan",
+      "position": "TE",
+      "team": "CLE",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 540,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -24153,7 +24197,7 @@
         "pts_ppr": 3.83,
         "pts_half_ppr": 3.17,
         "pts_std": 2.5,
-        "updated_at": 1788396639700,
+        "updated_at": 1788413441491,
         "company": "rotowire"
       }
     },
@@ -24470,28 +24514,6 @@
       "name": "Tyson Bagent",
       "position": "QB",
       "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 546,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13827",
-      "name": "Tanner Arkin",
-      "position": "TE",
-      "team": "NE",
       "status": "Active",
       "injury_status": null,
       "search_rank": 546,
@@ -24835,7 +24857,7 @@
         "pts_ppr": 2.12,
         "pts_half_ppr": 1.77,
         "pts_std": 1.41,
-        "updated_at": 1788396639164,
+        "updated_at": 1788413441025,
         "company": "rotowire"
       }
     },
@@ -25033,7 +25055,7 @@
         "pts_ppr": 0.5,
         "pts_half_ppr": 0.39,
         "pts_std": 0.28,
-        "updated_at": 1788396639550,
+        "updated_at": 1788413441376,
         "company": "rotowire"
       }
     },
@@ -25055,7 +25077,7 @@
         "pts_ppr": 1.05,
         "pts_half_ppr": 0.88,
         "pts_std": 0.7,
-        "updated_at": 1788396639153,
+        "updated_at": 1788413441030,
         "company": "rotowire"
       }
     },
@@ -25253,7 +25275,7 @@
         "pts_ppr": 2.54,
         "pts_half_ppr": 2.0,
         "pts_std": 1.47,
-        "updated_at": 1788396639353,
+        "updated_at": 1788413441215,
         "company": "rotowire"
       }
     },
@@ -25396,6 +25418,28 @@
       "team": null,
       "status": "Active",
       "injury_status": null,
+      "search_rank": 557,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "8107",
+      "name": "Nikola Kalinic",
+      "position": "TE",
+      "team": "CHI",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 557,
       "projection": {
         "week": 1,
@@ -25573,28 +25617,6 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 559,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "7559",
-      "name": "Ihmir Smith-Marsette",
-      "position": "WR",
-      "team": "ARI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 560,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -25891,7 +25913,7 @@
         "pts_ppr": 0.54,
         "pts_half_ppr": 0.43,
         "pts_std": 0.32,
-        "updated_at": 1788396639256,
+        "updated_at": 1788413441127,
         "company": "rotowire"
       }
     },
@@ -25957,7 +25979,7 @@
         "pts_ppr": 3.01,
         "pts_half_ppr": 2.37,
         "pts_std": 1.74,
-        "updated_at": 1788396639167,
+        "updated_at": 1788413441041,
         "company": "rotowire"
       }
     },
@@ -25966,28 +25988,6 @@
       "name": "Taysir Mack",
       "position": "WR",
       "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 565,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13580",
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
       "status": "Active",
       "injury_status": null,
       "search_rank": 565,
@@ -26243,7 +26243,7 @@
         "pts_ppr": 0.13,
         "pts_half_ppr": 0.1,
         "pts_std": 0.08,
-        "updated_at": 1788396639153,
+        "updated_at": 1788413441028,
         "company": "rotowire"
       }
     },
@@ -26309,7 +26309,7 @@
         "pts_ppr": 0.71,
         "pts_half_ppr": 0.58,
         "pts_std": 0.46,
-        "updated_at": 1788396639342,
+        "updated_at": 1788413441209,
         "company": "rotowire"
       }
     },
@@ -26683,7 +26683,7 @@
         "pts_ppr": 1.51,
         "pts_half_ppr": 1.15,
         "pts_std": 0.8,
-        "updated_at": 1788396639466,
+        "updated_at": 1788413441326,
         "company": "rotowire"
       }
     },
@@ -27321,7 +27321,7 @@
         "pts_ppr": 1.77,
         "pts_half_ppr": 1.38,
         "pts_std": 1.0,
-        "updated_at": 1788396639499,
+        "updated_at": 1788413441329,
         "company": "rotowire"
       }
     },
@@ -27399,6 +27399,28 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 593,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13827",
+      "name": "Tanner Arkin",
+      "position": "TE",
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 594,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -27497,7 +27519,7 @@
         "pts_ppr": 2.22,
         "pts_half_ppr": 1.75,
         "pts_std": 1.28,
-        "updated_at": 1788396639468,
+        "updated_at": 1788413441329,
         "company": "rotowire"
       }
     },
@@ -27629,7 +27651,7 @@
         "pts_ppr": 7.09,
         "pts_half_ppr": 7.09,
         "pts_std": 7.09,
-        "updated_at": 1788396639414,
+        "updated_at": 1788413441262,
         "company": "rotowire"
       }
     },
@@ -27651,7 +27673,7 @@
         "pts_ppr": 0.32,
         "pts_half_ppr": 0.27,
         "pts_std": 0.22,
-        "updated_at": 1788396639410,
+        "updated_at": 1788413441252,
         "company": "rotowire"
       }
     },
@@ -27739,7 +27761,7 @@
         "pts_ppr": 0.85,
         "pts_half_ppr": 0.67,
         "pts_std": 0.5,
-        "updated_at": 1788396639683,
+        "updated_at": 1788413441485,
         "company": "rotowire"
       }
     },
@@ -28179,7 +28201,7 @@
         "pts_ppr": 0.81,
         "pts_half_ppr": 0.64,
         "pts_std": 0.47,
-        "updated_at": 1788396639588,
+        "updated_at": 1788413441410,
         "company": "rotowire"
       }
     },
@@ -28245,7 +28267,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.19,
         "pts_std": 0.16,
-        "updated_at": 1788396639488,
+        "updated_at": 1788413441320,
         "company": "rotowire"
       }
     },
@@ -28663,7 +28685,7 @@
         "pts_ppr": 0.89,
         "pts_half_ppr": 0.75,
         "pts_std": 0.62,
-        "updated_at": 1788396639653,
+        "updated_at": 1788413441461,
         "company": "rotowire"
       }
     },
@@ -28685,7 +28707,7 @@
         "pts_ppr": 0.79,
         "pts_half_ppr": 0.61,
         "pts_std": 0.43,
-        "updated_at": 1788396639443,
+        "updated_at": 1788413441287,
         "company": "rotowire"
       }
     },
@@ -28839,7 +28861,7 @@
         "pts_ppr": 2.21,
         "pts_half_ppr": 1.75,
         "pts_std": 1.29,
-        "updated_at": 1788396639328,
+        "updated_at": 1788413441201,
         "company": "rotowire"
       }
     },
@@ -28949,7 +28971,7 @@
         "pts_ppr": 0.21,
         "pts_half_ppr": 0.18,
         "pts_std": 0.16,
-        "updated_at": 1788396639647,
+        "updated_at": 1788413441454,
         "company": "rotowire"
       }
     },
@@ -29037,7 +29059,7 @@
         "pts_ppr": 3.26,
         "pts_half_ppr": 2.7,
         "pts_std": 2.14,
-        "updated_at": 1788396639678,
+        "updated_at": 1788413441480,
         "company": "rotowire"
       }
     },
@@ -29125,7 +29147,7 @@
         "pts_ppr": 0.47,
         "pts_half_ppr": 0.37,
         "pts_std": 0.28,
-        "updated_at": 1788396639350,
+        "updated_at": 1788413441213,
         "company": "rotowire"
       }
     },
@@ -29345,7 +29367,7 @@
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1788396639553,
+        "updated_at": 1788413441367,
         "company": "rotowire"
       }
     },
@@ -29389,7 +29411,7 @@
         "pts_ppr": 2.15,
         "pts_half_ppr": 1.7,
         "pts_std": 1.25,
-        "updated_at": 1788396639573,
+        "updated_at": 1788413441383,
         "company": "rotowire"
       }
     },
@@ -29763,7 +29785,7 @@
         "pts_ppr": 1.98,
         "pts_half_ppr": 1.64,
         "pts_std": 1.3,
-        "updated_at": 1788396639313,
+        "updated_at": 1788413441193,
         "company": "rotowire"
       }
     },
@@ -29807,7 +29829,7 @@
         "pts_ppr": 0.34,
         "pts_half_ppr": 0.27,
         "pts_std": 0.2,
-        "updated_at": 1788396639717,
+        "updated_at": 1788413441507,
         "company": "rotowire"
       }
     },
@@ -29961,7 +29983,7 @@
         "pts_ppr": 0.33,
         "pts_half_ppr": 0.26,
         "pts_std": 0.19,
-        "updated_at": 1788396639657,
+        "updated_at": 1788413441459,
         "company": "rotowire"
       }
     },
@@ -30071,7 +30093,7 @@
         "pts_ppr": 2.06,
         "pts_half_ppr": 1.69,
         "pts_std": 1.32,
-        "updated_at": 1788396639642,
+        "updated_at": 1788413441449,
         "company": "rotowire"
       }
     },
@@ -30115,7 +30137,7 @@
         "pts_ppr": 7.21,
         "pts_half_ppr": 7.21,
         "pts_std": 7.21,
-        "updated_at": 1788396639580,
+        "updated_at": 1788413441389,
         "company": "rotowire"
       }
     },
@@ -30181,7 +30203,7 @@
         "pts_ppr": 1.96,
         "pts_half_ppr": 1.54,
         "pts_std": 1.12,
-        "updated_at": 1788396639534,
+        "updated_at": 1788413441390,
         "company": "rotowire"
       }
     },
@@ -30621,7 +30643,7 @@
         "pts_ppr": 0.21,
         "pts_half_ppr": 0.17,
         "pts_std": 0.14,
-        "updated_at": 1788396639565,
+        "updated_at": 1788413441389,
         "company": "rotowire"
       }
     },
@@ -30643,7 +30665,7 @@
         "pts_ppr": 0.14,
         "pts_half_ppr": 0.12,
         "pts_std": 0.1,
-        "updated_at": 1788396639508,
+        "updated_at": 1788413441337,
         "company": "rotowire"
       }
     },
@@ -30841,7 +30863,7 @@
         "pts_ppr": 0.77,
         "pts_half_ppr": 0.63,
         "pts_std": 0.49,
-        "updated_at": 1788396639397,
+        "updated_at": 1788413441255,
         "company": "rotowire"
       }
     },
@@ -31083,7 +31105,7 @@
         "pts_ppr": 0.05,
         "pts_half_ppr": 0.04,
         "pts_std": 0.03,
-        "updated_at": 1788396639265,
+        "updated_at": 1788413441129,
         "company": "rotowire"
       }
     },
@@ -31171,7 +31193,7 @@
         "pts_ppr": 3.35,
         "pts_half_ppr": 2.63,
         "pts_std": 1.92,
-        "updated_at": 1788396639407,
+        "updated_at": 1788413441256,
         "company": "rotowire"
       }
     },
@@ -31413,29 +31435,7 @@
         "pts_ppr": 2.62,
         "pts_half_ppr": 2.14,
         "pts_std": 1.67,
-        "updated_at": 1788396639147,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "4314",
-      "name": "Johnny Mundt",
-      "position": "TE",
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 644,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
+        "updated_at": 1788413441024,
         "company": "rotowire"
       }
     },
@@ -31501,7 +31501,7 @@
         "pts_ppr": 3.92,
         "pts_half_ppr": 3.13,
         "pts_std": 2.34,
-        "updated_at": 1788396639529,
+        "updated_at": 1788413441385,
         "company": "rotowire"
       }
     },
@@ -31743,7 +31743,7 @@
         "pts_ppr": 2.46,
         "pts_half_ppr": 1.95,
         "pts_std": 1.44,
-        "updated_at": 1788396639569,
+        "updated_at": 1788413441386,
         "company": "rotowire"
       }
     },
@@ -31875,7 +31875,7 @@
         "pts_ppr": 0.63,
         "pts_half_ppr": 0.51,
         "pts_std": 0.39,
-        "updated_at": 1788396639150,
+        "updated_at": 1788413441041,
         "company": "rotowire"
       }
     },
@@ -31941,7 +31941,7 @@
         "pts_ppr": 0.93,
         "pts_half_ppr": 0.77,
         "pts_std": 0.6,
-        "updated_at": 1788396639652,
+        "updated_at": 1788413441457,
         "company": "rotowire"
       }
     },
@@ -32007,7 +32007,7 @@
         "pts_ppr": 2.02,
         "pts_half_ppr": 1.71,
         "pts_std": 1.4,
-        "updated_at": 1788396639153,
+        "updated_at": 1788413441027,
         "company": "rotowire"
       }
     },
@@ -32029,7 +32029,7 @@
         "pts_ppr": 2.61,
         "pts_half_ppr": 2.07,
         "pts_std": 1.52,
-        "updated_at": 1788396639347,
+        "updated_at": 1788413441211,
         "company": "rotowire"
       }
     },
@@ -32161,7 +32161,7 @@
         "pts_ppr": 0.29,
         "pts_half_ppr": 0.25,
         "pts_std": 0.21,
-        "updated_at": 1788396639411,
+        "updated_at": 1788413441263,
         "company": "rotowire"
       }
     },
@@ -32249,7 +32249,7 @@
         "pts_ppr": 2.07,
         "pts_half_ppr": 1.66,
         "pts_std": 1.25,
-        "updated_at": 1788396639172,
+        "updated_at": 1788413441066,
         "company": "rotowire"
       }
     },
@@ -32271,7 +32271,7 @@
         "pts_ppr": 0.51,
         "pts_half_ppr": 0.43,
         "pts_std": 0.35,
-        "updated_at": 1788396639239,
+        "updated_at": 1788413441112,
         "company": "rotowire"
       }
     },
@@ -32337,7 +32337,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.2,
         "pts_std": 0.16,
-        "updated_at": 1788396639155,
+        "updated_at": 1788413441030,
         "company": "rotowire"
       }
     },
@@ -32513,7 +32513,7 @@
         "pts_ppr": 1.97,
         "pts_half_ppr": 1.64,
         "pts_std": 1.31,
-        "updated_at": 1788396639485,
+        "updated_at": 1788413441317,
         "company": "rotowire"
       }
     },
@@ -32799,7 +32799,7 @@
         "pts_ppr": 0.44,
         "pts_half_ppr": 0.38,
         "pts_std": 0.32,
-        "updated_at": 1788396639419,
+        "updated_at": 1788413441261,
         "company": "rotowire"
       }
     },
@@ -33129,7 +33129,7 @@
         "pts_ppr": 0.49,
         "pts_half_ppr": 0.39,
         "pts_std": 0.29,
-        "updated_at": 1788396639494,
+        "updated_at": 1788413441319,
         "company": "rotowire"
       }
     },
@@ -33261,7 +33261,7 @@
         "pts_ppr": 0.87,
         "pts_half_ppr": 0.79,
         "pts_std": 0.72,
-        "updated_at": 1788396639685,
+        "updated_at": 1788413441486,
         "company": "rotowire"
       }
     },
@@ -33349,7 +33349,7 @@
         "pts_ppr": 1.23,
         "pts_half_ppr": 0.97,
         "pts_std": 0.71,
-        "updated_at": 1788396639626,
+        "updated_at": 1788413441439,
         "company": "rotowire"
       }
     },
@@ -33358,28 +33358,6 @@
       "name": "Jaleel McLaughlin",
       "position": "RB",
       "team": "CLE",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 661,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "6045",
-      "name": "Gary Jennings",
-      "position": "WR",
-      "team": "LAC",
       "status": "Active",
       "injury_status": null,
       "search_rank": 661,
@@ -33437,7 +33415,7 @@
         "pts_ppr": 0.8,
         "pts_half_ppr": 0.63,
         "pts_std": 0.45,
-        "updated_at": 1788396639189,
+        "updated_at": 1788413441043,
         "company": "rotowire"
       }
     },
@@ -33459,7 +33437,7 @@
         "pts_ppr": 4.03,
         "pts_half_ppr": 3.2,
         "pts_std": 2.36,
-        "updated_at": 1788396639663,
+        "updated_at": 1788413441469,
         "company": "rotowire"
       }
     },
@@ -33503,7 +33481,7 @@
         "pts_ppr": 0.37,
         "pts_half_ppr": 0.31,
         "pts_std": 0.24,
-        "updated_at": 1788396639572,
+        "updated_at": 1788413441395,
         "company": "rotowire"
       }
     },
@@ -33657,7 +33635,7 @@
         "pts_ppr": 1.9,
         "pts_half_ppr": 1.58,
         "pts_std": 1.26,
-        "updated_at": 1788396639445,
+        "updated_at": 1788413441319,
         "company": "rotowire"
       }
     },
@@ -33679,7 +33657,7 @@
         "pts_ppr": 2.75,
         "pts_half_ppr": 2.15,
         "pts_std": 1.55,
-        "updated_at": 1788396639392,
+        "updated_at": 1788413441259,
         "company": "rotowire"
       }
     },
@@ -33855,7 +33833,7 @@
         "pts_ppr": 0.86,
         "pts_half_ppr": 0.67,
         "pts_std": 0.49,
-        "updated_at": 1788396639170,
+        "updated_at": 1788413441045,
         "company": "rotowire"
       }
     },
@@ -33921,7 +33899,7 @@
         "pts_ppr": 2.07,
         "pts_half_ppr": 1.72,
         "pts_std": 1.38,
-        "updated_at": 1788396639524,
+        "updated_at": 1788413441379,
         "company": "rotowire"
       }
     },
@@ -34591,7 +34569,7 @@
       "position": "WR",
       "team": "NO",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "search_rank": 667,
       "projection": {
         "week": 1,
@@ -34713,7 +34691,7 @@
         "pts_ppr": 3.13,
         "pts_half_ppr": 2.44,
         "pts_std": 1.75,
-        "updated_at": 1788396639587,
+        "updated_at": 1788413441405,
         "company": "rotowire"
       }
     },
@@ -34845,7 +34823,7 @@
         "pts_ppr": 1.51,
         "pts_half_ppr": 1.19,
         "pts_std": 0.87,
-        "updated_at": 1788396639623,
+        "updated_at": 1788413441437,
         "company": "rotowire"
       }
     },
@@ -34955,7 +34933,7 @@
         "pts_ppr": 0.58,
         "pts_half_ppr": 0.47,
         "pts_std": 0.36,
-        "updated_at": 1788396639334,
+        "updated_at": 1788413441197,
         "company": "rotowire"
       }
     },
@@ -35021,7 +34999,7 @@
         "pts_ppr": 1.37,
         "pts_half_ppr": 1.11,
         "pts_std": 0.84,
-        "updated_at": 1788396639250,
+        "updated_at": 1788413441117,
         "company": "rotowire"
       }
     },
@@ -35109,7 +35087,7 @@
         "pts_ppr": 0.25,
         "pts_half_ppr": 0.25,
         "pts_std": 0.25,
-        "updated_at": 1788396639514,
+        "updated_at": 1788413441371,
         "company": "rotowire"
       }
     },
@@ -35175,7 +35153,7 @@
         "pts_ppr": 0.88,
         "pts_half_ppr": 0.7,
         "pts_std": 0.53,
-        "updated_at": 1788396639165,
+        "updated_at": 1788413441041,
         "company": "rotowire"
       }
     },
@@ -35219,7 +35197,7 @@
         "pts_ppr": 1.18,
         "pts_half_ppr": 0.92,
         "pts_std": 0.66,
-        "updated_at": 1788396639577,
+        "updated_at": 1788413441385,
         "company": "rotowire"
       }
     },
@@ -35275,6 +35253,28 @@
       "status": "Inactive",
       "injury_status": "Questionable",
       "search_rank": 672,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "6045",
+      "name": "Gary Jennings",
+      "position": "WR",
+      "team": "LAC",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 673,
       "projection": {
         "week": 1,
         "season": "2026",
@@ -35351,7 +35351,7 @@
         "pts_ppr": 4.81,
         "pts_half_ppr": 3.92,
         "pts_std": 3.03,
-        "updated_at": 1788396639567,
+        "updated_at": 1788413441391,
         "company": "rotowire"
       }
     },
@@ -35395,7 +35395,7 @@
         "pts_ppr": 1.47,
         "pts_half_ppr": 1.16,
         "pts_std": 0.86,
-        "updated_at": 1788396639433,
+        "updated_at": 1788413441272,
         "company": "rotowire"
       }
     },
@@ -35483,7 +35483,7 @@
         "pts_ppr": 2.67,
         "pts_half_ppr": 2.24,
         "pts_std": 1.81,
-        "updated_at": 1788396639242,
+        "updated_at": 1788413441114,
         "company": "rotowire"
       }
     },
@@ -35615,7 +35615,7 @@
         "pts_ppr": 2.12,
         "pts_half_ppr": 1.72,
         "pts_std": 1.32,
-        "updated_at": 1788396639652,
+        "updated_at": 1788413441456,
         "company": "rotowire"
       }
     },
@@ -35791,7 +35791,7 @@
         "pts_ppr": 0.46,
         "pts_half_ppr": 0.37,
         "pts_std": 0.29,
-        "updated_at": 1788396639597,
+        "updated_at": 1788413441415,
         "company": "rotowire"
       }
     },
@@ -36033,7 +36033,7 @@
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1788396639231,
+        "updated_at": 1788413441114,
         "company": "rotowire"
       }
     },
@@ -36055,7 +36055,7 @@
         "pts_ppr": 0.87,
         "pts_half_ppr": 0.71,
         "pts_std": 0.55,
-        "updated_at": 1788396639156,
+        "updated_at": 1788413441032,
         "company": "rotowire"
       }
     },
@@ -36165,7 +36165,7 @@
         "pts_ppr": 2.83,
         "pts_half_ppr": 2.4,
         "pts_std": 1.96,
-        "updated_at": 1788396639245,
+        "updated_at": 1788413441121,
         "company": "rotowire"
       }
     },
@@ -36187,7 +36187,7 @@
         "pts_ppr": 2.03,
         "pts_half_ppr": 1.67,
         "pts_std": 1.31,
-        "updated_at": 1788396639567,
+        "updated_at": 1788413441376,
         "company": "rotowire"
       }
     },
@@ -36275,7 +36275,7 @@
         "pts_ppr": 4.2,
         "pts_half_ppr": 3.51,
         "pts_std": 2.82,
-        "updated_at": 1788396639389,
+        "updated_at": 1788413441243,
         "company": "rotowire"
       }
     },
@@ -36407,7 +36407,7 @@
         "pts_ppr": 4.9,
         "pts_half_ppr": 3.9,
         "pts_std": 2.91,
-        "updated_at": 1788396639427,
+        "updated_at": 1788413441279,
         "company": "rotowire"
       }
     },
@@ -36583,7 +36583,7 @@
         "pts_ppr": 0.25,
         "pts_half_ppr": 0.21,
         "pts_std": 0.17,
-        "updated_at": 1788396639145,
+        "updated_at": 1788413441021,
         "company": "rotowire"
       }
     },
@@ -36627,7 +36627,7 @@
         "pts_ppr": 4.31,
         "pts_half_ppr": 3.41,
         "pts_std": 2.5,
-        "updated_at": 1788396639730,
+        "updated_at": 1788413441527,
         "company": "rotowire"
       }
     },
@@ -36737,7 +36737,7 @@
         "pts_ppr": 2.1,
         "pts_half_ppr": 1.82,
         "pts_std": 1.54,
-        "updated_at": 1788396639342,
+        "updated_at": 1788413441204,
         "company": "rotowire"
       }
     },
@@ -36891,7 +36891,7 @@
         "pts_ppr": 4.94,
         "pts_half_ppr": 4.03,
         "pts_std": 3.12,
-        "updated_at": 1788396639324,
+        "updated_at": 1788413441200,
         "company": "rotowire"
       }
     },
@@ -36979,7 +36979,7 @@
         "pts_ppr": 3.21,
         "pts_half_ppr": 2.66,
         "pts_std": 2.1,
-        "updated_at": 1788396639486,
+        "updated_at": 1788413441317,
         "company": "rotowire"
       }
     },
@@ -37023,7 +37023,7 @@
         "pts_ppr": 1.63,
         "pts_half_ppr": 1.27,
         "pts_std": 0.91,
-        "updated_at": 1788396639497,
+        "updated_at": 1788413441327,
         "company": "rotowire"
       }
     },
@@ -37089,7 +37089,7 @@
         "pts_ppr": 1.15,
         "pts_half_ppr": 0.96,
         "pts_std": 0.77,
-        "updated_at": 1788396639478,
+        "updated_at": 1788413441311,
         "company": "rotowire"
       }
     },
@@ -37177,7 +37177,7 @@
         "pts_ppr": 1.55,
         "pts_half_ppr": 1.3,
         "pts_std": 1.05,
-        "updated_at": 1788396639722,
+        "updated_at": 1788413441521,
         "company": "rotowire"
       }
     },
@@ -37243,7 +37243,7 @@
         "pts_ppr": 2.39,
         "pts_half_ppr": 2.12,
         "pts_std": 1.85,
-        "updated_at": 1788396639142,
+        "updated_at": 1788413441019,
         "company": "rotowire"
       }
     },
@@ -37419,7 +37419,7 @@
         "pts_ppr": 1.98,
         "pts_half_ppr": 1.64,
         "pts_std": 1.29,
-        "updated_at": 1788396639504,
+        "updated_at": 1788413441340,
         "company": "rotowire"
       }
     },
@@ -37595,7 +37595,7 @@
         "pts_ppr": 6.48,
         "pts_half_ppr": 6.48,
         "pts_std": 6.48,
-        "updated_at": 1788396639363,
+        "updated_at": 1788413441223,
         "company": "rotowire"
       }
     },
@@ -37815,7 +37815,7 @@
         "pts_ppr": 0.24,
         "pts_half_ppr": 0.23,
         "pts_std": 0.21,
-        "updated_at": 1788396639324,
+        "updated_at": 1788413441191,
         "company": "rotowire"
       }
     },
@@ -37825,7 +37825,7 @@
       "position": "RB",
       "team": "TEN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "search_rank": 690,
       "projection": {
         "week": 1,
@@ -37925,7 +37925,7 @@
         "pts_ppr": 0.11,
         "pts_half_ppr": 0.09,
         "pts_std": 0.07,
-        "updated_at": 1788396639166,
+        "updated_at": 1788413441023,
         "company": "rotowire"
       }
     },
@@ -37969,7 +37969,7 @@
         "pts_ppr": 2.19,
         "pts_half_ppr": 1.89,
         "pts_std": 1.58,
-        "updated_at": 1788396639561,
+        "updated_at": 1788413441380,
         "company": "rotowire"
       }
     },
@@ -38035,7 +38035,7 @@
         "pts_ppr": 2.64,
         "pts_half_ppr": 2.08,
         "pts_std": 1.51,
-        "updated_at": 1788396639337,
+        "updated_at": 1788413441191,
         "company": "rotowire"
       }
     },
@@ -38145,7 +38145,7 @@
         "pts_ppr": 1.81,
         "pts_half_ppr": 1.42,
         "pts_std": 1.03,
-        "updated_at": 1788396639558,
+        "updated_at": 1788413441377,
         "company": "rotowire"
       }
     },
@@ -38233,7 +38233,7 @@
         "pts_ppr": 0.02,
         "pts_half_ppr": 0.02,
         "pts_std": 0.01,
-        "updated_at": 1788396639240,
+        "updated_at": 1788413441132,
         "company": "rotowire"
       }
     },
@@ -38585,7 +38585,7 @@
         "pts_ppr": 0.1,
         "pts_half_ppr": 0.1,
         "pts_std": 0.09,
-        "updated_at": 1788396639331,
+        "updated_at": 1788413441195,
         "company": "rotowire"
       }
     },
@@ -38629,7 +38629,7 @@
         "pts_ppr": 3.49,
         "pts_half_ppr": 2.8,
         "pts_std": 2.11,
-        "updated_at": 1788396639453,
+        "updated_at": 1788413441314,
         "company": "rotowire"
       }
     },
@@ -38651,7 +38651,7 @@
         "pts_ppr": 2.4,
         "pts_half_ppr": 1.98,
         "pts_std": 1.56,
-        "updated_at": 1788396639151,
+        "updated_at": 1788413441025,
         "company": "rotowire"
       }
     },
@@ -38739,7 +38739,7 @@
         "pts_ppr": 1.5,
         "pts_half_ppr": 1.24,
         "pts_std": 0.98,
-        "updated_at": 1788396639245,
+        "updated_at": 1788413441113,
         "company": "rotowire"
       }
     },
@@ -38827,7 +38827,7 @@
         "pts_ppr": 4.83,
         "pts_half_ppr": 3.94,
         "pts_std": 3.06,
-        "updated_at": 1788396639441,
+        "updated_at": 1788413441284,
         "company": "rotowire"
       }
     },
@@ -38959,7 +38959,7 @@
         "pts_ppr": 0.39,
         "pts_half_ppr": 0.32,
         "pts_std": 0.25,
-        "updated_at": 1788396639574,
+        "updated_at": 1788413441397,
         "company": "rotowire"
       }
     },
@@ -38968,6 +38968,28 @@
       "name": "Trent Sherfield",
       "position": "WR",
       "team": "BUF",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 699,
+      "projection": {
+        "week": 1,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "4314",
+      "name": "Johnny Mundt",
+      "position": "TE",
+      "team": "PHI",
       "status": "Active",
       "injury_status": null,
       "search_rank": 699,
@@ -40438,28 +40460,6 @@
       }
     },
     {
-      "player_id": "11806",
-      "name": "Casey Washington",
-      "position": "WR",
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 999,
-      "projection": {
-        "week": 1,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "6111",
       "name": "Jake Browning",
       "position": "QB",
@@ -41181,7 +41181,7 @@
         "pts_ppr": 0.0,
         "pts_half_ppr": 0.0,
         "pts_std": 0.0,
-        "updated_at": 1788396639666,
+        "updated_at": 1788413441470,
         "company": "rotowire"
       }
     },
@@ -41489,7 +41489,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.18,
         "pts_std": 0.14,
-        "updated_at": 1788396639253,
+        "updated_at": 1788413441129,
         "company": "rotowire"
       }
     },
@@ -41599,7 +41599,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.18,
         "pts_std": 0.12,
-        "updated_at": 1788396639576,
+        "updated_at": 1788413441389,
         "company": "rotowire"
       }
     },
@@ -41907,7 +41907,7 @@
         "pts_ppr": 1.25,
         "pts_half_ppr": 1.0,
         "pts_std": 0.75,
-        "updated_at": 1788396639435,
+        "updated_at": 1788413441274,
         "company": "rotowire"
       }
     },
@@ -46681,7 +46681,7 @@
         "pts_ppr": 0.17,
         "pts_half_ppr": 0.17,
         "pts_std": 0.17,
-        "updated_at": 1788396639203,
+        "updated_at": 1788413441080,
         "company": "rotowire"
       }
     },
@@ -67317,7 +67317,7 @@
         "pts_ppr": 1.06,
         "pts_half_ppr": 0.81,
         "pts_std": 0.57,
-        "updated_at": 1788396639584,
+        "updated_at": 1788413441403,
         "company": "rotowire"
       }
     },
@@ -71585,7 +71585,7 @@
         "pts_ppr": 5.61,
         "pts_half_ppr": 5.61,
         "pts_std": 5.61,
-        "updated_at": 1788396639229,
+        "updated_at": 1788413441100,
         "company": "rotowire"
       }
     },
@@ -71607,7 +71607,7 @@
         "pts_ppr": 4.41,
         "pts_half_ppr": 4.41,
         "pts_std": 4.41,
-        "updated_at": 1788396639553,
+        "updated_at": 1788413441379,
         "company": "rotowire"
       }
     },
@@ -71629,7 +71629,7 @@
         "pts_ppr": 7.34,
         "pts_half_ppr": 7.34,
         "pts_std": 7.34,
-        "updated_at": 1788396639583,
+        "updated_at": 1788413441406,
         "company": "rotowire"
       }
     },
@@ -71695,7 +71695,7 @@
         "pts_ppr": 6.51,
         "pts_half_ppr": 6.51,
         "pts_std": 6.51,
-        "updated_at": 1788396639323,
+        "updated_at": 1788413441191,
         "company": "rotowire"
       }
     },
@@ -71761,7 +71761,7 @@
         "pts_ppr": 6.69,
         "pts_half_ppr": 6.69,
         "pts_std": 6.69,
-        "updated_at": 1788396639602,
+        "updated_at": 1788413441421,
         "company": "rotowire"
       }
     },
@@ -71783,7 +71783,7 @@
         "pts_ppr": 4.81,
         "pts_half_ppr": 4.81,
         "pts_std": 4.81,
-        "updated_at": 1788396639537,
+        "updated_at": 1788413441356,
         "company": "rotowire"
       }
     },
@@ -71893,7 +71893,7 @@
         "pts_ppr": 5.55,
         "pts_half_ppr": 5.55,
         "pts_std": 5.55,
-        "updated_at": 1788396639226,
+        "updated_at": 1788413441101,
         "company": "rotowire"
       }
     },
@@ -71937,7 +71937,7 @@
         "pts_ppr": 5.16,
         "pts_half_ppr": 5.16,
         "pts_std": 5.16,
-        "updated_at": 1788396639316,
+        "updated_at": 1788413441184,
         "company": "rotowire"
       }
     },
@@ -72025,7 +72025,7 @@
         "pts_ppr": 5.91,
         "pts_half_ppr": 5.91,
         "pts_std": 5.91,
-        "updated_at": 1788396639422,
+        "updated_at": 1788413441270,
         "company": "rotowire"
       }
     },
@@ -72069,7 +72069,7 @@
         "pts_ppr": 6.03,
         "pts_half_ppr": 6.03,
         "pts_std": 6.03,
-        "updated_at": 1788396639435,
+        "updated_at": 1788413441299,
         "company": "rotowire"
       }
     },
@@ -72179,7 +72179,7 @@
         "pts_ppr": 4.82,
         "pts_half_ppr": 4.82,
         "pts_std": 4.82,
-        "updated_at": 1788396639379,
+        "updated_at": 1788413441228,
         "company": "rotowire"
       }
     },
@@ -72201,7 +72201,7 @@
         "pts_ppr": 6.79,
         "pts_half_ppr": 6.79,
         "pts_std": 6.79,
-        "updated_at": 1788396639466,
+        "updated_at": 1788413441305,
         "company": "rotowire"
       }
     },
@@ -72289,7 +72289,7 @@
         "pts_ppr": 6.29,
         "pts_half_ppr": 6.29,
         "pts_std": 6.29,
-        "updated_at": 1788396639656,
+        "updated_at": 1788413441463,
         "company": "rotowire"
       }
     },
@@ -72377,7 +72377,7 @@
         "pts_ppr": 6.38,
         "pts_half_ppr": 6.38,
         "pts_std": 6.38,
-        "updated_at": 1788396639295,
+        "updated_at": 1788413441177,
         "company": "rotowire"
       }
     },
@@ -72399,7 +72399,7 @@
         "pts_ppr": 5.75,
         "pts_half_ppr": 5.75,
         "pts_std": 5.75,
-        "updated_at": 1788396639226,
+        "updated_at": 1788413441109,
         "company": "rotowire"
       }
     },
@@ -72487,7 +72487,7 @@
         "pts_ppr": 5.72,
         "pts_half_ppr": 5.72,
         "pts_std": 5.72,
-        "updated_at": 1788396639677,
+        "updated_at": 1788413441478,
         "company": "rotowire"
       }
     },
@@ -72509,7 +72509,7 @@
         "pts_ppr": 7.22,
         "pts_half_ppr": 7.22,
         "pts_std": 7.22,
-        "updated_at": 1788396639398,
+        "updated_at": 1788413441250,
         "company": "rotowire"
       }
     },
@@ -72619,7 +72619,7 @@
         "pts_ppr": 6.21,
         "pts_half_ppr": 6.21,
         "pts_std": 6.21,
-        "updated_at": 1788396639134,
+        "updated_at": 1788413441012,
         "company": "rotowire"
       }
     },
@@ -72773,7 +72773,7 @@
         "pts_ppr": 7.67,
         "pts_half_ppr": 7.67,
         "pts_std": 7.67,
-        "updated_at": 1788396639699,
+        "updated_at": 1788413441499,
         "company": "rotowire"
       }
     },
