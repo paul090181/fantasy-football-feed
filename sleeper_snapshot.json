@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-04T18:21:17.649080+00:00",
+  "generated_at_utc": "2026-09-04T21:25:11.583238+00:00",
   "league_id": "1385955289206910976",
   "league": {
     "name": "ECMC Dawgpound ",
@@ -62,10 +62,6 @@
     },
     "avatar": "7875fdee403042a028f51ade493cb27c",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 509,
     "scoring_settings": {
       "sack": 1.0,
       "qb_hit": 0.0,
@@ -201,7 +197,12 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 509,
+    "sport": "nfl",
     "last_message_id": "1401398502671544320",
+    "draft_id": "1385955289219485696",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -211,14 +212,8 @@
     "last_message_time": 1788481949064,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1385955289219485696",
     "league_id": "1385955289206910976",
     "previous_league_id": "1252357606245142528",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -239,13 +234,18 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
     "week": 1,
     "leg": 1,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -555,7 +555,7 @@
             "pts_ppr": 10.93,
             "pts_half_ppr": 9.92,
             "pts_std": 8.91,
-            "updated_at": 1788545426102,
+            "updated_at": 1788556826982,
             "company": "rotowire"
           }
         },
@@ -578,7 +578,7 @@
             "pts_ppr": 10.68,
             "pts_half_ppr": 9.02,
             "pts_std": 7.37,
-            "updated_at": 1788545426173,
+            "updated_at": 1788556827070,
             "company": "rotowire"
           }
         },
@@ -601,7 +601,7 @@
             "pts_ppr": 4.32,
             "pts_half_ppr": 3.65,
             "pts_std": 2.98,
-            "updated_at": 1788545425957,
+            "updated_at": 1788556826842,
             "company": "rotowire"
           }
         },
@@ -624,7 +624,7 @@
             "pts_ppr": 7.91,
             "pts_half_ppr": 7.91,
             "pts_std": 7.91,
-            "updated_at": 1788545425866,
+            "updated_at": 1788556826736,
             "company": "rotowire"
           }
         },
@@ -647,7 +647,7 @@
             "pts_ppr": 11.0,
             "pts_half_ppr": 8.75,
             "pts_std": 6.5,
-            "updated_at": 1788545426308,
+            "updated_at": 1788556827206,
             "company": "rotowire"
           }
         },
@@ -670,7 +670,7 @@
             "pts_ppr": 10.88,
             "pts_half_ppr": 8.89,
             "pts_std": 6.89,
-            "updated_at": 1788545425860,
+            "updated_at": 1788556826727,
             "company": "rotowire"
           }
         },
@@ -693,7 +693,7 @@
             "pts_ppr": 10.13,
             "pts_half_ppr": 8.47,
             "pts_std": 6.81,
-            "updated_at": 1788545425914,
+            "updated_at": 1788556826786,
             "company": "rotowire"
           }
         },
@@ -716,7 +716,7 @@
             "pts_ppr": 13.9,
             "pts_half_ppr": 12.87,
             "pts_std": 11.83,
-            "updated_at": 1788545426014,
+            "updated_at": 1788556826900,
             "company": "rotowire"
           }
         },
@@ -739,7 +739,7 @@
             "pts_ppr": 15.64,
             "pts_half_ppr": 13.32,
             "pts_std": 10.99,
-            "updated_at": 1788545425834,
+            "updated_at": 1788556826699,
             "company": "rotowire"
           }
         },
@@ -762,7 +762,7 @@
             "pts_ppr": 19.73,
             "pts_half_ppr": 19.73,
             "pts_std": 19.73,
-            "updated_at": 1788545426097,
+            "updated_at": 1788556826978,
             "company": "rotowire"
           }
         },
@@ -785,7 +785,7 @@
             "pts_ppr": 8.07,
             "pts_half_ppr": 6.75,
             "pts_std": 5.44,
-            "updated_at": 1788545426166,
+            "updated_at": 1788556827056,
             "company": "rotowire"
           }
         },
@@ -808,7 +808,7 @@
             "pts_ppr": 20.1,
             "pts_half_ppr": 20.1,
             "pts_std": 20.1,
-            "updated_at": 1788545426030,
+            "updated_at": 1788556826912,
             "company": "rotowire"
           }
         },
@@ -831,7 +831,7 @@
             "pts_ppr": 19.74,
             "pts_half_ppr": 16.42,
             "pts_std": 13.11,
-            "updated_at": 1788545425836,
+            "updated_at": 1788556826701,
             "company": "rotowire"
           }
         },
@@ -854,7 +854,7 @@
             "pts_ppr": 16.57,
             "pts_half_ppr": 13.92,
             "pts_std": 11.27,
-            "updated_at": 1788545426222,
+            "updated_at": 1788556827106,
             "company": "rotowire"
           }
         },
@@ -877,7 +877,7 @@
             "pts_ppr": 15.98,
             "pts_half_ppr": 14.5,
             "pts_std": 13.02,
-            "updated_at": 1788545426291,
+            "updated_at": 1788556827191,
             "company": "rotowire"
           }
         },
@@ -900,7 +900,7 @@
             "pts_ppr": 13.67,
             "pts_half_ppr": 11.71,
             "pts_std": 9.75,
-            "updated_at": 1788545426115,
+            "updated_at": 1788556826997,
             "company": "rotowire"
           }
         },
@@ -923,7 +923,7 @@
             "pts_ppr": 9.12,
             "pts_half_ppr": 8.62,
             "pts_std": 8.11,
-            "updated_at": 1788545426162,
+            "updated_at": 1788556827052,
             "company": "rotowire"
           }
         },
@@ -946,7 +946,7 @@
             "pts_ppr": 8.47,
             "pts_half_ppr": 8.47,
             "pts_std": 8.47,
-            "updated_at": 1788545426028,
+            "updated_at": 1788556826910,
             "company": "rotowire"
           }
         }
@@ -1056,7 +1056,7 @@
             "pts_ppr": 11.33,
             "pts_half_ppr": 9.36,
             "pts_std": 7.38,
-            "updated_at": 1788545426184,
+            "updated_at": 1788556827082,
             "company": "rotowire"
           }
         },
@@ -1079,7 +1079,7 @@
             "pts_ppr": 20.83,
             "pts_half_ppr": 20.83,
             "pts_std": 20.83,
-            "updated_at": 1788545426154,
+            "updated_at": 1788556827039,
             "company": "rotowire"
           }
         },
@@ -1102,7 +1102,7 @@
             "pts_ppr": 3.85,
             "pts_half_ppr": 3.59,
             "pts_std": 3.33,
-            "updated_at": 1788545425990,
+            "updated_at": 1788556826866,
             "company": "rotowire"
           }
         },
@@ -1125,7 +1125,7 @@
             "pts_ppr": 9.61,
             "pts_half_ppr": 8.57,
             "pts_std": 7.54,
-            "updated_at": 1788545426083,
+            "updated_at": 1788556826961,
             "company": "rotowire"
           }
         },
@@ -1148,7 +1148,7 @@
             "pts_ppr": 13.78,
             "pts_half_ppr": 11.27,
             "pts_std": 8.76,
-            "updated_at": 1788545426289,
+            "updated_at": 1788556827187,
             "company": "rotowire"
           }
         },
@@ -1171,7 +1171,7 @@
             "pts_ppr": 13.31,
             "pts_half_ppr": 10.98,
             "pts_std": 8.65,
-            "updated_at": 1788545426238,
+            "updated_at": 1788556827146,
             "company": "rotowire"
           }
         },
@@ -1194,7 +1194,7 @@
             "pts_ppr": 7.51,
             "pts_half_ppr": 7.51,
             "pts_std": 7.51,
-            "updated_at": 1788545426068,
+            "updated_at": 1788556826947,
             "company": "rotowire"
           }
         },
@@ -1217,7 +1217,7 @@
             "pts_ppr": 11.58,
             "pts_half_ppr": 9.33,
             "pts_std": 7.08,
-            "updated_at": 1788545425995,
+            "updated_at": 1788556826873,
             "company": "rotowire"
           }
         },
@@ -1240,7 +1240,7 @@
             "pts_ppr": 3.9,
             "pts_half_ppr": 3.3,
             "pts_std": 2.69,
-            "updated_at": 1788545425996,
+            "updated_at": 1788556826878,
             "company": "rotowire"
           }
         },
@@ -1263,7 +1263,7 @@
             "pts_ppr": 9.47,
             "pts_half_ppr": 7.91,
             "pts_std": 6.35,
-            "updated_at": 1788545425986,
+            "updated_at": 1788556826863,
             "company": "rotowire"
           }
         },
@@ -1286,7 +1286,7 @@
             "pts_ppr": 3.85,
             "pts_half_ppr": 3.46,
             "pts_std": 3.07,
-            "updated_at": 1788545426286,
+            "updated_at": 1788556827186,
             "company": "rotowire"
           }
         },
@@ -1309,7 +1309,7 @@
             "pts_ppr": 12.28,
             "pts_half_ppr": 10.35,
             "pts_std": 8.42,
-            "updated_at": 1788545425840,
+            "updated_at": 1788556826696,
             "company": "rotowire"
           }
         },
@@ -1332,7 +1332,7 @@
             "pts_ppr": 15.68,
             "pts_half_ppr": 15.11,
             "pts_std": 14.55,
-            "updated_at": 1788545425828,
+            "updated_at": 1788556826692,
             "company": "rotowire"
           }
         },
@@ -1355,7 +1355,7 @@
             "pts_ppr": 8.42,
             "pts_half_ppr": 6.55,
             "pts_std": 4.69,
-            "updated_at": 1788545426172,
+            "updated_at": 1788556827063,
             "company": "rotowire"
           }
         },
@@ -1378,7 +1378,7 @@
             "pts_ppr": 19.42,
             "pts_half_ppr": 19.42,
             "pts_std": 19.42,
-            "updated_at": 1788545426156,
+            "updated_at": 1788556827045,
             "company": "rotowire"
           }
         },
@@ -1401,7 +1401,7 @@
             "pts_ppr": 9.58,
             "pts_half_ppr": 8.06,
             "pts_std": 6.54,
-            "updated_at": 1788545426026,
+            "updated_at": 1788556826911,
             "company": "rotowire"
           }
         },
@@ -1424,7 +1424,7 @@
             "pts_ppr": 21.53,
             "pts_half_ppr": 19.4,
             "pts_std": 17.27,
-            "updated_at": 1788545426064,
+            "updated_at": 1788556826945,
             "company": "rotowire"
           }
         },
@@ -1447,7 +1447,7 @@
             "pts_ppr": 7.63,
             "pts_half_ppr": 7.63,
             "pts_std": 7.63,
-            "updated_at": 1788545425820,
+            "updated_at": 1788556826684,
             "company": "rotowire"
           }
         }
@@ -1557,7 +1557,7 @@
             "pts_ppr": 20.33,
             "pts_half_ppr": 20.33,
             "pts_std": 20.33,
-            "updated_at": 1788545426214,
+            "updated_at": 1788556827112,
             "company": "rotowire"
           }
         },
@@ -1580,7 +1580,7 @@
             "pts_ppr": 8.52,
             "pts_half_ppr": 8.13,
             "pts_std": 7.74,
-            "updated_at": 1788545425830,
+            "updated_at": 1788556826689,
             "company": "rotowire"
           }
         },
@@ -1603,7 +1603,7 @@
             "pts_ppr": 16.03,
             "pts_half_ppr": 12.73,
             "pts_std": 9.44,
-            "updated_at": 1788545426224,
+            "updated_at": 1788556827111,
             "company": "rotowire"
           }
         },
@@ -1626,7 +1626,7 @@
             "pts_ppr": 12.08,
             "pts_half_ppr": 9.93,
             "pts_std": 7.77,
-            "updated_at": 1788545426090,
+            "updated_at": 1788556826967,
             "company": "rotowire"
           }
         },
@@ -1649,7 +1649,7 @@
             "pts_ppr": 7.57,
             "pts_half_ppr": 7.57,
             "pts_std": 7.57,
-            "updated_at": 1788545426181,
+            "updated_at": 1788556827070,
             "company": "rotowire"
           }
         },
@@ -1672,7 +1672,7 @@
             "pts_ppr": 3.69,
             "pts_half_ppr": 3.02,
             "pts_std": 2.35,
-            "updated_at": 1788545425862,
+            "updated_at": 1788556826727,
             "company": "rotowire"
           }
         },
@@ -1695,7 +1695,7 @@
             "pts_ppr": 11.32,
             "pts_half_ppr": 10.41,
             "pts_std": 9.51,
-            "updated_at": 1788545426035,
+            "updated_at": 1788556826917,
             "company": "rotowire"
           }
         },
@@ -1718,7 +1718,7 @@
             "pts_ppr": 13.49,
             "pts_half_ppr": 11.14,
             "pts_std": 8.8,
-            "updated_at": 1788545426161,
+            "updated_at": 1788556827043,
             "company": "rotowire"
           }
         },
@@ -1741,7 +1741,7 @@
             "pts_ppr": 4.67,
             "pts_half_ppr": 4.22,
             "pts_std": 3.77,
-            "updated_at": 1788545426211,
+            "updated_at": 1788556827096,
             "company": "rotowire"
           }
         },
@@ -1764,7 +1764,7 @@
             "pts_ppr": 4.11,
             "pts_half_ppr": 3.36,
             "pts_std": 2.61,
-            "updated_at": 1788545426274,
+            "updated_at": 1788556827174,
             "company": "rotowire"
           }
         },
@@ -1787,7 +1787,7 @@
             "pts_ppr": 13.64,
             "pts_half_ppr": 12.53,
             "pts_std": 11.41,
-            "updated_at": 1788545426148,
+            "updated_at": 1788556827031,
             "company": "rotowire"
           }
         },
@@ -1810,7 +1810,7 @@
             "pts_ppr": 19.8,
             "pts_half_ppr": 16.27,
             "pts_std": 12.75,
-            "updated_at": 1788545425983,
+            "updated_at": 1788556826860,
             "company": "rotowire"
           }
         },
@@ -1833,7 +1833,7 @@
             "pts_ppr": 9.47,
             "pts_half_ppr": 8.12,
             "pts_std": 6.76,
-            "updated_at": 1788545425906,
+            "updated_at": 1788556826775,
             "company": "rotowire"
           }
         },
@@ -1856,7 +1856,7 @@
             "pts_ppr": 15.48,
             "pts_half_ppr": 14.22,
             "pts_std": 12.96,
-            "updated_at": 1788545426214,
+            "updated_at": 1788556827097,
             "company": "rotowire"
           }
         },
@@ -1879,7 +1879,7 @@
             "pts_ppr": 10.57,
             "pts_half_ppr": 8.71,
             "pts_std": 6.85,
-            "updated_at": 1788545425835,
+            "updated_at": 1788556826700,
             "company": "rotowire"
           }
         },
@@ -1902,7 +1902,7 @@
             "pts_ppr": 9.85,
             "pts_half_ppr": 7.89,
             "pts_std": 5.92,
-            "updated_at": 1788545426055,
+            "updated_at": 1788556826937,
             "company": "rotowire"
           }
         },
@@ -1925,7 +1925,7 @@
             "pts_ppr": 18.79,
             "pts_half_ppr": 18.79,
             "pts_std": 18.79,
-            "updated_at": 1788545426262,
+            "updated_at": 1788556827157,
             "company": "rotowire"
           }
         },
@@ -1948,7 +1948,7 @@
             "pts_ppr": 7.27,
             "pts_half_ppr": 7.27,
             "pts_std": 7.27,
-            "updated_at": 1788545426153,
+            "updated_at": 1788556827041,
             "company": "rotowire"
           }
         }
@@ -2058,7 +2058,7 @@
             "pts_ppr": 13.49,
             "pts_half_ppr": 10.93,
             "pts_std": 8.37,
-            "updated_at": 1788545425988,
+            "updated_at": 1788556826864,
             "company": "rotowire"
           }
         },
@@ -2081,7 +2081,7 @@
             "pts_ppr": 7.91,
             "pts_half_ppr": 7.91,
             "pts_std": 7.91,
-            "updated_at": 1788545426231,
+            "updated_at": 1788556827118,
             "company": "rotowire"
           }
         },
@@ -2104,7 +2104,7 @@
             "pts_ppr": 11.8,
             "pts_half_ppr": 9.8,
             "pts_std": 7.8,
-            "updated_at": 1788545426063,
+            "updated_at": 1788556826944,
             "company": "rotowire"
           }
         },
@@ -2150,7 +2150,7 @@
             "pts_ppr": 1.93,
             "pts_half_ppr": 1.77,
             "pts_std": 1.62,
-            "updated_at": 1788545425906,
+            "updated_at": 1788556826777,
             "company": "rotowire"
           }
         },
@@ -2173,7 +2173,7 @@
             "pts_ppr": 8.0,
             "pts_half_ppr": 6.53,
             "pts_std": 5.05,
-            "updated_at": 1788545426102,
+            "updated_at": 1788556826980,
             "company": "rotowire"
           }
         },
@@ -2196,7 +2196,7 @@
             "pts_ppr": 20.34,
             "pts_half_ppr": 20.34,
             "pts_std": 20.34,
-            "updated_at": 1788545425972,
+            "updated_at": 1788556826848,
             "company": "rotowire"
           }
         },
@@ -2219,7 +2219,7 @@
             "pts_ppr": 7.43,
             "pts_half_ppr": 6.1,
             "pts_std": 4.77,
-            "updated_at": 1788545425982,
+            "updated_at": 1788556826858,
             "company": "rotowire"
           }
         },
@@ -2242,7 +2242,7 @@
             "pts_ppr": 20.05,
             "pts_half_ppr": 20.05,
             "pts_std": 20.05,
-            "updated_at": 1788545426223,
+            "updated_at": 1788556827127,
             "company": "rotowire"
           }
         },
@@ -2265,7 +2265,7 @@
             "pts_ppr": 10.99,
             "pts_half_ppr": 10.12,
             "pts_std": 9.24,
-            "updated_at": 1788545426219,
+            "updated_at": 1788556827120,
             "company": "rotowire"
           }
         },
@@ -2288,7 +2288,7 @@
             "pts_ppr": 12.47,
             "pts_half_ppr": 11.15,
             "pts_std": 9.83,
-            "updated_at": 1788545426118,
+            "updated_at": 1788556827003,
             "company": "rotowire"
           }
         },
@@ -2311,7 +2311,7 @@
             "pts_ppr": 3.64,
             "pts_half_ppr": 3.43,
             "pts_std": 3.23,
-            "updated_at": 1788545426272,
+            "updated_at": 1788556827166,
             "company": "rotowire"
           }
         },
@@ -2334,7 +2334,7 @@
             "pts_ppr": 17.38,
             "pts_half_ppr": 14.52,
             "pts_std": 11.67,
-            "updated_at": 1788545426022,
+            "updated_at": 1788556826906,
             "company": "rotowire"
           }
         },
@@ -2357,7 +2357,7 @@
             "pts_ppr": 9.62,
             "pts_half_ppr": 7.64,
             "pts_std": 5.67,
-            "updated_at": 1788545426296,
+            "updated_at": 1788556827194,
             "company": "rotowire"
           }
         },
@@ -2380,7 +2380,7 @@
             "pts_ppr": 14.36,
             "pts_half_ppr": 13.35,
             "pts_std": 12.34,
-            "updated_at": 1788545425825,
+            "updated_at": 1788556826692,
             "company": "rotowire"
           }
         },
@@ -2403,7 +2403,7 @@
             "pts_ppr": 5.03,
             "pts_half_ppr": 4.66,
             "pts_std": 4.28,
-            "updated_at": 1788545426066,
+            "updated_at": 1788556826947,
             "company": "rotowire"
           }
         },
@@ -2426,7 +2426,7 @@
             "pts_ppr": 8.26,
             "pts_half_ppr": 6.93,
             "pts_std": 5.59,
-            "updated_at": 1788545426217,
+            "updated_at": 1788556827103,
             "company": "rotowire"
           }
         },
@@ -2449,7 +2449,7 @@
             "pts_ppr": 9.07,
             "pts_half_ppr": 7.64,
             "pts_std": 6.2,
-            "updated_at": 1788545425899,
+            "updated_at": 1788556826769,
             "company": "rotowire"
           }
         },
@@ -2472,7 +2472,7 @@
             "pts_ppr": 7.12,
             "pts_half_ppr": 7.12,
             "pts_std": 7.12,
-            "updated_at": 1788545426008,
+            "updated_at": 1788556826895,
             "company": "rotowire"
           }
         }
@@ -2582,7 +2582,7 @@
             "pts_ppr": 8.07,
             "pts_half_ppr": 7.82,
             "pts_std": 7.56,
-            "updated_at": 1788545426032,
+            "updated_at": 1788556826914,
             "company": "rotowire"
           }
         },
@@ -2605,7 +2605,7 @@
             "pts_ppr": 10.48,
             "pts_half_ppr": 8.79,
             "pts_std": 7.1,
-            "updated_at": 1788545426043,
+            "updated_at": 1788556826926,
             "company": "rotowire"
           }
         },
@@ -2628,7 +2628,7 @@
             "pts_ppr": 3.74,
             "pts_half_ppr": 3.35,
             "pts_std": 2.95,
-            "updated_at": 1788545426275,
+            "updated_at": 1788556827168,
             "company": "rotowire"
           }
         },
@@ -2651,7 +2651,7 @@
             "pts_ppr": 6.72,
             "pts_half_ppr": 5.69,
             "pts_std": 4.67,
-            "updated_at": 1788545425976,
+            "updated_at": 1788556826851,
             "company": "rotowire"
           }
         },
@@ -2674,7 +2674,7 @@
             "pts_ppr": 13.76,
             "pts_half_ppr": 12.41,
             "pts_std": 11.06,
-            "updated_at": 1788545426279,
+            "updated_at": 1788556827173,
             "company": "rotowire"
           }
         },
@@ -2697,7 +2697,7 @@
             "pts_ppr": 7.93,
             "pts_half_ppr": 6.4,
             "pts_std": 4.88,
-            "updated_at": 1788545425913,
+            "updated_at": 1788556826786,
             "company": "rotowire"
           }
         },
@@ -2716,11 +2716,11 @@
             "season_type": "regular",
             "opponent": "ATL",
             "game_date": "2026-09-13",
-            "projected_points": 7.01,
-            "pts_ppr": 7.0,
-            "pts_half_ppr": 7.0,
-            "pts_std": 7.0,
-            "updated_at": 1788545426137,
+            "projected_points": 7.02,
+            "pts_ppr": 7.03,
+            "pts_half_ppr": 7.03,
+            "pts_std": 7.03,
+            "updated_at": 1788556827024,
             "company": "rotowire"
           }
         },
@@ -2743,7 +2743,7 @@
             "pts_ppr": 12.77,
             "pts_half_ppr": 10.82,
             "pts_std": 8.86,
-            "updated_at": 1788545425910,
+            "updated_at": 1788556826782,
             "company": "rotowire"
           }
         },
@@ -2766,7 +2766,7 @@
             "pts_ppr": 22.64,
             "pts_half_ppr": 22.64,
             "pts_std": 22.64,
-            "updated_at": 1788545425823,
+            "updated_at": 1788556826687,
             "company": "rotowire"
           }
         },
@@ -2789,7 +2789,7 @@
             "pts_ppr": 10.43,
             "pts_half_ppr": 8.5,
             "pts_std": 6.57,
-            "updated_at": 1788545426049,
+            "updated_at": 1788556826933,
             "company": "rotowire"
           }
         },
@@ -2812,7 +2812,7 @@
             "pts_ppr": 9.7,
             "pts_half_ppr": 7.55,
             "pts_std": 5.4,
-            "updated_at": 1788545426230,
+            "updated_at": 1788556827114,
             "company": "rotowire"
           }
         },
@@ -2835,7 +2835,7 @@
             "pts_ppr": 15.83,
             "pts_half_ppr": 13.19,
             "pts_std": 10.56,
-            "updated_at": 1788545426073,
+            "updated_at": 1788556826956,
             "company": "rotowire"
           }
         },
@@ -2858,7 +2858,7 @@
             "pts_ppr": 16.21,
             "pts_half_ppr": 13.27,
             "pts_std": 10.33,
-            "updated_at": 1788545426038,
+            "updated_at": 1788556826919,
             "company": "rotowire"
           }
         },
@@ -2881,7 +2881,7 @@
             "pts_ppr": 13.31,
             "pts_half_ppr": 11.74,
             "pts_std": 10.17,
-            "updated_at": 1788545426115,
+            "updated_at": 1788556827001,
             "company": "rotowire"
           }
         },
@@ -2904,7 +2904,7 @@
             "pts_ppr": 8.22,
             "pts_half_ppr": 6.54,
             "pts_std": 4.86,
-            "updated_at": 1788545426064,
+            "updated_at": 1788556826940,
             "company": "rotowire"
           }
         },
@@ -2927,7 +2927,7 @@
             "pts_ppr": 20.48,
             "pts_half_ppr": 16.84,
             "pts_std": 13.2,
-            "updated_at": 1788545425835,
+            "updated_at": 1788556826709,
             "company": "rotowire"
           }
         },
@@ -2950,7 +2950,7 @@
             "pts_ppr": 8.18,
             "pts_half_ppr": 6.84,
             "pts_std": 5.49,
-            "updated_at": 1788545426044,
+            "updated_at": 1788556826925,
             "company": "rotowire"
           }
         },
@@ -2973,7 +2973,7 @@
             "pts_ppr": 7.85,
             "pts_half_ppr": 7.85,
             "pts_std": 7.85,
-            "updated_at": 1788545425886,
+            "updated_at": 1788556826754,
             "company": "rotowire"
           }
         }
@@ -3083,7 +3083,7 @@
             "pts_ppr": 9.54,
             "pts_half_ppr": 8.0,
             "pts_std": 6.46,
-            "updated_at": 1788545426216,
+            "updated_at": 1788556827101,
             "company": "rotowire"
           }
         },
@@ -3106,7 +3106,7 @@
             "pts_ppr": 13.93,
             "pts_half_ppr": 11.31,
             "pts_std": 8.69,
-            "updated_at": 1788545425919,
+            "updated_at": 1788556826793,
             "company": "rotowire"
           }
         },
@@ -3129,7 +3129,7 @@
             "pts_ppr": 9.78,
             "pts_half_ppr": 9.25,
             "pts_std": 8.72,
-            "updated_at": 1788545425890,
+            "updated_at": 1788556826759,
             "company": "rotowire"
           }
         },
@@ -3152,7 +3152,7 @@
             "pts_ppr": 10.99,
             "pts_half_ppr": 8.87,
             "pts_std": 6.76,
-            "updated_at": 1788545425912,
+            "updated_at": 1788556826780,
             "company": "rotowire"
           }
         },
@@ -3198,7 +3198,7 @@
             "pts_ppr": 10.09,
             "pts_half_ppr": 8.22,
             "pts_std": 6.35,
-            "updated_at": 1788545425922,
+            "updated_at": 1788556826794,
             "company": "rotowire"
           }
         },
@@ -3221,7 +3221,7 @@
             "pts_ppr": 16.84,
             "pts_half_ppr": 14.13,
             "pts_std": 11.42,
-            "updated_at": 1788545425842,
+            "updated_at": 1788556826705,
             "company": "rotowire"
           }
         },
@@ -3244,7 +3244,7 @@
             "pts_ppr": 22.4,
             "pts_half_ppr": 22.4,
             "pts_std": 22.4,
-            "updated_at": 1788545425823,
+            "updated_at": 1788556826686,
             "company": "rotowire"
           }
         },
@@ -3267,7 +3267,7 @@
             "pts_ppr": 7.58,
             "pts_half_ppr": 7.58,
             "pts_std": 7.58,
-            "updated_at": 1788545425861,
+            "updated_at": 1788556826729,
             "company": "rotowire"
           }
         },
@@ -3290,7 +3290,7 @@
             "pts_ppr": 10.27,
             "pts_half_ppr": 8.69,
             "pts_std": 7.11,
-            "updated_at": 1788545426156,
+            "updated_at": 1788556827042,
             "company": "rotowire"
           }
         },
@@ -3313,7 +3313,7 @@
             "pts_ppr": 21.23,
             "pts_half_ppr": 21.23,
             "pts_std": 21.23,
-            "updated_at": 1788545425899,
+            "updated_at": 1788556826768,
             "company": "rotowire"
           }
         },
@@ -3336,7 +3336,7 @@
             "pts_ppr": 4.56,
             "pts_half_ppr": 4.27,
             "pts_std": 3.98,
-            "updated_at": 1788545426217,
+            "updated_at": 1788556827099,
             "company": "rotowire"
           }
         },
@@ -3359,7 +3359,7 @@
             "pts_ppr": 23.68,
             "pts_half_ppr": 21.38,
             "pts_std": 19.08,
-            "updated_at": 1788545425974,
+            "updated_at": 1788556826851,
             "company": "rotowire"
           }
         },
@@ -3382,7 +3382,7 @@
             "pts_ppr": 16.75,
             "pts_half_ppr": 14.65,
             "pts_std": 12.54,
-            "updated_at": 1788545425830,
+            "updated_at": 1788556826694,
             "company": "rotowire"
           }
         },
@@ -3405,7 +3405,7 @@
             "pts_ppr": 11.93,
             "pts_half_ppr": 9.98,
             "pts_std": 8.02,
-            "updated_at": 1788545426041,
+            "updated_at": 1788556826924,
             "company": "rotowire"
           }
         },
@@ -3428,7 +3428,7 @@
             "pts_ppr": 12.53,
             "pts_half_ppr": 10.17,
             "pts_std": 7.8,
-            "updated_at": 1788545425909,
+            "updated_at": 1788556826782,
             "company": "rotowire"
           }
         },
@@ -3451,7 +3451,7 @@
             "pts_ppr": 6.59,
             "pts_half_ppr": 5.96,
             "pts_std": 5.34,
-            "updated_at": 1788545426225,
+            "updated_at": 1788556827129,
             "company": "rotowire"
           }
         },
@@ -3474,7 +3474,7 @@
             "pts_ppr": 6.66,
             "pts_half_ppr": 6.66,
             "pts_std": 6.66,
-            "updated_at": 1788545425820,
+            "updated_at": 1788556826684,
             "company": "rotowire"
           }
         },
@@ -3493,11 +3493,11 @@
             "season_type": "regular",
             "opponent": "ATL",
             "game_date": "2026-09-13",
-            "projected_points": 8.96,
-            "pts_ppr": 7.97,
-            "pts_half_ppr": 7.97,
-            "pts_std": 7.97,
-            "updated_at": 1788545426111,
+            "projected_points": 8.98,
+            "pts_ppr": 8.01,
+            "pts_half_ppr": 8.01,
+            "pts_std": 8.01,
+            "updated_at": 1788556826996,
             "company": "rotowire"
           }
         }
@@ -3607,7 +3607,7 @@
             "pts_ppr": 9.41,
             "pts_half_ppr": 7.57,
             "pts_std": 5.73,
-            "updated_at": 1788545425969,
+            "updated_at": 1788556826855,
             "company": "rotowire"
           }
         },
@@ -3630,7 +3630,7 @@
             "pts_ppr": 11.52,
             "pts_half_ppr": 9.69,
             "pts_std": 7.86,
-            "updated_at": 1788545426156,
+            "updated_at": 1788556827038,
             "company": "rotowire"
           }
         },
@@ -3653,7 +3653,7 @@
             "pts_ppr": 9.83,
             "pts_half_ppr": 7.97,
             "pts_std": 6.11,
-            "updated_at": 1788545426043,
+            "updated_at": 1788556826926,
             "company": "rotowire"
           }
         },
@@ -3676,7 +3676,7 @@
             "pts_ppr": 7.41,
             "pts_half_ppr": 6.85,
             "pts_std": 6.29,
-            "updated_at": 1788545426145,
+            "updated_at": 1788556827029,
             "company": "rotowire"
           }
         },
@@ -3699,7 +3699,7 @@
             "pts_ppr": 13.32,
             "pts_half_ppr": 11.74,
             "pts_std": 10.16,
-            "updated_at": 1788545426171,
+            "updated_at": 1788556827067,
             "company": "rotowire"
           }
         },
@@ -3722,7 +3722,7 @@
             "pts_ppr": 1.54,
             "pts_half_ppr": 1.49,
             "pts_std": 1.43,
-            "updated_at": 1788545426050,
+            "updated_at": 1788556826932,
             "company": "rotowire"
           }
         },
@@ -3745,7 +3745,7 @@
             "pts_ppr": 21.11,
             "pts_half_ppr": 21.11,
             "pts_std": 21.11,
-            "updated_at": 1788545426212,
+            "updated_at": 1788556827095,
             "company": "rotowire"
           }
         },
@@ -3768,7 +3768,7 @@
             "pts_ppr": 3.33,
             "pts_half_ppr": 2.92,
             "pts_std": 2.5,
-            "updated_at": 1788545426030,
+            "updated_at": 1788556826911,
             "company": "rotowire"
           }
         },
@@ -3791,7 +3791,7 @@
             "pts_ppr": 17.13,
             "pts_half_ppr": 14.11,
             "pts_std": 11.08,
-            "updated_at": 1788545426221,
+            "updated_at": 1788556827103,
             "company": "rotowire"
           }
         },
@@ -3814,7 +3814,7 @@
             "pts_ppr": 16.77,
             "pts_half_ppr": 13.84,
             "pts_std": 10.91,
-            "updated_at": 1788545426164,
+            "updated_at": 1788556827054,
             "company": "rotowire"
           }
         },
@@ -3837,7 +3837,7 @@
             "pts_ppr": 10.75,
             "pts_half_ppr": 8.67,
             "pts_std": 6.59,
-            "updated_at": 1788545426122,
+            "updated_at": 1788556827008,
             "company": "rotowire"
           }
         },
@@ -3860,7 +3860,7 @@
             "pts_ppr": 21.92,
             "pts_half_ppr": 21.92,
             "pts_std": 21.92,
-            "updated_at": 1788545426102,
+            "updated_at": 1788556826983,
             "company": "rotowire"
           }
         },
@@ -3883,7 +3883,7 @@
             "pts_ppr": 8.47,
             "pts_half_ppr": 7.88,
             "pts_std": 7.29,
-            "updated_at": 1788545426169,
+            "updated_at": 1788556827065,
             "company": "rotowire"
           }
         },
@@ -3906,7 +3906,7 @@
             "pts_ppr": 13.9,
             "pts_half_ppr": 12.71,
             "pts_std": 11.53,
-            "updated_at": 1788545425985,
+            "updated_at": 1788556826861,
             "company": "rotowire"
           }
         },
@@ -3929,7 +3929,7 @@
             "pts_ppr": 8.04,
             "pts_half_ppr": 8.04,
             "pts_std": 8.04,
-            "updated_at": 1788545426251,
+            "updated_at": 1788556827160,
             "company": "rotowire"
           }
         },
@@ -3952,7 +3952,7 @@
             "pts_ppr": 7.85,
             "pts_half_ppr": 6.53,
             "pts_std": 5.21,
-            "updated_at": 1788545426119,
+            "updated_at": 1788556826999,
             "company": "rotowire"
           }
         },
@@ -3975,7 +3975,7 @@
             "pts_ppr": 1.73,
             "pts_half_ppr": 1.56,
             "pts_std": 1.38,
-            "updated_at": 1788545426032,
+            "updated_at": 1788556826913,
             "company": "rotowire"
           }
         },
@@ -3998,7 +3998,7 @@
             "pts_ppr": 7.4,
             "pts_half_ppr": 7.4,
             "pts_std": 7.4,
-            "updated_at": 1788545426212,
+            "updated_at": 1788556827110,
             "company": "rotowire"
           }
         }
@@ -4108,7 +4108,7 @@
             "pts_ppr": 21.45,
             "pts_half_ppr": 21.45,
             "pts_std": 21.45,
-            "updated_at": 1788545426141,
+            "updated_at": 1788556827024,
             "company": "rotowire"
           }
         },
@@ -4131,7 +4131,7 @@
             "pts_ppr": 8.41,
             "pts_half_ppr": 6.72,
             "pts_std": 5.03,
-            "updated_at": 1788545426277,
+            "updated_at": 1788556827177,
             "company": "rotowire"
           }
         },
@@ -4154,7 +4154,7 @@
             "pts_ppr": 15.62,
             "pts_half_ppr": 13.84,
             "pts_std": 12.06,
-            "updated_at": 1788545426227,
+            "updated_at": 1788556827132,
             "company": "rotowire"
           }
         },
@@ -4177,7 +4177,7 @@
             "pts_ppr": 12.24,
             "pts_half_ppr": 11.26,
             "pts_std": 10.29,
-            "updated_at": 1788545425980,
+            "updated_at": 1788556826856,
             "company": "rotowire"
           }
         },
@@ -4200,7 +4200,7 @@
             "pts_ppr": 11.67,
             "pts_half_ppr": 9.9,
             "pts_std": 8.13,
-            "updated_at": 1788545425920,
+            "updated_at": 1788556826789,
             "company": "rotowire"
           }
         },
@@ -4223,7 +4223,7 @@
             "pts_ppr": 10.05,
             "pts_half_ppr": 9.0,
             "pts_std": 7.96,
-            "updated_at": 1788545425826,
+            "updated_at": 1788556826691,
             "company": "rotowire"
           }
         },
@@ -4246,7 +4246,7 @@
             "pts_ppr": 4.03,
             "pts_half_ppr": 3.17,
             "pts_std": 2.32,
-            "updated_at": 1788545426008,
+            "updated_at": 1788556826887,
             "company": "rotowire"
           }
         },
@@ -4269,7 +4269,7 @@
             "pts_ppr": 7.79,
             "pts_half_ppr": 6.45,
             "pts_std": 5.11,
-            "updated_at": 1788545425994,
+            "updated_at": 1788556826870,
             "company": "rotowire"
           }
         },
@@ -4292,7 +4292,7 @@
             "pts_ppr": 6.9,
             "pts_half_ppr": 5.75,
             "pts_std": 4.6,
-            "updated_at": 1788545425918,
+            "updated_at": 1788556826790,
             "company": "rotowire"
           }
         },
@@ -4315,7 +4315,7 @@
             "pts_ppr": 7.7,
             "pts_half_ppr": 7.7,
             "pts_std": 7.7,
-            "updated_at": 1788545426039,
+            "updated_at": 1788556826925,
             "company": "rotowire"
           }
         },
@@ -4338,7 +4338,7 @@
             "pts_ppr": 19.31,
             "pts_half_ppr": 19.31,
             "pts_std": 19.31,
-            "updated_at": 1788545425822,
+            "updated_at": 1788556826686,
             "company": "rotowire"
           }
         },
@@ -4361,7 +4361,7 @@
             "pts_ppr": 9.35,
             "pts_half_ppr": 7.4,
             "pts_std": 5.45,
-            "updated_at": 1788545426033,
+            "updated_at": 1788556826917,
             "company": "rotowire"
           }
         },
@@ -4407,7 +4407,7 @@
             "pts_ppr": 19.57,
             "pts_half_ppr": 17.77,
             "pts_std": 15.97,
-            "updated_at": 1788545425902,
+            "updated_at": 1788556826773,
             "company": "rotowire"
           }
         },
@@ -4430,7 +4430,7 @@
             "pts_ppr": 10.43,
             "pts_half_ppr": 8.25,
             "pts_std": 6.06,
-            "updated_at": 1788545426047,
+            "updated_at": 1788556826930,
             "company": "rotowire"
           }
         },
@@ -4453,7 +4453,7 @@
             "pts_ppr": 11.76,
             "pts_half_ppr": 10.83,
             "pts_std": 9.9,
-            "updated_at": 1788545425828,
+            "updated_at": 1788556826693,
             "company": "rotowire"
           }
         },
@@ -4476,7 +4476,7 @@
             "pts_ppr": 4.41,
             "pts_half_ppr": 3.62,
             "pts_std": 2.84,
-            "updated_at": 1788545426231,
+            "updated_at": 1788556827131,
             "company": "rotowire"
           }
         },
@@ -4499,7 +4499,7 @@
             "pts_ppr": 7.25,
             "pts_half_ppr": 7.25,
             "pts_std": 7.25,
-            "updated_at": 1788545425820,
+            "updated_at": 1788556826684,
             "company": "rotowire"
           }
         }
@@ -4609,7 +4609,7 @@
             "pts_ppr": 14.49,
             "pts_half_ppr": 11.72,
             "pts_std": 8.96,
-            "updated_at": 1788545426300,
+            "updated_at": 1788556827200,
             "company": "rotowire"
           }
         },
@@ -4632,7 +4632,7 @@
             "pts_ppr": 21.35,
             "pts_half_ppr": 21.35,
             "pts_std": 21.35,
-            "updated_at": 1788545425822,
+            "updated_at": 1788556826686,
             "company": "rotowire"
           }
         },
@@ -4655,7 +4655,7 @@
             "pts_ppr": 9.91,
             "pts_half_ppr": 8.24,
             "pts_std": 6.57,
-            "updated_at": 1788545426107,
+            "updated_at": 1788556826987,
             "company": "rotowire"
           }
         },
@@ -4678,7 +4678,7 @@
             "pts_ppr": 13.8,
             "pts_half_ppr": 12.35,
             "pts_std": 10.9,
-            "updated_at": 1788545426209,
+            "updated_at": 1788556827094,
             "company": "rotowire"
           }
         },
@@ -4701,7 +4701,7 @@
             "pts_ppr": 6.8,
             "pts_half_ppr": 6.8,
             "pts_std": 6.8,
-            "updated_at": 1788545425861,
+            "updated_at": 1788556826726,
             "company": "rotowire"
           }
         },
@@ -4724,7 +4724,7 @@
             "pts_ppr": 5.11,
             "pts_half_ppr": 4.29,
             "pts_std": 3.47,
-            "updated_at": 1788545425854,
+            "updated_at": 1788556826709,
             "company": "rotowire"
           }
         },
@@ -4747,7 +4747,7 @@
             "pts_ppr": 5.38,
             "pts_half_ppr": 4.45,
             "pts_std": 3.52,
-            "updated_at": 1788545426272,
+            "updated_at": 1788556827172,
             "company": "rotowire"
           }
         },
@@ -4770,7 +4770,7 @@
             "pts_ppr": 3.12,
             "pts_half_ppr": 2.55,
             "pts_std": 1.99,
-            "updated_at": 1788545426174,
+            "updated_at": 1788556827057,
             "company": "rotowire"
           }
         },
@@ -4793,7 +4793,7 @@
             "pts_ppr": 2.6,
             "pts_half_ppr": 2.11,
             "pts_std": 1.63,
-            "updated_at": 1788545426070,
+            "updated_at": 1788556826952,
             "company": "rotowire"
           }
         },
@@ -4816,7 +4816,7 @@
             "pts_ppr": 1.65,
             "pts_half_ppr": 1.37,
             "pts_std": 1.08,
-            "updated_at": 1788545426292,
+            "updated_at": 1788556827204,
             "company": "rotowire"
           }
         },
@@ -4839,7 +4839,7 @@
             "pts_ppr": 11.41,
             "pts_half_ppr": 9.16,
             "pts_std": 6.92,
-            "updated_at": 1788545426170,
+            "updated_at": 1788556827053,
             "company": "rotowire"
           }
         },
@@ -4862,7 +4862,7 @@
             "pts_ppr": 21.03,
             "pts_half_ppr": 18.6,
             "pts_std": 16.16,
-            "updated_at": 1788545425901,
+            "updated_at": 1788556826771,
             "company": "rotowire"
           }
         },
@@ -4885,7 +4885,7 @@
             "pts_ppr": 14.76,
             "pts_half_ppr": 12.2,
             "pts_std": 9.65,
-            "updated_at": 1788545426235,
+            "updated_at": 1788556827136,
             "company": "rotowire"
           }
         },
@@ -4908,7 +4908,7 @@
             "pts_ppr": 10.29,
             "pts_half_ppr": 9.47,
             "pts_std": 8.64,
-            "updated_at": 1788545426085,
+            "updated_at": 1788556826963,
             "company": "rotowire"
           }
         },
@@ -4931,7 +4931,7 @@
             "pts_ppr": 10.86,
             "pts_half_ppr": 9.01,
             "pts_std": 7.16,
-            "updated_at": 1788545426120,
+            "updated_at": 1788556827004,
             "company": "rotowire"
           }
         },
@@ -4954,7 +4954,7 @@
             "pts_ppr": 11.24,
             "pts_half_ppr": 9.48,
             "pts_std": 7.72,
-            "updated_at": 1788545426170,
+            "updated_at": 1788556827061,
             "company": "rotowire"
           }
         },
@@ -4977,7 +4977,7 @@
             "pts_ppr": 18.45,
             "pts_half_ppr": 18.45,
             "pts_std": 18.45,
-            "updated_at": 1788545426011,
+            "updated_at": 1788556826897,
             "company": "rotowire"
           }
         },
@@ -5000,7 +5000,7 @@
             "pts_ppr": 7.73,
             "pts_half_ppr": 7.73,
             "pts_std": 7.73,
-            "updated_at": 1788545426100,
+            "updated_at": 1788556826981,
             "company": "rotowire"
           }
         }
@@ -5110,7 +5110,7 @@
             "pts_ppr": 13.13,
             "pts_half_ppr": 10.9,
             "pts_std": 8.68,
-            "updated_at": 1788545426113,
+            "updated_at": 1788556826995,
             "company": "rotowire"
           }
         },
@@ -5133,7 +5133,7 @@
             "pts_ppr": 8.09,
             "pts_half_ppr": 8.09,
             "pts_std": 8.09,
-            "updated_at": 1788545425991,
+            "updated_at": 1788556826868,
             "company": "rotowire"
           }
         },
@@ -5156,7 +5156,7 @@
             "pts_ppr": 12.15,
             "pts_half_ppr": 10.97,
             "pts_std": 9.79,
-            "updated_at": 1788545425905,
+            "updated_at": 1788556826773,
             "company": "rotowire"
           }
         },
@@ -5179,7 +5179,7 @@
             "pts_ppr": 8.05,
             "pts_half_ppr": 7.34,
             "pts_std": 6.62,
-            "updated_at": 1788545426015,
+            "updated_at": 1788556826902,
             "company": "rotowire"
           }
         },
@@ -5202,7 +5202,7 @@
             "pts_ppr": 10.19,
             "pts_half_ppr": 8.82,
             "pts_std": 7.45,
-            "updated_at": 1788545426222,
+            "updated_at": 1788556827123,
             "company": "rotowire"
           }
         },
@@ -5225,7 +5225,7 @@
             "pts_ppr": 6.78,
             "pts_half_ppr": 5.58,
             "pts_std": 4.38,
-            "updated_at": 1788545426285,
+            "updated_at": 1788556827183,
             "company": "rotowire"
           }
         },
@@ -5248,7 +5248,7 @@
             "pts_ppr": 9.41,
             "pts_half_ppr": 7.61,
             "pts_std": 5.81,
-            "updated_at": 1788545425857,
+            "updated_at": 1788556826710,
             "company": "rotowire"
           }
         },
@@ -5271,7 +5271,7 @@
             "pts_ppr": 19.81,
             "pts_half_ppr": 19.81,
             "pts_std": 19.81,
-            "updated_at": 1788545425888,
+            "updated_at": 1788556826757,
             "company": "rotowire"
           }
         },
@@ -5294,7 +5294,7 @@
             "pts_ppr": 23.26,
             "pts_half_ppr": 23.26,
             "pts_std": 23.26,
-            "updated_at": 1788545425948,
+            "updated_at": 1788556826833,
             "company": "rotowire"
           }
         },
@@ -5317,7 +5317,7 @@
             "pts_ppr": 10.04,
             "pts_half_ppr": 9.15,
             "pts_std": 8.26,
-            "updated_at": 1788545426049,
+            "updated_at": 1788556826930,
             "company": "rotowire"
           }
         },
@@ -5336,11 +5336,11 @@
             "season_type": "regular",
             "opponent": "PIT",
             "game_date": "2026-09-13",
-            "projected_points": 10.82,
+            "projected_points": 10.84,
             "pts_ppr": 10.87,
             "pts_half_ppr": 8.77,
             "pts_std": 6.66,
-            "updated_at": 1788545426079,
+            "updated_at": 1788556826963,
             "company": "rotowire"
           }
         },
@@ -5363,7 +5363,7 @@
             "pts_ppr": 7.57,
             "pts_half_ppr": 6.4,
             "pts_std": 5.22,
-            "updated_at": 1788545425840,
+            "updated_at": 1788556826704,
             "company": "rotowire"
           }
         },
@@ -5386,7 +5386,7 @@
             "pts_ppr": 15.58,
             "pts_half_ppr": 12.19,
             "pts_std": 8.8,
-            "updated_at": 1788545426187,
+            "updated_at": 1788556827086,
             "company": "rotowire"
           }
         },
@@ -5409,7 +5409,7 @@
             "pts_ppr": 9.14,
             "pts_half_ppr": 7.14,
             "pts_std": 5.14,
-            "updated_at": 1788545426183,
+            "updated_at": 1788556827066,
             "company": "rotowire"
           }
         },
@@ -5432,7 +5432,7 @@
             "pts_ppr": 19.69,
             "pts_half_ppr": 16.28,
             "pts_std": 12.86,
-            "updated_at": 1788545425901,
+            "updated_at": 1788556826771,
             "company": "rotowire"
           }
         },
@@ -5478,7 +5478,7 @@
             "pts_ppr": 11.08,
             "pts_half_ppr": 9.37,
             "pts_std": 7.66,
-            "updated_at": 1788545426241,
+            "updated_at": 1788556827149,
             "company": "rotowire"
           }
         },
@@ -5501,7 +5501,7 @@
             "pts_ppr": 15.62,
             "pts_half_ppr": 12.86,
             "pts_std": 10.11,
-            "updated_at": 1788545425842,
+            "updated_at": 1788556826707,
             "company": "rotowire"
           }
         },
@@ -5524,7 +5524,7 @@
             "pts_ppr": 7.45,
             "pts_half_ppr": 7.45,
             "pts_std": 7.45,
-            "updated_at": 1788545425970,
+            "updated_at": 1788556826846,
             "company": "rotowire"
           }
         }
@@ -5634,7 +5634,7 @@
             "pts_ppr": 7.34,
             "pts_half_ppr": 6.17,
             "pts_std": 5.0,
-            "updated_at": 1788545425922,
+            "updated_at": 1788556826791,
             "company": "rotowire"
           }
         },
@@ -5703,7 +5703,7 @@
             "pts_ppr": 21.61,
             "pts_half_ppr": 21.61,
             "pts_std": 21.61,
-            "updated_at": 1788545426271,
+            "updated_at": 1788556827164,
             "company": "rotowire"
           }
         },
@@ -5726,7 +5726,7 @@
             "pts_ppr": 14.0,
             "pts_half_ppr": 11.77,
             "pts_std": 9.55,
-            "updated_at": 1788545426094,
+            "updated_at": 1788556826971,
             "company": "rotowire"
           }
         },
@@ -5749,7 +5749,7 @@
             "pts_ppr": 6.03,
             "pts_half_ppr": 4.96,
             "pts_std": 3.89,
-            "updated_at": 1788545426121,
+            "updated_at": 1788556827001,
             "company": "rotowire"
           }
         },
@@ -5772,7 +5772,7 @@
             "pts_ppr": 7.91,
             "pts_half_ppr": 6.51,
             "pts_std": 5.1,
-            "updated_at": 1788545425903,
+            "updated_at": 1788556826773,
             "company": "rotowire"
           }
         },
@@ -5795,7 +5795,7 @@
             "pts_ppr": 9.12,
             "pts_half_ppr": 8.08,
             "pts_std": 7.03,
-            "updated_at": 1788545426160,
+            "updated_at": 1788556827049,
             "company": "rotowire"
           }
         },
@@ -5818,7 +5818,7 @@
             "pts_ppr": 14.92,
             "pts_half_ppr": 13.67,
             "pts_std": 12.42,
-            "updated_at": 1788545426109,
+            "updated_at": 1788556826990,
             "company": "rotowire"
           }
         },
@@ -5841,7 +5841,7 @@
             "pts_ppr": 9.75,
             "pts_half_ppr": 7.89,
             "pts_std": 6.03,
-            "updated_at": 1788545426123,
+            "updated_at": 1788556827004,
             "company": "rotowire"
           }
         },
@@ -5864,7 +5864,7 @@
             "pts_ppr": 7.11,
             "pts_half_ppr": 7.11,
             "pts_std": 7.11,
-            "updated_at": 1788545425930,
+            "updated_at": 1788556826800,
             "company": "rotowire"
           }
         },
@@ -5887,7 +5887,7 @@
             "pts_ppr": 14.87,
             "pts_half_ppr": 12.22,
             "pts_std": 9.57,
-            "updated_at": 1788545426116,
+            "updated_at": 1788556826997,
             "company": "rotowire"
           }
         },
@@ -5910,7 +5910,7 @@
             "pts_ppr": 11.39,
             "pts_half_ppr": 9.11,
             "pts_std": 6.83,
-            "updated_at": 1788545425962,
+            "updated_at": 1788556826847,
             "company": "rotowire"
           }
         },
@@ -5933,7 +5933,7 @@
             "pts_ppr": 8.83,
             "pts_half_ppr": 7.61,
             "pts_std": 6.4,
-            "updated_at": 1788545425917,
+            "updated_at": 1788556826790,
             "company": "rotowire"
           }
         },
@@ -5956,7 +5956,7 @@
             "pts_ppr": 13.53,
             "pts_half_ppr": 11.15,
             "pts_std": 8.77,
-            "updated_at": 1788545426001,
+            "updated_at": 1788556826871,
             "company": "rotowire"
           }
         },
@@ -5979,7 +5979,7 @@
             "pts_ppr": 13.91,
             "pts_half_ppr": 11.88,
             "pts_std": 9.85,
-            "updated_at": 1788545425982,
+            "updated_at": 1788556826858,
             "company": "rotowire"
           }
         },
@@ -6002,7 +6002,7 @@
             "pts_ppr": 4.97,
             "pts_half_ppr": 4.58,
             "pts_std": 4.19,
-            "updated_at": 1788545426106,
+            "updated_at": 1788556826987,
             "company": "rotowire"
           }
         },
@@ -6025,7 +6025,7 @@
             "pts_ppr": 17.47,
             "pts_half_ppr": 15.81,
             "pts_std": 14.15,
-            "updated_at": 1788545426266,
+            "updated_at": 1788556827165,
             "company": "rotowire"
           }
         },
@@ -6071,7 +6071,7 @@
             "pts_ppr": 6.8,
             "pts_half_ppr": 6.8,
             "pts_std": 6.8,
-            "updated_at": 1788545426139,
+            "updated_at": 1788556827022,
             "company": "rotowire"
           }
         }
@@ -6181,7 +6181,7 @@
             "pts_ppr": 3.89,
             "pts_half_ppr": 3.54,
             "pts_std": 3.19,
-            "updated_at": 1788545425954,
+            "updated_at": 1788556826837,
             "company": "rotowire"
           }
         },
@@ -6204,7 +6204,7 @@
             "pts_ppr": 9.32,
             "pts_half_ppr": 7.43,
             "pts_std": 5.55,
-            "updated_at": 1788545425909,
+            "updated_at": 1788556826782,
             "company": "rotowire"
           }
         },
@@ -6227,7 +6227,7 @@
             "pts_ppr": 9.8,
             "pts_half_ppr": 8.27,
             "pts_std": 6.75,
-            "updated_at": 1788545426294,
+            "updated_at": 1788556827193,
             "company": "rotowire"
           }
         },
@@ -6250,7 +6250,7 @@
             "pts_ppr": 14.17,
             "pts_half_ppr": 11.62,
             "pts_std": 9.07,
-            "updated_at": 1788545426169,
+            "updated_at": 1788556827051,
             "company": "rotowire"
           }
         },
@@ -6273,7 +6273,7 @@
             "pts_ppr": 3.59,
             "pts_half_ppr": 2.94,
             "pts_std": 2.29,
-            "updated_at": 1788545426044,
+            "updated_at": 1788556826928,
             "company": "rotowire"
           }
         },
@@ -6296,7 +6296,7 @@
             "pts_ppr": 10.81,
             "pts_half_ppr": 9.82,
             "pts_std": 8.84,
-            "updated_at": 1788545426159,
+            "updated_at": 1788556827044,
             "company": "rotowire"
           }
         },
@@ -6319,7 +6319,7 @@
             "pts_ppr": 2.86,
             "pts_half_ppr": 2.46,
             "pts_std": 2.06,
-            "updated_at": 1788545426218,
+            "updated_at": 1788556827118,
             "company": "rotowire"
           }
         },
@@ -6342,7 +6342,7 @@
             "pts_ppr": 7.75,
             "pts_half_ppr": 7.75,
             "pts_std": 7.75,
-            "updated_at": 1788545425910,
+            "updated_at": 1788556826784,
             "company": "rotowire"
           }
         },
@@ -6365,7 +6365,7 @@
             "pts_ppr": 19.22,
             "pts_half_ppr": 19.22,
             "pts_std": 19.22,
-            "updated_at": 1788545426283,
+            "updated_at": 1788556827184,
             "company": "rotowire"
           }
         },
@@ -6388,7 +6388,7 @@
             "pts_ppr": 7.22,
             "pts_half_ppr": 7.22,
             "pts_std": 7.22,
-            "updated_at": 1788545426309,
+            "updated_at": 1788556827211,
             "company": "rotowire"
           }
         },
@@ -6411,7 +6411,7 @@
             "pts_ppr": 19.81,
             "pts_half_ppr": 19.81,
             "pts_std": 19.81,
-            "updated_at": 1788545425902,
+            "updated_at": 1788556826771,
             "company": "rotowire"
           }
         },
@@ -6434,7 +6434,7 @@
             "pts_ppr": 12.09,
             "pts_half_ppr": 10.02,
             "pts_std": 7.96,
-            "updated_at": 1788545425960,
+            "updated_at": 1788556826844,
             "company": "rotowire"
           }
         },
@@ -6457,7 +6457,7 @@
             "pts_ppr": 10.6,
             "pts_half_ppr": 8.82,
             "pts_std": 7.03,
-            "updated_at": 1788545426233,
+            "updated_at": 1788556827133,
             "company": "rotowire"
           }
         },
@@ -6480,7 +6480,7 @@
             "pts_ppr": 11.9,
             "pts_half_ppr": 10.11,
             "pts_std": 8.31,
-            "updated_at": 1788545426119,
+            "updated_at": 1788556827006,
             "company": "rotowire"
           }
         },
@@ -6503,7 +6503,7 @@
             "pts_ppr": 13.62,
             "pts_half_ppr": 11.26,
             "pts_std": 8.9,
-            "updated_at": 1788545426181,
+            "updated_at": 1788556827063,
             "company": "rotowire"
           }
         },
@@ -6526,7 +6526,7 @@
             "pts_ppr": 15.04,
             "pts_half_ppr": 13.42,
             "pts_std": 11.81,
-            "updated_at": 1788545426036,
+            "updated_at": 1788556826917,
             "company": "rotowire"
           }
         },
@@ -6549,7 +6549,7 @@
             "pts_ppr": 17.11,
             "pts_half_ppr": 15.82,
             "pts_std": 14.52,
-            "updated_at": 1788545425951,
+            "updated_at": 1788556826835,
             "company": "rotowire"
           }
         },
@@ -6572,7 +6572,7 @@
             "pts_ppr": 7.45,
             "pts_half_ppr": 7.45,
             "pts_std": 7.45,
-            "updated_at": 1788545426221,
+            "updated_at": 1788556827125,
             "company": "rotowire"
           }
         }
@@ -6686,7 +6686,7 @@
         "pts_ppr": 4.84,
         "pts_half_ppr": 3.98,
         "pts_std": 3.13,
-        "updated_at": 1788545426249,
+        "updated_at": 1788556827158,
         "company": "rotowire"
       }
     },
@@ -6708,7 +6708,7 @@
         "pts_ppr": 19.55,
         "pts_half_ppr": 19.55,
         "pts_std": 19.55,
-        "updated_at": 1788545426028,
+        "updated_at": 1788556826908,
         "company": "rotowire"
       }
     },
@@ -6796,7 +6796,7 @@
         "pts_ppr": 17.12,
         "pts_half_ppr": 17.12,
         "pts_std": 17.12,
-        "updated_at": 1788545426041,
+        "updated_at": 1788556826923,
         "company": "rotowire"
       }
     },
@@ -7016,7 +7016,7 @@
         "pts_ppr": 18.11,
         "pts_half_ppr": 18.11,
         "pts_std": 18.11,
-        "updated_at": 1788545426080,
+        "updated_at": 1788556826958,
         "company": "rotowire"
       }
     },
@@ -7038,7 +7038,7 @@
         "pts_ppr": 18.01,
         "pts_half_ppr": 18.01,
         "pts_std": 18.01,
-        "updated_at": 1788545425900,
+        "updated_at": 1788556826770,
         "company": "rotowire"
       }
     },
@@ -7082,7 +7082,7 @@
         "pts_ppr": 3.98,
         "pts_half_ppr": 3.18,
         "pts_std": 2.37,
-        "updated_at": 1788545426247,
+        "updated_at": 1788556827156,
         "company": "rotowire"
       }
     },
@@ -7104,7 +7104,7 @@
         "pts_ppr": 5.42,
         "pts_half_ppr": 4.33,
         "pts_std": 3.25,
-        "updated_at": 1788545425857,
+        "updated_at": 1788556826734,
         "company": "rotowire"
       }
     },
@@ -7126,7 +7126,7 @@
         "pts_ppr": 5.63,
         "pts_half_ppr": 4.36,
         "pts_std": 3.1,
-        "updated_at": 1788545426004,
+        "updated_at": 1788556826883,
         "company": "rotowire"
       }
     },
@@ -7148,7 +7148,7 @@
         "pts_ppr": 1.0,
         "pts_half_ppr": 0.8,
         "pts_std": 0.6,
-        "updated_at": 1788545426126,
+        "updated_at": 1788556827008,
         "company": "rotowire"
       }
     },
@@ -7170,7 +7170,7 @@
         "pts_ppr": 1.31,
         "pts_half_ppr": 1.22,
         "pts_std": 1.13,
-        "updated_at": 1788545426228,
+        "updated_at": 1788556827134,
         "company": "rotowire"
       }
     },
@@ -7192,7 +7192,7 @@
         "pts_ppr": 3.66,
         "pts_half_ppr": 2.97,
         "pts_std": 2.27,
-        "updated_at": 1788545426294,
+        "updated_at": 1788556827192,
         "company": "rotowire"
       }
     },
@@ -7236,7 +7236,7 @@
         "pts_ppr": 7.42,
         "pts_half_ppr": 5.85,
         "pts_std": 4.28,
-        "updated_at": 1788545425924,
+        "updated_at": 1788556826794,
         "company": "rotowire"
       }
     },
@@ -7258,7 +7258,7 @@
         "pts_ppr": 7.78,
         "pts_half_ppr": 7.78,
         "pts_std": 7.78,
-        "updated_at": 1788545425864,
+        "updated_at": 1788556826731,
         "company": "rotowire"
       }
     },
@@ -7324,7 +7324,7 @@
         "pts_ppr": 7.21,
         "pts_half_ppr": 5.72,
         "pts_std": 4.23,
-        "updated_at": 1788545426070,
+        "updated_at": 1788556826952,
         "company": "rotowire"
       }
     },
@@ -7346,7 +7346,7 @@
         "pts_ppr": 3.74,
         "pts_half_ppr": 3.63,
         "pts_std": 3.51,
-        "updated_at": 1788545425909,
+        "updated_at": 1788556826777,
         "company": "rotowire"
       }
     },
@@ -7368,7 +7368,7 @@
         "pts_ppr": 1.06,
         "pts_half_ppr": 0.99,
         "pts_std": 0.93,
-        "updated_at": 1788545426161,
+        "updated_at": 1788556827046,
         "company": "rotowire"
       }
     },
@@ -7412,7 +7412,7 @@
         "pts_ppr": 2.42,
         "pts_half_ppr": 2.28,
         "pts_std": 2.13,
-        "updated_at": 1788545425891,
+        "updated_at": 1788556826761,
         "company": "rotowire"
       }
     },
@@ -7434,7 +7434,7 @@
         "pts_ppr": 6.48,
         "pts_half_ppr": 5.5,
         "pts_std": 4.52,
-        "updated_at": 1788545425992,
+        "updated_at": 1788556826873,
         "company": "rotowire"
       }
     },
@@ -7544,7 +7544,7 @@
         "pts_ppr": 2.72,
         "pts_half_ppr": 2.26,
         "pts_std": 1.8,
-        "updated_at": 1788545426226,
+        "updated_at": 1788556827127,
         "company": "rotowire"
       }
     },
@@ -7566,7 +7566,7 @@
         "pts_ppr": 7.34,
         "pts_half_ppr": 5.98,
         "pts_std": 4.61,
-        "updated_at": 1788545426229,
+        "updated_at": 1788556827129,
         "company": "rotowire"
       }
     },
@@ -7610,7 +7610,7 @@
         "pts_ppr": 3.55,
         "pts_half_ppr": 3.3,
         "pts_std": 3.05,
-        "updated_at": 1788545426100,
+        "updated_at": 1788556826980,
         "company": "rotowire"
       }
     },
@@ -7632,7 +7632,7 @@
         "pts_ppr": 7.19,
         "pts_half_ppr": 7.19,
         "pts_std": 7.19,
-        "updated_at": 1788545425942,
+        "updated_at": 1788556826799,
         "company": "rotowire"
       }
     },
@@ -7654,7 +7654,7 @@
         "pts_ppr": 2.8,
         "pts_half_ppr": 2.48,
         "pts_std": 2.17,
-        "updated_at": 1788545426263,
+        "updated_at": 1788556827159,
         "company": "rotowire"
       }
     },
@@ -7676,7 +7676,7 @@
         "pts_ppr": 3.21,
         "pts_half_ppr": 2.63,
         "pts_std": 2.04,
-        "updated_at": 1788545426058,
+        "updated_at": 1788556826939,
         "company": "rotowire"
       }
     },
@@ -7698,7 +7698,7 @@
         "pts_ppr": 1.01,
         "pts_half_ppr": 0.84,
         "pts_std": 0.67,
-        "updated_at": 1788545426158,
+        "updated_at": 1788556827047,
         "company": "rotowire"
       }
     },
@@ -7742,7 +7742,7 @@
         "pts_ppr": 6.9,
         "pts_half_ppr": 6.9,
         "pts_std": 6.9,
-        "updated_at": 1788545426245,
+        "updated_at": 1788556827144,
         "company": "rotowire"
       }
     },
@@ -7786,7 +7786,7 @@
         "pts_ppr": 2.17,
         "pts_half_ppr": 1.75,
         "pts_std": 1.32,
-        "updated_at": 1788545425920,
+        "updated_at": 1788556826792,
         "company": "rotowire"
       }
     },
@@ -7808,7 +7808,7 @@
         "pts_ppr": 5.94,
         "pts_half_ppr": 4.81,
         "pts_std": 3.68,
-        "updated_at": 1788545426234,
+        "updated_at": 1788556827139,
         "company": "rotowire"
       }
     },
@@ -7830,7 +7830,7 @@
         "pts_ppr": 17.16,
         "pts_half_ppr": 17.16,
         "pts_std": 17.16,
-        "updated_at": 1788545426167,
+        "updated_at": 1788556827061,
         "company": "rotowire"
       }
     },
@@ -7852,7 +7852,7 @@
         "pts_ppr": 6.57,
         "pts_half_ppr": 5.6,
         "pts_std": 4.63,
-        "updated_at": 1788545426052,
+        "updated_at": 1788556826935,
         "company": "rotowire"
       }
     },
@@ -7874,7 +7874,7 @@
         "pts_ppr": 0.86,
         "pts_half_ppr": 0.74,
         "pts_std": 0.61,
-        "updated_at": 1788545426288,
+        "updated_at": 1788556827188,
         "company": "rotowire"
       }
     },
@@ -7940,7 +7940,7 @@
         "pts_ppr": 5.01,
         "pts_half_ppr": 4.18,
         "pts_std": 3.35,
-        "updated_at": 1788545425986,
+        "updated_at": 1788556826862,
         "company": "rotowire"
       }
     },
@@ -7962,7 +7962,7 @@
         "pts_ppr": 2.91,
         "pts_half_ppr": 2.46,
         "pts_std": 2.0,
-        "updated_at": 1788545426061,
+        "updated_at": 1788556826942,
         "company": "rotowire"
       }
     },
@@ -7984,7 +7984,7 @@
         "pts_ppr": 17.63,
         "pts_half_ppr": 17.63,
         "pts_std": 17.63,
-        "updated_at": 1788545426113,
+        "updated_at": 1788556826999,
         "company": "rotowire"
       }
     },
@@ -8050,7 +8050,7 @@
         "pts_ppr": 1.53,
         "pts_half_ppr": 1.4,
         "pts_std": 1.28,
-        "updated_at": 1788545426034,
+        "updated_at": 1788556826915,
         "company": "rotowire"
       }
     },
@@ -8072,7 +8072,7 @@
         "pts_ppr": 5.06,
         "pts_half_ppr": 4.17,
         "pts_std": 3.29,
-        "updated_at": 1788545426029,
+        "updated_at": 1788556826913,
         "company": "rotowire"
       }
     },
@@ -8094,7 +8094,7 @@
         "pts_ppr": 7.32,
         "pts_half_ppr": 7.32,
         "pts_std": 7.32,
-        "updated_at": 1788545426171,
+        "updated_at": 1788556827053,
         "company": "rotowire"
       }
     },
@@ -8138,7 +8138,7 @@
         "pts_ppr": 5.21,
         "pts_half_ppr": 4.35,
         "pts_std": 3.48,
-        "updated_at": 1788545426287,
+        "updated_at": 1788556827185,
         "company": "rotowire"
       }
     },
@@ -8160,7 +8160,7 @@
         "pts_ppr": 5.39,
         "pts_half_ppr": 4.43,
         "pts_std": 3.48,
-        "updated_at": 1788545426127,
+        "updated_at": 1788556827016,
         "company": "rotowire"
       }
     },
@@ -8182,7 +8182,7 @@
         "pts_ppr": 0.27,
         "pts_half_ppr": 0.23,
         "pts_std": 0.19,
-        "updated_at": 1788545425831,
+        "updated_at": 1788556826696,
         "company": "rotowire"
       }
     },
@@ -8204,7 +8204,7 @@
         "pts_ppr": 3.15,
         "pts_half_ppr": 2.63,
         "pts_std": 2.12,
-        "updated_at": 1788545425914,
+        "updated_at": 1788556826782,
         "company": "rotowire"
       }
     },
@@ -8226,7 +8226,7 @@
         "pts_ppr": 7.77,
         "pts_half_ppr": 7.77,
         "pts_std": 7.77,
-        "updated_at": 1788545426122,
+        "updated_at": 1788556827006,
         "company": "rotowire"
       }
     },
@@ -8270,7 +8270,7 @@
         "pts_ppr": 3.52,
         "pts_half_ppr": 2.92,
         "pts_std": 2.31,
-        "updated_at": 1788545425897,
+        "updated_at": 1788556826767,
         "company": "rotowire"
       }
     },
@@ -8292,7 +8292,7 @@
         "pts_ppr": 7.26,
         "pts_half_ppr": 5.99,
         "pts_std": 4.72,
-        "updated_at": 1788545426218,
+        "updated_at": 1788556827101,
         "company": "rotowire"
       }
     },
@@ -8336,7 +8336,7 @@
         "pts_ppr": 0.98,
         "pts_half_ppr": 0.81,
         "pts_std": 0.64,
-        "updated_at": 1788545425833,
+        "updated_at": 1788556826697,
         "company": "rotowire"
       }
     },
@@ -8402,7 +8402,7 @@
         "pts_ppr": 16.49,
         "pts_half_ppr": 16.49,
         "pts_std": 16.49,
-        "updated_at": 1788545425982,
+        "updated_at": 1788556826856,
         "company": "rotowire"
       }
     },
@@ -8424,7 +8424,7 @@
         "pts_ppr": 4.4,
         "pts_half_ppr": 3.6,
         "pts_std": 2.8,
-        "updated_at": 1788545426220,
+        "updated_at": 1788556827105,
         "company": "rotowire"
       }
     },
@@ -8578,7 +8578,7 @@
         "pts_ppr": 1.66,
         "pts_half_ppr": 1.32,
         "pts_std": 0.98,
-        "updated_at": 1788545425864,
+        "updated_at": 1788556826729,
         "company": "rotowire"
       }
     },
@@ -8644,7 +8644,7 @@
         "pts_ppr": 5.18,
         "pts_half_ppr": 4.45,
         "pts_std": 3.73,
-        "updated_at": 1788545425825,
+        "updated_at": 1788556826689,
         "company": "rotowire"
       }
     },
@@ -8710,7 +8710,7 @@
         "pts_ppr": 6.71,
         "pts_half_ppr": 6.71,
         "pts_std": 6.71,
-        "updated_at": 1788545426128,
+        "updated_at": 1788556827010,
         "company": "rotowire"
       }
     },
@@ -8798,7 +8798,7 @@
         "pts_ppr": 1.7,
         "pts_half_ppr": 1.57,
         "pts_std": 1.43,
-        "updated_at": 1788545425904,
+        "updated_at": 1788556826775,
         "company": "rotowire"
       }
     },
@@ -8908,7 +8908,7 @@
         "pts_ppr": 7.34,
         "pts_half_ppr": 5.84,
         "pts_std": 4.35,
-        "updated_at": 1788545426135,
+        "updated_at": 1788556827022,
         "company": "rotowire"
       }
     },
@@ -8930,7 +8930,7 @@
         "pts_ppr": 7.41,
         "pts_half_ppr": 5.93,
         "pts_std": 4.46,
-        "updated_at": 1788545426283,
+        "updated_at": 1788556827184,
         "company": "rotowire"
       }
     },
@@ -9018,7 +9018,7 @@
         "pts_ppr": 18.33,
         "pts_half_ppr": 18.33,
         "pts_std": 18.33,
-        "updated_at": 1788545426061,
+        "updated_at": 1788556826942,
         "company": "rotowire"
       }
     },
@@ -9128,7 +9128,7 @@
         "pts_ppr": 7.51,
         "pts_half_ppr": 7.51,
         "pts_std": 7.51,
-        "updated_at": 1788545426229,
+        "updated_at": 1788556827119,
         "company": "rotowire"
       }
     },
@@ -9194,7 +9194,7 @@
         "pts_ppr": 6.23,
         "pts_half_ppr": 6.23,
         "pts_std": 6.23,
-        "updated_at": 1788545426285,
+        "updated_at": 1788556827186,
         "company": "rotowire"
       }
     },
@@ -9238,7 +9238,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.19,
         "pts_std": 0.17,
-        "updated_at": 1788545425988,
+        "updated_at": 1788556826865,
         "company": "rotowire"
       }
     },
@@ -9542,11 +9542,11 @@
         "season_type": "regular",
         "opponent": "PIT",
         "game_date": "2026-09-13",
-        "projected_points": 6.75,
-        "pts_ppr": 6.75,
-        "pts_half_ppr": 6.75,
-        "pts_std": 6.75,
-        "updated_at": 1788545426082,
+        "projected_points": 6.76,
+        "pts_ppr": 6.78,
+        "pts_half_ppr": 6.78,
+        "pts_std": 6.78,
+        "updated_at": 1788556826965,
         "company": "rotowire"
       }
     },
@@ -10294,7 +10294,7 @@
         "pts_ppr": 17.01,
         "pts_half_ppr": 17.01,
         "pts_std": 17.01,
-        "updated_at": 1788545426203,
+        "updated_at": 1788556827090,
         "company": "rotowire"
       }
     },
@@ -10690,7 +10690,7 @@
         "pts_ppr": 7.0,
         "pts_half_ppr": 7.0,
         "pts_std": 7.0,
-        "updated_at": 1788545425977,
+        "updated_at": 1788556826861,
         "company": "rotowire"
       }
     },
@@ -10998,7 +10998,7 @@
         "pts_ppr": 16.31,
         "pts_half_ppr": 16.31,
         "pts_std": 16.31,
-        "updated_at": 1788545425973,
+        "updated_at": 1788556826849,
         "company": "rotowire"
       }
     },
@@ -11922,7 +11922,7 @@
         "pts_ppr": 5.41,
         "pts_half_ppr": 5.41,
         "pts_std": 5.41,
-        "updated_at": 1788545425999,
+        "updated_at": 1788556826877,
         "company": "rotowire"
       }
     },
@@ -12142,7 +12142,7 @@
         "pts_ppr": 6.13,
         "pts_half_ppr": 6.13,
         "pts_std": 6.13,
-        "updated_at": 1788545426189,
+        "updated_at": 1788556827088,
         "company": "rotowire"
       }
     },
@@ -12230,7 +12230,7 @@
         "pts_ppr": 6.67,
         "pts_half_ppr": 6.67,
         "pts_std": 6.67,
-        "updated_at": 1788545426072,
+        "updated_at": 1788556826954,
         "company": "rotowire"
       }
     },
@@ -12296,7 +12296,7 @@
         "pts_ppr": 6.78,
         "pts_half_ppr": 6.78,
         "pts_std": 6.78,
-        "updated_at": 1788545426108,
+        "updated_at": 1788556826986,
         "company": "rotowire"
       }
     },
@@ -12384,7 +12384,7 @@
         "pts_ppr": 7.03,
         "pts_half_ppr": 7.03,
         "pts_std": 7.03,
-        "updated_at": 1788545426301,
+        "updated_at": 1788556827199,
         "company": "rotowire"
       }
     },
@@ -13484,7 +13484,7 @@
         "pts_ppr": 8.51,
         "pts_half_ppr": 8.51,
         "pts_std": 8.51,
-        "updated_at": 1788545425925,
+        "updated_at": 1788556826799,
         "company": "rotowire"
       }
     },
@@ -14232,7 +14232,7 @@
         "pts_ppr": 4.57,
         "pts_half_ppr": 3.59,
         "pts_std": 2.62,
-        "updated_at": 1788545425859,
+        "updated_at": 1788556826724,
         "company": "rotowire"
       }
     },
@@ -14298,7 +14298,7 @@
         "pts_ppr": 0.29,
         "pts_half_ppr": 0.23,
         "pts_std": 0.17,
-        "updated_at": 1788545426227,
+        "updated_at": 1788556827116,
         "company": "rotowire"
       }
     },
@@ -14738,7 +14738,7 @@
         "pts_ppr": 2.11,
         "pts_half_ppr": 1.73,
         "pts_std": 1.36,
-        "updated_at": 1788545426151,
+        "updated_at": 1788556827033,
         "company": "rotowire"
       }
     },
@@ -15222,7 +15222,7 @@
         "pts_ppr": 1.09,
         "pts_half_ppr": 0.91,
         "pts_std": 0.72,
-        "updated_at": 1788545425967,
+        "updated_at": 1788556826853,
         "company": "rotowire"
       }
     },
@@ -15310,7 +15310,7 @@
         "pts_ppr": 1.84,
         "pts_half_ppr": 1.65,
         "pts_std": 1.46,
-        "updated_at": 1788545425904,
+        "updated_at": 1788556826775,
         "company": "rotowire"
       }
     },
@@ -15750,7 +15750,7 @@
         "pts_ppr": 0.32,
         "pts_half_ppr": 0.27,
         "pts_std": 0.22,
-        "updated_at": 1788545425998,
+        "updated_at": 1788556826880,
         "company": "rotowire"
       }
     },
@@ -16102,7 +16102,7 @@
         "pts_ppr": 6.44,
         "pts_half_ppr": 5.05,
         "pts_std": 3.67,
-        "updated_at": 1788545425855,
+        "updated_at": 1788556826709,
         "company": "rotowire"
       }
     },
@@ -16344,7 +16344,7 @@
         "pts_ppr": 2.35,
         "pts_half_ppr": 1.83,
         "pts_std": 1.32,
-        "updated_at": 1788545426050,
+        "updated_at": 1788556826932,
         "company": "rotowire"
       }
     },
@@ -16454,7 +16454,7 @@
         "pts_ppr": 3.9,
         "pts_half_ppr": 3.19,
         "pts_std": 2.47,
-        "updated_at": 1788545425907,
+        "updated_at": 1788556826778,
         "company": "rotowire"
       }
     },
@@ -17048,7 +17048,7 @@
         "pts_ppr": 0.08,
         "pts_half_ppr": 0.07,
         "pts_std": 0.06,
-        "updated_at": 1788545426103,
+        "updated_at": 1788556826982,
         "company": "rotowire"
       }
     },
@@ -17356,7 +17356,7 @@
         "pts_ppr": 2.67,
         "pts_half_ppr": 2.11,
         "pts_std": 1.56,
-        "updated_at": 1788545426076,
+        "updated_at": 1788556826958,
         "company": "rotowire"
       }
     },
@@ -17532,7 +17532,7 @@
         "pts_ppr": 2.54,
         "pts_half_ppr": 2.07,
         "pts_std": 1.61,
-        "updated_at": 1788545426039,
+        "updated_at": 1788556826921,
         "company": "rotowire"
       }
     },
@@ -18016,7 +18016,7 @@
         "pts_ppr": 3.95,
         "pts_half_ppr": 3.07,
         "pts_std": 2.2,
-        "updated_at": 1788545426225,
+        "updated_at": 1788556827114,
         "company": "rotowire"
       }
     },
@@ -18148,7 +18148,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.18,
         "pts_std": 0.12,
-        "updated_at": 1788545426175,
+        "updated_at": 1788556827067,
         "company": "rotowire"
       }
     },
@@ -18610,7 +18610,7 @@
         "pts_ppr": 2.12,
         "pts_half_ppr": 1.66,
         "pts_std": 1.2,
-        "updated_at": 1788545425857,
+        "updated_at": 1788556826711,
         "company": "rotowire"
       }
     },
@@ -18918,7 +18918,7 @@
         "pts_ppr": 1.09,
         "pts_half_ppr": 0.89,
         "pts_std": 0.69,
-        "updated_at": 1788545426291,
+        "updated_at": 1788556827189,
         "company": "rotowire"
       }
     },
@@ -19072,7 +19072,7 @@
         "pts_ppr": 5.07,
         "pts_half_ppr": 4.35,
         "pts_std": 3.62,
-        "updated_at": 1788545426104,
+        "updated_at": 1788556826985,
         "company": "rotowire"
       }
     },
@@ -19138,7 +19138,7 @@
         "pts_ppr": 3.68,
         "pts_half_ppr": 3.19,
         "pts_std": 2.7,
-        "updated_at": 1788545426224,
+        "updated_at": 1788556827108,
         "company": "rotowire"
       }
     },
@@ -19248,7 +19248,7 @@
         "pts_ppr": 5.49,
         "pts_half_ppr": 4.71,
         "pts_std": 3.94,
-        "updated_at": 1788545425825,
+        "updated_at": 1788556826689,
         "company": "rotowire"
       }
     },
@@ -19380,7 +19380,7 @@
         "pts_ppr": 2.7,
         "pts_half_ppr": 2.18,
         "pts_std": 1.65,
-        "updated_at": 1788545426041,
+        "updated_at": 1788556826923,
         "company": "rotowire"
       }
     },
@@ -19446,7 +19446,7 @@
         "pts_ppr": 2.63,
         "pts_half_ppr": 2.31,
         "pts_std": 1.99,
-        "updated_at": 1788545426268,
+        "updated_at": 1788556827168,
         "company": "rotowire"
       }
     },
@@ -19820,7 +19820,7 @@
         "pts_ppr": 3.97,
         "pts_half_ppr": 3.02,
         "pts_std": 2.07,
-        "updated_at": 1788545426240,
+        "updated_at": 1788556827140,
         "company": "rotowire"
       }
     },
@@ -19886,7 +19886,7 @@
         "pts_ppr": 5.6,
         "pts_half_ppr": 4.96,
         "pts_std": 4.32,
-        "updated_at": 1788545425894,
+        "updated_at": 1788556826764,
         "company": "rotowire"
       }
     },
@@ -20282,7 +20282,7 @@
         "pts_ppr": 4.66,
         "pts_half_ppr": 3.71,
         "pts_std": 2.76,
-        "updated_at": 1788545426130,
+        "updated_at": 1788556827018,
         "company": "rotowire"
       }
     },
@@ -20502,7 +20502,7 @@
         "pts_ppr": 0.18,
         "pts_half_ppr": 0.18,
         "pts_std": 0.18,
-        "updated_at": 1788545425824,
+        "updated_at": 1788556826689,
         "company": "rotowire"
       }
     },
@@ -20524,7 +20524,7 @@
         "pts_ppr": 0.11,
         "pts_half_ppr": 0.09,
         "pts_std": 0.06,
-        "updated_at": 1788545426209,
+        "updated_at": 1788556827105,
         "company": "rotowire"
       }
     },
@@ -20634,7 +20634,7 @@
         "pts_ppr": 0.48,
         "pts_half_ppr": 0.37,
         "pts_std": 0.27,
-        "updated_at": 1788545425905,
+        "updated_at": 1788556826776,
         "company": "rotowire"
       }
     },
@@ -20656,7 +20656,7 @@
         "pts_ppr": 4.56,
         "pts_half_ppr": 3.59,
         "pts_std": 2.61,
-        "updated_at": 1788545426166,
+        "updated_at": 1788556827049,
         "company": "rotowire"
       }
     },
@@ -20788,7 +20788,7 @@
         "pts_ppr": 0.62,
         "pts_half_ppr": 0.49,
         "pts_std": 0.35,
-        "updated_at": 1788545425925,
+        "updated_at": 1788556826797,
         "company": "rotowire"
       }
     },
@@ -20898,7 +20898,7 @@
         "pts_ppr": 0.01,
         "pts_half_ppr": 0.01,
         "pts_std": 0.01,
-        "updated_at": 1788545426222,
+        "updated_at": 1788556827108,
         "company": "rotowire"
       }
     },
@@ -21140,7 +21140,7 @@
         "pts_ppr": 6.42,
         "pts_half_ppr": 5.22,
         "pts_std": 4.01,
-        "updated_at": 1788545425836,
+        "updated_at": 1788556826703,
         "company": "rotowire"
       }
     },
@@ -21184,7 +21184,7 @@
         "pts_ppr": 2.81,
         "pts_half_ppr": 2.28,
         "pts_std": 1.75,
-        "updated_at": 1788545426039,
+        "updated_at": 1788556826921,
         "company": "rotowire"
       }
     },
@@ -21228,7 +21228,7 @@
         "pts_ppr": 3.56,
         "pts_half_ppr": 3.38,
         "pts_std": 3.2,
-        "updated_at": 1788545425977,
+        "updated_at": 1788556826853,
         "company": "rotowire"
       }
     },
@@ -21360,7 +21360,7 @@
         "pts_ppr": 0.15,
         "pts_half_ppr": 0.13,
         "pts_std": 0.11,
-        "updated_at": 1788545426299,
+        "updated_at": 1788556827197,
         "company": "rotowire"
       }
     },
@@ -21404,7 +21404,7 @@
         "pts_ppr": 5.47,
         "pts_half_ppr": 4.6,
         "pts_std": 3.73,
-        "updated_at": 1788545425842,
+        "updated_at": 1788556826704,
         "company": "rotowire"
       }
     },
@@ -21558,7 +21558,7 @@
         "pts_ppr": 4.83,
         "pts_half_ppr": 4.04,
         "pts_std": 3.24,
-        "updated_at": 1788545426072,
+        "updated_at": 1788556826954,
         "company": "rotowire"
       }
     },
@@ -21734,7 +21734,7 @@
         "pts_ppr": 1.31,
         "pts_half_ppr": 1.09,
         "pts_std": 0.86,
-        "updated_at": 1788545426230,
+        "updated_at": 1788556827136,
         "company": "rotowire"
       }
     },
@@ -21778,7 +21778,7 @@
         "pts_ppr": 1.46,
         "pts_half_ppr": 1.26,
         "pts_std": 1.06,
-        "updated_at": 1788545425907,
+        "updated_at": 1788556826778,
         "company": "rotowire"
       }
     },
@@ -21932,7 +21932,7 @@
         "pts_ppr": 0.18,
         "pts_half_ppr": 0.14,
         "pts_std": 0.11,
-        "updated_at": 1788545426068,
+        "updated_at": 1788556826950,
         "company": "rotowire"
       }
     },
@@ -22042,7 +22042,7 @@
         "pts_ppr": 0.65,
         "pts_half_ppr": 0.51,
         "pts_std": 0.37,
-        "updated_at": 1788545425844,
+        "updated_at": 1788556826706,
         "company": "rotowire"
       }
     },
@@ -22108,7 +22108,7 @@
         "pts_ppr": 1.82,
         "pts_half_ppr": 1.45,
         "pts_std": 1.09,
-        "updated_at": 1788545425856,
+        "updated_at": 1788556826712,
         "company": "rotowire"
       }
     },
@@ -22196,7 +22196,7 @@
         "pts_ppr": 4.02,
         "pts_half_ppr": 3.14,
         "pts_std": 2.27,
-        "updated_at": 1788545426281,
+        "updated_at": 1788556827182,
         "company": "rotowire"
       }
     },
@@ -22526,7 +22526,7 @@
         "pts_ppr": 4.78,
         "pts_half_ppr": 4.17,
         "pts_std": 3.55,
-        "updated_at": 1788545425983,
+        "updated_at": 1788556826859,
         "company": "rotowire"
       }
     },
@@ -22570,7 +22570,7 @@
         "pts_ppr": 1.04,
         "pts_half_ppr": 0.81,
         "pts_std": 0.59,
-        "updated_at": 1788545426217,
+        "updated_at": 1788556827115,
         "company": "rotowire"
       }
     },
@@ -22922,7 +22922,7 @@
         "pts_ppr": 4.95,
         "pts_half_ppr": 4.24,
         "pts_std": 3.53,
-        "updated_at": 1788545426296,
+        "updated_at": 1788556827195,
         "company": "rotowire"
       }
     },
@@ -23142,7 +23142,7 @@
         "pts_ppr": 2.72,
         "pts_half_ppr": 2.19,
         "pts_std": 1.65,
-        "updated_at": 1788545426270,
+        "updated_at": 1788556827170,
         "company": "rotowire"
       }
     },
@@ -23340,7 +23340,7 @@
         "pts_ppr": 0.48,
         "pts_half_ppr": 0.46,
         "pts_std": 0.44,
-        "updated_at": 1788545425979,
+        "updated_at": 1788556826855,
         "company": "rotowire"
       }
     },
@@ -23362,7 +23362,7 @@
         "pts_ppr": 2.98,
         "pts_half_ppr": 2.46,
         "pts_std": 1.94,
-        "updated_at": 1788545426087,
+        "updated_at": 1788556826965,
         "company": "rotowire"
       }
     },
@@ -23428,7 +23428,7 @@
         "pts_ppr": 1.24,
         "pts_half_ppr": 0.99,
         "pts_std": 0.73,
-        "updated_at": 1788545425921,
+        "updated_at": 1788556826795,
         "company": "rotowire"
       }
     },
@@ -23736,7 +23736,7 @@
         "pts_ppr": 0.47,
         "pts_half_ppr": 0.38,
         "pts_std": 0.28,
-        "updated_at": 1788545426061,
+        "updated_at": 1788556826938,
         "company": "rotowire"
       }
     },
@@ -23802,7 +23802,7 @@
         "pts_ppr": 3.99,
         "pts_half_ppr": 3.46,
         "pts_std": 2.93,
-        "updated_at": 1788545425955,
+        "updated_at": 1788556826840,
         "company": "rotowire"
       }
     },
@@ -23934,7 +23934,7 @@
         "pts_ppr": 0.46,
         "pts_half_ppr": 0.37,
         "pts_std": 0.28,
-        "updated_at": 1788545425923,
+        "updated_at": 1788556826797,
         "company": "rotowire"
       }
     },
@@ -24022,7 +24022,7 @@
         "pts_ppr": 0.16,
         "pts_half_ppr": 0.15,
         "pts_std": 0.14,
-        "updated_at": 1788545425827,
+        "updated_at": 1788556826694,
         "company": "rotowire"
       }
     },
@@ -24132,7 +24132,7 @@
         "pts_ppr": 3.83,
         "pts_half_ppr": 3.17,
         "pts_std": 2.5,
-        "updated_at": 1788545426282,
+        "updated_at": 1788556827180,
         "company": "rotowire"
       }
     },
@@ -24704,7 +24704,7 @@
         "pts_ppr": 2.12,
         "pts_half_ppr": 1.77,
         "pts_std": 1.41,
-        "updated_at": 1788545425853,
+        "updated_at": 1788556826699,
         "company": "rotowire"
       }
     },
@@ -24902,7 +24902,7 @@
         "pts_ppr": 1.05,
         "pts_half_ppr": 0.88,
         "pts_std": 0.7,
-        "updated_at": 1788545425832,
+        "updated_at": 1788556826704,
         "company": "rotowire"
       }
     },
@@ -25430,7 +25430,7 @@
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1788545426164,
+        "updated_at": 1788556827049,
         "company": "rotowire"
       }
     },
@@ -25628,7 +25628,7 @@
         "pts_ppr": 0.07,
         "pts_half_ppr": 0.06,
         "pts_std": 0.04,
-        "updated_at": 1788545426132,
+        "updated_at": 1788556827020,
         "company": "rotowire"
       }
     },
@@ -25716,7 +25716,7 @@
         "pts_ppr": 0.54,
         "pts_half_ppr": 0.43,
         "pts_std": 0.32,
-        "updated_at": 1788545425928,
+        "updated_at": 1788556826798,
         "company": "rotowire"
       }
     },
@@ -25782,7 +25782,7 @@
         "pts_ppr": 3.01,
         "pts_half_ppr": 2.37,
         "pts_std": 1.74,
-        "updated_at": 1788545425860,
+        "updated_at": 1788556826714,
         "company": "rotowire"
       }
     },
@@ -26068,7 +26068,7 @@
         "pts_ppr": 0.13,
         "pts_half_ppr": 0.1,
         "pts_std": 0.08,
-        "updated_at": 1788545425855,
+        "updated_at": 1788556826708,
         "company": "rotowire"
       }
     },
@@ -26134,7 +26134,7 @@
         "pts_ppr": 0.71,
         "pts_half_ppr": 0.58,
         "pts_std": 0.46,
-        "updated_at": 1788545425994,
+        "updated_at": 1788556826876,
         "company": "rotowire"
       }
     },
@@ -26552,7 +26552,7 @@
         "pts_ppr": 1.51,
         "pts_half_ppr": 1.15,
         "pts_std": 0.8,
-        "updated_at": 1788545426098,
+        "updated_at": 1788556826976,
         "company": "rotowire"
       }
     },
@@ -27454,7 +27454,7 @@
         "pts_ppr": 2.22,
         "pts_half_ppr": 1.75,
         "pts_std": 1.28,
-        "updated_at": 1788545426100,
+        "updated_at": 1788556826978,
         "company": "rotowire"
       }
     },
@@ -27586,7 +27586,7 @@
         "pts_ppr": 0.32,
         "pts_half_ppr": 0.27,
         "pts_std": 0.22,
-        "updated_at": 1788545426037,
+        "updated_at": 1788556826919,
         "company": "rotowire"
       }
     },
@@ -28070,7 +28070,7 @@
         "pts_ppr": 0.81,
         "pts_half_ppr": 0.64,
         "pts_std": 0.47,
-        "updated_at": 1788545426207,
+        "updated_at": 1788556827092,
         "company": "rotowire"
       }
     },
@@ -28180,7 +28180,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.19,
         "pts_std": 0.16,
-        "updated_at": 1788545426110,
+        "updated_at": 1788556826992,
         "company": "rotowire"
       }
     },
@@ -28620,7 +28620,7 @@
         "pts_ppr": 0.89,
         "pts_half_ppr": 0.75,
         "pts_std": 0.62,
-        "updated_at": 1788545426256,
+        "updated_at": 1788556827153,
         "company": "rotowire"
       }
     },
@@ -28642,7 +28642,7 @@
         "pts_ppr": 0.79,
         "pts_half_ppr": 0.61,
         "pts_std": 0.43,
-        "updated_at": 1788545426078,
+        "updated_at": 1788556826961,
         "company": "rotowire"
       }
     },
@@ -28796,7 +28796,7 @@
         "pts_ppr": 2.21,
         "pts_half_ppr": 1.75,
         "pts_std": 1.29,
-        "updated_at": 1788545425975,
+        "updated_at": 1788556826859,
         "company": "rotowire"
       }
     },
@@ -28928,7 +28928,7 @@
         "pts_ppr": 0.21,
         "pts_half_ppr": 0.18,
         "pts_std": 0.16,
-        "updated_at": 1788545426236,
+        "updated_at": 1788556827143,
         "company": "rotowire"
       }
     },
@@ -29016,7 +29016,7 @@
         "pts_ppr": 3.26,
         "pts_half_ppr": 2.7,
         "pts_std": 2.14,
-        "updated_at": 1788545426276,
+        "updated_at": 1788556827175,
         "company": "rotowire"
       }
     },
@@ -29104,7 +29104,7 @@
         "pts_ppr": 1.41,
         "pts_half_ppr": 1.12,
         "pts_std": 0.83,
-        "updated_at": 1788545425997,
+        "updated_at": 1788556826875,
         "company": "rotowire"
       }
     },
@@ -29324,7 +29324,7 @@
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1788545426179,
+        "updated_at": 1788556827060,
         "company": "rotowire"
       }
     },
@@ -29368,7 +29368,7 @@
         "pts_ppr": 2.15,
         "pts_half_ppr": 1.7,
         "pts_std": 1.25,
-        "updated_at": 1788545426189,
+        "updated_at": 1788556827069,
         "company": "rotowire"
       }
     },
@@ -29742,7 +29742,7 @@
         "pts_ppr": 1.98,
         "pts_half_ppr": 1.64,
         "pts_std": 1.3,
-        "updated_at": 1788545425964,
+        "updated_at": 1788556826849,
         "company": "rotowire"
       }
     },
@@ -29786,7 +29786,7 @@
         "pts_ppr": 0.34,
         "pts_half_ppr": 0.27,
         "pts_std": 0.2,
-        "updated_at": 1788545426298,
+        "updated_at": 1788556827196,
         "company": "rotowire"
       }
     },
@@ -29896,7 +29896,7 @@
         "pts_ppr": 0.89,
         "pts_half_ppr": 0.69,
         "pts_std": 0.49,
-        "updated_at": 1788545426006,
+        "updated_at": 1788556826885,
         "company": "rotowire"
       }
     },
@@ -29940,7 +29940,7 @@
         "pts_ppr": 0.33,
         "pts_half_ppr": 0.26,
         "pts_std": 0.19,
-        "updated_at": 1788545426243,
+        "updated_at": 1788556827142,
         "company": "rotowire"
       }
     },
@@ -30050,7 +30050,7 @@
         "pts_ppr": 2.06,
         "pts_half_ppr": 1.69,
         "pts_std": 1.32,
-        "updated_at": 1788545426225,
+        "updated_at": 1788556827125,
         "company": "rotowire"
       }
     },
@@ -30094,7 +30094,7 @@
         "pts_ppr": 7.14,
         "pts_half_ppr": 7.14,
         "pts_std": 7.14,
-        "updated_at": 1788545426191,
+        "updated_at": 1788556827072,
         "company": "rotowire"
       }
     },
@@ -30182,7 +30182,7 @@
         "pts_ppr": 1.96,
         "pts_half_ppr": 1.54,
         "pts_std": 1.12,
-        "updated_at": 1788545426164,
+        "updated_at": 1788556827045,
         "company": "rotowire"
       }
     },
@@ -30644,7 +30644,7 @@
         "pts_ppr": 1.11,
         "pts_half_ppr": 0.9,
         "pts_std": 0.68,
-        "updated_at": 1788545426175,
+        "updated_at": 1788556827072,
         "company": "rotowire"
       }
     },
@@ -30666,7 +30666,7 @@
         "pts_ppr": 0.14,
         "pts_half_ppr": 0.12,
         "pts_std": 0.1,
-        "updated_at": 1788545426123,
+        "updated_at": 1788556827010,
         "company": "rotowire"
       }
     },
@@ -30864,7 +30864,7 @@
         "pts_ppr": 0.77,
         "pts_half_ppr": 0.63,
         "pts_std": 0.49,
-        "updated_at": 1788545426031,
+        "updated_at": 1788556826915,
         "company": "rotowire"
       }
     },
@@ -31106,7 +31106,7 @@
         "pts_ppr": 0.05,
         "pts_half_ppr": 0.04,
         "pts_std": 0.03,
-        "updated_at": 1788545425926,
+        "updated_at": 1788556826796,
         "company": "rotowire"
       }
     },
@@ -31194,7 +31194,7 @@
         "pts_ppr": 3.35,
         "pts_half_ppr": 2.63,
         "pts_std": 1.92,
-        "updated_at": 1788545426045,
+        "updated_at": 1788556826928,
         "company": "rotowire"
       }
     },
@@ -31348,7 +31348,7 @@
         "pts_ppr": 0.5,
         "pts_half_ppr": 0.39,
         "pts_std": 0.28,
-        "updated_at": 1788545426161,
+        "updated_at": 1788556827054,
         "company": "rotowire"
       }
     },
@@ -31458,7 +31458,7 @@
         "pts_ppr": 2.62,
         "pts_half_ppr": 2.14,
         "pts_std": 1.67,
-        "updated_at": 1788545425832,
+        "updated_at": 1788556826696,
         "company": "rotowire"
       }
     },
@@ -31524,7 +31524,7 @@
         "pts_ppr": 3.92,
         "pts_half_ppr": 3.13,
         "pts_std": 2.34,
-        "updated_at": 1788545426159,
+        "updated_at": 1788556827040,
         "company": "rotowire"
       }
     },
@@ -31810,7 +31810,7 @@
         "pts_ppr": 2.46,
         "pts_half_ppr": 1.95,
         "pts_std": 1.44,
-        "updated_at": 1788545426173,
+        "updated_at": 1788556827065,
         "company": "rotowire"
       }
     },
@@ -31876,7 +31876,7 @@
         "pts_ppr": 0.86,
         "pts_half_ppr": 0.67,
         "pts_std": 0.49,
-        "updated_at": 1788545425862,
+        "updated_at": 1788556826729,
         "company": "rotowire"
       }
     },
@@ -31964,7 +31964,7 @@
         "pts_ppr": 0.63,
         "pts_half_ppr": 0.51,
         "pts_std": 0.39,
-        "updated_at": 1788545425838,
+        "updated_at": 1788556826711,
         "company": "rotowire"
       }
     },
@@ -32008,7 +32008,7 @@
         "pts_ppr": 7.09,
         "pts_half_ppr": 7.09,
         "pts_std": 7.09,
-        "updated_at": 1788545426051,
+        "updated_at": 1788556826934,
         "company": "rotowire"
       }
     },
@@ -32052,7 +32052,7 @@
         "pts_ppr": 0.93,
         "pts_half_ppr": 0.77,
         "pts_std": 0.6,
-        "updated_at": 1788545426242,
+        "updated_at": 1788556827151,
         "company": "rotowire"
       }
     },
@@ -32118,7 +32118,7 @@
         "pts_ppr": 2.02,
         "pts_half_ppr": 1.71,
         "pts_std": 1.4,
-        "updated_at": 1788545425835,
+        "updated_at": 1788556826699,
         "company": "rotowire"
       }
     },
@@ -32140,7 +32140,7 @@
         "pts_ppr": 2.61,
         "pts_half_ppr": 2.07,
         "pts_std": 1.52,
-        "updated_at": 1788545426000,
+        "updated_at": 1788556826868,
         "company": "rotowire"
       }
     },
@@ -32294,7 +32294,7 @@
         "pts_ppr": 0.29,
         "pts_half_ppr": 0.25,
         "pts_std": 0.21,
-        "updated_at": 1788545426046,
+        "updated_at": 1788556826927,
         "company": "rotowire"
       }
     },
@@ -32360,7 +32360,7 @@
         "pts_ppr": 1.75,
         "pts_half_ppr": 1.39,
         "pts_std": 1.02,
-        "updated_at": 1788545426035,
+        "updated_at": 1788556826920,
         "company": "rotowire"
       }
     },
@@ -32382,7 +32382,7 @@
         "pts_ppr": 2.07,
         "pts_half_ppr": 1.66,
         "pts_std": 1.25,
-        "updated_at": 1788545425860,
+        "updated_at": 1788556826724,
         "company": "rotowire"
       }
     },
@@ -32404,7 +32404,7 @@
         "pts_ppr": 0.51,
         "pts_half_ppr": 0.43,
         "pts_std": 0.35,
-        "updated_at": 1788545425915,
+        "updated_at": 1788556826784,
         "company": "rotowire"
       }
     },
@@ -32470,7 +32470,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.2,
         "pts_std": 0.16,
-        "updated_at": 1788545425838,
+        "updated_at": 1788556826701,
         "company": "rotowire"
       }
     },
@@ -32646,7 +32646,7 @@
         "pts_ppr": 1.97,
         "pts_half_ppr": 1.64,
         "pts_std": 1.31,
-        "updated_at": 1788545426109,
+        "updated_at": 1788556826989,
         "company": "rotowire"
       }
     },
@@ -32932,7 +32932,7 @@
         "pts_ppr": 0.44,
         "pts_half_ppr": 0.38,
         "pts_std": 0.32,
-        "updated_at": 1788545426047,
+        "updated_at": 1788556826931,
         "company": "rotowire"
       }
     },
@@ -33262,7 +33262,7 @@
         "pts_ppr": 0.49,
         "pts_half_ppr": 0.39,
         "pts_std": 0.29,
-        "updated_at": 1788545426114,
+        "updated_at": 1788556826995,
         "company": "rotowire"
       }
     },
@@ -33394,7 +33394,7 @@
         "pts_ppr": 0.87,
         "pts_half_ppr": 0.79,
         "pts_std": 0.72,
-        "updated_at": 1788545426277,
+        "updated_at": 1788556827170,
         "company": "rotowire"
       }
     },
@@ -33526,7 +33526,7 @@
         "pts_ppr": 0.8,
         "pts_half_ppr": 0.63,
         "pts_std": 0.45,
-        "updated_at": 1788545425865,
+        "updated_at": 1788556826731,
         "company": "rotowire"
       }
     },
@@ -33548,7 +33548,7 @@
         "pts_ppr": 4.03,
         "pts_half_ppr": 3.2,
         "pts_std": 2.36,
-        "updated_at": 1788545426245,
+        "updated_at": 1788556827153,
         "company": "rotowire"
       }
     },
@@ -33592,7 +33592,7 @@
         "pts_ppr": 1.43,
         "pts_half_ppr": 1.17,
         "pts_std": 0.91,
-        "updated_at": 1788545426181,
+        "updated_at": 1788556827077,
         "company": "rotowire"
       }
     },
@@ -33768,7 +33768,7 @@
         "pts_ppr": 1.9,
         "pts_half_ppr": 1.58,
         "pts_std": 1.26,
-        "updated_at": 1788545426092,
+        "updated_at": 1788556826969,
         "company": "rotowire"
       }
     },
@@ -33790,7 +33790,7 @@
         "pts_ppr": 2.75,
         "pts_half_ppr": 2.15,
         "pts_std": 1.55,
-        "updated_at": 1788545426037,
+        "updated_at": 1788556826922,
         "company": "rotowire"
       }
     },
@@ -34010,7 +34010,7 @@
         "pts_ppr": 2.07,
         "pts_half_ppr": 1.72,
         "pts_std": 1.38,
-        "updated_at": 1788545426153,
+        "updated_at": 1788556827036,
         "company": "rotowire"
       }
     },
@@ -34472,7 +34472,7 @@
         "pts_ppr": 1.23,
         "pts_half_ppr": 0.97,
         "pts_std": 0.71,
-        "updated_at": 1788545426228,
+        "updated_at": 1788556827112,
         "company": "rotowire"
       }
     },
@@ -34824,7 +34824,7 @@
         "pts_ppr": 3.13,
         "pts_half_ppr": 2.44,
         "pts_std": 1.75,
-        "updated_at": 1788545426186,
+        "updated_at": 1788556827084,
         "company": "rotowire"
       }
     },
@@ -34890,7 +34890,7 @@
         "pts_ppr": 0.85,
         "pts_half_ppr": 0.67,
         "pts_std": 0.5,
-        "updated_at": 1788545426280,
+        "updated_at": 1788556827180,
         "company": "rotowire"
       }
     },
@@ -34978,7 +34978,7 @@
         "pts_ppr": 1.51,
         "pts_half_ppr": 1.19,
         "pts_std": 0.87,
-        "updated_at": 1788545426226,
+        "updated_at": 1788556827110,
         "company": "rotowire"
       }
     },
@@ -35088,7 +35088,7 @@
         "pts_ppr": 0.58,
         "pts_half_ppr": 0.47,
         "pts_std": 0.36,
-        "updated_at": 1788545425984,
+        "updated_at": 1788556826861,
         "company": "rotowire"
       }
     },
@@ -35154,7 +35154,7 @@
         "pts_ppr": 0.84,
         "pts_half_ppr": 0.68,
         "pts_std": 0.52,
-        "updated_at": 1788545425915,
+        "updated_at": 1788556826788,
         "company": "rotowire"
       }
     },
@@ -35220,7 +35220,7 @@
         "pts_ppr": 0.25,
         "pts_half_ppr": 0.25,
         "pts_std": 0.25,
-        "updated_at": 1788545426143,
+        "updated_at": 1788556827027,
         "company": "rotowire"
       }
     },
@@ -35286,7 +35286,7 @@
         "pts_ppr": 0.88,
         "pts_half_ppr": 0.7,
         "pts_std": 0.53,
-        "updated_at": 1788545425858,
+        "updated_at": 1788556826725,
         "company": "rotowire"
       }
     },
@@ -35330,7 +35330,7 @@
         "pts_ppr": 1.18,
         "pts_half_ppr": 0.92,
         "pts_std": 0.66,
-        "updated_at": 1788545426185,
+        "updated_at": 1788556827067,
         "company": "rotowire"
       }
     },
@@ -35484,7 +35484,7 @@
         "pts_ppr": 4.81,
         "pts_half_ppr": 3.92,
         "pts_std": 3.03,
-        "updated_at": 1788545426178,
+        "updated_at": 1788556827074,
         "company": "rotowire"
       }
     },
@@ -35528,7 +35528,7 @@
         "pts_ppr": 1.47,
         "pts_half_ppr": 1.16,
         "pts_std": 0.86,
-        "updated_at": 1788545426066,
+        "updated_at": 1788556826945,
         "company": "rotowire"
       }
     },
@@ -35616,7 +35616,7 @@
         "pts_ppr": 2.67,
         "pts_half_ppr": 2.24,
         "pts_std": 1.81,
-        "updated_at": 1788545425918,
+        "updated_at": 1788556826787,
         "company": "rotowire"
       }
     },
@@ -35748,7 +35748,7 @@
         "pts_ppr": 2.12,
         "pts_half_ppr": 1.72,
         "pts_std": 1.32,
-        "updated_at": 1788545426238,
+        "updated_at": 1788556827138,
         "company": "rotowire"
       }
     },
@@ -35902,7 +35902,7 @@
         "pts_ppr": 0.46,
         "pts_half_ppr": 0.37,
         "pts_std": 0.29,
-        "updated_at": 1788545426214,
+        "updated_at": 1788556827099,
         "company": "rotowire"
       }
     },
@@ -36122,7 +36122,7 @@
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1788545425903,
+        "updated_at": 1788556826773,
         "company": "rotowire"
       }
     },
@@ -36144,7 +36144,7 @@
         "pts_ppr": 0.87,
         "pts_half_ppr": 0.71,
         "pts_std": 0.55,
-        "updated_at": 1788545425833,
+        "updated_at": 1788556826706,
         "company": "rotowire"
       }
     },
@@ -36254,7 +36254,7 @@
         "pts_ppr": 2.83,
         "pts_half_ppr": 2.4,
         "pts_std": 1.96,
-        "updated_at": 1788545425911,
+        "updated_at": 1788556826784,
         "company": "rotowire"
       }
     },
@@ -36276,7 +36276,7 @@
         "pts_ppr": 2.03,
         "pts_half_ppr": 1.67,
         "pts_std": 1.31,
-        "updated_at": 1788545426168,
+        "updated_at": 1788556827051,
         "company": "rotowire"
       }
     },
@@ -36364,7 +36364,7 @@
         "pts_ppr": 4.2,
         "pts_half_ppr": 3.51,
         "pts_std": 2.82,
-        "updated_at": 1788545426020,
+        "updated_at": 1788556826904,
         "company": "rotowire"
       }
     },
@@ -36496,7 +36496,7 @@
         "pts_ppr": 4.9,
         "pts_half_ppr": 3.9,
         "pts_std": 2.91,
-        "updated_at": 1788545426065,
+        "updated_at": 1788556826947,
         "company": "rotowire"
       }
     },
@@ -36518,7 +36518,7 @@
         "pts_ppr": 1.04,
         "pts_half_ppr": 0.82,
         "pts_std": 0.61,
-        "updated_at": 1788545426106,
+        "updated_at": 1788556826984,
         "company": "rotowire"
       }
     },
@@ -36694,7 +36694,7 @@
         "pts_ppr": 0.25,
         "pts_half_ppr": 0.21,
         "pts_std": 0.17,
-        "updated_at": 1788545425830,
+        "updated_at": 1788556826695,
         "company": "rotowire"
       }
     },
@@ -36738,7 +36738,7 @@
         "pts_ppr": 4.31,
         "pts_half_ppr": 3.41,
         "pts_std": 2.5,
-        "updated_at": 1788545426306,
+        "updated_at": 1788556827209,
         "company": "rotowire"
       }
     },
@@ -36848,7 +36848,7 @@
         "pts_ppr": 2.1,
         "pts_half_ppr": 1.82,
         "pts_std": 1.54,
-        "updated_at": 1788545425991,
+        "updated_at": 1788556826868,
         "company": "rotowire"
       }
     },
@@ -37002,7 +37002,7 @@
         "pts_ppr": 4.94,
         "pts_half_ppr": 4.03,
         "pts_std": 3.12,
-        "updated_at": 1788545425972,
+        "updated_at": 1788556826857,
         "company": "rotowire"
       }
     },
@@ -37112,7 +37112,7 @@
         "pts_ppr": 3.21,
         "pts_half_ppr": 2.66,
         "pts_std": 2.1,
-        "updated_at": 1788545426111,
+        "updated_at": 1788556826992,
         "company": "rotowire"
       }
     },
@@ -37156,7 +37156,7 @@
         "pts_ppr": 1.63,
         "pts_half_ppr": 1.27,
         "pts_std": 0.91,
-        "updated_at": 1788545426116,
+        "updated_at": 1788556827000,
         "company": "rotowire"
       }
     },
@@ -37222,7 +37222,7 @@
         "pts_ppr": 1.15,
         "pts_half_ppr": 0.96,
         "pts_std": 0.77,
-        "updated_at": 1788545426104,
+        "updated_at": 1788556826986,
         "company": "rotowire"
       }
     },
@@ -37288,7 +37288,7 @@
         "pts_ppr": 1.55,
         "pts_half_ppr": 1.3,
         "pts_std": 1.05,
-        "updated_at": 1788545426303,
+        "updated_at": 1788556827202,
         "company": "rotowire"
       }
     },
@@ -37354,7 +37354,7 @@
         "pts_ppr": 1.17,
         "pts_half_ppr": 1.05,
         "pts_std": 0.92,
-        "updated_at": 1788545425828,
+        "updated_at": 1788556826692,
         "company": "rotowire"
       }
     },
@@ -37552,7 +37552,7 @@
         "pts_ppr": 1.98,
         "pts_half_ppr": 1.64,
         "pts_std": 1.29,
-        "updated_at": 1788545426126,
+        "updated_at": 1788556827012,
         "company": "rotowire"
       }
     },
@@ -37728,7 +37728,7 @@
         "pts_ppr": 6.48,
         "pts_half_ppr": 6.48,
         "pts_std": 6.48,
-        "updated_at": 1788545426010,
+        "updated_at": 1788556826889,
         "company": "rotowire"
       }
     },
@@ -37948,7 +37948,7 @@
         "pts_ppr": 0.13,
         "pts_half_ppr": 0.11,
         "pts_std": 0.1,
-        "updated_at": 1788545425978,
+        "updated_at": 1788556826854,
         "company": "rotowire"
       }
     },
@@ -38058,7 +38058,7 @@
         "pts_ppr": 0.11,
         "pts_half_ppr": 0.09,
         "pts_std": 0.07,
-        "updated_at": 1788545425856,
+        "updated_at": 1788556826701,
         "company": "rotowire"
       }
     },
@@ -38102,7 +38102,7 @@
         "pts_ppr": 2.19,
         "pts_half_ppr": 1.89,
         "pts_std": 1.58,
-        "updated_at": 1788545426172,
+        "updated_at": 1788556827055,
         "company": "rotowire"
       }
     },
@@ -38168,7 +38168,7 @@
         "pts_ppr": 2.64,
         "pts_half_ppr": 2.08,
         "pts_std": 1.51,
-        "updated_at": 1788545425989,
+        "updated_at": 1788556826866,
         "company": "rotowire"
       }
     },
@@ -38278,7 +38278,7 @@
         "pts_ppr": 1.81,
         "pts_half_ppr": 1.42,
         "pts_std": 1.03,
-        "updated_at": 1788545426167,
+        "updated_at": 1788556827059,
         "company": "rotowire"
       }
     },
@@ -38366,7 +38366,7 @@
         "pts_ppr": 0.02,
         "pts_half_ppr": 0.02,
         "pts_std": 0.01,
-        "updated_at": 1788545425908,
+        "updated_at": 1788556826780,
         "company": "rotowire"
       }
     },
@@ -38564,7 +38564,7 @@
         "pts_ppr": 3.54,
         "pts_half_ppr": 2.77,
         "pts_std": 1.99,
-        "updated_at": 1788545426118,
+        "updated_at": 1788556827002,
         "company": "rotowire"
       }
     },
@@ -38740,7 +38740,7 @@
         "pts_ppr": 0.1,
         "pts_half_ppr": 0.1,
         "pts_std": 0.09,
-        "updated_at": 1788545425988,
+        "updated_at": 1788556826863,
         "company": "rotowire"
       }
     },
@@ -38784,7 +38784,7 @@
         "pts_ppr": 3.49,
         "pts_half_ppr": 2.8,
         "pts_std": 2.11,
-        "updated_at": 1788545426096,
+        "updated_at": 1788556826973,
         "company": "rotowire"
       }
     },
@@ -38806,7 +38806,7 @@
         "pts_ppr": 3.58,
         "pts_half_ppr": 2.95,
         "pts_std": 2.32,
-        "updated_at": 1788545425833,
+        "updated_at": 1788556826698,
         "company": "rotowire"
       }
     },
@@ -38916,7 +38916,7 @@
         "pts_ppr": 2.01,
         "pts_half_ppr": 1.66,
         "pts_std": 1.31,
-        "updated_at": 1788545425910,
+        "updated_at": 1788556826784,
         "company": "rotowire"
       }
     },
@@ -39004,7 +39004,7 @@
         "pts_ppr": 4.83,
         "pts_half_ppr": 3.94,
         "pts_std": 3.06,
-        "updated_at": 1788545426068,
+        "updated_at": 1788556826949,
         "company": "rotowire"
       }
     },
@@ -39136,7 +39136,7 @@
         "pts_ppr": 1.55,
         "pts_half_ppr": 1.27,
         "pts_std": 1.0,
-        "updated_at": 1788545426182,
+        "updated_at": 1788556827080,
         "company": "rotowire"
       }
     },
@@ -39180,7 +39180,7 @@
         "pts_ppr": 1.0,
         "pts_half_ppr": 0.8,
         "pts_std": 0.6,
-        "updated_at": 1788545426125,
+        "updated_at": 1788556827006,
         "company": "rotowire"
       }
     },
@@ -41292,7 +41292,7 @@
         "pts_ppr": 0.0,
         "pts_half_ppr": 0.0,
         "pts_std": 0.0,
-        "updated_at": 1788545426265,
+        "updated_at": 1788556827162,
         "company": "rotowire"
       }
     },
@@ -41600,7 +41600,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.18,
         "pts_std": 0.14,
-        "updated_at": 1788545425916,
+        "updated_at": 1788556826788,
         "company": "rotowire"
       }
     },
@@ -41974,7 +41974,7 @@
         "pts_ppr": 1.25,
         "pts_half_ppr": 1.0,
         "pts_std": 0.75,
-        "updated_at": 1788545426050,
+        "updated_at": 1788556826936,
         "company": "rotowire"
       }
     },
@@ -46726,7 +46726,7 @@
         "pts_ppr": 0.17,
         "pts_half_ppr": 0.17,
         "pts_std": 0.17,
-        "updated_at": 1788545425876,
+        "updated_at": 1788556826746,
         "company": "rotowire"
       }
     },
@@ -71586,7 +71586,7 @@
         "pts_ppr": 5.61,
         "pts_half_ppr": 5.61,
         "pts_std": 5.61,
-        "updated_at": 1788545425897,
+        "updated_at": 1788556826767,
         "company": "rotowire"
       }
     },
@@ -71608,7 +71608,7 @@
         "pts_ppr": 4.41,
         "pts_half_ppr": 4.41,
         "pts_std": 4.41,
-        "updated_at": 1788545426165,
+        "updated_at": 1788556827057,
         "company": "rotowire"
       }
     },
@@ -71630,7 +71630,7 @@
         "pts_ppr": 7.66,
         "pts_half_ppr": 7.66,
         "pts_std": 7.66,
-        "updated_at": 1788545426202,
+        "updated_at": 1788556827087,
         "company": "rotowire"
       }
     },
@@ -71696,7 +71696,7 @@
         "pts_ppr": 6.73,
         "pts_half_ppr": 6.73,
         "pts_std": 6.73,
-        "updated_at": 1788545425980,
+        "updated_at": 1788556826854,
         "company": "rotowire"
       }
     },
@@ -71762,7 +71762,7 @@
         "pts_ppr": 6.82,
         "pts_half_ppr": 6.82,
         "pts_std": 6.82,
-        "updated_at": 1788545426210,
+        "updated_at": 1788556827092,
         "company": "rotowire"
       }
     },
@@ -71784,7 +71784,7 @@
         "pts_ppr": 4.76,
         "pts_half_ppr": 4.76,
         "pts_std": 4.76,
-        "updated_at": 1788545426151,
+        "updated_at": 1788556827037,
         "company": "rotowire"
       }
     },
@@ -71894,7 +71894,7 @@
         "pts_ppr": 5.55,
         "pts_half_ppr": 5.55,
         "pts_std": 5.55,
-        "updated_at": 1788545425899,
+        "updated_at": 1788556826768,
         "company": "rotowire"
       }
     },
@@ -71938,7 +71938,7 @@
         "pts_ppr": 5.16,
         "pts_half_ppr": 5.16,
         "pts_std": 5.16,
-        "updated_at": 1788545425972,
+        "updated_at": 1788556826847,
         "company": "rotowire"
       }
     },
@@ -72022,11 +72022,11 @@
         "season_type": "regular",
         "opponent": "PIT",
         "game_date": "2026-09-13",
-        "projected_points": 5.92,
-        "pts_ppr": 5.91,
-        "pts_half_ppr": 5.91,
-        "pts_std": 5.91,
-        "updated_at": 1788545426059,
+        "projected_points": 5.94,
+        "pts_ppr": 5.93,
+        "pts_half_ppr": 5.93,
+        "pts_std": 5.93,
+        "updated_at": 1788556826940,
         "company": "rotowire"
       }
     },
@@ -72070,7 +72070,7 @@
         "pts_ppr": 6.03,
         "pts_half_ppr": 6.03,
         "pts_std": 6.03,
-        "updated_at": 1788545426078,
+        "updated_at": 1788556826956,
         "company": "rotowire"
       }
     },
@@ -72180,7 +72180,7 @@
         "pts_ppr": 4.82,
         "pts_half_ppr": 4.82,
         "pts_std": 4.82,
-        "updated_at": 1788545426026,
+        "updated_at": 1788556826904,
         "company": "rotowire"
       }
     },
@@ -72202,7 +72202,7 @@
         "pts_ppr": 6.82,
         "pts_half_ppr": 6.82,
         "pts_std": 6.82,
-        "updated_at": 1788545426095,
+        "updated_at": 1788556826976,
         "company": "rotowire"
       }
     },
@@ -72290,7 +72290,7 @@
         "pts_ppr": 6.29,
         "pts_half_ppr": 6.29,
         "pts_std": 6.29,
-        "updated_at": 1788545426259,
+        "updated_at": 1788556827155,
         "company": "rotowire"
       }
     },
@@ -72378,7 +72378,7 @@
         "pts_ppr": 6.57,
         "pts_half_ppr": 6.57,
         "pts_std": 6.57,
-        "updated_at": 1788545425945,
+        "updated_at": 1788556826830,
         "company": "rotowire"
       }
     },
@@ -72400,7 +72400,7 @@
         "pts_ppr": 5.69,
         "pts_half_ppr": 5.69,
         "pts_std": 5.69,
-        "updated_at": 1788545425896,
+        "updated_at": 1788556826766,
         "company": "rotowire"
       }
     },
@@ -72488,7 +72488,7 @@
         "pts_ppr": 5.72,
         "pts_half_ppr": 5.72,
         "pts_std": 5.72,
-        "updated_at": 1788545426268,
+        "updated_at": 1788556827161,
         "company": "rotowire"
       }
     },
@@ -72510,7 +72510,7 @@
         "pts_ppr": 7.32,
         "pts_half_ppr": 7.32,
         "pts_std": 7.32,
-        "updated_at": 1788545426039,
+        "updated_at": 1788556826920,
         "company": "rotowire"
       }
     },
@@ -72620,7 +72620,7 @@
         "pts_ppr": 6.21,
         "pts_half_ppr": 6.21,
         "pts_std": 6.21,
-        "updated_at": 1788545425820,
+        "updated_at": 1788556826684,
         "company": "rotowire"
       }
     },
@@ -72774,7 +72774,7 @@
         "pts_ppr": 7.67,
         "pts_half_ppr": 7.67,
         "pts_std": 7.67,
-        "updated_at": 1788545426281,
+        "updated_at": 1788556827182,
         "company": "rotowire"
       }
     },
