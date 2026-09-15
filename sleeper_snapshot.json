@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-15T18:09:25.635842+00:00",
+  "generated_at_utc": "2026-09-15T21:16:49.429603+00:00",
   "league_id": "1385955289206910976",
   "league": {
     "name": "ECMC Dawgpound ",
@@ -65,6 +65,10 @@
     },
     "avatar": "7875fdee403042a028f51ade493cb27c",
     "company_id": null,
+    "shard": 509,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "qb_hit": 0.0,
@@ -200,19 +204,15 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 509,
-    "sport": "nfl",
-    "last_message_id": "1405610646514479104",
-    "draft_id": "1385955289219485696",
+    "last_message_id": "1405691659135508480",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
+    "draft_id": "1385955289219485696",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789486202414,
+    "last_message_time": 1789505517327,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1385955289206910976",
@@ -562,7 +562,7 @@
             "pts_ppr": 11.16,
             "pts_half_ppr": 10.15,
             "pts_std": 9.14,
-            "updated_at": 1789495263608,
+            "updated_at": 1789506056758,
             "company": "rotowire"
           }
         },
@@ -585,7 +585,7 @@
             "pts_ppr": 9.46,
             "pts_half_ppr": 7.91,
             "pts_std": 6.36,
-            "updated_at": 1789495263871,
+            "updated_at": 1789506057013,
             "company": "rotowire"
           }
         },
@@ -608,7 +608,7 @@
             "pts_ppr": 3.07,
             "pts_half_ppr": 2.58,
             "pts_std": 2.09,
-            "updated_at": 1789495263469,
+            "updated_at": 1789506056624,
             "company": "rotowire"
           }
         },
@@ -631,7 +631,7 @@
             "pts_ppr": 7.15,
             "pts_half_ppr": 7.15,
             "pts_std": 7.15,
-            "updated_at": 1789495263905,
+            "updated_at": 1789506057049,
             "company": "rotowire"
           }
         },
@@ -654,7 +654,7 @@
             "pts_ppr": 10.79,
             "pts_half_ppr": 8.57,
             "pts_std": 6.35,
-            "updated_at": 1789495263953,
+            "updated_at": 1789506057106,
             "company": "rotowire"
           }
         },
@@ -677,7 +677,7 @@
             "pts_ppr": 10.12,
             "pts_half_ppr": 8.26,
             "pts_std": 6.4,
-            "updated_at": 1789495263653,
+            "updated_at": 1789506056805,
             "company": "rotowire"
           }
         },
@@ -700,7 +700,7 @@
             "pts_ppr": 10.95,
             "pts_half_ppr": 9.16,
             "pts_std": 7.38,
-            "updated_at": 1789495263946,
+            "updated_at": 1789506057095,
             "company": "rotowire"
           }
         },
@@ -723,7 +723,7 @@
             "pts_ppr": 16.94,
             "pts_half_ppr": 15.85,
             "pts_std": 14.75,
-            "updated_at": 1789495263551,
+            "updated_at": 1789506056697,
             "company": "rotowire"
           }
         },
@@ -742,11 +742,11 @@
             "season_type": "regular",
             "opponent": "HOU",
             "game_date": "2026-09-20",
-            "projected_points": 14.15,
-            "pts_ppr": 14.19,
-            "pts_half_ppr": 12.06,
-            "pts_std": 9.93,
-            "updated_at": 1789495263474,
+            "projected_points": 13.84,
+            "pts_ppr": 13.84,
+            "pts_half_ppr": 11.77,
+            "pts_std": 9.69,
+            "updated_at": 1789506056629,
             "company": "rotowire"
           }
         },
@@ -769,7 +769,7 @@
             "pts_ppr": 19.56,
             "pts_half_ppr": 19.56,
             "pts_std": 19.56,
-            "updated_at": 1789495263605,
+            "updated_at": 1789506056754,
             "company": "rotowire"
           }
         },
@@ -792,7 +792,7 @@
             "pts_ppr": 9.28,
             "pts_half_ppr": 7.81,
             "pts_std": 6.34,
-            "updated_at": 1789495263815,
+            "updated_at": 1789506056956,
             "company": "rotowire"
           }
         },
@@ -811,11 +811,11 @@
             "season_type": "regular",
             "opponent": "DEN",
             "game_date": "2026-09-20",
-            "projected_points": 18.75,
-            "pts_ppr": 16.24,
-            "pts_half_ppr": 16.24,
-            "pts_std": 16.24,
-            "updated_at": 1789495263809,
+            "projected_points": 20.19,
+            "pts_ppr": 17.2,
+            "pts_half_ppr": 17.2,
+            "pts_std": 17.2,
+            "updated_at": 1789506056950,
             "company": "rotowire"
           }
         },
@@ -834,11 +834,11 @@
             "season_type": "regular",
             "opponent": "HOU",
             "game_date": "2026-09-20",
-            "projected_points": 17.22,
-            "pts_ppr": 17.21,
-            "pts_half_ppr": 14.18,
-            "pts_std": 11.16,
-            "updated_at": 1789495263478,
+            "projected_points": 16.83,
+            "pts_ppr": 16.79,
+            "pts_half_ppr": 13.84,
+            "pts_std": 10.89,
+            "updated_at": 1789506056633,
             "company": "rotowire"
           }
         },
@@ -857,11 +857,11 @@
             "season_type": "regular",
             "opponent": "WAS",
             "game_date": "2026-09-20",
-            "projected_points": 16.8,
-            "pts_ppr": 16.84,
-            "pts_half_ppr": 14.27,
-            "pts_std": 11.69,
-            "updated_at": 1789495263754,
+            "projected_points": 16.32,
+            "pts_ppr": 16.34,
+            "pts_half_ppr": 13.84,
+            "pts_std": 11.35,
+            "updated_at": 1789506056901,
             "company": "rotowire"
           }
         },
@@ -884,7 +884,7 @@
             "pts_ppr": 16.27,
             "pts_half_ppr": 14.68,
             "pts_std": 13.08,
-            "updated_at": 1789495263938,
+            "updated_at": 1789506057090,
             "company": "rotowire"
           }
         },
@@ -907,7 +907,7 @@
             "pts_ppr": 14.84,
             "pts_half_ppr": 12.84,
             "pts_std": 10.83,
-            "updated_at": 1789495263621,
+            "updated_at": 1789506056772,
             "company": "rotowire"
           }
         },
@@ -926,11 +926,11 @@
             "season_type": "regular",
             "opponent": "CHI",
             "game_date": "2026-09-20",
-            "projected_points": 9.91,
-            "pts_ppr": 9.91,
-            "pts_half_ppr": 9.39,
-            "pts_std": 8.86,
-            "updated_at": 1789495263802,
+            "projected_points": 10.11,
+            "pts_ppr": 10.11,
+            "pts_half_ppr": 9.58,
+            "pts_std": 9.06,
+            "updated_at": 1789506056944,
             "company": "rotowire"
           }
         },
@@ -949,11 +949,11 @@
             "season_type": "regular",
             "opponent": "DEN",
             "game_date": "2026-09-20",
-            "projected_points": 6.24,
-            "pts_ppr": 6.26,
-            "pts_half_ppr": 6.26,
-            "pts_std": 6.26,
-            "updated_at": 1789495263807,
+            "projected_points": 6.34,
+            "pts_ppr": 6.32,
+            "pts_half_ppr": 6.32,
+            "pts_std": 6.32,
+            "updated_at": 1789506056948,
             "company": "rotowire"
           }
         }
@@ -1067,7 +1067,7 @@
             "pts_ppr": 10.13,
             "pts_half_ppr": 8.27,
             "pts_std": 6.41,
-            "updated_at": 1789495263879,
+            "updated_at": 1789506057015,
             "company": "rotowire"
           }
         },
@@ -1086,11 +1086,11 @@
             "season_type": "regular",
             "opponent": "DAL",
             "game_date": "2026-09-20",
-            "projected_points": 23.88,
+            "projected_points": 23.87,
             "pts_ppr": 20.46,
             "pts_half_ppr": 20.46,
             "pts_std": 20.46,
-            "updated_at": 1789495263810,
+            "updated_at": 1789506056958,
             "company": "rotowire"
           }
         },
@@ -1109,11 +1109,11 @@
             "season_type": "regular",
             "opponent": "GB",
             "game_date": "2026-09-20",
-            "projected_points": 5.15,
-            "pts_ppr": 5.22,
-            "pts_half_ppr": 4.82,
-            "pts_std": 4.41,
-            "updated_at": 1789495263678,
+            "projected_points": 5.33,
+            "pts_ppr": 5.4,
+            "pts_half_ppr": 4.99,
+            "pts_std": 4.59,
+            "updated_at": 1789506056827,
             "company": "rotowire"
           }
         },
@@ -1136,7 +1136,7 @@
             "pts_ppr": 6.63,
             "pts_half_ppr": 5.84,
             "pts_std": 5.04,
-            "updated_at": 1789495263670,
+            "updated_at": 1789506056825,
             "company": "rotowire"
           }
         },
@@ -1159,7 +1159,7 @@
             "pts_ppr": 13.85,
             "pts_half_ppr": 11.27,
             "pts_std": 8.68,
-            "updated_at": 1789495263948,
+            "updated_at": 1789506057091,
             "company": "rotowire"
           }
         },
@@ -1182,7 +1182,7 @@
             "pts_ppr": 13.3,
             "pts_half_ppr": 10.87,
             "pts_std": 8.43,
-            "updated_at": 1789495263755,
+            "updated_at": 1789506056909,
             "company": "rotowire"
           }
         },
@@ -1201,11 +1201,11 @@
             "season_type": "regular",
             "opponent": "DEN",
             "game_date": "2026-09-20",
-            "projected_points": 6.08,
-            "pts_ppr": 6.07,
-            "pts_half_ppr": 6.07,
-            "pts_std": 6.07,
-            "updated_at": 1789495263840,
+            "projected_points": 6.1,
+            "pts_ppr": 6.12,
+            "pts_half_ppr": 6.12,
+            "pts_std": 6.12,
+            "updated_at": 1789506056984,
             "company": "rotowire"
           }
         },
@@ -1228,7 +1228,7 @@
             "pts_ppr": 9.95,
             "pts_half_ppr": 8.07,
             "pts_std": 6.19,
-            "updated_at": 1789495263486,
+            "updated_at": 1789506056649,
             "company": "rotowire"
           }
         },
@@ -1251,7 +1251,7 @@
             "pts_ppr": 5.15,
             "pts_half_ppr": 4.27,
             "pts_std": 3.38,
-            "updated_at": 1789495263685,
+            "updated_at": 1789506056829,
             "company": "rotowire"
           }
         },
@@ -1274,7 +1274,7 @@
             "pts_ppr": 10.08,
             "pts_half_ppr": 8.43,
             "pts_std": 6.78,
-            "updated_at": 1789495263475,
+            "updated_at": 1789506056632,
             "company": "rotowire"
           }
         },
@@ -1293,11 +1293,11 @@
             "season_type": "regular",
             "opponent": "IND",
             "game_date": "2026-09-20",
-            "projected_points": 3.69,
-            "pts_ppr": 3.72,
-            "pts_half_ppr": 3.33,
-            "pts_std": 2.94,
-            "updated_at": 1789495263936,
+            "projected_points": 3.3,
+            "pts_ppr": 3.31,
+            "pts_half_ppr": 2.92,
+            "pts_std": 2.53,
+            "updated_at": 1789506057088,
             "company": "rotowire"
           }
         },
@@ -1320,7 +1320,7 @@
             "pts_ppr": 12.11,
             "pts_half_ppr": 10.22,
             "pts_std": 8.33,
-            "updated_at": 1789495263892,
+            "updated_at": 1789506057027,
             "company": "rotowire"
           }
         },
@@ -1343,7 +1343,7 @@
             "pts_ppr": 14.74,
             "pts_half_ppr": 14.09,
             "pts_std": 13.44,
-            "updated_at": 1789495263628,
+            "updated_at": 1789506056775,
             "company": "rotowire"
           }
         },
@@ -1366,7 +1366,7 @@
             "pts_ppr": 9.28,
             "pts_half_ppr": 7.31,
             "pts_std": 5.34,
-            "updated_at": 1789495263821,
+            "updated_at": 1789506056962,
             "company": "rotowire"
           }
         },
@@ -1389,7 +1389,7 @@
             "pts_ppr": 16.85,
             "pts_half_ppr": 16.85,
             "pts_std": 16.85,
-            "updated_at": 1789495263798,
+            "updated_at": 1789506056940,
             "company": "rotowire"
           }
         },
@@ -1412,7 +1412,7 @@
             "pts_ppr": 6.66,
             "pts_half_ppr": 5.67,
             "pts_std": 4.68,
-            "updated_at": 1789495263558,
+            "updated_at": 1789506056706,
             "company": "rotowire"
           }
         },
@@ -1435,7 +1435,7 @@
             "pts_ppr": 22.25,
             "pts_half_ppr": 20.15,
             "pts_std": 18.04,
-            "updated_at": 1789495263609,
+            "updated_at": 1789506056766,
             "company": "rotowire"
           }
         },
@@ -1458,7 +1458,7 @@
             "pts_ppr": 9.21,
             "pts_half_ppr": 9.21,
             "pts_std": 9.21,
-            "updated_at": 1789495263621,
+            "updated_at": 1789506056771,
             "company": "rotowire"
           }
         }
@@ -1568,11 +1568,11 @@
             "season_type": "regular",
             "opponent": "JAX",
             "game_date": "2026-09-20",
-            "projected_points": 18.76,
+            "projected_points": 18.74,
             "pts_ppr": 15.74,
             "pts_half_ppr": 15.74,
             "pts_std": 15.74,
-            "updated_at": 1789495263734,
+            "updated_at": 1789506056883,
             "company": "rotowire"
           }
         },
@@ -1591,11 +1591,11 @@
             "season_type": "regular",
             "opponent": "LAC",
             "game_date": "2026-09-20",
-            "projected_points": 13.61,
-            "pts_ppr": 13.58,
-            "pts_half_ppr": 10.73,
-            "pts_std": 7.88,
-            "updated_at": 1789495263826,
+            "projected_points": 13.43,
+            "pts_ppr": 13.44,
+            "pts_half_ppr": 10.62,
+            "pts_std": 7.81,
+            "updated_at": 1789506056971,
             "company": "rotowire"
           }
         },
@@ -1618,7 +1618,7 @@
             "pts_ppr": 12.41,
             "pts_half_ppr": 10.27,
             "pts_std": 8.13,
-            "updated_at": 1789495263677,
+            "updated_at": 1789506056828,
             "company": "rotowire"
           }
         },
@@ -1641,7 +1641,7 @@
             "pts_ppr": 6.17,
             "pts_half_ppr": 6.17,
             "pts_std": 6.17,
-            "updated_at": 1789495263823,
+            "updated_at": 1789506056964,
             "company": "rotowire"
           }
         },
@@ -1664,7 +1664,7 @@
             "pts_ppr": 3.58,
             "pts_half_ppr": 2.92,
             "pts_std": 2.26,
-            "updated_at": 1789495263903,
+            "updated_at": 1789506057040,
             "company": "rotowire"
           }
         },
@@ -1687,7 +1687,7 @@
             "pts_ppr": 9.1,
             "pts_half_ppr": 8.23,
             "pts_std": 7.35,
-            "updated_at": 1789495263813,
+            "updated_at": 1789506056954,
             "company": "rotowire"
           }
         },
@@ -1710,7 +1710,7 @@
             "pts_ppr": 7.28,
             "pts_half_ppr": 5.85,
             "pts_std": 4.41,
-            "updated_at": 1789495263748,
+            "updated_at": 1789506056894,
             "company": "rotowire"
           }
         },
@@ -1733,7 +1733,7 @@
             "pts_ppr": 6.29,
             "pts_half_ppr": 4.91,
             "pts_std": 3.52,
-            "updated_at": 1789495263703,
+            "updated_at": 1789506056852,
             "company": "rotowire"
           }
         },
@@ -1756,7 +1756,7 @@
             "pts_ppr": 11.59,
             "pts_half_ppr": 9.49,
             "pts_std": 7.39,
-            "updated_at": 1789495263752,
+            "updated_at": 1789506056900,
             "company": "rotowire"
           }
         },
@@ -1775,11 +1775,11 @@
             "season_type": "regular",
             "opponent": "LAC",
             "game_date": "2026-09-20",
-            "projected_points": 3.9,
-            "pts_ppr": 3.89,
-            "pts_half_ppr": 3.45,
-            "pts_std": 3.01,
-            "updated_at": 1789495263806,
+            "projected_points": 3.8,
+            "pts_ppr": 3.75,
+            "pts_half_ppr": 3.32,
+            "pts_std": 2.88,
+            "updated_at": 1789506056952,
             "company": "rotowire"
           }
         },
@@ -1802,7 +1802,7 @@
             "pts_ppr": 6.48,
             "pts_half_ppr": 5.31,
             "pts_std": 4.15,
-            "updated_at": 1789495263881,
+            "updated_at": 1789506057030,
             "company": "rotowire"
           }
         },
@@ -1825,7 +1825,7 @@
             "pts_ppr": 11.11,
             "pts_half_ppr": 10.12,
             "pts_std": 9.13,
-            "updated_at": 1789495263739,
+            "updated_at": 1789506056888,
             "company": "rotowire"
           }
         },
@@ -1848,7 +1848,7 @@
             "pts_ppr": 17.44,
             "pts_half_ppr": 14.22,
             "pts_std": 11.01,
-            "updated_at": 1789495263543,
+            "updated_at": 1789506056705,
             "company": "rotowire"
           }
         },
@@ -1867,11 +1867,11 @@
             "season_type": "regular",
             "opponent": "CLE",
             "game_date": "2026-09-20",
-            "projected_points": 8.13,
-            "pts_ppr": 8.12,
-            "pts_half_ppr": 7.11,
-            "pts_std": 6.11,
-            "updated_at": 1789495263529,
+            "projected_points": 7.97,
+            "pts_ppr": 7.99,
+            "pts_half_ppr": 6.99,
+            "pts_std": 5.98,
+            "updated_at": 1789506056687,
             "company": "rotowire"
           }
         },
@@ -1890,11 +1890,11 @@
             "season_type": "regular",
             "opponent": "WAS",
             "game_date": "2026-09-20",
-            "projected_points": 16.82,
-            "pts_ppr": 16.81,
-            "pts_half_ppr": 15.47,
-            "pts_std": 14.14,
-            "updated_at": 1789495263748,
+            "projected_points": 17.53,
+            "pts_ppr": 17.47,
+            "pts_half_ppr": 16.17,
+            "pts_std": 14.87,
+            "updated_at": 1789506056896,
             "company": "rotowire"
           }
         },
@@ -1917,7 +1917,7 @@
             "pts_ppr": 9.01,
             "pts_half_ppr": 7.41,
             "pts_std": 5.81,
-            "updated_at": 1789495263474,
+            "updated_at": 1789506056628,
             "company": "rotowire"
           }
         },
@@ -1940,7 +1940,7 @@
             "pts_ppr": 7.65,
             "pts_half_ppr": 6.0,
             "pts_std": 4.35,
-            "updated_at": 1789495263696,
+            "updated_at": 1789506056845,
             "company": "rotowire"
           }
         },
@@ -1963,7 +1963,7 @@
             "pts_ppr": 17.94,
             "pts_half_ppr": 17.94,
             "pts_std": 17.94,
-            "updated_at": 1789495263866,
+            "updated_at": 1789506057014,
             "company": "rotowire"
           }
         },
@@ -1986,7 +1986,7 @@
             "pts_ppr": 6.42,
             "pts_half_ppr": 6.42,
             "pts_std": 6.42,
-            "updated_at": 1789495263796,
+            "updated_at": 1789506056937,
             "company": "rotowire"
           }
         }
@@ -2100,7 +2100,7 @@
             "pts_ppr": 11.19,
             "pts_half_ppr": 8.98,
             "pts_std": 6.77,
-            "updated_at": 1789495263552,
+            "updated_at": 1789506056716,
             "company": "rotowire"
           }
         },
@@ -2119,11 +2119,11 @@
             "season_type": "regular",
             "opponent": "WAS",
             "game_date": "2026-09-20",
-            "projected_points": 7.26,
-            "pts_ppr": 7.23,
-            "pts_half_ppr": 7.23,
-            "pts_std": 7.23,
-            "updated_at": 1789495263770,
+            "projected_points": 7.27,
+            "pts_ppr": 7.26,
+            "pts_half_ppr": 7.26,
+            "pts_std": 7.26,
+            "updated_at": 1789506056917,
             "company": "rotowire"
           }
         },
@@ -2146,7 +2146,7 @@
             "pts_ppr": 8.48,
             "pts_half_ppr": 6.93,
             "pts_std": 5.37,
-            "updated_at": 1789495263692,
+            "updated_at": 1789506056841,
             "company": "rotowire"
           }
         },
@@ -2192,7 +2192,7 @@
             "pts_ppr": 6.82,
             "pts_half_ppr": 6.39,
             "pts_std": 5.96,
-            "updated_at": 1789495263938,
+            "updated_at": 1789506057085,
             "company": "rotowire"
           }
         },
@@ -2215,7 +2215,7 @@
             "pts_ppr": 6.33,
             "pts_half_ppr": 5.19,
             "pts_std": 4.04,
-            "updated_at": 1789495263696,
+            "updated_at": 1789506056846,
             "company": "rotowire"
           }
         },
@@ -2238,7 +2238,7 @@
             "pts_ppr": 16.32,
             "pts_half_ppr": 16.32,
             "pts_std": 16.32,
-            "updated_at": 1789495263531,
+            "updated_at": 1789506056697,
             "company": "rotowire"
           }
         },
@@ -2261,7 +2261,7 @@
             "pts_ppr": 7.7,
             "pts_half_ppr": 6.36,
             "pts_std": 5.02,
-            "updated_at": 1789495263466,
+            "updated_at": 1789506056622,
             "company": "rotowire"
           }
         },
@@ -2284,7 +2284,7 @@
             "pts_ppr": 17.05,
             "pts_half_ppr": 17.05,
             "pts_std": 17.05,
-            "updated_at": 1789495263738,
+            "updated_at": 1789506056887,
             "company": "rotowire"
           }
         },
@@ -2303,11 +2303,11 @@
             "season_type": "regular",
             "opponent": "JAX",
             "game_date": "2026-09-20",
-            "projected_points": 7.72,
-            "pts_ppr": 7.72,
-            "pts_half_ppr": 7.23,
-            "pts_std": 6.73,
-            "updated_at": 1789495263740,
+            "projected_points": 9.32,
+            "pts_ppr": 9.36,
+            "pts_half_ppr": 8.66,
+            "pts_std": 7.96,
+            "updated_at": 1789506056884,
             "company": "rotowire"
           }
         },
@@ -2330,7 +2330,7 @@
             "pts_ppr": 11.17,
             "pts_half_ppr": 9.94,
             "pts_std": 8.72,
-            "updated_at": 1789495263542,
+            "updated_at": 1789506056685,
             "company": "rotowire"
           }
         },
@@ -2353,7 +2353,7 @@
             "pts_ppr": 1.11,
             "pts_half_ppr": 0.91,
             "pts_std": 0.72,
-            "updated_at": 1789495263938,
+            "updated_at": 1789506057081,
             "company": "rotowire"
           }
         },
@@ -2376,7 +2376,7 @@
             "pts_ppr": 17.75,
             "pts_half_ppr": 15.04,
             "pts_std": 12.34,
-            "updated_at": 1789495263560,
+            "updated_at": 1789506056703,
             "company": "rotowire"
           }
         },
@@ -2399,7 +2399,7 @@
             "pts_ppr": 9.35,
             "pts_half_ppr": 7.42,
             "pts_std": 5.48,
-            "updated_at": 1789495263957,
+            "updated_at": 1789506057101,
             "company": "rotowire"
           }
         },
@@ -2422,7 +2422,7 @@
             "pts_ppr": 16.98,
             "pts_half_ppr": 15.98,
             "pts_std": 14.97,
-            "updated_at": 1789495263874,
+            "updated_at": 1789506057020,
             "company": "rotowire"
           }
         },
@@ -2441,11 +2441,11 @@
             "season_type": "regular",
             "opponent": "CAR",
             "game_date": "2026-09-20",
-            "projected_points": 5.64,
-            "pts_ppr": 5.64,
-            "pts_half_ppr": 5.3,
-            "pts_std": 4.95,
-            "updated_at": 1789495263612,
+            "projected_points": 5.92,
+            "pts_ppr": 5.89,
+            "pts_half_ppr": 5.55,
+            "pts_std": 5.2,
+            "updated_at": 1789506056768,
             "company": "rotowire"
           }
         },
@@ -2464,11 +2464,11 @@
             "season_type": "regular",
             "opponent": "LAC",
             "game_date": "2026-09-20",
-            "projected_points": 7.97,
-            "pts_ppr": 7.97,
-            "pts_half_ppr": 6.68,
-            "pts_std": 5.39,
-            "updated_at": 1789495263822,
+            "projected_points": 7.9,
+            "pts_ppr": 7.89,
+            "pts_half_ppr": 6.61,
+            "pts_std": 5.34,
+            "updated_at": 1789506056966,
             "company": "rotowire"
           }
         },
@@ -2491,7 +2491,7 @@
             "pts_ppr": 7.81,
             "pts_half_ppr": 6.57,
             "pts_std": 5.33,
-            "updated_at": 1789495263934,
+            "updated_at": 1789506057078,
             "company": "rotowire"
           }
         },
@@ -2514,7 +2514,7 @@
             "pts_ppr": 6.96,
             "pts_half_ppr": 6.96,
             "pts_std": 6.96,
-            "updated_at": 1789495263547,
+            "updated_at": 1789506056691,
             "company": "rotowire"
           }
         }
@@ -2628,7 +2628,7 @@
             "pts_ppr": 6.59,
             "pts_half_ppr": 6.35,
             "pts_std": 6.1,
-            "updated_at": 1789495263811,
+            "updated_at": 1789506056952,
             "company": "rotowire"
           }
         },
@@ -2647,11 +2647,11 @@
             "season_type": "regular",
             "opponent": "DEN",
             "game_date": "2026-09-20",
-            "projected_points": 8.32,
+            "projected_points": 8.34,
             "pts_ppr": 8.32,
             "pts_half_ppr": 6.88,
             "pts_std": 5.43,
-            "updated_at": 1789495263830,
+            "updated_at": 1789506056971,
             "company": "rotowire"
           }
         },
@@ -2670,11 +2670,11 @@
             "season_type": "regular",
             "opponent": "LAR",
             "game_date": "2026-09-21",
-            "projected_points": 2.14,
-            "pts_ppr": 2.14,
-            "pts_half_ppr": 1.9,
-            "pts_std": 1.66,
-            "updated_at": 1789495263944,
+            "projected_points": 1.87,
+            "pts_ppr": 1.9,
+            "pts_half_ppr": 1.65,
+            "pts_std": 1.41,
+            "updated_at": 1789506057087,
             "company": "rotowire"
           }
         },
@@ -2683,8 +2683,8 @@
           "name": "Dylan Sampson",
           "position": "RB",
           "team": "CLE",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "is_starter": false,
           "starter_slot": null,
           "projection": {
@@ -2720,7 +2720,7 @@
             "pts_ppr": 13.38,
             "pts_half_ppr": 12.16,
             "pts_std": 10.93,
-            "updated_at": 1789495263942,
+            "updated_at": 1789506057085,
             "company": "rotowire"
           }
         },
@@ -2743,7 +2743,7 @@
             "pts_ppr": 7.27,
             "pts_half_ppr": 5.8,
             "pts_std": 4.33,
-            "updated_at": 1789495263883,
+            "updated_at": 1789506057029,
             "company": "rotowire"
           }
         },
@@ -2762,11 +2762,11 @@
             "season_type": "regular",
             "opponent": "NE",
             "game_date": "2026-09-20",
-            "projected_points": 5.41,
-            "pts_ppr": 5.4,
-            "pts_half_ppr": 5.4,
-            "pts_std": 5.4,
-            "updated_at": 1789495263564,
+            "projected_points": 5.42,
+            "pts_ppr": 5.43,
+            "pts_half_ppr": 5.43,
+            "pts_std": 5.43,
+            "updated_at": 1789506056707,
             "company": "rotowire"
           }
         },
@@ -2789,7 +2789,7 @@
             "pts_ppr": 13.69,
             "pts_half_ppr": 11.6,
             "pts_std": 9.52,
-            "updated_at": 1789495263942,
+            "updated_at": 1789506057089,
             "company": "rotowire"
           }
         },
@@ -2812,7 +2812,7 @@
             "pts_ppr": 20.58,
             "pts_half_ppr": 20.58,
             "pts_std": 20.58,
-            "updated_at": 1789495263623,
+            "updated_at": 1789506056773,
             "company": "rotowire"
           }
         },
@@ -2835,7 +2835,7 @@
             "pts_ppr": 9.37,
             "pts_half_ppr": 7.45,
             "pts_std": 5.54,
-            "updated_at": 1789495263828,
+            "updated_at": 1789506056972,
             "company": "rotowire"
           }
         },
@@ -2854,11 +2854,11 @@
             "season_type": "regular",
             "opponent": "WAS",
             "game_date": "2026-09-20",
-            "projected_points": 10.31,
-            "pts_ppr": 10.32,
-            "pts_half_ppr": 8.23,
-            "pts_std": 6.14,
-            "updated_at": 1789495263764,
+            "projected_points": 10.0,
+            "pts_ppr": 10.01,
+            "pts_half_ppr": 7.98,
+            "pts_std": 5.96,
+            "updated_at": 1789506056911,
             "company": "rotowire"
           }
         },
@@ -2881,7 +2881,7 @@
             "pts_ppr": 14.12,
             "pts_half_ppr": 11.71,
             "pts_std": 9.31,
-            "updated_at": 1789495263615,
+            "updated_at": 1789506056770,
             "company": "rotowire"
           }
         },
@@ -2904,7 +2904,7 @@
             "pts_ppr": 15.59,
             "pts_half_ppr": 12.65,
             "pts_std": 9.71,
-            "updated_at": 1789495263704,
+            "updated_at": 1789506056856,
             "company": "rotowire"
           }
         },
@@ -2948,9 +2948,9 @@
             "game_date": "2026-09-20",
             "projected_points": 12.09,
             "pts_ppr": 12.08,
-            "pts_half_ppr": 10.6,
+            "pts_half_ppr": 10.59,
             "pts_std": 9.11,
-            "updated_at": 1789495263539,
+            "updated_at": 1789506056683,
             "company": "rotowire"
           }
         },
@@ -2973,7 +2973,7 @@
             "pts_ppr": 7.88,
             "pts_half_ppr": 6.16,
             "pts_std": 4.43,
-            "updated_at": 1789495263836,
+            "updated_at": 1789506056977,
             "company": "rotowire"
           }
         },
@@ -2996,7 +2996,7 @@
             "pts_ppr": 20.14,
             "pts_half_ppr": 16.55,
             "pts_std": 12.95,
-            "updated_at": 1789495263887,
+            "updated_at": 1789506057034,
             "company": "rotowire"
           }
         },
@@ -3019,7 +3019,7 @@
             "pts_ppr": 7.55,
             "pts_half_ppr": 6.39,
             "pts_std": 5.22,
-            "updated_at": 1789495263684,
+            "updated_at": 1789506056831,
             "company": "rotowire"
           }
         },
@@ -3038,11 +3038,11 @@
             "season_type": "regular",
             "opponent": "ARI",
             "game_date": "2026-09-20",
-            "projected_points": 8.9,
-            "pts_ppr": 8.94,
-            "pts_half_ppr": 8.94,
-            "pts_std": 8.94,
-            "updated_at": 1789495263923,
+            "projected_points": 8.87,
+            "pts_ppr": 8.91,
+            "pts_half_ppr": 8.91,
+            "pts_std": 8.91,
+            "updated_at": 1789506057064,
             "company": "rotowire"
           }
         }
@@ -3152,11 +3152,11 @@
             "season_type": "regular",
             "opponent": "LAC",
             "game_date": "2026-09-20",
-            "projected_points": 8.25,
-            "pts_ppr": 8.26,
-            "pts_half_ppr": 6.86,
-            "pts_std": 5.46,
-            "updated_at": 1789495263821,
+            "projected_points": 8.19,
+            "pts_ppr": 8.18,
+            "pts_half_ppr": 6.8,
+            "pts_std": 5.41,
+            "updated_at": 1789506056968,
             "company": "rotowire"
           }
         },
@@ -3179,7 +3179,7 @@
             "pts_ppr": 11.29,
             "pts_half_ppr": 9.07,
             "pts_std": 6.85,
-            "updated_at": 1789495263889,
+            "updated_at": 1789506057035,
             "company": "rotowire"
           }
         },
@@ -3202,7 +3202,7 @@
             "pts_ppr": 11.83,
             "pts_half_ppr": 11.08,
             "pts_std": 10.33,
-            "updated_at": 1789495263930,
+            "updated_at": 1789506057068,
             "company": "rotowire"
           }
         },
@@ -3225,7 +3225,7 @@
             "pts_ppr": 10.37,
             "pts_half_ppr": 8.38,
             "pts_std": 6.38,
-            "updated_at": 1789495263539,
+            "updated_at": 1789506056698,
             "company": "rotowire"
           }
         },
@@ -3271,7 +3271,7 @@
             "pts_ppr": 11.33,
             "pts_half_ppr": 9.27,
             "pts_std": 7.21,
-            "updated_at": 1789495263954,
+            "updated_at": 1789506057104,
             "company": "rotowire"
           }
         },
@@ -3313,11 +3313,11 @@
             "season_type": "regular",
             "opponent": "HOU",
             "game_date": "2026-09-20",
-            "projected_points": 22.62,
-            "pts_ppr": 18.19,
-            "pts_half_ppr": 18.19,
-            "pts_std": 18.19,
-            "updated_at": 1789495263460,
+            "projected_points": 22.1,
+            "pts_ppr": 17.81,
+            "pts_half_ppr": 17.81,
+            "pts_std": 17.81,
+            "updated_at": 1789506056616,
             "company": "rotowire"
           }
         },
@@ -3340,7 +3340,7 @@
             "pts_ppr": 6.21,
             "pts_half_ppr": 6.21,
             "pts_std": 6.21,
-            "updated_at": 1789495263504,
+            "updated_at": 1789506056654,
             "company": "rotowire"
           }
         },
@@ -3363,7 +3363,7 @@
             "pts_ppr": 9.4,
             "pts_half_ppr": 7.97,
             "pts_std": 6.54,
-            "updated_at": 1789495263812,
+            "updated_at": 1789506056960,
             "company": "rotowire"
           }
         },
@@ -3386,30 +3386,7 @@
             "pts_ppr": 20.81,
             "pts_half_ppr": 20.81,
             "pts_std": 20.81,
-            "updated_at": 1789495263929,
-            "company": "rotowire"
-          }
-        },
-        {
-          "player_id": "8800",
-          "name": "Malik Davis",
-          "position": "RB",
-          "team": "DAL",
-          "status": "Inactive",
-          "injury_status": "IR",
-          "is_starter": false,
-          "starter_slot": null,
-          "projection": {
-            "week": 2,
-            "season": "2026",
-            "season_type": "regular",
-            "opponent": null,
-            "game_date": null,
-            "projected_points": 0,
-            "pts_ppr": null,
-            "pts_half_ppr": null,
-            "pts_std": null,
-            "updated_at": null,
+            "updated_at": 1789506057077,
             "company": "rotowire"
           }
         },
@@ -3432,7 +3409,7 @@
             "pts_ppr": 26.13,
             "pts_half_ppr": 24.2,
             "pts_std": 22.27,
-            "updated_at": 1789495263534,
+            "updated_at": 1789506056699,
             "company": "rotowire"
           }
         },
@@ -3451,11 +3428,11 @@
             "season_type": "regular",
             "opponent": "HOU",
             "game_date": "2026-09-20",
-            "projected_points": 15.36,
-            "pts_ppr": 15.33,
-            "pts_half_ppr": 13.37,
-            "pts_std": 11.41,
-            "updated_at": 1789495263467,
+            "projected_points": 15.42,
+            "pts_ppr": 15.46,
+            "pts_half_ppr": 13.55,
+            "pts_std": 11.64,
+            "updated_at": 1789506056623,
             "company": "rotowire"
           }
         },
@@ -3478,7 +3455,7 @@
             "pts_ppr": 10.97,
             "pts_half_ppr": 9.04,
             "pts_std": 7.11,
-            "updated_at": 1789495263825,
+            "updated_at": 1789506056966,
             "company": "rotowire"
           }
         },
@@ -3501,7 +3478,7 @@
             "pts_ppr": 10.26,
             "pts_half_ppr": 8.27,
             "pts_std": 6.29,
-            "updated_at": 1789495263877,
+            "updated_at": 1789506057025,
             "company": "rotowire"
           }
         },
@@ -3520,11 +3497,11 @@
             "season_type": "regular",
             "opponent": "LV",
             "game_date": "2026-09-20",
-            "projected_points": 6.34,
-            "pts_ppr": 6.32,
-            "pts_half_ppr": 5.69,
-            "pts_std": 5.06,
-            "updated_at": 1789495263742,
+            "projected_points": 6.28,
+            "pts_ppr": 6.25,
+            "pts_half_ppr": 5.62,
+            "pts_std": 4.99,
+            "updated_at": 1789506056889,
             "company": "rotowire"
           }
         },
@@ -3543,11 +3520,11 @@
             "season_type": "regular",
             "opponent": "PIT",
             "game_date": "2026-09-20",
-            "projected_points": 8.52,
-            "pts_ppr": 8.54,
-            "pts_half_ppr": 8.54,
-            "pts_std": 8.54,
-            "updated_at": 1789495263458,
+            "projected_points": 8.51,
+            "pts_ppr": 8.51,
+            "pts_half_ppr": 8.51,
+            "pts_std": 8.51,
+            "updated_at": 1789506056612,
             "company": "rotowire"
           }
         },
@@ -3566,11 +3543,11 @@
             "season_type": "regular",
             "opponent": "NE",
             "game_date": "2026-09-20",
-            "projected_points": 5.72,
-            "pts_ppr": 5.74,
-            "pts_half_ppr": 5.74,
-            "pts_std": 5.74,
-            "updated_at": 1789495263532,
+            "projected_points": 5.74,
+            "pts_ppr": 5.76,
+            "pts_half_ppr": 5.76,
+            "pts_std": 5.76,
+            "updated_at": 1789506056677,
             "company": "rotowire"
           }
         }
@@ -3684,7 +3661,7 @@
             "pts_ppr": 12.16,
             "pts_half_ppr": 9.8,
             "pts_std": 7.43,
-            "updated_at": 1789495263489,
+            "updated_at": 1789506056650,
             "company": "rotowire"
           }
         },
@@ -3703,11 +3680,11 @@
             "season_type": "regular",
             "opponent": "WAS",
             "game_date": "2026-09-20",
-            "projected_points": 4.66,
-            "pts_ppr": 4.68,
-            "pts_half_ppr": 4.27,
-            "pts_std": 3.86,
-            "updated_at": 1789495263752,
+            "projected_points": 4.71,
+            "pts_ppr": 4.74,
+            "pts_half_ppr": 4.34,
+            "pts_std": 3.94,
+            "updated_at": 1789506056898,
             "company": "rotowire"
           }
         },
@@ -3730,7 +3707,7 @@
             "pts_ppr": 9.82,
             "pts_half_ppr": 8.24,
             "pts_std": 6.67,
-            "updated_at": 1789495263743,
+            "updated_at": 1789506056893,
             "company": "rotowire"
           }
         },
@@ -3753,7 +3730,7 @@
             "pts_ppr": 9.56,
             "pts_half_ppr": 7.65,
             "pts_std": 5.74,
-            "updated_at": 1789495263710,
+            "updated_at": 1789506056862,
             "company": "rotowire"
           }
         },
@@ -3772,11 +3749,11 @@
             "season_type": "regular",
             "opponent": "MIN",
             "game_date": "2026-09-20",
-            "projected_points": 7.22,
-            "pts_ppr": 7.22,
-            "pts_half_ppr": 6.66,
-            "pts_std": 6.11,
-            "updated_at": 1789495263735,
+            "projected_points": 6.86,
+            "pts_ppr": 6.88,
+            "pts_half_ppr": 6.33,
+            "pts_std": 5.78,
+            "updated_at": 1789506056884,
             "company": "rotowire"
           }
         },
@@ -3795,11 +3772,11 @@
             "season_type": "regular",
             "opponent": "SEA",
             "game_date": "2026-09-20",
-            "projected_points": 12.45,
-            "pts_ppr": 12.49,
-            "pts_half_ppr": 10.76,
-            "pts_std": 9.03,
-            "updated_at": 1789495263862,
+            "projected_points": 12.43,
+            "pts_ppr": 12.46,
+            "pts_half_ppr": 10.73,
+            "pts_std": 9.0,
+            "updated_at": 1789506057003,
             "company": "rotowire"
           }
         },
@@ -3818,11 +3795,11 @@
             "season_type": "regular",
             "opponent": "WAS",
             "game_date": "2026-09-20",
-            "projected_points": 25.78,
-            "pts_ppr": 20.77,
-            "pts_half_ppr": 20.77,
-            "pts_std": 20.77,
-            "updated_at": 1789495263745,
+            "projected_points": 25.08,
+            "pts_ppr": 20.26,
+            "pts_half_ppr": 20.26,
+            "pts_std": 20.26,
+            "updated_at": 1789506056894,
             "company": "rotowire"
           }
         },
@@ -3845,7 +3822,7 @@
             "pts_ppr": 4.32,
             "pts_half_ppr": 3.56,
             "pts_std": 2.8,
-            "updated_at": 1789495263700,
+            "updated_at": 1789506056853,
             "company": "rotowire"
           }
         },
@@ -3868,7 +3845,7 @@
             "pts_ppr": 5.1,
             "pts_half_ppr": 4.32,
             "pts_std": 3.53,
-            "updated_at": 1789495263694,
+            "updated_at": 1789506056843,
             "company": "rotowire"
           }
         },
@@ -3887,11 +3864,11 @@
             "season_type": "regular",
             "opponent": "WAS",
             "game_date": "2026-09-20",
-            "projected_points": 19.1,
-            "pts_ppr": 19.09,
-            "pts_half_ppr": 15.95,
-            "pts_std": 12.8,
-            "updated_at": 1789495263758,
+            "projected_points": 18.59,
+            "pts_ppr": 18.54,
+            "pts_half_ppr": 15.48,
+            "pts_std": 12.43,
+            "updated_at": 1789506056904,
             "company": "rotowire"
           }
         },
@@ -3910,11 +3887,11 @@
             "season_type": "regular",
             "opponent": "CHI",
             "game_date": "2026-09-20",
-            "projected_points": 18.04,
-            "pts_ppr": 18.08,
-            "pts_half_ppr": 14.97,
-            "pts_std": 11.85,
-            "updated_at": 1789495263813,
+            "projected_points": 17.88,
+            "pts_ppr": 17.9,
+            "pts_half_ppr": 14.81,
+            "pts_std": 11.73,
+            "updated_at": 1789506056954,
             "company": "rotowire"
           }
         },
@@ -3937,7 +3914,7 @@
             "pts_ppr": 11.6,
             "pts_half_ppr": 9.32,
             "pts_std": 7.05,
-            "updated_at": 1789495263555,
+            "updated_at": 1789506056698,
             "company": "rotowire"
           }
         },
@@ -3960,7 +3937,7 @@
             "pts_ppr": 20.88,
             "pts_half_ppr": 20.88,
             "pts_std": 20.88,
-            "updated_at": 1789495263618,
+            "updated_at": 1789506056767,
             "company": "rotowire"
           }
         },
@@ -3979,11 +3956,11 @@
             "season_type": "regular",
             "opponent": "SEA",
             "game_date": "2026-09-20",
-            "projected_points": 6.68,
-            "pts_ppr": 6.67,
-            "pts_half_ppr": 6.02,
-            "pts_std": 5.37,
-            "updated_at": 1789495263865,
+            "projected_points": 6.3,
+            "pts_ppr": 6.34,
+            "pts_half_ppr": 5.68,
+            "pts_std": 5.03,
+            "updated_at": 1789506057006,
             "company": "rotowire"
           }
         },
@@ -4006,7 +3983,7 @@
             "pts_ppr": 13.79,
             "pts_half_ppr": 12.39,
             "pts_std": 10.99,
-            "updated_at": 1789495263683,
+            "updated_at": 1789506056820,
             "company": "rotowire"
           }
         },
@@ -4029,7 +4006,7 @@
             "pts_ppr": 7.54,
             "pts_half_ppr": 7.54,
             "pts_std": 7.54,
-            "updated_at": 1789495263767,
+            "updated_at": 1789506056915,
             "company": "rotowire"
           }
         },
@@ -4052,7 +4029,7 @@
             "pts_ppr": 8.13,
             "pts_half_ppr": 6.8,
             "pts_std": 5.48,
-            "updated_at": 1789495263637,
+            "updated_at": 1789506056783,
             "company": "rotowire"
           }
         },
@@ -4075,7 +4052,7 @@
             "pts_ppr": 5.17,
             "pts_half_ppr": 4.71,
             "pts_std": 4.26,
-            "updated_at": 1789495263702,
+            "updated_at": 1789506056854,
             "company": "rotowire"
           }
         },
@@ -4094,11 +4071,11 @@
             "season_type": "regular",
             "opponent": "JAX",
             "game_date": "2026-09-20",
-            "projected_points": 6.83,
-            "pts_ppr": 6.84,
-            "pts_half_ppr": 6.84,
-            "pts_std": 6.84,
-            "updated_at": 1789495263732,
+            "projected_points": 6.88,
+            "pts_ppr": 6.9,
+            "pts_half_ppr": 6.9,
+            "pts_std": 6.9,
+            "updated_at": 1789506056881,
             "company": "rotowire"
           }
         }
@@ -4212,7 +4189,7 @@
             "pts_ppr": 0.22,
             "pts_half_ppr": 0.22,
             "pts_std": 0.22,
-            "updated_at": 1789495263737,
+            "updated_at": 1789506056886,
             "company": "rotowire"
           }
         },
@@ -4235,7 +4212,7 @@
             "pts_ppr": 17.06,
             "pts_half_ppr": 17.06,
             "pts_std": 17.06,
-            "updated_at": 1789495263732,
+            "updated_at": 1789506056880,
             "company": "rotowire"
           }
         },
@@ -4258,7 +4235,7 @@
             "pts_ppr": 8.93,
             "pts_half_ppr": 7.12,
             "pts_std": 5.31,
-            "updated_at": 1789495263885,
+            "updated_at": 1789506057035,
             "company": "rotowire"
           }
         },
@@ -4277,11 +4254,11 @@
             "season_type": "regular",
             "opponent": "WAS",
             "game_date": "2026-09-20",
-            "projected_points": 8.3,
-            "pts_ppr": 8.27,
-            "pts_half_ppr": 6.92,
-            "pts_std": 5.56,
-            "updated_at": 1789495263756,
+            "projected_points": 8.05,
+            "pts_ppr": 8.03,
+            "pts_half_ppr": 6.72,
+            "pts_std": 5.41,
+            "updated_at": 1789506056902,
             "company": "rotowire"
           }
         },
@@ -4304,7 +4281,7 @@
             "pts_ppr": 13.68,
             "pts_half_ppr": 12.05,
             "pts_std": 10.43,
-            "updated_at": 1789495263745,
+            "updated_at": 1789506056894,
             "company": "rotowire"
           }
         },
@@ -4327,7 +4304,7 @@
             "pts_ppr": 12.67,
             "pts_half_ppr": 11.71,
             "pts_std": 10.75,
-            "updated_at": 1789495263464,
+            "updated_at": 1789506056620,
             "company": "rotowire"
           }
         },
@@ -4350,7 +4327,7 @@
             "pts_ppr": 10.8,
             "pts_half_ppr": 9.16,
             "pts_std": 7.52,
-            "updated_at": 1789495263544,
+            "updated_at": 1789506056697,
             "company": "rotowire"
           }
         },
@@ -4369,11 +4346,11 @@
             "season_type": "regular",
             "opponent": "PIT",
             "game_date": "2026-09-20",
-            "projected_points": 10.21,
-            "pts_ppr": 10.21,
-            "pts_half_ppr": 9.12,
-            "pts_std": 8.03,
-            "updated_at": 1789495263465,
+            "projected_points": 9.54,
+            "pts_ppr": 9.54,
+            "pts_half_ppr": 8.45,
+            "pts_std": 7.36,
+            "updated_at": 1789506056619,
             "company": "rotowire"
           }
         },
@@ -4396,7 +4373,7 @@
             "pts_ppr": 5.06,
             "pts_half_ppr": 3.96,
             "pts_std": 2.86,
-            "updated_at": 1789495263698,
+            "updated_at": 1789506056848,
             "company": "rotowire"
           }
         },
@@ -4419,7 +4396,7 @@
             "pts_ppr": 8.03,
             "pts_half_ppr": 6.69,
             "pts_std": 5.36,
-            "updated_at": 1789495263473,
+            "updated_at": 1789506056629,
             "company": "rotowire"
           }
         },
@@ -4442,7 +4419,7 @@
             "pts_ppr": null,
             "pts_half_ppr": null,
             "pts_std": null,
-            "updated_at": 1789495263950,
+            "updated_at": 1789506057099,
             "company": "rotowire"
           }
         },
@@ -4465,7 +4442,7 @@
             "pts_ppr": 7.34,
             "pts_half_ppr": 7.34,
             "pts_std": 7.34,
-            "updated_at": 1789495263578,
+            "updated_at": 1789506056722,
             "company": "rotowire"
           }
         },
@@ -4488,7 +4465,7 @@
             "pts_ppr": 16.84,
             "pts_half_ppr": 16.84,
             "pts_std": 16.84,
-            "updated_at": 1789495263870,
+            "updated_at": 1789506057015,
             "company": "rotowire"
           }
         },
@@ -4511,7 +4488,7 @@
             "pts_ppr": 9.91,
             "pts_half_ppr": 7.98,
             "pts_std": 6.05,
-            "updated_at": 1789495263573,
+            "updated_at": 1789506056718,
             "company": "rotowire"
           }
         },
@@ -4553,11 +4530,11 @@
             "season_type": "regular",
             "opponent": "KC",
             "game_date": "2026-09-20",
-            "projected_points": 18.63,
-            "pts_ppr": 18.58,
-            "pts_half_ppr": 17.17,
-            "pts_std": 15.75,
-            "updated_at": 1789495263872,
+            "projected_points": 18.83,
+            "pts_ppr": 18.83,
+            "pts_half_ppr": 17.41,
+            "pts_std": 16.0,
+            "updated_at": 1789506057018,
             "company": "rotowire"
           }
         },
@@ -4580,7 +4557,7 @@
             "pts_ppr": 9.87,
             "pts_half_ppr": 7.72,
             "pts_std": 5.57,
-            "updated_at": 1789495263717,
+            "updated_at": 1789506056868,
             "company": "rotowire"
           }
         },
@@ -4603,7 +4580,7 @@
             "pts_ppr": 12.28,
             "pts_half_ppr": 10.89,
             "pts_std": 9.49,
-            "updated_at": 1789495263463,
+            "updated_at": 1789506056616,
             "company": "rotowire"
           }
         },
@@ -4626,7 +4603,7 @@
             "pts_ppr": 6.92,
             "pts_half_ppr": 5.43,
             "pts_std": 3.95,
-            "updated_at": 1789495263550,
+            "updated_at": 1789506056705,
             "company": "rotowire"
           }
         },
@@ -4649,7 +4626,7 @@
             "pts_ppr": 8.78,
             "pts_half_ppr": 8.78,
             "pts_std": 8.78,
-            "updated_at": 1789495263868,
+            "updated_at": 1789506057013,
             "company": "rotowire"
           }
         }
@@ -4763,7 +4740,7 @@
             "pts_ppr": 13.55,
             "pts_half_ppr": 10.95,
             "pts_std": 8.35,
-            "updated_at": 1789495263947,
+            "updated_at": 1789506057098,
             "company": "rotowire"
           }
         },
@@ -4782,11 +4759,11 @@
             "season_type": "regular",
             "opponent": "PIT",
             "game_date": "2026-09-20",
-            "projected_points": 22.46,
+            "projected_points": 22.48,
             "pts_ppr": 18.89,
             "pts_half_ppr": 18.89,
             "pts_std": 18.89,
-            "updated_at": 1789495263460,
+            "updated_at": 1789506056614,
             "company": "rotowire"
           }
         },
@@ -4809,7 +4786,7 @@
             "pts_ppr": 11.05,
             "pts_half_ppr": 9.26,
             "pts_std": 7.47,
-            "updated_at": 1789495263614,
+            "updated_at": 1789506056763,
             "company": "rotowire"
           }
         },
@@ -4828,11 +4805,11 @@
             "season_type": "regular",
             "opponent": "LAC",
             "game_date": "2026-09-20",
-            "projected_points": 14.36,
-            "pts_ppr": 14.35,
-            "pts_half_ppr": 12.79,
-            "pts_std": 11.23,
-            "updated_at": 1789495263809,
+            "projected_points": 14.46,
+            "pts_ppr": 14.42,
+            "pts_half_ppr": 12.87,
+            "pts_std": 11.33,
+            "updated_at": 1789506056954,
             "company": "rotowire"
           }
         },
@@ -4851,11 +4828,11 @@
             "season_type": "regular",
             "opponent": "PIT",
             "game_date": "2026-09-20",
-            "projected_points": 6.3,
-            "pts_ppr": 6.28,
-            "pts_half_ppr": 6.28,
-            "pts_std": 6.28,
-            "updated_at": 1789495263503,
+            "projected_points": 6.26,
+            "pts_ppr": 6.25,
+            "pts_half_ppr": 6.25,
+            "pts_std": 6.25,
+            "updated_at": 1789506056652,
             "company": "rotowire"
           }
         },
@@ -4901,7 +4878,7 @@
             "pts_ppr": 8.52,
             "pts_half_ppr": 7.01,
             "pts_std": 5.5,
-            "updated_at": 1789495263877,
+            "updated_at": 1789506057026,
             "company": "rotowire"
           }
         },
@@ -4924,7 +4901,7 @@
             "pts_ppr": 4.58,
             "pts_half_ppr": 3.8,
             "pts_std": 3.01,
-            "updated_at": 1789495263825,
+            "updated_at": 1789506056972,
             "company": "rotowire"
           }
         },
@@ -4947,7 +4924,7 @@
             "pts_ppr": 3.25,
             "pts_half_ppr": 2.61,
             "pts_std": 1.97,
-            "updated_at": 1789495263619,
+            "updated_at": 1789506056776,
             "company": "rotowire"
           }
         },
@@ -4970,7 +4947,7 @@
             "pts_ppr": 0.79,
             "pts_half_ppr": 0.65,
             "pts_std": 0.51,
-            "updated_at": 1789495263952,
+            "updated_at": 1789506057102,
             "company": "rotowire"
           }
         },
@@ -4993,7 +4970,7 @@
             "pts_ppr": 12.53,
             "pts_half_ppr": 10.19,
             "pts_std": 7.85,
-            "updated_at": 1789495263833,
+            "updated_at": 1789506056981,
             "company": "rotowire"
           }
         },
@@ -5016,7 +4993,7 @@
             "pts_ppr": 19.75,
             "pts_half_ppr": 17.28,
             "pts_std": 14.82,
-            "updated_at": 1789495263931,
+            "updated_at": 1789506057079,
             "company": "rotowire"
           }
         },
@@ -5039,7 +5016,7 @@
             "pts_ppr": 12.71,
             "pts_half_ppr": 10.43,
             "pts_std": 8.15,
-            "updated_at": 1789495263757,
+            "updated_at": 1789506056900,
             "company": "rotowire"
           }
         },
@@ -5062,7 +5039,7 @@
             "pts_ppr": 12.09,
             "pts_half_ppr": 11.12,
             "pts_std": 10.15,
-            "updated_at": 1789495263668,
+            "updated_at": 1789506056821,
             "company": "rotowire"
           }
         },
@@ -5081,11 +5058,11 @@
             "season_type": "regular",
             "opponent": "NYJ",
             "game_date": "2026-09-20",
-            "projected_points": 12.82,
-            "pts_ppr": 12.84,
-            "pts_half_ppr": 10.75,
-            "pts_std": 8.67,
-            "updated_at": 1789495263632,
+            "projected_points": 11.85,
+            "pts_ppr": 11.85,
+            "pts_half_ppr": 9.92,
+            "pts_std": 7.99,
+            "updated_at": 1789506056779,
             "company": "rotowire"
           }
         },
@@ -5108,7 +5085,7 @@
             "pts_ppr": 11.14,
             "pts_half_ppr": 9.44,
             "pts_std": 7.74,
-            "updated_at": 1789495263811,
+            "updated_at": 1789506056952,
             "company": "rotowire"
           }
         },
@@ -5131,7 +5108,7 @@
             "pts_ppr": 18.05,
             "pts_half_ppr": 18.05,
             "pts_std": 18.05,
-            "updated_at": 1789495263550,
+            "updated_at": 1789506056693,
             "company": "rotowire"
           }
         },
@@ -5154,7 +5131,7 @@
             "pts_ppr": 9.6,
             "pts_half_ppr": 9.6,
             "pts_std": 9.6,
-            "updated_at": 1789495263616,
+            "updated_at": 1789506056765,
             "company": "rotowire"
           }
         }
@@ -5268,7 +5245,7 @@
             "pts_ppr": 12.23,
             "pts_half_ppr": 10.23,
             "pts_std": 8.23,
-            "updated_at": 1789495263624,
+            "updated_at": 1789506056765,
             "company": "rotowire"
           }
         },
@@ -5291,7 +5268,7 @@
             "pts_ppr": 6.12,
             "pts_half_ppr": 6.12,
             "pts_std": 6.12,
-            "updated_at": 1789495263558,
+            "updated_at": 1789506056723,
             "company": "rotowire"
           }
         },
@@ -5314,7 +5291,7 @@
             "pts_ppr": 13.82,
             "pts_half_ppr": 12.44,
             "pts_std": 11.06,
-            "updated_at": 1789495263531,
+            "updated_at": 1789506056689,
             "company": "rotowire"
           }
         },
@@ -5337,7 +5314,7 @@
             "pts_ppr": 7.25,
             "pts_half_ppr": 6.6,
             "pts_std": 5.95,
-            "updated_at": 1789495263554,
+            "updated_at": 1789506056699,
             "company": "rotowire"
           }
         },
@@ -5356,11 +5333,11 @@
             "season_type": "regular",
             "opponent": "JAX",
             "game_date": "2026-09-20",
-            "projected_points": 9.06,
-            "pts_ppr": 9.06,
-            "pts_half_ppr": 7.81,
-            "pts_std": 6.55,
-            "updated_at": 1789495263742,
+            "projected_points": 9.29,
+            "pts_ppr": 9.27,
+            "pts_half_ppr": 7.96,
+            "pts_std": 6.65,
+            "updated_at": 1789506056887,
             "company": "rotowire"
           }
         },
@@ -5383,7 +5360,7 @@
             "pts_ppr": 6.36,
             "pts_half_ppr": 5.21,
             "pts_std": 4.06,
-            "updated_at": 1789495263950,
+            "updated_at": 1789506057093,
             "company": "rotowire"
           }
         },
@@ -5406,7 +5383,7 @@
             "pts_ppr": 10.23,
             "pts_half_ppr": 8.25,
             "pts_std": 6.27,
-            "updated_at": 1789495263498,
+            "updated_at": 1789506056647,
             "company": "rotowire"
           }
         },
@@ -5452,7 +5429,7 @@
             "pts_ppr": 21.89,
             "pts_half_ppr": 21.89,
             "pts_std": 21.89,
-            "updated_at": 1789495263460,
+            "updated_at": 1789506056613,
             "company": "rotowire"
           }
         },
@@ -5475,7 +5452,7 @@
             "pts_ppr": 8.75,
             "pts_half_ppr": 7.99,
             "pts_std": 7.24,
-            "updated_at": 1789495263680,
+            "updated_at": 1789506056828,
             "company": "rotowire"
           }
         },
@@ -5498,7 +5475,7 @@
             "pts_ppr": 9.75,
             "pts_half_ppr": 7.78,
             "pts_std": 5.81,
-            "updated_at": 1789495263626,
+            "updated_at": 1789506056783,
             "company": "rotowire"
           }
         },
@@ -5521,7 +5498,7 @@
             "pts_ppr": 8.53,
             "pts_half_ppr": 7.17,
             "pts_std": 5.82,
-            "updated_at": 1789495263632,
+            "updated_at": 1789506056783,
             "company": "rotowire"
           }
         },
@@ -5540,11 +5517,11 @@
             "season_type": "regular",
             "opponent": "SEA",
             "game_date": "2026-09-20",
-            "projected_points": 14.34,
-            "pts_ppr": 14.33,
-            "pts_half_ppr": 11.04,
-            "pts_std": 7.74,
-            "updated_at": 1789495263883,
+            "projected_points": 14.9,
+            "pts_ppr": 14.91,
+            "pts_half_ppr": 11.48,
+            "pts_std": 8.05,
+            "updated_at": 1789506057022,
             "company": "rotowire"
           }
         },
@@ -5567,7 +5544,7 @@
             "pts_ppr": 8.34,
             "pts_half_ppr": 6.62,
             "pts_std": 4.9,
-            "updated_at": 1789495263838,
+            "updated_at": 1789506056986,
             "company": "rotowire"
           }
         },
@@ -5590,7 +5567,7 @@
             "pts_ppr": 19.55,
             "pts_half_ppr": 16.17,
             "pts_std": 12.8,
-            "updated_at": 1789495263936,
+            "updated_at": 1789506057079,
             "company": "rotowire"
           }
         },
@@ -5636,7 +5613,7 @@
             "pts_ppr": 9.97,
             "pts_half_ppr": 8.31,
             "pts_std": 6.65,
-            "updated_at": 1789495263753,
+            "updated_at": 1789506056901,
             "company": "rotowire"
           }
         },
@@ -5659,7 +5636,7 @@
             "pts_ppr": 14.35,
             "pts_half_ppr": 11.84,
             "pts_std": 9.33,
-            "updated_at": 1789495263635,
+            "updated_at": 1789506056785,
             "company": "rotowire"
           }
         },
@@ -5682,7 +5659,7 @@
             "pts_ppr": 5.24,
             "pts_half_ppr": 5.24,
             "pts_std": 5.24,
-            "updated_at": 1789495263529,
+            "updated_at": 1789506056694,
             "company": "rotowire"
           }
         }
@@ -5796,7 +5773,7 @@
             "pts_ppr": 5.68,
             "pts_half_ppr": 4.77,
             "pts_std": 3.86,
-            "updated_at": 1789495263546,
+            "updated_at": 1789506056703,
             "company": "rotowire"
           }
         },
@@ -5865,7 +5842,7 @@
             "pts_ppr": 18.07,
             "pts_half_ppr": 18.07,
             "pts_std": 18.07,
-            "updated_at": 1789495263936,
+            "updated_at": 1789506057079,
             "company": "rotowire"
           }
         },
@@ -5888,7 +5865,7 @@
             "pts_ppr": 14.04,
             "pts_half_ppr": 11.88,
             "pts_std": 9.73,
-            "updated_at": 1789495263681,
+            "updated_at": 1789506056832,
             "company": "rotowire"
           }
         },
@@ -5907,11 +5884,11 @@
             "season_type": "regular",
             "opponent": "BAL",
             "game_date": "2026-09-20",
-            "projected_points": 16.23,
-            "pts_ppr": 14.25,
-            "pts_half_ppr": 14.25,
-            "pts_std": 14.25,
-            "updated_at": 1789495263695,
+            "projected_points": 17.79,
+            "pts_ppr": 15.26,
+            "pts_half_ppr": 15.26,
+            "pts_std": 15.26,
+            "updated_at": 1789506056848,
             "company": "rotowire"
           }
         },
@@ -5934,7 +5911,7 @@
             "pts_ppr": 6.34,
             "pts_half_ppr": 5.21,
             "pts_std": 4.07,
-            "updated_at": 1789495263632,
+            "updated_at": 1789506056781,
             "company": "rotowire"
           }
         },
@@ -5957,7 +5934,7 @@
             "pts_ppr": 7.8,
             "pts_half_ppr": 6.39,
             "pts_std": 4.99,
-            "updated_at": 1789495263941,
+            "updated_at": 1789506057083,
             "company": "rotowire"
           }
         },
@@ -5976,11 +5953,11 @@
             "season_type": "regular",
             "opponent": "CHI",
             "game_date": "2026-09-20",
-            "projected_points": 9.94,
-            "pts_ppr": 9.91,
-            "pts_half_ppr": 8.8,
-            "pts_std": 7.7,
-            "updated_at": 1789495263800,
+            "projected_points": 11.44,
+            "pts_ppr": 11.44,
+            "pts_half_ppr": 10.34,
+            "pts_std": 9.24,
+            "updated_at": 1789506056942,
             "company": "rotowire"
           }
         },
@@ -6003,7 +5980,7 @@
             "pts_ppr": 16.58,
             "pts_half_ppr": 15.38,
             "pts_std": 14.17,
-            "updated_at": 1789495263623,
+            "updated_at": 1789506056772,
             "company": "rotowire"
           }
         },
@@ -6026,7 +6003,7 @@
             "pts_ppr": 9.9,
             "pts_half_ppr": 8.1,
             "pts_std": 6.3,
-            "updated_at": 1789495263641,
+            "updated_at": 1789506056789,
             "company": "rotowire"
           }
         },
@@ -6049,7 +6026,7 @@
             "pts_ppr": 6.59,
             "pts_half_ppr": 6.59,
             "pts_std": 6.59,
-            "updated_at": 1789495263556,
+            "updated_at": 1789506056712,
             "company": "rotowire"
           }
         },
@@ -6072,7 +6049,7 @@
             "pts_ppr": 14.92,
             "pts_half_ppr": 12.34,
             "pts_std": 9.76,
-            "updated_at": 1789495263628,
+            "updated_at": 1789506056776,
             "company": "rotowire"
           }
         },
@@ -6095,7 +6072,7 @@
             "pts_ppr": 10.93,
             "pts_half_ppr": 8.69,
             "pts_std": 6.46,
-            "updated_at": 1789495263478,
+            "updated_at": 1789506056629,
             "company": "rotowire"
           }
         },
@@ -6118,7 +6095,7 @@
             "pts_ppr": 11.54,
             "pts_half_ppr": 9.93,
             "pts_std": 8.33,
-            "updated_at": 1789495263885,
+            "updated_at": 1789506057034,
             "company": "rotowire"
           }
         },
@@ -6137,11 +6114,11 @@
             "season_type": "regular",
             "opponent": "GB",
             "game_date": "2026-09-20",
-            "projected_points": 13.92,
-            "pts_ppr": 13.96,
-            "pts_half_ppr": 11.38,
-            "pts_std": 8.8,
-            "updated_at": 1789495263689,
+            "projected_points": 14.94,
+            "pts_ppr": 14.97,
+            "pts_half_ppr": 12.21,
+            "pts_std": 9.44,
+            "updated_at": 1789506056834,
             "company": "rotowire"
           }
         },
@@ -6164,7 +6141,7 @@
             "pts_ppr": 12.62,
             "pts_half_ppr": 10.74,
             "pts_std": 8.85,
-            "updated_at": 1789495263541,
+            "updated_at": 1789506056710,
             "company": "rotowire"
           }
         },
@@ -6187,7 +6164,7 @@
             "pts_ppr": 3.44,
             "pts_half_ppr": 3.26,
             "pts_std": 3.08,
-            "updated_at": 1789495263621,
+            "updated_at": 1789506056769,
             "company": "rotowire"
           }
         },
@@ -6210,7 +6187,7 @@
             "pts_ppr": 17.07,
             "pts_half_ppr": 15.37,
             "pts_std": 13.67,
-            "updated_at": 1789495263875,
+            "updated_at": 1789506057023,
             "company": "rotowire"
           }
         },
@@ -6256,7 +6233,7 @@
             "pts_ppr": 7.17,
             "pts_half_ppr": 7.17,
             "pts_std": 7.17,
-            "updated_at": 1789495263730,
+            "updated_at": 1789506056877,
             "company": "rotowire"
           }
         }
@@ -6370,7 +6347,7 @@
             "pts_ppr": 3.85,
             "pts_half_ppr": 3.51,
             "pts_std": 3.17,
-            "updated_at": 1789495263464,
+            "updated_at": 1789506056618,
             "company": "rotowire"
           }
         },
@@ -6393,7 +6370,7 @@
             "pts_ppr": 8.61,
             "pts_half_ppr": 6.86,
             "pts_std": 5.12,
-            "updated_at": 1789495263944,
+            "updated_at": 1789506057088,
             "company": "rotowire"
           }
         },
@@ -6416,7 +6393,7 @@
             "pts_ppr": 9.81,
             "pts_half_ppr": 8.23,
             "pts_std": 6.65,
-            "updated_at": 1789495263943,
+            "updated_at": 1789506057092,
             "company": "rotowire"
           }
         },
@@ -6439,7 +6416,7 @@
             "pts_ppr": 12.04,
             "pts_half_ppr": 9.83,
             "pts_std": 7.62,
-            "updated_at": 1789495263757,
+            "updated_at": 1789506056903,
             "company": "rotowire"
           }
         },
@@ -6462,7 +6439,7 @@
             "pts_ppr": 1.37,
             "pts_half_ppr": 1.1,
             "pts_std": 0.84,
-            "updated_at": 1789495263822,
+            "updated_at": 1789506056964,
             "company": "rotowire"
           }
         },
@@ -6485,7 +6462,7 @@
             "pts_ppr": 12.29,
             "pts_half_ppr": 11.61,
             "pts_std": 10.93,
-            "updated_at": 1789495263818,
+            "updated_at": 1789506056965,
             "company": "rotowire"
           }
         },
@@ -6504,11 +6481,11 @@
             "season_type": "regular",
             "opponent": "JAX",
             "game_date": "2026-09-20",
-            "projected_points": 3.01,
-            "pts_ppr": 3.06,
-            "pts_half_ppr": 2.69,
-            "pts_std": 2.33,
-            "updated_at": 1789495263738,
+            "projected_points": 2.04,
+            "pts_ppr": 2.1,
+            "pts_half_ppr": 1.83,
+            "pts_std": 1.56,
+            "updated_at": 1789506056893,
             "company": "rotowire"
           }
         },
@@ -6527,11 +6504,11 @@
             "season_type": "regular",
             "opponent": "ARI",
             "game_date": "2026-09-20",
-            "projected_points": 6.8,
-            "pts_ppr": 6.78,
-            "pts_half_ppr": 6.78,
-            "pts_std": 6.78,
-            "updated_at": 1789495263948,
+            "projected_points": 6.79,
+            "pts_ppr": 6.75,
+            "pts_half_ppr": 6.75,
+            "pts_std": 6.75,
+            "updated_at": 1789506057091,
             "company": "rotowire"
           }
         },
@@ -6550,11 +6527,11 @@
             "season_type": "regular",
             "opponent": "IND",
             "game_date": "2026-09-20",
-            "projected_points": 20.2,
-            "pts_ppr": 17.16,
-            "pts_half_ppr": 17.16,
-            "pts_std": 17.16,
-            "updated_at": 1789495263931,
+            "projected_points": 21.22,
+            "pts_ppr": 17.86,
+            "pts_half_ppr": 17.86,
+            "pts_std": 17.86,
+            "updated_at": 1789506057082,
             "company": "rotowire"
           }
         },
@@ -6577,7 +6554,7 @@
             "pts_ppr": 6.36,
             "pts_half_ppr": 6.36,
             "pts_std": 6.36,
-            "updated_at": 1789495263960,
+            "updated_at": 1789506057110,
             "company": "rotowire"
           }
         },
@@ -6600,7 +6577,7 @@
             "pts_ppr": 17.27,
             "pts_half_ppr": 17.27,
             "pts_std": 17.27,
-            "updated_at": 1789495263526,
+            "updated_at": 1789506056685,
             "company": "rotowire"
           }
         },
@@ -6623,7 +6600,7 @@
             "pts_ppr": 13.12,
             "pts_half_ppr": 10.92,
             "pts_std": 8.72,
-            "updated_at": 1789495263473,
+            "updated_at": 1789506056622,
             "company": "rotowire"
           }
         },
@@ -6646,7 +6623,7 @@
             "pts_ppr": 9.62,
             "pts_half_ppr": 7.94,
             "pts_std": 6.26,
-            "updated_at": 1789495263755,
+            "updated_at": 1789506056902,
             "company": "rotowire"
           }
         },
@@ -6669,7 +6646,7 @@
             "pts_ppr": 12.02,
             "pts_half_ppr": 10.13,
             "pts_std": 8.25,
-            "updated_at": 1789495263551,
+            "updated_at": 1789506056695,
             "company": "rotowire"
           }
         },
@@ -6688,11 +6665,11 @@
             "season_type": "regular",
             "opponent": "DAL",
             "game_date": "2026-09-20",
-            "projected_points": 14.65,
-            "pts_ppr": 14.69,
-            "pts_half_ppr": 12.28,
-            "pts_std": 9.87,
-            "updated_at": 1789495263829,
+            "projected_points": 14.33,
+            "pts_ppr": 14.37,
+            "pts_half_ppr": 12.01,
+            "pts_std": 9.65,
+            "updated_at": 1789506056976,
             "company": "rotowire"
           }
         },
@@ -6715,7 +6692,7 @@
             "pts_ppr": 10.23,
             "pts_half_ppr": 8.89,
             "pts_std": 7.55,
-            "updated_at": 1789495263697,
+            "updated_at": 1789506056850,
             "company": "rotowire"
           }
         },
@@ -6738,7 +6715,7 @@
             "pts_ppr": 17.01,
             "pts_half_ppr": 15.75,
             "pts_std": 14.49,
-            "updated_at": 1789495263462,
+            "updated_at": 1789506056615,
             "company": "rotowire"
           }
         },
@@ -6761,7 +6738,7 @@
             "pts_ppr": 8.55,
             "pts_half_ppr": 8.55,
             "pts_std": 8.55,
-            "updated_at": 1789495263736,
+            "updated_at": 1789506056885,
             "company": "rotowire"
           }
         }
@@ -6827,11 +6804,11 @@
         "season_type": "regular",
         "opponent": "NYG",
         "game_date": "2026-09-21",
-        "projected_points": 10.41,
-        "pts_ppr": 10.44,
-        "pts_half_ppr": 10.08,
-        "pts_std": 9.71,
-        "updated_at": 1789495263872,
+        "projected_points": 10.61,
+        "pts_ppr": 10.64,
+        "pts_half_ppr": 10.27,
+        "pts_std": 9.9,
+        "updated_at": 1789506057023,
         "company": "rotowire"
       }
     },
@@ -6897,7 +6874,7 @@
         "pts_ppr": 4.66,
         "pts_half_ppr": 3.79,
         "pts_std": 2.91,
-        "updated_at": 1789495263765,
+        "updated_at": 1789506056914,
         "company": "rotowire"
       }
     },
@@ -7051,7 +7028,7 @@
         "pts_ppr": 12.05,
         "pts_half_ppr": 12.05,
         "pts_std": 12.05,
-        "updated_at": 1789495263678,
+        "updated_at": 1789506056826,
         "company": "rotowire"
       }
     },
@@ -7183,7 +7160,7 @@
         "pts_ppr": 14.74,
         "pts_half_ppr": 14.74,
         "pts_std": 14.74,
-        "updated_at": 1789495263868,
+        "updated_at": 1789506057016,
         "company": "rotowire"
       }
     },
@@ -7227,7 +7204,7 @@
         "pts_ppr": 3.93,
         "pts_half_ppr": 3.09,
         "pts_std": 2.25,
-        "updated_at": 1789495263761,
+        "updated_at": 1789506056911,
         "company": "rotowire"
       }
     },
@@ -7249,7 +7226,7 @@
         "pts_ppr": 15.99,
         "pts_half_ppr": 15.99,
         "pts_std": 15.99,
-        "updated_at": 1789495263664,
+        "updated_at": 1789506056820,
         "company": "rotowire"
       }
     },
@@ -7271,7 +7248,7 @@
         "pts_ppr": 5.36,
         "pts_half_ppr": 4.29,
         "pts_std": 3.22,
-        "updated_at": 1789495263897,
+        "updated_at": 1789506057042,
         "company": "rotowire"
       }
     },
@@ -7293,7 +7270,7 @@
         "pts_ppr": 4.73,
         "pts_half_ppr": 3.63,
         "pts_std": 2.53,
-        "updated_at": 1789495263702,
+        "updated_at": 1789506056841,
         "company": "rotowire"
       }
     },
@@ -7337,7 +7314,7 @@
         "pts_ppr": 0.79,
         "pts_half_ppr": 0.69,
         "pts_std": 0.59,
-        "updated_at": 1789495263740,
+        "updated_at": 1789506056891,
         "company": "rotowire"
       }
     },
@@ -7359,7 +7336,7 @@
         "pts_ppr": 3.38,
         "pts_half_ppr": 2.73,
         "pts_std": 2.09,
-        "updated_at": 1789495263954,
+        "updated_at": 1789506057099,
         "company": "rotowire"
       }
     },
@@ -7403,7 +7380,7 @@
         "pts_ppr": 6.77,
         "pts_half_ppr": 6.77,
         "pts_std": 6.77,
-        "updated_at": 1789495263655,
+        "updated_at": 1789506056807,
         "company": "rotowire"
       }
     },
@@ -7447,7 +7424,7 @@
         "pts_ppr": 1.81,
         "pts_half_ppr": 1.75,
         "pts_std": 1.69,
-        "updated_at": 1789495263533,
+        "updated_at": 1789506056691,
         "company": "rotowire"
       }
     },
@@ -7469,7 +7446,7 @@
         "pts_ppr": 2.04,
         "pts_half_ppr": 1.98,
         "pts_std": 1.92,
-        "updated_at": 1789495263815,
+        "updated_at": 1789506056962,
         "company": "rotowire"
       }
     },
@@ -7513,7 +7490,7 @@
         "pts_ppr": 2.03,
         "pts_half_ppr": 1.95,
         "pts_std": 1.88,
-        "updated_at": 1789495263932,
+        "updated_at": 1789506057075,
         "company": "rotowire"
       }
     },
@@ -7535,7 +7512,7 @@
         "pts_ppr": 6.81,
         "pts_half_ppr": 5.71,
         "pts_std": 4.61,
-        "updated_at": 1789495263691,
+        "updated_at": 1789506056836,
         "company": "rotowire"
       }
     },
@@ -7601,7 +7578,7 @@
         "pts_ppr": 0.41,
         "pts_half_ppr": 0.36,
         "pts_std": 0.31,
-        "updated_at": 1789495263682,
+        "updated_at": 1789506056829,
         "company": "rotowire"
       }
     },
@@ -7667,7 +7644,7 @@
         "pts_ppr": 1.37,
         "pts_half_ppr": 1.13,
         "pts_std": 0.89,
-        "updated_at": 1789495263751,
+        "updated_at": 1789506056896,
         "company": "rotowire"
       }
     },
@@ -7711,7 +7688,7 @@
         "pts_ppr": 0.93,
         "pts_half_ppr": 0.85,
         "pts_std": 0.77,
-        "updated_at": 1789495263610,
+        "updated_at": 1789506056756,
         "company": "rotowire"
       }
     },
@@ -7733,7 +7710,7 @@
         "pts_ppr": 2.74,
         "pts_half_ppr": 2.42,
         "pts_std": 2.1,
-        "updated_at": 1789495263868,
+        "updated_at": 1789506057017,
         "company": "rotowire"
       }
     },
@@ -7755,7 +7732,7 @@
         "pts_ppr": 1.46,
         "pts_half_ppr": 1.19,
         "pts_std": 0.93,
-        "updated_at": 1789495263688,
+        "updated_at": 1789506056836,
         "company": "rotowire"
       }
     },
@@ -7773,11 +7750,11 @@
         "season_type": "regular",
         "opponent": "MIA",
         "game_date": "2026-09-20",
-        "projected_points": 6.95,
-        "pts_ppr": 6.94,
-        "pts_half_ppr": 6.94,
-        "pts_std": 6.94,
-        "updated_at": 1789495263959,
+        "projected_points": 6.99,
+        "pts_ppr": 6.97,
+        "pts_half_ppr": 6.97,
+        "pts_std": 6.97,
+        "updated_at": 1789506057108,
         "company": "rotowire"
       }
     },
@@ -7799,7 +7776,7 @@
         "pts_ppr": 1.12,
         "pts_half_ppr": 0.94,
         "pts_std": 0.76,
-        "updated_at": 1789495263805,
+        "updated_at": 1789506056947,
         "company": "rotowire"
       }
     },
@@ -7839,11 +7816,11 @@
         "season_type": "regular",
         "opponent": "JAX",
         "game_date": "2026-09-20",
-        "projected_points": 6.31,
-        "pts_ppr": 6.32,
-        "pts_half_ppr": 6.32,
-        "pts_std": 6.32,
-        "updated_at": 1789495263767,
+        "projected_points": 6.35,
+        "pts_ppr": 6.37,
+        "pts_half_ppr": 6.37,
+        "pts_std": 6.37,
+        "updated_at": 1789506056911,
         "company": "rotowire"
       }
     },
@@ -7887,7 +7864,7 @@
         "pts_ppr": 2.36,
         "pts_half_ppr": 1.91,
         "pts_std": 1.46,
-        "updated_at": 1789495263953,
+        "updated_at": 1789506057101,
         "company": "rotowire"
       }
     },
@@ -7909,7 +7886,7 @@
         "pts_ppr": 7.22,
         "pts_half_ppr": 5.73,
         "pts_std": 4.25,
-        "updated_at": 1789495263747,
+        "updated_at": 1789506056896,
         "company": "rotowire"
       }
     },
@@ -7927,11 +7904,11 @@
         "season_type": "regular",
         "opponent": "IND",
         "game_date": "2026-09-20",
-        "projected_points": 0.68,
-        "pts_ppr": 0.68,
-        "pts_half_ppr": 0.61,
-        "pts_std": 0.53,
-        "updated_at": 1789495263934,
+        "projected_points": 0.51,
+        "pts_ppr": 0.54,
+        "pts_half_ppr": 0.46,
+        "pts_std": 0.38,
+        "updated_at": 1789506057085,
         "company": "rotowire"
       }
     },
@@ -7997,7 +7974,7 @@
         "pts_ppr": 3.98,
         "pts_half_ppr": 3.31,
         "pts_std": 2.64,
-        "updated_at": 1789495263545,
+        "updated_at": 1789506056707,
         "company": "rotowire"
       }
     },
@@ -8019,7 +7996,7 @@
         "pts_ppr": 3.05,
         "pts_half_ppr": 2.55,
         "pts_std": 2.05,
-        "updated_at": 1789495263690,
+        "updated_at": 1789506056839,
         "company": "rotowire"
       }
     },
@@ -8063,7 +8040,7 @@
         "pts_ppr": 16.1,
         "pts_half_ppr": 16.1,
         "pts_std": 16.1,
-        "updated_at": 1789495263534,
+        "updated_at": 1789506056680,
         "company": "rotowire"
       }
     },
@@ -8129,7 +8106,7 @@
         "pts_ppr": 4.69,
         "pts_half_ppr": 3.91,
         "pts_std": 3.13,
-        "updated_at": 1789495263563,
+        "updated_at": 1789506056708,
         "company": "rotowire"
       }
     },
@@ -8151,7 +8128,7 @@
         "pts_ppr": 6.56,
         "pts_half_ppr": 6.56,
         "pts_std": 6.56,
-        "updated_at": 1789495263763,
+        "updated_at": 1789506056907,
         "company": "rotowire"
       }
     },
@@ -8195,7 +8172,7 @@
         "pts_ppr": 3.07,
         "pts_half_ppr": 2.5,
         "pts_std": 1.93,
-        "updated_at": 1789495263753,
+        "updated_at": 1789506056898,
         "company": "rotowire"
       }
     },
@@ -8217,7 +8194,7 @@
         "pts_ppr": 4.27,
         "pts_half_ppr": 3.55,
         "pts_std": 2.82,
-        "updated_at": 1789495263946,
+        "updated_at": 1789506057089,
         "company": "rotowire"
       }
     },
@@ -8239,7 +8216,7 @@
         "pts_ppr": 1.67,
         "pts_half_ppr": 1.37,
         "pts_std": 1.07,
-        "updated_at": 1789495263544,
+        "updated_at": 1789506056688,
         "company": "rotowire"
       }
     },
@@ -8261,7 +8238,7 @@
         "pts_ppr": 7.15,
         "pts_half_ppr": 7.15,
         "pts_std": 7.15,
-        "updated_at": 1789495263635,
+        "updated_at": 1789506056780,
         "company": "rotowire"
       }
     },
@@ -8283,7 +8260,7 @@
         "pts_ppr": 3.13,
         "pts_half_ppr": 2.6,
         "pts_std": 2.07,
-        "updated_at": 1789495263472,
+        "updated_at": 1789506056626,
         "company": "rotowire"
       }
     },
@@ -8305,7 +8282,7 @@
         "pts_ppr": 3.95,
         "pts_half_ppr": 3.3,
         "pts_std": 2.65,
-        "updated_at": 1789495263541,
+        "updated_at": 1789506056701,
         "company": "rotowire"
       }
     },
@@ -8349,7 +8326,7 @@
         "pts_ppr": 2.12,
         "pts_half_ppr": 1.76,
         "pts_std": 1.41,
-        "updated_at": 1789495263939,
+        "updated_at": 1789506057081,
         "company": "rotowire"
       }
     },
@@ -8393,7 +8370,7 @@
         "pts_ppr": 0.94,
         "pts_half_ppr": 0.78,
         "pts_std": 0.62,
-        "updated_at": 1789495263637,
+        "updated_at": 1789506056789,
         "company": "rotowire"
       }
     },
@@ -8459,7 +8436,7 @@
         "pts_ppr": 12.59,
         "pts_half_ppr": 12.59,
         "pts_std": 12.59,
-        "updated_at": 1789495263860,
+        "updated_at": 1789506057001,
         "company": "rotowire"
       }
     },
@@ -8477,11 +8454,11 @@
         "season_type": "regular",
         "opponent": "LAC",
         "game_date": "2026-09-20",
-        "projected_points": 4.64,
-        "pts_ppr": 4.66,
-        "pts_half_ppr": 3.77,
-        "pts_std": 2.88,
-        "updated_at": 1789495263814,
+        "projected_points": 4.6,
+        "pts_ppr": 4.61,
+        "pts_half_ppr": 3.73,
+        "pts_std": 2.85,
+        "updated_at": 1789506056960,
         "company": "rotowire"
       }
     },
@@ -8635,7 +8612,7 @@
         "pts_ppr": 1.07,
         "pts_half_ppr": 0.85,
         "pts_std": 0.62,
-        "updated_at": 1789495263901,
+        "updated_at": 1789506057045,
         "company": "rotowire"
       }
     },
@@ -8657,7 +8634,7 @@
         "pts_ppr": 14.77,
         "pts_half_ppr": 14.77,
         "pts_std": 14.77,
-        "updated_at": 1789495263672,
+        "updated_at": 1789506056819,
         "company": "rotowire"
       }
     },
@@ -8679,7 +8656,7 @@
         "pts_ppr": 6.03,
         "pts_half_ppr": 6.03,
         "pts_std": 6.03,
-        "updated_at": 1789495263645,
+        "updated_at": 1789506056795,
         "company": "rotowire"
       }
     },
@@ -8811,7 +8788,7 @@
         "pts_ppr": 5.27,
         "pts_half_ppr": 4.51,
         "pts_std": 3.74,
-        "updated_at": 1789495263625,
+        "updated_at": 1789506056777,
         "company": "rotowire"
       }
     },
@@ -8877,7 +8854,7 @@
         "pts_ppr": 0.05,
         "pts_half_ppr": 0.05,
         "pts_std": 0.04,
-        "updated_at": 1789495263934,
+        "updated_at": 1789506057083,
         "company": "rotowire"
       }
     },
@@ -8987,7 +8964,7 @@
         "pts_ppr": 8.77,
         "pts_half_ppr": 6.97,
         "pts_std": 5.18,
-        "updated_at": 1789495263560,
+        "updated_at": 1789506056704,
         "company": "rotowire"
       }
     },
@@ -9009,7 +8986,7 @@
         "pts_ppr": 5.53,
         "pts_half_ppr": 4.4,
         "pts_std": 3.27,
-        "updated_at": 1789495263890,
+        "updated_at": 1789506057039,
         "company": "rotowire"
       }
     },
@@ -9185,7 +9162,7 @@
         "pts_ppr": 14.48,
         "pts_half_ppr": 14.48,
         "pts_std": 14.48,
-        "updated_at": 1789495263607,
+        "updated_at": 1789506056764,
         "company": "rotowire"
       }
     },
@@ -9207,7 +9184,7 @@
         "pts_ppr": 7.15,
         "pts_half_ppr": 7.15,
         "pts_std": 7.15,
-        "updated_at": 1789495263832,
+        "updated_at": 1789506056977,
         "company": "rotowire"
       }
     },
@@ -9225,11 +9202,11 @@
         "season_type": "regular",
         "opponent": "SF",
         "game_date": "2026-09-20",
-        "projected_points": 5.13,
-        "pts_ppr": 5.12,
-        "pts_half_ppr": 5.12,
-        "pts_std": 5.12,
-        "updated_at": 1789495263896,
+        "projected_points": 5.06,
+        "pts_ppr": 5.09,
+        "pts_half_ppr": 5.09,
+        "pts_std": 5.09,
+        "updated_at": 1789506057045,
         "company": "rotowire"
       }
     },
@@ -9273,7 +9250,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.2,
         "pts_std": 0.18,
-        "updated_at": 1789495263477,
+        "updated_at": 1789506056634,
         "company": "rotowire"
       }
     },
@@ -9405,7 +9382,7 @@
         "pts_ppr": 0.31,
         "pts_half_ppr": 0.25,
         "pts_std": 0.19,
-        "updated_at": 1789495263700,
+        "updated_at": 1789506056850,
         "company": "rotowire"
       }
     },
@@ -9537,7 +9514,7 @@
         "pts_ppr": 6.82,
         "pts_half_ppr": 6.82,
         "pts_std": 6.82,
-        "updated_at": 1789495263631,
+        "updated_at": 1789506056788,
         "company": "rotowire"
       }
     },
@@ -9929,11 +9906,11 @@
         "season_type": "regular",
         "opponent": "LAC",
         "game_date": "2026-09-20",
-        "projected_points": 16.06,
-        "pts_ppr": 13.35,
-        "pts_half_ppr": 13.35,
-        "pts_std": 13.35,
-        "updated_at": 1789495263804,
+        "projected_points": 16.64,
+        "pts_ppr": 13.69,
+        "pts_half_ppr": 13.69,
+        "pts_std": 13.69,
+        "updated_at": 1789506056949,
         "company": "rotowire"
       }
     },
@@ -10703,7 +10680,7 @@
         "pts_ppr": 6.51,
         "pts_half_ppr": 6.51,
         "pts_std": 6.51,
-        "updated_at": 1789495263494,
+        "updated_at": 1789506056655,
         "company": "rotowire"
       }
     },
@@ -10989,7 +10966,7 @@
         "pts_ppr": 14.18,
         "pts_half_ppr": 14.18,
         "pts_std": 14.18,
-        "updated_at": 1789495263460,
+        "updated_at": 1789506056614,
         "company": "rotowire"
       }
     },
@@ -11847,7 +11824,7 @@
         "pts_ppr": 4.79,
         "pts_half_ppr": 4.79,
         "pts_std": 4.79,
-        "updated_at": 1789495263493,
+        "updated_at": 1789506056655,
         "company": "rotowire"
       }
     },
@@ -12107,11 +12084,11 @@
         "season_type": "regular",
         "opponent": "SEA",
         "game_date": "2026-09-20",
-        "projected_points": 5.75,
-        "pts_ppr": 5.76,
-        "pts_half_ppr": 5.76,
-        "pts_std": 5.76,
-        "updated_at": 1789495263885,
+        "projected_points": 5.74,
+        "pts_ppr": 5.73,
+        "pts_half_ppr": 5.73,
+        "pts_std": 5.73,
+        "updated_at": 1789506057024,
         "company": "rotowire"
       }
     },
@@ -12221,7 +12198,7 @@
         "pts_ppr": 4.97,
         "pts_half_ppr": 4.97,
         "pts_std": 4.97,
-        "updated_at": 1789495263705,
+        "updated_at": 1789506056853,
         "company": "rotowire"
       }
     },
@@ -12265,7 +12242,7 @@
         "pts_ppr": 6.48,
         "pts_half_ppr": 6.48,
         "pts_std": 6.48,
-        "updated_at": 1789495263699,
+        "updated_at": 1789506056848,
         "company": "rotowire"
       }
     },
@@ -12353,7 +12330,7 @@
         "pts_ppr": 6.05,
         "pts_half_ppr": 6.05,
         "pts_std": 6.05,
-        "updated_at": 1789495263961,
+        "updated_at": 1789506057104,
         "company": "rotowire"
       }
     },
@@ -13497,7 +13474,7 @@
         "pts_ppr": 6.6,
         "pts_half_ppr": 6.6,
         "pts_std": 6.6,
-        "updated_at": 1789495263894,
+        "updated_at": 1789506057042,
         "company": "rotowire"
       }
     },
@@ -13805,7 +13782,7 @@
         "pts_ppr": 3.91,
         "pts_half_ppr": 3.09,
         "pts_std": 2.26,
-        "updated_at": 1789495263496,
+        "updated_at": 1789506056645,
         "company": "rotowire"
       }
     },
@@ -14025,7 +14002,7 @@
         "pts_ppr": 0.75,
         "pts_half_ppr": 0.62,
         "pts_std": 0.49,
-        "updated_at": 1789495263741,
+        "updated_at": 1789506056889,
         "company": "rotowire"
       }
     },
@@ -14465,7 +14442,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.18,
         "pts_std": 0.13,
-        "updated_at": 1789495263500,
+        "updated_at": 1789506056650,
         "company": "rotowire"
       }
     },
@@ -14597,7 +14574,7 @@
         "pts_ppr": 0.7,
         "pts_half_ppr": 0.57,
         "pts_std": 0.43,
-        "updated_at": 1789495263549,
+        "updated_at": 1789506056714,
         "company": "rotowire"
       }
     },
@@ -14990,10 +14967,10 @@
         "opponent": "KC",
         "game_date": "2026-09-20",
         "projected_points": 2.42,
-        "pts_ppr": 2.42,
-        "pts_half_ppr": 2.19,
-        "pts_std": 1.96,
-        "updated_at": 1789495263870,
+        "pts_ppr": 2.41,
+        "pts_half_ppr": 2.18,
+        "pts_std": 1.95,
+        "updated_at": 1789506057021,
         "company": "rotowire"
       }
     },
@@ -15367,7 +15344,7 @@
         "pts_ppr": 0.28,
         "pts_half_ppr": 0.23,
         "pts_std": 0.19,
-        "updated_at": 1789495263471,
+        "updated_at": 1789506056626,
         "company": "rotowire"
       }
     },
@@ -16467,7 +16444,7 @@
         "pts_ppr": 0.19,
         "pts_half_ppr": 0.16,
         "pts_std": 0.14,
-        "updated_at": 1789495263556,
+        "updated_at": 1789506056701,
         "company": "rotowire"
       }
     },
@@ -17413,7 +17390,7 @@
         "pts_ppr": 2.35,
         "pts_half_ppr": 1.84,
         "pts_std": 1.34,
-        "updated_at": 1789495263624,
+        "updated_at": 1789506056780,
         "company": "rotowire"
       }
     },
@@ -17985,7 +17962,7 @@
         "pts_ppr": 1.98,
         "pts_half_ppr": 1.61,
         "pts_std": 1.23,
-        "updated_at": 1789495263952,
+        "updated_at": 1789506057097,
         "company": "rotowire"
       }
     },
@@ -17996,6 +17973,28 @@
       "team": null,
       "status": "Active",
       "injury_status": null,
+      "search_rank": 440,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "8800",
+      "name": "Malik Davis",
+      "position": "RB",
+      "team": "DAL",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 440,
       "projection": {
         "week": 2,
@@ -18091,11 +18090,11 @@
         "season_type": "regular",
         "opponent": "WAS",
         "game_date": "2026-09-20",
-        "projected_points": 4.03,
-        "pts_ppr": 4.04,
-        "pts_half_ppr": 3.51,
-        "pts_std": 2.99,
-        "updated_at": 1789495263762,
+        "projected_points": 3.98,
+        "pts_ppr": 3.97,
+        "pts_half_ppr": 3.46,
+        "pts_std": 2.95,
+        "updated_at": 1789506056909,
         "company": "rotowire"
       }
     },
@@ -18271,7 +18270,7 @@
         "pts_ppr": 8.04,
         "pts_half_ppr": 7.16,
         "pts_std": 6.28,
-        "updated_at": 1789495263612,
+        "updated_at": 1789506056761,
         "company": "rotowire"
       }
     },
@@ -18355,11 +18354,11 @@
         "season_type": "regular",
         "opponent": "HOU",
         "game_date": "2026-09-20",
-        "projected_points": 5.86,
-        "pts_ppr": 5.88,
-        "pts_half_ppr": 4.6,
-        "pts_std": 3.33,
-        "updated_at": 1789495263497,
+        "projected_points": 5.75,
+        "pts_ppr": 5.73,
+        "pts_half_ppr": 4.49,
+        "pts_std": 3.25,
+        "updated_at": 1789506056648,
         "company": "rotowire"
       }
     },
@@ -18447,7 +18446,7 @@
         "pts_ppr": 2.29,
         "pts_half_ppr": 1.77,
         "pts_std": 1.24,
-        "updated_at": 1789495263713,
+        "updated_at": 1789506056865,
         "company": "rotowire"
       }
     },
@@ -18491,7 +18490,7 @@
         "pts_ppr": 0.41,
         "pts_half_ppr": 0.32,
         "pts_std": 0.23,
-        "updated_at": 1789495263832,
+        "updated_at": 1789506056975,
         "company": "rotowire"
       }
     },
@@ -18532,10 +18531,10 @@
         "opponent": "HOU",
         "game_date": "2026-09-20",
         "projected_points": 5.16,
-        "pts_ppr": 5.15,
-        "pts_half_ppr": 4.43,
-        "pts_std": 3.71,
-        "updated_at": 1789495263462,
+        "pts_ppr": 5.19,
+        "pts_half_ppr": 4.49,
+        "pts_std": 3.79,
+        "updated_at": 1789506056618,
         "company": "rotowire"
       }
     },
@@ -18619,11 +18618,11 @@
         "season_type": "regular",
         "opponent": "HOU",
         "game_date": "2026-09-20",
-        "projected_points": 1.86,
-        "pts_ppr": 1.88,
-        "pts_half_ppr": 1.45,
-        "pts_std": 1.01,
-        "updated_at": 1789495263499,
+        "projected_points": 1.82,
+        "pts_ppr": 1.83,
+        "pts_half_ppr": 1.41,
+        "pts_std": 0.99,
+        "updated_at": 1789506056650,
         "company": "rotowire"
       }
     },
@@ -18689,7 +18688,7 @@
         "pts_ppr": 3.57,
         "pts_half_ppr": 2.92,
         "pts_std": 2.27,
-        "updated_at": 1789495263942,
+        "updated_at": 1789506057086,
         "company": "rotowire"
       }
     },
@@ -18861,11 +18860,11 @@
         "season_type": "regular",
         "opponent": "ARI",
         "game_date": "2026-09-20",
-        "projected_points": 8.29,
-        "pts_ppr": 8.31,
-        "pts_half_ppr": 7.55,
-        "pts_std": 6.8,
-        "updated_at": 1789495263928,
+        "projected_points": 7.91,
+        "pts_ppr": 7.91,
+        "pts_half_ppr": 7.16,
+        "pts_std": 6.4,
+        "updated_at": 1789506057072,
         "company": "rotowire"
       }
     },
@@ -18953,7 +18952,7 @@
         "pts_ppr": 3.16,
         "pts_half_ppr": 2.51,
         "pts_std": 1.86,
-        "updated_at": 1789495263708,
+        "updated_at": 1789506056860,
         "company": "rotowire"
       }
     },
@@ -19063,7 +19062,7 @@
         "pts_ppr": 4.28,
         "pts_half_ppr": 3.18,
         "pts_std": 2.08,
-        "updated_at": 1789495263761,
+        "updated_at": 1789506056907,
         "company": "rotowire"
       }
     },
@@ -19455,11 +19454,11 @@
         "season_type": "regular",
         "opponent": "LAC",
         "game_date": "2026-09-20",
-        "projected_points": 3.57,
-        "pts_ppr": 3.61,
-        "pts_half_ppr": 2.75,
-        "pts_std": 1.89,
-        "updated_at": 1789495263829,
+        "projected_points": 3.53,
+        "pts_ppr": 3.57,
+        "pts_half_ppr": 2.72,
+        "pts_std": 1.87,
+        "updated_at": 1789506056972,
         "company": "rotowire"
       }
     },
@@ -19591,7 +19590,7 @@
         "pts_ppr": 0.51,
         "pts_half_ppr": 0.4,
         "pts_std": 0.3,
-        "updated_at": 1789495263892,
+        "updated_at": 1789506057041,
         "company": "rotowire"
       }
     },
@@ -19657,7 +19656,7 @@
         "pts_ppr": 0.11,
         "pts_half_ppr": 0.09,
         "pts_std": 0.06,
-        "updated_at": 1789495263552,
+        "updated_at": 1789506056710,
         "company": "rotowire"
       }
     },
@@ -19723,7 +19722,7 @@
         "pts_ppr": 2.0,
         "pts_half_ppr": 1.61,
         "pts_std": 1.22,
-        "updated_at": 1789495263706,
+        "updated_at": 1789506056858,
         "company": "rotowire"
       }
     },
@@ -19855,7 +19854,7 @@
         "pts_ppr": 4.81,
         "pts_half_ppr": 3.81,
         "pts_std": 2.81,
-        "updated_at": 1789495263562,
+        "updated_at": 1789506056705,
         "company": "rotowire"
       }
     },
@@ -19987,7 +19986,7 @@
         "pts_ppr": 2.64,
         "pts_half_ppr": 2.31,
         "pts_std": 1.98,
-        "updated_at": 1789495263872,
+        "updated_at": 1789506057020,
         "company": "rotowire"
       }
     },
@@ -20053,7 +20052,7 @@
         "pts_ppr": 0.58,
         "pts_half_ppr": 0.49,
         "pts_std": 0.4,
-        "updated_at": 1789495263536,
+        "updated_at": 1789506056682,
         "company": "rotowire"
       }
     },
@@ -20537,7 +20536,7 @@
         "pts_ppr": 0.57,
         "pts_half_ppr": 0.55,
         "pts_std": 0.53,
-        "updated_at": 1789495263467,
+        "updated_at": 1789506056622,
         "company": "rotowire"
       }
     },
@@ -20647,7 +20646,7 @@
         "pts_ppr": 3.93,
         "pts_half_ppr": 3.07,
         "pts_std": 2.21,
-        "updated_at": 1789495263754,
+        "updated_at": 1789506056901,
         "company": "rotowire"
       }
     },
@@ -20779,7 +20778,7 @@
         "pts_ppr": 0.69,
         "pts_half_ppr": 0.54,
         "pts_std": 0.4,
-        "updated_at": 1789495263956,
+        "updated_at": 1789506057106,
         "company": "rotowire"
       }
     },
@@ -20867,7 +20866,7 @@
         "pts_ppr": 8.24,
         "pts_half_ppr": 6.65,
         "pts_std": 5.06,
-        "updated_at": 1789495263476,
+        "updated_at": 1789506056630,
         "company": "rotowire"
       }
     },
@@ -21171,11 +21170,11 @@
         "season_type": "regular",
         "opponent": "HOU",
         "game_date": "2026-09-20",
-        "projected_points": 4.71,
-        "pts_ppr": 4.71,
-        "pts_half_ppr": 3.93,
-        "pts_std": 3.15,
-        "updated_at": 1789495263476,
+        "projected_points": 4.62,
+        "pts_ppr": 4.6,
+        "pts_half_ppr": 3.84,
+        "pts_std": 3.07,
+        "updated_at": 1789506056631,
         "company": "rotowire"
       }
     },
@@ -21285,7 +21284,7 @@
         "pts_ppr": 0.15,
         "pts_half_ppr": 0.13,
         "pts_std": 0.11,
-        "updated_at": 1789495263945,
+        "updated_at": 1789506057096,
         "company": "rotowire"
       }
     },
@@ -21593,7 +21592,7 @@
         "pts_ppr": 0.01,
         "pts_half_ppr": 0.01,
         "pts_std": 0.01,
-        "updated_at": 1789495263816,
+        "updated_at": 1789506056962,
         "company": "rotowire"
       }
     },
@@ -21681,7 +21680,7 @@
         "pts_ppr": 0.43,
         "pts_half_ppr": 0.37,
         "pts_std": 0.3,
-        "updated_at": 1789495263874,
+        "updated_at": 1789506057023,
         "company": "rotowire"
       }
     },
@@ -21703,7 +21702,7 @@
         "pts_ppr": 1.26,
         "pts_half_ppr": 1.02,
         "pts_std": 0.78,
-        "updated_at": 1789495263759,
+        "updated_at": 1789506056907,
         "company": "rotowire"
       }
     },
@@ -21791,7 +21790,7 @@
         "pts_ppr": 1.74,
         "pts_half_ppr": 1.39,
         "pts_std": 1.04,
-        "updated_at": 1789495263648,
+        "updated_at": 1789506056801,
         "company": "rotowire"
       }
     },
@@ -21813,7 +21812,7 @@
         "pts_ppr": 4.19,
         "pts_half_ppr": 3.47,
         "pts_std": 2.75,
-        "updated_at": 1789495263622,
+        "updated_at": 1789506056778,
         "company": "rotowire"
       }
     },
@@ -21879,7 +21878,7 @@
         "pts_ppr": 0.14,
         "pts_half_ppr": 0.11,
         "pts_std": 0.08,
-        "updated_at": 1789495263701,
+        "updated_at": 1789506056849,
         "company": "rotowire"
       }
     },
@@ -21888,6 +21887,28 @@
       "name": "Phil Lutz",
       "position": "WR",
       "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 506,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "3200",
+      "name": "Sterling Shepard",
+      "position": "WR",
+      "team": "NYJ",
       "status": "Active",
       "injury_status": null,
       "search_rank": 506,
@@ -21923,29 +21944,7 @@
         "pts_ppr": 2.23,
         "pts_half_ppr": 1.71,
         "pts_std": 1.19,
-        "updated_at": 1789495263818,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "3200",
-      "name": "Sterling Shepard",
-      "position": "WR",
-      "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 507,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
+        "updated_at": 1789506056959,
         "company": "rotowire"
       }
     },
@@ -21963,11 +21962,11 @@
         "season_type": "regular",
         "opponent": "HOU",
         "game_date": "2026-09-20",
-        "projected_points": 0.6,
-        "pts_ppr": 0.57,
-        "pts_half_ppr": 0.44,
+        "projected_points": 0.58,
+        "pts_ppr": 0.56,
+        "pts_half_ppr": 0.43,
         "pts_std": 0.31,
-        "updated_at": 1789495263481,
+        "updated_at": 1789506056634,
         "company": "rotowire"
       }
     },
@@ -22099,7 +22098,7 @@
         "pts_ppr": 0.27,
         "pts_half_ppr": 0.21,
         "pts_std": 0.15,
-        "updated_at": 1789495263824,
+        "updated_at": 1789506056975,
         "company": "rotowire"
       }
     },
@@ -22363,7 +22362,7 @@
         "pts_ppr": 4.1,
         "pts_half_ppr": 3.2,
         "pts_std": 2.3,
-        "updated_at": 1789495263894,
+        "updated_at": 1789506057043,
         "company": "rotowire"
       }
     },
@@ -22539,7 +22538,7 @@
         "pts_ppr": 2.38,
         "pts_half_ppr": 1.97,
         "pts_std": 1.56,
-        "updated_at": 1789495263681,
+        "updated_at": 1789506056824,
         "company": "rotowire"
       }
     },
@@ -22847,7 +22846,7 @@
         "pts_ppr": 6.01,
         "pts_half_ppr": 5.12,
         "pts_std": 4.23,
-        "updated_at": 1789495263940,
+        "updated_at": 1789506057094,
         "company": "rotowire"
       }
     },
@@ -23001,7 +23000,7 @@
         "pts_ppr": 1.36,
         "pts_half_ppr": 1.1,
         "pts_std": 0.83,
-        "updated_at": 1789495263879,
+        "updated_at": 1789506057028,
         "company": "rotowire"
       }
     },
@@ -23067,7 +23066,7 @@
         "pts_ppr": 0.21,
         "pts_half_ppr": 0.17,
         "pts_std": 0.13,
-        "updated_at": 1789495263491,
+        "updated_at": 1789506056653,
         "company": "rotowire"
       }
     },
@@ -23195,11 +23194,11 @@
         "season_type": "regular",
         "opponent": "BUF",
         "game_date": "2026-09-17",
-        "projected_points": 2.55,
-        "pts_ppr": 2.52,
-        "pts_half_ppr": 2.51,
-        "pts_std": 2.51,
-        "updated_at": 1789495263538,
+        "projected_points": 2.77,
+        "pts_ppr": 2.79,
+        "pts_half_ppr": 2.78,
+        "pts_std": 2.77,
+        "updated_at": 1789506056701,
         "company": "rotowire"
       }
     },
@@ -23221,7 +23220,7 @@
         "pts_ppr": 3.77,
         "pts_half_ppr": 3.13,
         "pts_std": 2.48,
-        "updated_at": 1789495263679,
+        "updated_at": 1789506056830,
         "company": "rotowire"
       }
     },
@@ -23287,7 +23286,7 @@
         "pts_ppr": 1.11,
         "pts_half_ppr": 0.88,
         "pts_std": 0.65,
-        "updated_at": 1789495263891,
+        "updated_at": 1789506057040,
         "company": "rotowire"
       }
     },
@@ -23639,7 +23638,7 @@
         "pts_ppr": 3.96,
         "pts_half_ppr": 3.43,
         "pts_std": 2.9,
-        "updated_at": 1789495263467,
+        "updated_at": 1789506056620,
         "company": "rotowire"
       }
     },
@@ -23757,7 +23756,7 @@
       "player_id": "6960",
       "name": "Tyler Johnson",
       "position": "WR",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "injury_status": null,
       "search_rank": 538,
@@ -23956,6 +23955,28 @@
       "name": "Matt Landers",
       "position": "WR",
       "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 542,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "7050",
+      "name": "Josiah Deguara",
+      "position": "TE",
+      "team": "PHI",
       "status": "Active",
       "injury_status": null,
       "search_rank": 542,
@@ -24387,7 +24408,7 @@
         "pts_ppr": 0.12,
         "pts_half_ppr": 0.1,
         "pts_std": 0.07,
-        "updated_at": 1789495263855,
+        "updated_at": 1789506056996,
         "company": "rotowire"
       }
     },
@@ -24541,7 +24562,7 @@
         "pts_ppr": 0.54,
         "pts_half_ppr": 0.45,
         "pts_std": 0.36,
-        "updated_at": 1789495263883,
+        "updated_at": 1789506057036,
         "company": "rotowire"
       }
     },
@@ -24783,7 +24804,7 @@
         "pts_ppr": 1.04,
         "pts_half_ppr": 0.87,
         "pts_std": 0.69,
-        "updated_at": 1789495263879,
+        "updated_at": 1789506057030,
         "company": "rotowire"
       }
     },
@@ -25289,7 +25310,7 @@
         "pts_ppr": 0.47,
         "pts_half_ppr": 0.38,
         "pts_std": 0.28,
-        "updated_at": 1789495263567,
+        "updated_at": 1789506056712,
         "company": "rotowire"
       }
     },
@@ -25663,7 +25684,7 @@
         "pts_ppr": 0.5,
         "pts_half_ppr": 0.4,
         "pts_std": 0.3,
-        "updated_at": 1789495263554,
+        "updated_at": 1789506056708,
         "company": "rotowire"
       }
     },
@@ -25725,11 +25746,11 @@
         "season_type": "regular",
         "opponent": "HOU",
         "game_date": "2026-09-20",
-        "projected_points": 2.67,
-        "pts_ppr": 2.67,
-        "pts_half_ppr": 2.07,
-        "pts_std": 1.48,
-        "updated_at": 1789495263501,
+        "projected_points": 2.62,
+        "pts_ppr": 2.6,
+        "pts_half_ppr": 2.02,
+        "pts_std": 1.45,
+        "updated_at": 1789506056652,
         "company": "rotowire"
       }
     },
@@ -25993,7 +26014,7 @@
         "pts_ppr": 1.25,
         "pts_half_ppr": 1.03,
         "pts_std": 0.81,
-        "updated_at": 1789495263479,
+        "updated_at": 1789506056632,
         "company": "rotowire"
       }
     },
@@ -26477,7 +26498,7 @@
         "pts_ppr": 0.43,
         "pts_half_ppr": 0.34,
         "pts_std": 0.24,
-        "updated_at": 1789495263947,
+        "updated_at": 1789506057090,
         "company": "rotowire"
       }
     },
@@ -26565,7 +26586,7 @@
         "pts_ppr": 0.52,
         "pts_half_ppr": 0.4,
         "pts_std": 0.28,
-        "updated_at": 1789495263688,
+        "updated_at": 1789506056840,
         "company": "rotowire"
       }
     },
@@ -26807,7 +26828,7 @@
         "pts_ppr": 5.74,
         "pts_half_ppr": 5.74,
         "pts_std": 5.74,
-        "updated_at": 1789495263704,
+        "updated_at": 1789506056852,
         "company": "rotowire"
       }
     },
@@ -26829,7 +26850,7 @@
         "pts_ppr": 0.07,
         "pts_half_ppr": 0.06,
         "pts_std": 0.06,
-        "updated_at": 1789495263690,
+        "updated_at": 1789506056841,
         "company": "rotowire"
       }
     },
@@ -27533,7 +27554,7 @@
         "pts_ppr": 2.87,
         "pts_half_ppr": 2.28,
         "pts_std": 1.68,
-        "updated_at": 1789495263694,
+        "updated_at": 1789506056838,
         "company": "rotowire"
       }
     },
@@ -27687,7 +27708,7 @@
         "pts_ppr": 0.27,
         "pts_half_ppr": 0.22,
         "pts_std": 0.17,
-        "updated_at": 1789495263816,
+        "updated_at": 1789506056957,
         "company": "rotowire"
       }
     },
@@ -28022,6 +28043,28 @@
       }
     },
     {
+      "player_id": "10223",
+      "name": "Eric Gray",
+      "position": "RB",
+      "team": "CLE",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 605,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "5199",
       "name": "Byron Pringle",
       "position": "WR",
@@ -28167,11 +28210,11 @@
         "season_type": "regular",
         "opponent": "LAC",
         "game_date": "2026-09-20",
-        "projected_points": 0.42,
+        "projected_points": 0.43,
         "pts_ppr": 0.44,
         "pts_half_ppr": 0.39,
         "pts_std": 0.35,
-        "updated_at": 1789495263811,
+        "updated_at": 1789506056957,
         "company": "rotowire"
       }
     },
@@ -28347,7 +28390,7 @@
         "pts_ppr": 1.14,
         "pts_half_ppr": 0.94,
         "pts_std": 0.75,
-        "updated_at": 1789495263619,
+        "updated_at": 1789506056769,
         "company": "rotowire"
       }
     },
@@ -28611,7 +28654,7 @@
         "pts_ppr": 0.27,
         "pts_half_ppr": 0.23,
         "pts_std": 0.18,
-        "updated_at": 1789495263530,
+        "updated_at": 1789506056676,
         "company": "rotowire"
       }
     },
@@ -28763,9 +28806,9 @@
         "game_date": "2026-09-20",
         "projected_points": 0.85,
         "pts_ppr": 0.85,
-        "pts_half_ppr": 0.72,
+        "pts_half_ppr": 0.71,
         "pts_std": 0.58,
-        "updated_at": 1789495263861,
+        "updated_at": 1789506057007,
         "company": "rotowire"
       }
     },
@@ -28787,7 +28830,7 @@
         "pts_ppr": 0.7,
         "pts_half_ppr": 0.53,
         "pts_std": 0.37,
-        "updated_at": 1789495263628,
+        "updated_at": 1789506056786,
         "company": "rotowire"
       }
     },
@@ -28919,7 +28962,7 @@
         "pts_ppr": 0.01,
         "pts_half_ppr": 0.01,
         "pts_std": 0.01,
-        "updated_at": 1789495263686,
+        "updated_at": 1789506056836,
         "company": "rotowire"
       }
     },
@@ -28963,7 +29006,7 @@
         "pts_ppr": 1.74,
         "pts_half_ppr": 1.38,
         "pts_std": 1.02,
-        "updated_at": 1789495263487,
+        "updated_at": 1789506056654,
         "company": "rotowire"
       }
     },
@@ -29073,7 +29116,7 @@
         "pts_ppr": 0.19,
         "pts_half_ppr": 0.16,
         "pts_std": 0.14,
-        "updated_at": 1789495263750,
+        "updated_at": 1789506056899,
         "company": "rotowire"
       }
     },
@@ -29139,7 +29182,7 @@
         "pts_ppr": 1.1,
         "pts_half_ppr": 0.91,
         "pts_std": 0.72,
-        "updated_at": 1789495263820,
+        "updated_at": 1789506056968,
         "company": "rotowire"
       }
     },
@@ -29183,7 +29226,7 @@
         "pts_ppr": 0.47,
         "pts_half_ppr": 0.39,
         "pts_std": 0.31,
-        "updated_at": 1789495263883,
+        "updated_at": 1789506057032,
         "company": "rotowire"
       }
     },
@@ -29245,11 +29288,11 @@
         "season_type": "regular",
         "opponent": "NYG",
         "game_date": "2026-09-21",
-        "projected_points": 0.21,
-        "pts_ppr": 0.2,
-        "pts_half_ppr": 0.2,
-        "pts_std": 0.19,
-        "updated_at": 1789495263877,
+        "projected_points": 0.24,
+        "pts_ppr": 0.25,
+        "pts_half_ppr": 0.24,
+        "pts_std": 0.23,
+        "updated_at": 1789506057018,
         "company": "rotowire"
       }
     },
@@ -29293,7 +29336,7 @@
         "pts_ppr": 1.68,
         "pts_half_ppr": 1.34,
         "pts_std": 1.01,
-        "updated_at": 1789495263489,
+        "updated_at": 1789506056651,
         "company": "rotowire"
       }
     },
@@ -29337,7 +29380,7 @@
         "pts_ppr": 0.08,
         "pts_half_ppr": 0.06,
         "pts_std": 0.04,
-        "updated_at": 1789495263557,
+        "updated_at": 1789506056701,
         "company": "rotowire"
       }
     },
@@ -29513,7 +29556,7 @@
         "pts_ppr": 0.51,
         "pts_half_ppr": 0.42,
         "pts_std": 0.32,
-        "updated_at": 1789495263827,
+        "updated_at": 1789506056974,
         "company": "rotowire"
       }
     },
@@ -29535,7 +29578,7 @@
         "pts_ppr": 0.27,
         "pts_half_ppr": 0.22,
         "pts_std": 0.17,
-        "updated_at": 1789495263630,
+        "updated_at": 1789506056778,
         "company": "rotowire"
       }
     },
@@ -29909,7 +29952,7 @@
         "pts_ppr": 1.93,
         "pts_half_ppr": 1.59,
         "pts_std": 1.25,
-        "updated_at": 1789495263476,
+        "updated_at": 1789506056627,
         "company": "rotowire"
       }
     },
@@ -29953,7 +29996,7 @@
         "pts_ppr": 0.31,
         "pts_half_ppr": 0.24,
         "pts_std": 0.18,
-        "updated_at": 1789495263959,
+        "updated_at": 1789506057103,
         "company": "rotowire"
       }
     },
@@ -30063,7 +30106,7 @@
         "pts_ppr": 0.21,
         "pts_half_ppr": 0.16,
         "pts_std": 0.12,
-        "updated_at": 1789495263763,
+        "updated_at": 1789506056908,
         "company": "rotowire"
       }
     },
@@ -30081,11 +30124,11 @@
         "season_type": "regular",
         "opponent": "HOU",
         "game_date": "2026-09-20",
-        "projected_points": 0.46,
-        "pts_ppr": 0.5,
-        "pts_half_ppr": 0.41,
-        "pts_std": 0.33,
-        "updated_at": 1789495263469,
+        "projected_points": 0.45,
+        "pts_ppr": 0.49,
+        "pts_half_ppr": 0.4,
+        "pts_std": 0.32,
+        "updated_at": 1789506056625,
         "company": "rotowire"
       }
     },
@@ -30107,7 +30150,7 @@
         "pts_ppr": 0.28,
         "pts_half_ppr": 0.22,
         "pts_std": 0.15,
-        "updated_at": 1789495263765,
+        "updated_at": 1789506056910,
         "company": "rotowire"
       }
     },
@@ -30129,7 +30172,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.18,
         "pts_std": 0.13,
-        "updated_at": 1789495263958,
+        "updated_at": 1789506057108,
         "company": "rotowire"
       }
     },
@@ -30257,11 +30300,11 @@
         "season_type": "regular",
         "opponent": "DAL",
         "game_date": "2026-09-20",
-        "projected_points": 6.88,
-        "pts_ppr": 6.86,
-        "pts_half_ppr": 6.86,
-        "pts_std": 6.86,
-        "updated_at": 1789495263842,
+        "projected_points": 6.84,
+        "pts_ppr": 6.83,
+        "pts_half_ppr": 6.83,
+        "pts_std": 6.83,
+        "updated_at": 1789506056990,
         "company": "rotowire"
       }
     },
@@ -30371,7 +30414,7 @@
         "pts_ppr": 1.66,
         "pts_half_ppr": 1.29,
         "pts_std": 0.92,
-        "updated_at": 1789495263761,
+        "updated_at": 1789506056906,
         "company": "rotowire"
       }
     },
@@ -30415,7 +30458,7 @@
         "pts_ppr": 0.51,
         "pts_half_ppr": 0.45,
         "pts_std": 0.39,
-        "updated_at": 1789495263617,
+        "updated_at": 1789506056767,
         "company": "rotowire"
       }
     },
@@ -30763,11 +30806,11 @@
         "season_type": "regular",
         "opponent": "WAS",
         "game_date": "2026-09-20",
-        "projected_points": 1.38,
-        "pts_ppr": 1.41,
-        "pts_half_ppr": 1.14,
-        "pts_std": 0.87,
-        "updated_at": 1789495263768,
+        "projected_points": 1.35,
+        "pts_ppr": 1.37,
+        "pts_half_ppr": 1.11,
+        "pts_std": 0.84,
+        "updated_at": 1789506056915,
         "company": "rotowire"
       }
     },
@@ -30965,7 +31008,7 @@
         "pts_ppr": 0.18,
         "pts_half_ppr": 0.15,
         "pts_std": 0.11,
-        "updated_at": 1789495263868,
+        "updated_at": 1789506057012,
         "company": "rotowire"
       }
     },
@@ -30987,7 +31030,7 @@
         "pts_ppr": 0.14,
         "pts_half_ppr": 0.12,
         "pts_std": 0.1,
-        "updated_at": 1789495263546,
+        "updated_at": 1789506056691,
         "company": "rotowire"
       }
     },
@@ -31141,7 +31184,7 @@
         "pts_ppr": 0.81,
         "pts_half_ppr": 0.67,
         "pts_std": 0.52,
-        "updated_at": 1789495263571,
+        "updated_at": 1789506056716,
         "company": "rotowire"
       }
     },
@@ -31405,7 +31448,7 @@
         "pts_ppr": 0.04,
         "pts_half_ppr": 0.04,
         "pts_std": 0.03,
-        "updated_at": 1789495263548,
+        "updated_at": 1789506056707,
         "company": "rotowire"
       }
     },
@@ -31581,7 +31624,7 @@
         "pts_ppr": 3.27,
         "pts_half_ppr": 2.55,
         "pts_std": 1.82,
-        "updated_at": 1789495263715,
+        "updated_at": 1789506056866,
         "company": "rotowire"
       }
     },
@@ -31713,7 +31756,7 @@
         "pts_ppr": 0.21,
         "pts_half_ppr": 0.17,
         "pts_std": 0.12,
-        "updated_at": 1789495263614,
+        "updated_at": 1789506056759,
         "company": "rotowire"
       }
     },
@@ -31779,7 +31822,7 @@
         "pts_ppr": 1.24,
         "pts_half_ppr": 1.07,
         "pts_std": 0.9,
-        "updated_at": 1789495263536,
+        "updated_at": 1789506056703,
         "company": "rotowire"
       }
     },
@@ -31841,11 +31884,11 @@
         "season_type": "regular",
         "opponent": "HOU",
         "game_date": "2026-09-20",
-        "projected_points": 0.71,
-        "pts_ppr": 0.73,
-        "pts_half_ppr": 0.59,
-        "pts_std": 0.45,
-        "updated_at": 1789495263472,
+        "projected_points": 0.69,
+        "pts_ppr": 0.71,
+        "pts_half_ppr": 0.57,
+        "pts_std": 0.44,
+        "updated_at": 1789506056627,
         "company": "rotowire"
       }
     },
@@ -31911,7 +31954,7 @@
         "pts_ppr": 5.72,
         "pts_half_ppr": 4.52,
         "pts_std": 3.32,
-        "updated_at": 1789495263747,
+        "updated_at": 1789506056896,
         "company": "rotowire"
       }
     },
@@ -31933,7 +31976,7 @@
         "pts_ppr": 0.32,
         "pts_half_ppr": 0.25,
         "pts_std": 0.18,
-        "updated_at": 1789495263554,
+        "updated_at": 1789506056718,
         "company": "rotowire"
       }
     },
@@ -32175,7 +32218,7 @@
         "pts_ppr": 2.72,
         "pts_half_ppr": 2.18,
         "pts_std": 1.64,
-        "updated_at": 1789495263819,
+        "updated_at": 1789506056960,
         "company": "rotowire"
       }
     },
@@ -32329,7 +32372,7 @@
         "pts_ppr": 1.64,
         "pts_half_ppr": 1.3,
         "pts_std": 0.96,
-        "updated_at": 1789495263881,
+        "updated_at": 1789506057029,
         "company": "rotowire"
       }
     },
@@ -32411,13 +32454,13 @@
         "week": 2,
         "season": "2026",
         "season_type": "regular",
-        "opponent": "LV",
-        "game_date": "2026-09-20",
-        "projected_points": 0.0,
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1789495263757,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -32505,7 +32548,7 @@
         "pts_ppr": 2.95,
         "pts_half_ppr": 2.49,
         "pts_std": 2.04,
-        "updated_at": 1789495263639,
+        "updated_at": 1789506056792,
         "company": "rotowire"
       }
     },
@@ -32527,7 +32570,7 @@
         "pts_ppr": 1.74,
         "pts_half_ppr": 1.37,
         "pts_std": 0.99,
-        "updated_at": 1789495263687,
+        "updated_at": 1789506056832,
         "company": "rotowire"
       }
     },
@@ -32571,7 +32614,7 @@
         "pts_ppr": 0.47,
         "pts_half_ppr": 0.38,
         "pts_std": 0.29,
-        "updated_at": 1789495263547,
+        "updated_at": 1789506056712,
         "company": "rotowire"
       }
     },
@@ -32637,7 +32680,7 @@
         "pts_ppr": 0.35,
         "pts_half_ppr": 0.32,
         "pts_std": 0.28,
-        "updated_at": 1789495263686,
+        "updated_at": 1789506056834,
         "company": "rotowire"
       }
     },
@@ -32725,7 +32768,7 @@
         "pts_ppr": 1.7,
         "pts_half_ppr": 1.35,
         "pts_std": 1.01,
-        "updated_at": 1789495263899,
+        "updated_at": 1789506057038,
         "company": "rotowire"
       }
     },
@@ -32747,7 +32790,7 @@
         "pts_ppr": 0.48,
         "pts_half_ppr": 0.4,
         "pts_std": 0.33,
-        "updated_at": 1789495263535,
+        "updated_at": 1789506056693,
         "company": "rotowire"
       }
     },
@@ -32813,7 +32856,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.19,
         "pts_std": 0.15,
-        "updated_at": 1789495263643,
+        "updated_at": 1789506056797,
         "company": "rotowire"
       }
     },
@@ -33121,7 +33164,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.18,
         "pts_std": 0.13,
-        "updated_at": 1789495263553,
+        "updated_at": 1789506056697,
         "company": "rotowire"
       }
     },
@@ -33275,7 +33318,7 @@
         "pts_ppr": 1.45,
         "pts_half_ppr": 1.19,
         "pts_std": 0.93,
-        "updated_at": 1789495263820,
+        "updated_at": 1789506056961,
         "company": "rotowire"
       }
     },
@@ -33588,28 +33631,6 @@
       }
     },
     {
-      "player_id": "10223",
-      "name": "Eric Gray",
-      "position": "RB",
-      "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 658,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "13150",
       "name": "Darius Cooper",
       "position": "WR",
@@ -33627,7 +33648,7 @@
         "pts_ppr": 0.5,
         "pts_half_ppr": 0.4,
         "pts_std": 0.3,
-        "updated_at": 1789495263634,
+        "updated_at": 1789506056787,
         "company": "rotowire"
       }
     },
@@ -33759,7 +33780,7 @@
         "pts_ppr": 3.38,
         "pts_half_ppr": 3.18,
         "pts_std": 2.98,
-        "updated_at": 1789495263940,
+        "updated_at": 1789506057082,
         "company": "rotowire"
       }
     },
@@ -33847,7 +33868,7 @@
         "pts_ppr": 2.89,
         "pts_half_ppr": 2.32,
         "pts_std": 1.75,
-        "updated_at": 1789495263840,
+        "updated_at": 1789506056988,
         "company": "rotowire"
       }
     },
@@ -33913,7 +33934,7 @@
         "pts_ppr": 0.89,
         "pts_half_ppr": 0.69,
         "pts_std": 0.49,
-        "updated_at": 1789495263746,
+        "updated_at": 1789506056889,
         "company": "rotowire"
       }
     },
@@ -33935,7 +33956,7 @@
         "pts_ppr": 0.77,
         "pts_half_ppr": 0.6,
         "pts_std": 0.43,
-        "updated_at": 1789495263894,
+        "updated_at": 1789506057048,
         "company": "rotowire"
       }
     },
@@ -33957,7 +33978,7 @@
         "pts_ppr": 3.99,
         "pts_half_ppr": 3.12,
         "pts_std": 2.26,
-        "updated_at": 1789495263763,
+        "updated_at": 1789506056912,
         "company": "rotowire"
       }
     },
@@ -33979,7 +34000,7 @@
         "pts_ppr": 0.32,
         "pts_half_ppr": 0.26,
         "pts_std": 0.2,
-        "updated_at": 1789495263866,
+        "updated_at": 1789506057008,
         "company": "rotowire"
       }
     },
@@ -34067,7 +34088,7 @@
         "pts_ppr": 0.92,
         "pts_half_ppr": 0.71,
         "pts_std": 0.49,
-        "updated_at": 1789495263696,
+        "updated_at": 1789506056845,
         "company": "rotowire"
       }
     },
@@ -34149,13 +34170,13 @@
         "week": 2,
         "season": "2026",
         "season_type": "regular",
-        "opponent": "ATL",
-        "game_date": "2026-09-20",
-        "projected_points": 1.23,
-        "pts_ppr": 1.24,
-        "pts_half_ppr": 1.04,
-        "pts_std": 0.84,
-        "updated_at": 1789495263674,
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -34177,7 +34198,7 @@
         "pts_ppr": 2.96,
         "pts_half_ppr": 2.36,
         "pts_std": 1.75,
-        "updated_at": 1789495263569,
+        "updated_at": 1789506056714,
         "company": "rotowire"
       }
     },
@@ -34375,7 +34396,7 @@
         "pts_ppr": 5.84,
         "pts_half_ppr": 5.84,
         "pts_std": 5.84,
-        "updated_at": 1789495263719,
+        "updated_at": 1789506056870,
         "company": "rotowire"
       }
     },
@@ -34397,7 +34418,7 @@
         "pts_ppr": 1.79,
         "pts_half_ppr": 1.49,
         "pts_std": 1.19,
-        "updated_at": 1789495263749,
+        "updated_at": 1789506056898,
         "company": "rotowire"
       }
     },
@@ -35189,7 +35210,7 @@
         "pts_ppr": 2.78,
         "pts_half_ppr": 2.11,
         "pts_std": 1.45,
-        "updated_at": 1789495263881,
+        "updated_at": 1789506057019,
         "company": "rotowire"
       }
     },
@@ -35255,7 +35276,7 @@
         "pts_ppr": 0.87,
         "pts_half_ppr": 0.69,
         "pts_std": 0.5,
-        "updated_at": 1789495263888,
+        "updated_at": 1789506057037,
         "company": "rotowire"
       }
     },
@@ -35317,11 +35338,11 @@
         "season_type": "regular",
         "opponent": "WAS",
         "game_date": "2026-09-20",
-        "projected_points": 1.73,
-        "pts_ppr": 1.73,
-        "pts_half_ppr": 1.4,
-        "pts_std": 1.06,
-        "updated_at": 1789495263766,
+        "projected_points": 1.68,
+        "pts_ppr": 1.68,
+        "pts_half_ppr": 1.35,
+        "pts_std": 1.03,
+        "updated_at": 1789506056913,
         "company": "rotowire"
       }
     },
@@ -35409,7 +35430,7 @@
         "pts_ppr": 0.57,
         "pts_half_ppr": 0.47,
         "pts_std": 0.37,
-        "updated_at": 1789495263468,
+        "updated_at": 1789506056624,
         "company": "rotowire"
       }
     },
@@ -35475,7 +35496,7 @@
         "pts_ppr": 0.19,
         "pts_half_ppr": 0.15,
         "pts_std": 0.12,
-        "updated_at": 1789495263881,
+        "updated_at": 1789506057032,
         "company": "rotowire"
       }
     },
@@ -35563,7 +35584,7 @@
         "pts_ppr": 0.84,
         "pts_half_ppr": 0.67,
         "pts_std": 0.5,
-        "updated_at": 1789495263651,
+        "updated_at": 1789506056803,
         "company": "rotowire"
       }
     },
@@ -35607,7 +35628,7 @@
         "pts_ppr": 2.53,
         "pts_half_ppr": 2.0,
         "pts_std": 1.48,
-        "updated_at": 1789495263836,
+        "updated_at": 1789506056983,
         "company": "rotowire"
       }
     },
@@ -35691,11 +35712,11 @@
         "season_type": "regular",
         "opponent": "WAS",
         "game_date": "2026-09-20",
-        "projected_points": 0.57,
-        "pts_ppr": 0.55,
-        "pts_half_ppr": 0.46,
-        "pts_std": 0.38,
-        "updated_at": 1789495263760,
+        "projected_points": 0.56,
+        "pts_ppr": 0.53,
+        "pts_half_ppr": 0.45,
+        "pts_std": 0.36,
+        "updated_at": 1789506056906,
         "company": "rotowire"
       }
     },
@@ -35739,7 +35760,7 @@
         "pts_ppr": 4.26,
         "pts_half_ppr": 3.41,
         "pts_std": 2.57,
-        "updated_at": 1789495263874,
+        "updated_at": 1789506057010,
         "company": "rotowire"
       }
     },
@@ -35805,7 +35826,7 @@
         "pts_ppr": 1.27,
         "pts_half_ppr": 0.98,
         "pts_std": 0.69,
-        "updated_at": 1789495263838,
+        "updated_at": 1789506056982,
         "company": "rotowire"
       }
     },
@@ -35937,7 +35958,7 @@
         "pts_ppr": 1.69,
         "pts_half_ppr": 1.42,
         "pts_std": 1.15,
-        "updated_at": 1789495263537,
+        "updated_at": 1789506056695,
         "company": "rotowire"
       }
     },
@@ -36069,7 +36090,7 @@
         "pts_ppr": 1.84,
         "pts_half_ppr": 1.47,
         "pts_std": 1.1,
-        "updated_at": 1789495263759,
+        "updated_at": 1789506056905,
         "company": "rotowire"
       }
     },
@@ -36198,10 +36219,10 @@
         "opponent": "LAC",
         "game_date": "2026-09-20",
         "projected_points": 0.42,
-        "pts_ppr": 0.43,
+        "pts_ppr": 0.42,
         "pts_half_ppr": 0.34,
-        "pts_std": 0.26,
-        "updated_at": 1789495263818,
+        "pts_std": 0.25,
+        "updated_at": 1789506056964,
         "company": "rotowire"
       }
     },
@@ -36421,7 +36442,7 @@
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1789495263936,
+        "updated_at": 1789506057081,
         "company": "rotowire"
       }
     },
@@ -36443,7 +36464,7 @@
         "pts_ppr": 2.25,
         "pts_half_ppr": 1.82,
         "pts_std": 1.38,
-        "updated_at": 1789495263885,
+        "updated_at": 1789506057032,
         "company": "rotowire"
       }
     },
@@ -36487,7 +36508,7 @@
         "pts_ppr": 0.81,
         "pts_half_ppr": 0.64,
         "pts_std": 0.46,
-        "updated_at": 1789495263645,
+        "updated_at": 1789506056799,
         "company": "rotowire"
       }
     },
@@ -36641,7 +36662,7 @@
         "pts_ppr": 6.79,
         "pts_half_ppr": 5.73,
         "pts_std": 4.67,
-        "updated_at": 1789495263944,
+        "updated_at": 1789506057092,
         "company": "rotowire"
       }
     },
@@ -36663,7 +36684,7 @@
         "pts_ppr": 0.47,
         "pts_half_ppr": 0.4,
         "pts_std": 0.34,
-        "updated_at": 1789495263822,
+        "updated_at": 1789506056970,
         "company": "rotowire"
       }
     },
@@ -36751,7 +36772,7 @@
         "pts_ppr": 5.61,
         "pts_half_ppr": 4.74,
         "pts_std": 3.86,
-        "updated_at": 1789495263565,
+        "updated_at": 1789506056710,
         "company": "rotowire"
       }
     },
@@ -36767,13 +36788,13 @@
         "week": 2,
         "season": "2026",
         "season_type": "regular",
-        "opponent": "WAS",
-        "game_date": "2026-09-20",
-        "projected_points": 0.08,
-        "pts_ppr": 0.11,
-        "pts_half_ppr": 0.09,
-        "pts_std": 0.08,
-        "updated_at": 1789495263750,
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -36905,7 +36926,7 @@
         "pts_ppr": 3.93,
         "pts_half_ppr": 3.09,
         "pts_std": 2.24,
-        "updated_at": 1789495263699,
+        "updated_at": 1789506056847,
         "company": "rotowire"
       }
     },
@@ -36927,7 +36948,7 @@
         "pts_ppr": 0.98,
         "pts_half_ppr": 0.79,
         "pts_std": 0.59,
-        "updated_at": 1789495263692,
+        "updated_at": 1789506056844,
         "company": "rotowire"
       }
     },
@@ -37103,7 +37124,7 @@
         "pts_ppr": 0.24,
         "pts_half_ppr": 0.2,
         "pts_std": 0.16,
-        "updated_at": 1789495263630,
+        "updated_at": 1789506056780,
         "company": "rotowire"
       }
     },
@@ -37169,7 +37190,7 @@
         "pts_ppr": 4.28,
         "pts_half_ppr": 3.37,
         "pts_std": 2.45,
-        "updated_at": 1789495263956,
+        "updated_at": 1789506057104,
         "company": "rotowire"
       }
     },
@@ -37279,7 +37300,7 @@
         "pts_ppr": 2.09,
         "pts_half_ppr": 1.82,
         "pts_std": 1.54,
-        "updated_at": 1789495263470,
+        "updated_at": 1789506056627,
         "company": "rotowire"
       }
     },
@@ -37367,7 +37388,7 @@
         "pts_ppr": 1.85,
         "pts_half_ppr": 1.49,
         "pts_std": 1.13,
-        "updated_at": 1789495263576,
+        "updated_at": 1789506056720,
         "company": "rotowire"
       }
     },
@@ -37455,7 +37476,7 @@
         "pts_ppr": 4.25,
         "pts_half_ppr": 3.46,
         "pts_std": 2.66,
-        "updated_at": 1789495263492,
+        "updated_at": 1789506056652,
         "company": "rotowire"
       }
     },
@@ -37543,7 +37564,7 @@
         "pts_ppr": 2.15,
         "pts_half_ppr": 1.79,
         "pts_std": 1.43,
-        "updated_at": 1789495263639,
+        "updated_at": 1789506056785,
         "company": "rotowire"
       }
     },
@@ -37587,7 +37608,7 @@
         "pts_ppr": 0.4,
         "pts_half_ppr": 0.32,
         "pts_std": 0.23,
-        "updated_at": 1789495263630,
+        "updated_at": 1789506056774,
         "company": "rotowire"
       }
     },
@@ -37631,7 +37652,7 @@
         "pts_ppr": 2.3,
         "pts_half_ppr": 2.04,
         "pts_std": 1.78,
-        "updated_at": 1789495263626,
+        "updated_at": 1789506056774,
         "company": "rotowire"
       }
     },
@@ -37653,7 +37674,7 @@
         "pts_ppr": 0.33,
         "pts_half_ppr": 0.27,
         "pts_std": 0.22,
-        "updated_at": 1789495263694,
+        "updated_at": 1789506056838,
         "company": "rotowire"
       }
     },
@@ -37719,7 +37740,7 @@
         "pts_ppr": 0.25,
         "pts_half_ppr": 0.21,
         "pts_std": 0.16,
-        "updated_at": 1789495263949,
+        "updated_at": 1789506057100,
         "company": "rotowire"
       }
     },
@@ -37781,11 +37802,11 @@
         "season_type": "regular",
         "opponent": "HOU",
         "game_date": "2026-09-20",
-        "projected_points": 0.77,
+        "projected_points": 0.83,
         "pts_ppr": 0.82,
-        "pts_half_ppr": 0.7,
-        "pts_std": 0.59,
-        "updated_at": 1789495263465,
+        "pts_half_ppr": 0.71,
+        "pts_std": 0.6,
+        "updated_at": 1789506056620,
         "company": "rotowire"
       }
     },
@@ -38005,7 +38026,7 @@
         "pts_ppr": 4.61,
         "pts_half_ppr": 3.8,
         "pts_std": 2.99,
-        "updated_at": 1789495263548,
+        "updated_at": 1789506056692,
         "company": "rotowire"
       }
     },
@@ -38093,7 +38114,7 @@
         "pts_ppr": 0.45,
         "pts_half_ppr": 0.41,
         "pts_std": 0.37,
-        "updated_at": 1789495263672,
+        "updated_at": 1789506056826,
         "company": "rotowire"
       }
     },
@@ -38181,7 +38202,7 @@
         "pts_ppr": 5.88,
         "pts_half_ppr": 5.88,
         "pts_std": 5.88,
-        "updated_at": 1789495263706,
+        "updated_at": 1789506056853,
         "company": "rotowire"
       }
     },
@@ -38401,7 +38422,7 @@
         "pts_ppr": 5.8,
         "pts_half_ppr": 5.09,
         "pts_std": 4.38,
-        "updated_at": 1789495263462,
+        "updated_at": 1789506056618,
         "company": "rotowire"
       }
     },
@@ -38467,7 +38488,7 @@
         "pts_ppr": 13.31,
         "pts_half_ppr": 13.31,
         "pts_std": 13.31,
-        "updated_at": 1789495263925,
+        "updated_at": 1789506057066,
         "company": "rotowire"
       }
     },
@@ -38489,7 +38510,7 @@
         "pts_ppr": 0.1,
         "pts_half_ppr": 0.09,
         "pts_std": 0.07,
-        "updated_at": 1789495263889,
+        "updated_at": 1789506057025,
         "company": "rotowire"
       }
     },
@@ -38555,7 +38576,7 @@
         "pts_ppr": 1.75,
         "pts_half_ppr": 1.51,
         "pts_std": 1.27,
-        "updated_at": 1789495263831,
+        "updated_at": 1789506056978,
         "company": "rotowire"
       }
     },
@@ -38621,7 +38642,7 @@
         "pts_ppr": 2.31,
         "pts_half_ppr": 1.8,
         "pts_std": 1.28,
-        "updated_at": 1789495263556,
+        "updated_at": 1789506056721,
         "company": "rotowire"
       }
     },
@@ -38731,7 +38752,7 @@
         "pts_ppr": 1.99,
         "pts_half_ppr": 1.57,
         "pts_std": 1.15,
-        "updated_at": 1789495263809,
+        "updated_at": 1789506056949,
         "company": "rotowire"
       }
     },
@@ -38819,7 +38840,7 @@
         "pts_ppr": 0.65,
         "pts_half_ppr": 0.54,
         "pts_std": 0.42,
-        "updated_at": 1789495263940,
+        "updated_at": 1789506057087,
         "company": "rotowire"
       }
     },
@@ -39039,7 +39060,7 @@
         "pts_ppr": 1.86,
         "pts_half_ppr": 1.47,
         "pts_std": 1.09,
-        "updated_at": 1789495263626,
+        "updated_at": 1789506056777,
         "company": "rotowire"
       }
     },
@@ -39193,7 +39214,7 @@
         "pts_ppr": 0.1,
         "pts_half_ppr": 0.09,
         "pts_std": 0.08,
-        "updated_at": 1789495263676,
+        "updated_at": 1789506056822,
         "company": "rotowire"
       }
     },
@@ -39237,7 +39258,7 @@
         "pts_ppr": 0.98,
         "pts_half_ppr": 0.8,
         "pts_std": 0.61,
-        "updated_at": 1789495263684,
+        "updated_at": 1789506056835,
         "company": "rotowire"
       }
     },
@@ -39259,7 +39280,7 @@
         "pts_ppr": 8.77,
         "pts_half_ppr": 7.15,
         "pts_std": 5.54,
-        "updated_at": 1789495263469,
+        "updated_at": 1789506056625,
         "company": "rotowire"
       }
     },
@@ -39347,7 +39368,7 @@
         "pts_ppr": 1.03,
         "pts_half_ppr": 0.85,
         "pts_std": 0.67,
-        "updated_at": 1789495263879,
+        "updated_at": 1789506057027,
         "company": "rotowire"
       }
     },
@@ -39435,7 +39456,7 @@
         "pts_ppr": 3.39,
         "pts_half_ppr": 2.74,
         "pts_std": 2.1,
-        "updated_at": 1789495263617,
+        "updated_at": 1789506056773,
         "company": "rotowire"
       }
     },
@@ -39501,7 +39522,7 @@
         "pts_ppr": 0.42,
         "pts_half_ppr": 0.33,
         "pts_std": 0.24,
-        "updated_at": 1789495263887,
+        "updated_at": 1789506057038,
         "company": "rotowire"
       }
     },
@@ -39567,7 +39588,7 @@
         "pts_ppr": 0.34,
         "pts_half_ppr": 0.28,
         "pts_std": 0.21,
-        "updated_at": 1789495263877,
+        "updated_at": 1789506057018,
         "company": "rotowire"
       }
     },
@@ -39589,7 +39610,7 @@
         "pts_ppr": 1.03,
         "pts_half_ppr": 0.83,
         "pts_std": 0.63,
-        "updated_at": 1789495263643,
+        "updated_at": 1789506056792,
         "company": "rotowire"
       }
     },
@@ -39831,7 +39852,7 @@
         "pts_ppr": 0.12,
         "pts_half_ppr": 0.1,
         "pts_std": 0.08,
-        "updated_at": 1789495263817,
+        "updated_at": 1789506056958,
         "company": "rotowire"
       }
     },
@@ -40821,7 +40842,7 @@
         "pts_ppr": 1.82,
         "pts_half_ppr": 1.5,
         "pts_std": 1.19,
-        "updated_at": 1789495263641,
+        "updated_at": 1789506056787,
         "company": "rotowire"
       }
     },
@@ -41635,7 +41656,7 @@
         "pts_ppr": 0.0,
         "pts_half_ppr": 0.0,
         "pts_std": 0.0,
-        "updated_at": 1789495263870,
+        "updated_at": 1789506057018,
         "company": "rotowire"
       }
     },
@@ -41855,7 +41876,7 @@
         "pts_ppr": 1.4,
         "pts_half_ppr": 1.13,
         "pts_std": 0.86,
-        "updated_at": 1789495263948,
+        "updated_at": 1789506057096,
         "company": "rotowire"
       }
     },
@@ -42229,7 +42250,7 @@
         "pts_ppr": 1.09,
         "pts_half_ppr": 0.85,
         "pts_std": 0.61,
-        "updated_at": 1789495263834,
+        "updated_at": 1789506056979,
         "company": "rotowire"
       }
     },
@@ -42324,28 +42345,6 @@
     {
       "player_id": "7576",
       "name": "Sage Surratt",
-      "position": "TE",
-      "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 999,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "7050",
-      "name": "Josiah Deguara",
       "position": "TE",
       "team": null,
       "status": "Active",
@@ -46937,7 +46936,7 @@
         "pts_ppr": 0.17,
         "pts_half_ppr": 0.17,
         "pts_std": 0.17,
-        "updated_at": 1789495263913,
+        "updated_at": 1789506057055,
         "company": "rotowire"
       }
     },
@@ -71665,7 +71664,7 @@
         "pts_ppr": 5.2,
         "pts_half_ppr": 5.2,
         "pts_std": 5.2,
-        "updated_at": 1789495263866,
+        "updated_at": 1789506057013,
         "company": "rotowire"
       }
     },
@@ -71683,11 +71682,11 @@
         "season_type": "regular",
         "opponent": "SEA",
         "game_date": "2026-09-20",
-        "projected_points": 4.39,
-        "pts_ppr": 4.43,
-        "pts_half_ppr": 4.43,
-        "pts_std": 4.43,
-        "updated_at": 1789495263858,
+        "projected_points": 4.38,
+        "pts_ppr": 4.41,
+        "pts_half_ppr": 4.41,
+        "pts_std": 4.41,
+        "updated_at": 1789506056999,
         "company": "rotowire"
       }
     },
@@ -71709,7 +71708,7 @@
         "pts_ppr": 4.33,
         "pts_half_ppr": 4.33,
         "pts_std": 4.33,
-        "updated_at": 1789495263801,
+        "updated_at": 1789506056947,
         "company": "rotowire"
       }
     },
@@ -71775,7 +71774,7 @@
         "pts_ppr": 4.91,
         "pts_half_ppr": 4.91,
         "pts_std": 4.91,
-        "updated_at": 1789495263670,
+        "updated_at": 1789506056816,
         "company": "rotowire"
       }
     },
@@ -71837,11 +71836,11 @@
         "season_type": "regular",
         "opponent": "WAS",
         "game_date": "2026-09-20",
-        "projected_points": 6.89,
-        "pts_ppr": 6.96,
-        "pts_half_ppr": 6.96,
-        "pts_std": 6.96,
-        "updated_at": 1789495263742,
+        "projected_points": 6.93,
+        "pts_ppr": 6.99,
+        "pts_half_ppr": 6.99,
+        "pts_std": 6.99,
+        "updated_at": 1789506056892,
         "company": "rotowire"
       }
     },
@@ -71859,11 +71858,11 @@
         "season_type": "regular",
         "opponent": "DAL",
         "game_date": "2026-09-20",
-        "projected_points": 5.14,
-        "pts_ppr": 5.1,
-        "pts_half_ppr": 5.1,
-        "pts_std": 5.1,
-        "updated_at": 1789495263807,
+        "projected_points": 5.09,
+        "pts_ppr": 5.07,
+        "pts_half_ppr": 5.07,
+        "pts_std": 5.07,
+        "updated_at": 1789506056955,
         "company": "rotowire"
       }
     },
@@ -71973,7 +71972,7 @@
         "pts_ppr": 9.78,
         "pts_half_ppr": 9.78,
         "pts_std": 9.78,
-        "updated_at": 1789495263524,
+        "updated_at": 1789506056683,
         "company": "rotowire"
       }
     },
@@ -72017,7 +72016,7 @@
         "pts_ppr": 5.08,
         "pts_half_ppr": 5.08,
         "pts_std": 5.08,
-        "updated_at": 1789495263457,
+        "updated_at": 1789506056612,
         "company": "rotowire"
       }
     },
@@ -72105,7 +72104,7 @@
         "pts_ppr": 6.65,
         "pts_half_ppr": 6.65,
         "pts_std": 6.65,
-        "updated_at": 1789495263605,
+        "updated_at": 1789506056762,
         "company": "rotowire"
       }
     },
@@ -72149,7 +72148,7 @@
         "pts_ppr": 7.69,
         "pts_half_ppr": 7.69,
         "pts_std": 7.69,
-        "updated_at": 1789495263661,
+        "updated_at": 1789506056817,
         "company": "rotowire"
       }
     },
@@ -72259,7 +72258,7 @@
         "pts_ppr": 4.93,
         "pts_half_ppr": 4.93,
         "pts_std": 4.93,
-        "updated_at": 1789495263693,
+        "updated_at": 1789506056846,
         "company": "rotowire"
       }
     },
@@ -72281,7 +72280,7 @@
         "pts_ppr": 8.95,
         "pts_half_ppr": 8.95,
         "pts_std": 8.95,
-        "updated_at": 1789495263603,
+        "updated_at": 1789506056752,
         "company": "rotowire"
       }
     },
@@ -72365,11 +72364,11 @@
         "season_type": "regular",
         "opponent": "SF",
         "game_date": "2026-09-20",
-        "projected_points": 2.98,
-        "pts_ppr": 3.01,
-        "pts_half_ppr": 3.01,
-        "pts_std": 3.01,
-        "updated_at": 1789495263863,
+        "projected_points": 2.97,
+        "pts_ppr": 2.99,
+        "pts_half_ppr": 2.99,
+        "pts_std": 2.99,
+        "updated_at": 1789506057010,
         "company": "rotowire"
       }
     },
@@ -72457,7 +72456,7 @@
         "pts_ppr": 6.91,
         "pts_half_ppr": 6.91,
         "pts_std": 6.91,
-        "updated_at": 1789495263457,
+        "updated_at": 1789506056611,
         "company": "rotowire"
       }
     },
@@ -72475,11 +72474,11 @@
         "season_type": "regular",
         "opponent": "MIA",
         "game_date": "2026-09-20",
-        "projected_points": 9.48,
-        "pts_ppr": 9.48,
-        "pts_half_ppr": 9.48,
-        "pts_std": 9.48,
-        "updated_at": 1789495263927,
+        "projected_points": 9.49,
+        "pts_ppr": 9.51,
+        "pts_half_ppr": 9.51,
+        "pts_std": 9.51,
+        "updated_at": 1789506057075,
         "company": "rotowire"
       }
     },
@@ -72567,7 +72566,7 @@
         "pts_ppr": 3.98,
         "pts_half_ppr": 3.98,
         "pts_std": 3.98,
-        "updated_at": 1789495263934,
+        "updated_at": 1789506057077,
         "company": "rotowire"
       }
     },
@@ -72589,7 +72588,7 @@
         "pts_ppr": 4.84,
         "pts_half_ppr": 4.84,
         "pts_std": 4.84,
-        "updated_at": 1789495263674,
+        "updated_at": 1789506056824,
         "company": "rotowire"
       }
     },
@@ -72699,7 +72698,7 @@
         "pts_ppr": 6.07,
         "pts_half_ppr": 6.07,
         "pts_std": 6.07,
-        "updated_at": 1789495263457,
+        "updated_at": 1789506056612,
         "company": "rotowire"
       }
     },
@@ -72853,7 +72852,7 @@
         "pts_ppr": 8.83,
         "pts_half_ppr": 8.83,
         "pts_std": 8.83,
-        "updated_at": 1789495263929,
+        "updated_at": 1789506057080,
         "company": "rotowire"
       }
     },
