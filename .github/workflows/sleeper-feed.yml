@@ -2,6 +2,12 @@ name: Update Sleeper Fantasy Feed
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "fetch_sleeper.py"
+      - ".github/workflows/sleeper-feed.yml"
   schedule:
     - cron: "15 * * * *"
 
