@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-18T04:37:32.569235+00:00",
+  "generated_at_utc": "2026-09-18T09:41:53.023065+00:00",
   "league_id": "1385955289206910976",
   "league": {
     "name": "ECMC Dawgpound ",
@@ -65,11 +65,11 @@
     },
     "avatar": "7875fdee403042a028f51ade493cb27c",
     "company_id": null,
-    "last_message_id": "1406197135187169280",
     "sport": "nfl",
-    "shard": 509,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
+    "last_message_id": "1406197135187169280",
+    "shard": 509,
     "scoring_settings": {
       "sack": 1.0,
       "qb_hit": 0.0,
@@ -207,6 +207,7 @@
     },
     "last_author_avatar": null,
     "last_author_display_name": "sys",
+    "draft_id": "1385955289219485696",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
@@ -214,12 +215,8 @@
     "last_message_time": 1789626032210,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1385955289219485696",
     "league_id": "1385955289206910976",
     "previous_league_id": "1252357606245142528",
-    "bracket_id": null,
-    "group_id": null,
-    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -240,6 +237,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -562,7 +562,7 @@
             "pts_ppr": 11.66,
             "pts_half_ppr": 10.64,
             "pts_std": 9.63,
-            "updated_at": 1789705237862,
+            "updated_at": 1789724440094,
             "company": "rotowire"
           }
         },
@@ -585,7 +585,7 @@
             "pts_ppr": 6.87,
             "pts_half_ppr": 5.76,
             "pts_std": 4.65,
-            "updated_at": 1789705237945,
+            "updated_at": 1789724440185,
             "company": "rotowire"
           }
         },
@@ -608,7 +608,7 @@
             "pts_ppr": 9.26,
             "pts_half_ppr": 7.75,
             "pts_std": 6.23,
-            "updated_at": 1789705238170,
+            "updated_at": 1789724440425,
             "company": "rotowire"
           }
         },
@@ -631,7 +631,7 @@
             "pts_ppr": 7.04,
             "pts_half_ppr": 7.04,
             "pts_std": 7.04,
-            "updated_at": 1789705238204,
+            "updated_at": 1789724440454,
             "company": "rotowire"
           }
         },
@@ -654,7 +654,7 @@
             "pts_ppr": 10.62,
             "pts_half_ppr": 8.43,
             "pts_std": 6.24,
-            "updated_at": 1789705238268,
+            "updated_at": 1789724440522,
             "company": "rotowire"
           }
         },
@@ -677,7 +677,7 @@
             "pts_ppr": 9.91,
             "pts_half_ppr": 8.09,
             "pts_std": 6.27,
-            "updated_at": 1789705237911,
+            "updated_at": 1789724440131,
             "company": "rotowire"
           }
         },
@@ -700,7 +700,7 @@
             "pts_ppr": 10.44,
             "pts_half_ppr": 8.75,
             "pts_std": 7.06,
-            "updated_at": 1789705238259,
+            "updated_at": 1789724440512,
             "company": "rotowire"
           }
         },
@@ -723,7 +723,7 @@
             "pts_ppr": 17.07,
             "pts_half_ppr": 15.99,
             "pts_std": 14.91,
-            "updated_at": 1789705237787,
+            "updated_at": 1789724440005,
             "company": "rotowire"
           }
         },
@@ -746,7 +746,7 @@
             "pts_ppr": 13.84,
             "pts_half_ppr": 11.77,
             "pts_std": 9.69,
-            "updated_at": 1789705237721,
+            "updated_at": 1789724439924,
             "company": "rotowire"
           }
         },
@@ -769,7 +769,7 @@
             "pts_ppr": 19.56,
             "pts_half_ppr": 19.56,
             "pts_std": 19.56,
-            "updated_at": 1789705237855,
+            "updated_at": 1789724440088,
             "company": "rotowire"
           }
         },
@@ -792,7 +792,7 @@
             "pts_ppr": 9.07,
             "pts_half_ppr": 7.63,
             "pts_std": 6.19,
-            "updated_at": 1789705238100,
+            "updated_at": 1789724440345,
             "company": "rotowire"
           }
         },
@@ -815,7 +815,7 @@
             "pts_ppr": 17.2,
             "pts_half_ppr": 17.2,
             "pts_std": 17.2,
-            "updated_at": 1789705238104,
+            "updated_at": 1789724440338,
             "company": "rotowire"
           }
         },
@@ -838,7 +838,7 @@
             "pts_ppr": 17.24,
             "pts_half_ppr": 14.22,
             "pts_std": 11.19,
-            "updated_at": 1789705237723,
+            "updated_at": 1789724439929,
             "company": "rotowire"
           }
         },
@@ -861,7 +861,7 @@
             "pts_ppr": 16.34,
             "pts_half_ppr": 13.84,
             "pts_std": 11.35,
-            "updated_at": 1789705238043,
+            "updated_at": 1789724440281,
             "company": "rotowire"
           }
         },
@@ -884,7 +884,7 @@
             "pts_ppr": 16.39,
             "pts_half_ppr": 14.82,
             "pts_std": 13.26,
-            "updated_at": 1789705238251,
+            "updated_at": 1789724440503,
             "company": "rotowire"
           }
         },
@@ -907,7 +907,7 @@
             "pts_ppr": 14.84,
             "pts_half_ppr": 12.84,
             "pts_std": 10.83,
-            "updated_at": 1789705237864,
+            "updated_at": 1789724440098,
             "company": "rotowire"
           }
         },
@@ -953,7 +953,7 @@
             "pts_ppr": 8.6,
             "pts_half_ppr": 8.6,
             "pts_std": 8.6,
-            "updated_at": 1789705237853,
+            "updated_at": 1789724440085,
             "company": "rotowire"
           }
         }
@@ -1067,7 +1067,7 @@
             "pts_ppr": 9.92,
             "pts_half_ppr": 8.1,
             "pts_std": 6.28,
-            "updated_at": 1789705238166,
+            "updated_at": 1789724440418,
             "company": "rotowire"
           }
         },
@@ -1090,7 +1090,7 @@
             "pts_ppr": 20.25,
             "pts_half_ppr": 20.25,
             "pts_std": 20.25,
-            "updated_at": 1789705238105,
+            "updated_at": 1789724440344,
             "company": "rotowire"
           }
         },
@@ -1113,7 +1113,7 @@
             "pts_ppr": 5.45,
             "pts_half_ppr": 5.04,
             "pts_std": 4.63,
-            "updated_at": 1789705237936,
+            "updated_at": 1789724440176,
             "company": "rotowire"
           }
         },
@@ -1136,7 +1136,7 @@
             "pts_ppr": 6.73,
             "pts_half_ppr": 5.9,
             "pts_std": 5.08,
-            "updated_at": 1789705237948,
+            "updated_at": 1789724440176,
             "company": "rotowire"
           }
         },
@@ -1159,7 +1159,7 @@
             "pts_ppr": 13.85,
             "pts_half_ppr": 11.27,
             "pts_std": 8.68,
-            "updated_at": 1789705238256,
+            "updated_at": 1789724440512,
             "company": "rotowire"
           }
         },
@@ -1182,7 +1182,7 @@
             "pts_ppr": 13.1,
             "pts_half_ppr": 10.7,
             "pts_std": 8.3,
-            "updated_at": 1789705238045,
+            "updated_at": 1789724440276,
             "company": "rotowire"
           }
         },
@@ -1205,7 +1205,7 @@
             "pts_ppr": 6.19,
             "pts_half_ppr": 6.19,
             "pts_std": 6.19,
-            "updated_at": 1789705238132,
+            "updated_at": 1789724440367,
             "company": "rotowire"
           }
         },
@@ -1228,7 +1228,7 @@
             "pts_ppr": 9.78,
             "pts_half_ppr": 7.93,
             "pts_std": 6.08,
-            "updated_at": 1789705237735,
+            "updated_at": 1789724439952,
             "company": "rotowire"
           }
         },
@@ -1251,7 +1251,7 @@
             "pts_ppr": 4.14,
             "pts_half_ppr": 3.43,
             "pts_std": 2.73,
-            "updated_at": 1789705237943,
+            "updated_at": 1789724440183,
             "company": "rotowire"
           }
         },
@@ -1274,7 +1274,7 @@
             "pts_ppr": 9.9,
             "pts_half_ppr": 8.28,
             "pts_std": 6.66,
-            "updated_at": 1789705237718,
+            "updated_at": 1789724439927,
             "company": "rotowire"
           }
         },
@@ -1297,7 +1297,7 @@
             "pts_ppr": 3.32,
             "pts_half_ppr": 2.94,
             "pts_std": 2.55,
-            "updated_at": 1789705238247,
+            "updated_at": 1789724440498,
             "company": "rotowire"
           }
         },
@@ -1320,7 +1320,7 @@
             "pts_ppr": 12.11,
             "pts_half_ppr": 10.22,
             "pts_std": 8.33,
-            "updated_at": 1789705238185,
+            "updated_at": 1789724440441,
             "company": "rotowire"
           }
         },
@@ -1343,7 +1343,7 @@
             "pts_ppr": 14.91,
             "pts_half_ppr": 14.27,
             "pts_std": 13.64,
-            "updated_at": 1789705237888,
+            "updated_at": 1789724440108,
             "company": "rotowire"
           }
         },
@@ -1366,7 +1366,7 @@
             "pts_ppr": 9.07,
             "pts_half_ppr": 7.14,
             "pts_std": 5.22,
-            "updated_at": 1789705238107,
+            "updated_at": 1789724440352,
             "company": "rotowire"
           }
         },
@@ -1412,7 +1412,7 @@
             "pts_ppr": 9.21,
             "pts_half_ppr": 7.84,
             "pts_std": 6.47,
-            "updated_at": 1789705237817,
+            "updated_at": 1789724440015,
             "company": "rotowire"
           }
         },
@@ -1435,7 +1435,7 @@
             "pts_ppr": 22.36,
             "pts_half_ppr": 20.3,
             "pts_std": 18.24,
-            "updated_at": 1789705237882,
+            "updated_at": 1789724440102,
             "company": "rotowire"
           }
         },
@@ -1458,7 +1458,7 @@
             "pts_ppr": 9.09,
             "pts_half_ppr": 9.09,
             "pts_std": 9.09,
-            "updated_at": 1789705237882,
+            "updated_at": 1789724440101,
             "company": "rotowire"
           }
         }
@@ -1572,7 +1572,7 @@
             "pts_ppr": 15.74,
             "pts_half_ppr": 15.74,
             "pts_std": 15.74,
-            "updated_at": 1789705238026,
+            "updated_at": 1789724440250,
             "company": "rotowire"
           }
         },
@@ -1595,7 +1595,7 @@
             "pts_ppr": 13.27,
             "pts_half_ppr": 10.49,
             "pts_std": 7.71,
-            "updated_at": 1789705238122,
+            "updated_at": 1789724440361,
             "company": "rotowire"
           }
         },
@@ -1618,7 +1618,7 @@
             "pts_ppr": 12.91,
             "pts_half_ppr": 10.68,
             "pts_std": 8.46,
-            "updated_at": 1789705237959,
+            "updated_at": 1789724440194,
             "company": "rotowire"
           }
         },
@@ -1641,7 +1641,7 @@
             "pts_ppr": 6.26,
             "pts_half_ppr": 6.26,
             "pts_std": 6.26,
-            "updated_at": 1789705238111,
+            "updated_at": 1789724440356,
             "company": "rotowire"
           }
         },
@@ -1664,7 +1664,7 @@
             "pts_ppr": 3.58,
             "pts_half_ppr": 2.92,
             "pts_std": 2.26,
-            "updated_at": 1789705238202,
+            "updated_at": 1789724440450,
             "company": "rotowire"
           }
         },
@@ -1687,7 +1687,7 @@
             "pts_ppr": 9.1,
             "pts_half_ppr": 8.23,
             "pts_std": 7.35,
-            "updated_at": 1789705238108,
+            "updated_at": 1789724440343,
             "company": "rotowire"
           }
         },
@@ -1710,7 +1710,7 @@
             "pts_ppr": 7.28,
             "pts_half_ppr": 5.85,
             "pts_std": 4.41,
-            "updated_at": 1789705238036,
+            "updated_at": 1789724440261,
             "company": "rotowire"
           }
         },
@@ -1733,7 +1733,7 @@
             "pts_ppr": 11.19,
             "pts_half_ppr": 9.17,
             "pts_std": 7.15,
-            "updated_at": 1789705238027,
+            "updated_at": 1789724440268,
             "company": "rotowire"
           }
         },
@@ -1756,7 +1756,7 @@
             "pts_ppr": 3.86,
             "pts_half_ppr": 3.42,
             "pts_std": 2.99,
-            "updated_at": 1789705238105,
+            "updated_at": 1789724440346,
             "company": "rotowire"
           }
         },
@@ -1779,7 +1779,7 @@
             "pts_ppr": 11.62,
             "pts_half_ppr": 10.58,
             "pts_std": 9.53,
-            "updated_at": 1789705238018,
+            "updated_at": 1789724440251,
             "company": "rotowire"
           }
         },
@@ -1802,7 +1802,7 @@
             "pts_ppr": 17.44,
             "pts_half_ppr": 14.22,
             "pts_std": 11.01,
-            "updated_at": 1789705237788,
+            "updated_at": 1789724440006,
             "company": "rotowire"
           }
         },
@@ -1825,7 +1825,7 @@
             "pts_ppr": 7.99,
             "pts_half_ppr": 6.99,
             "pts_std": 5.98,
-            "updated_at": 1789705237808,
+            "updated_at": 1789724440007,
             "company": "rotowire"
           }
         },
@@ -1848,7 +1848,7 @@
             "pts_ppr": 17.39,
             "pts_half_ppr": 16.09,
             "pts_std": 14.79,
-            "updated_at": 1789705238040,
+            "updated_at": 1789724440268,
             "company": "rotowire"
           }
         },
@@ -1871,7 +1871,7 @@
             "pts_ppr": 9.01,
             "pts_half_ppr": 7.41,
             "pts_std": 5.81,
-            "updated_at": 1789705237722,
+            "updated_at": 1789724439924,
             "company": "rotowire"
           }
         },
@@ -1894,7 +1894,7 @@
             "pts_ppr": 7.65,
             "pts_half_ppr": 6.0,
             "pts_std": 4.35,
-            "updated_at": 1789705237966,
+            "updated_at": 1789724440193,
             "company": "rotowire"
           }
         },
@@ -1917,7 +1917,7 @@
             "pts_ppr": 18.2,
             "pts_half_ppr": 18.2,
             "pts_std": 18.2,
-            "updated_at": 1789705238171,
+            "updated_at": 1789724440416,
             "company": "rotowire"
           }
         },
@@ -1940,7 +1940,7 @@
             "pts_ppr": 3.53,
             "pts_half_ppr": 2.69,
             "pts_std": 1.84,
-            "updated_at": 1789705238121,
+            "updated_at": 1789724440359,
             "company": "rotowire"
           }
         },
@@ -1963,7 +1963,7 @@
             "pts_ppr": 6.45,
             "pts_half_ppr": 6.45,
             "pts_std": 6.45,
-            "updated_at": 1789705238086,
+            "updated_at": 1789724440330,
             "company": "rotowire"
           }
         }
@@ -2077,7 +2077,7 @@
             "pts_ppr": 11.19,
             "pts_half_ppr": 8.98,
             "pts_std": 6.77,
-            "updated_at": 1789705237799,
+            "updated_at": 1789724440016,
             "company": "rotowire"
           }
         },
@@ -2100,7 +2100,7 @@
             "pts_ppr": 7.26,
             "pts_half_ppr": 7.26,
             "pts_std": 7.26,
-            "updated_at": 1789705238058,
+            "updated_at": 1789724440294,
             "company": "rotowire"
           }
         },
@@ -2123,7 +2123,7 @@
             "pts_ppr": 8.48,
             "pts_half_ppr": 6.93,
             "pts_std": 5.37,
-            "updated_at": 1789705237962,
+            "updated_at": 1789724440196,
             "company": "rotowire"
           }
         },
@@ -2169,7 +2169,7 @@
             "pts_ppr": 7.06,
             "pts_half_ppr": 6.65,
             "pts_std": 6.24,
-            "updated_at": 1789705238250,
+            "updated_at": 1789724440496,
             "company": "rotowire"
           }
         },
@@ -2192,7 +2192,7 @@
             "pts_ppr": 6.59,
             "pts_half_ppr": 5.4,
             "pts_std": 4.2,
-            "updated_at": 1789705237967,
+            "updated_at": 1789724440203,
             "company": "rotowire"
           }
         },
@@ -2215,7 +2215,7 @@
             "pts_ppr": 16.32,
             "pts_half_ppr": 16.32,
             "pts_std": 16.32,
-            "updated_at": 1789705237765,
+            "updated_at": 1789724439996,
             "company": "rotowire"
           }
         },
@@ -2238,7 +2238,7 @@
             "pts_ppr": 7.56,
             "pts_half_ppr": 6.24,
             "pts_std": 4.93,
-            "updated_at": 1789705237727,
+            "updated_at": 1789724439921,
             "company": "rotowire"
           }
         },
@@ -2261,7 +2261,7 @@
             "pts_ppr": 16.88,
             "pts_half_ppr": 16.88,
             "pts_std": 16.88,
-            "updated_at": 1789705238030,
+            "updated_at": 1789724440260,
             "company": "rotowire"
           }
         },
@@ -2284,7 +2284,7 @@
             "pts_ppr": 9.36,
             "pts_half_ppr": 8.66,
             "pts_std": 7.96,
-            "updated_at": 1789705238032,
+            "updated_at": 1789724440256,
             "company": "rotowire"
           }
         },
@@ -2307,7 +2307,7 @@
             "pts_ppr": 11.12,
             "pts_half_ppr": 9.92,
             "pts_std": 8.73,
-            "updated_at": 1789705237809,
+            "updated_at": 1789724440014,
             "company": "rotowire"
           }
         },
@@ -2330,7 +2330,7 @@
             "pts_ppr": 1.11,
             "pts_half_ppr": 0.91,
             "pts_std": 0.72,
-            "updated_at": 1789705238247,
+            "updated_at": 1789724440505,
             "company": "rotowire"
           }
         },
@@ -2353,7 +2353,7 @@
             "pts_ppr": 14.23,
             "pts_half_ppr": 12.07,
             "pts_std": 9.91,
-            "updated_at": 1789705237819,
+            "updated_at": 1789724440018,
             "company": "rotowire"
           }
         },
@@ -2376,7 +2376,7 @@
             "pts_ppr": 9.35,
             "pts_half_ppr": 7.42,
             "pts_std": 5.48,
-            "updated_at": 1789705238264,
+            "updated_at": 1789724440519,
             "company": "rotowire"
           }
         },
@@ -2399,7 +2399,7 @@
             "pts_ppr": 16.99,
             "pts_half_ppr": 15.98,
             "pts_std": 14.97,
-            "updated_at": 1789705238181,
+            "updated_at": 1789724440427,
             "company": "rotowire"
           }
         },
@@ -2422,7 +2422,7 @@
             "pts_ppr": 5.95,
             "pts_half_ppr": 5.62,
             "pts_std": 5.28,
-            "updated_at": 1789705237884,
+            "updated_at": 1789724440104,
             "company": "rotowire"
           }
         },
@@ -2445,7 +2445,7 @@
             "pts_ppr": 7.8,
             "pts_half_ppr": 6.54,
             "pts_std": 5.28,
-            "updated_at": 1789705238111,
+            "updated_at": 1789724440350,
             "company": "rotowire"
           }
         },
@@ -2468,7 +2468,7 @@
             "pts_ppr": 7.47,
             "pts_half_ppr": 6.29,
             "pts_std": 5.12,
-            "updated_at": 1789705238235,
+            "updated_at": 1789724440493,
             "company": "rotowire"
           }
         },
@@ -2491,7 +2491,7 @@
             "pts_ppr": 6.93,
             "pts_half_ppr": 6.93,
             "pts_std": 6.93,
-            "updated_at": 1789705237784,
+            "updated_at": 1789724440001,
             "company": "rotowire"
           }
         }
@@ -2605,7 +2605,7 @@
             "pts_ppr": 6.59,
             "pts_half_ppr": 6.35,
             "pts_std": 6.1,
-            "updated_at": 1789705238106,
+            "updated_at": 1789724440340,
             "company": "rotowire"
           }
         },
@@ -2628,7 +2628,7 @@
             "pts_ppr": 8.32,
             "pts_half_ppr": 6.88,
             "pts_std": 5.43,
-            "updated_at": 1789705238117,
+            "updated_at": 1789724440351,
             "company": "rotowire"
           }
         },
@@ -2651,7 +2651,7 @@
             "pts_ppr": 1.9,
             "pts_half_ppr": 1.65,
             "pts_std": 1.41,
-            "updated_at": 1789705238252,
+            "updated_at": 1789724440503,
             "company": "rotowire"
           }
         },
@@ -2697,7 +2697,7 @@
             "pts_ppr": 13.26,
             "pts_half_ppr": 12.19,
             "pts_std": 11.12,
-            "updated_at": 1789705238251,
+            "updated_at": 1789724440501,
             "company": "rotowire"
           }
         },
@@ -2720,7 +2720,7 @@
             "pts_ppr": 7.29,
             "pts_half_ppr": 5.82,
             "pts_std": 4.35,
-            "updated_at": 1789705238187,
+            "updated_at": 1789724440435,
             "company": "rotowire"
           }
         },
@@ -2743,7 +2743,7 @@
             "pts_ppr": 5.43,
             "pts_half_ppr": 5.43,
             "pts_std": 5.43,
-            "updated_at": 1789705237829,
+            "updated_at": 1789724440051,
             "company": "rotowire"
           }
         },
@@ -2766,7 +2766,7 @@
             "pts_ppr": 12.93,
             "pts_half_ppr": 10.96,
             "pts_std": 8.99,
-            "updated_at": 1789705238256,
+            "updated_at": 1789724440508,
             "company": "rotowire"
           }
         },
@@ -2789,7 +2789,7 @@
             "pts_ppr": 20.36,
             "pts_half_ppr": 20.36,
             "pts_std": 20.36,
-            "updated_at": 1789705237884,
+            "updated_at": 1789724440102,
             "company": "rotowire"
           }
         },
@@ -2812,7 +2812,7 @@
             "pts_ppr": 9.37,
             "pts_half_ppr": 7.45,
             "pts_std": 5.54,
-            "updated_at": 1789705238119,
+            "updated_at": 1789724440352,
             "company": "rotowire"
           }
         },
@@ -2835,7 +2835,7 @@
             "pts_ppr": 10.01,
             "pts_half_ppr": 7.98,
             "pts_std": 5.96,
-            "updated_at": 1789705238053,
+            "updated_at": 1789724440292,
             "company": "rotowire"
           }
         },
@@ -2858,7 +2858,7 @@
             "pts_ppr": 13.84,
             "pts_half_ppr": 11.48,
             "pts_std": 9.12,
-            "updated_at": 1789705237888,
+            "updated_at": 1789724440106,
             "company": "rotowire"
           }
         },
@@ -2881,7 +2881,7 @@
             "pts_ppr": 15.59,
             "pts_half_ppr": 12.65,
             "pts_std": 9.71,
-            "updated_at": 1789705237975,
+            "updated_at": 1789724440195,
             "company": "rotowire"
           }
         },
@@ -2927,7 +2927,7 @@
             "pts_ppr": 11.59,
             "pts_half_ppr": 10.18,
             "pts_std": 8.77,
-            "updated_at": 1789705237805,
+            "updated_at": 1789724440011,
             "company": "rotowire"
           }
         },
@@ -2950,7 +2950,7 @@
             "pts_ppr": 7.88,
             "pts_half_ppr": 6.16,
             "pts_std": 4.43,
-            "updated_at": 1789705238129,
+            "updated_at": 1789724440364,
             "company": "rotowire"
           }
         },
@@ -2973,7 +2973,7 @@
             "pts_ppr": 20.14,
             "pts_half_ppr": 16.55,
             "pts_std": 12.95,
-            "updated_at": 1789705238193,
+            "updated_at": 1789724440435,
             "company": "rotowire"
           }
         },
@@ -2996,7 +2996,7 @@
             "pts_ppr": 7.68,
             "pts_half_ppr": 6.51,
             "pts_std": 5.35,
-            "updated_at": 1789705237961,
+            "updated_at": 1789724440180,
             "company": "rotowire"
           }
         },
@@ -3019,7 +3019,7 @@
             "pts_ppr": 8.91,
             "pts_half_ppr": 8.91,
             "pts_std": 8.91,
-            "updated_at": 1789705238221,
+            "updated_at": 1789724440482,
             "company": "rotowire"
           }
         }
@@ -3133,7 +3133,7 @@
             "pts_ppr": 8.1,
             "pts_half_ppr": 6.73,
             "pts_std": 5.36,
-            "updated_at": 1789705238114,
+            "updated_at": 1789724440352,
             "company": "rotowire"
           }
         },
@@ -3156,7 +3156,7 @@
             "pts_ppr": 7.11,
             "pts_half_ppr": 5.64,
             "pts_std": 4.18,
-            "updated_at": 1789705238041,
+            "updated_at": 1789724440269,
             "company": "rotowire"
           }
         },
@@ -3179,7 +3179,7 @@
             "pts_ppr": 11.33,
             "pts_half_ppr": 9.1,
             "pts_std": 6.87,
-            "updated_at": 1789705238191,
+            "updated_at": 1789724440441,
             "company": "rotowire"
           }
         },
@@ -3202,7 +3202,7 @@
             "pts_ppr": 11.68,
             "pts_half_ppr": 10.96,
             "pts_std": 10.24,
-            "updated_at": 1789705238227,
+            "updated_at": 1789724440488,
             "company": "rotowire"
           }
         },
@@ -3225,7 +3225,7 @@
             "pts_ppr": 10.37,
             "pts_half_ppr": 8.38,
             "pts_std": 6.38,
-            "updated_at": 1789705237817,
+            "updated_at": 1789724440038,
             "company": "rotowire"
           }
         },
@@ -3271,7 +3271,7 @@
             "pts_ppr": 10.7,
             "pts_half_ppr": 8.75,
             "pts_std": 6.8,
-            "updated_at": 1789705238265,
+            "updated_at": 1789724440516,
             "company": "rotowire"
           }
         },
@@ -3317,7 +3317,7 @@
             "pts_ppr": 17.81,
             "pts_half_ppr": 17.81,
             "pts_std": 17.81,
-            "updated_at": 1789705237693,
+            "updated_at": 1789724439910,
             "company": "rotowire"
           }
         },
@@ -3340,7 +3340,7 @@
             "pts_ppr": 6.18,
             "pts_half_ppr": 6.18,
             "pts_std": 6.18,
-            "updated_at": 1789705237736,
+            "updated_at": 1789724439955,
             "company": "rotowire"
           }
         },
@@ -3363,7 +3363,7 @@
             "pts_ppr": 8.79,
             "pts_half_ppr": 7.4,
             "pts_std": 6.01,
-            "updated_at": 1789705238107,
+            "updated_at": 1789724440352,
             "company": "rotowire"
           }
         },
@@ -3386,7 +3386,7 @@
             "pts_ppr": 19.99,
             "pts_half_ppr": 19.99,
             "pts_std": 19.99,
-            "updated_at": 1789705238244,
+            "updated_at": 1789724440493,
             "company": "rotowire"
           }
         },
@@ -3409,7 +3409,7 @@
             "pts_ppr": 26.13,
             "pts_half_ppr": 24.2,
             "pts_std": 22.27,
-            "updated_at": 1789705237767,
+            "updated_at": 1789724439998,
             "company": "rotowire"
           }
         },
@@ -3432,7 +3432,7 @@
             "pts_ppr": 15.46,
             "pts_half_ppr": 13.55,
             "pts_std": 11.64,
-            "updated_at": 1789705237697,
+            "updated_at": 1789724439918,
             "company": "rotowire"
           }
         },
@@ -3455,7 +3455,7 @@
             "pts_ppr": 10.97,
             "pts_half_ppr": 9.04,
             "pts_std": 7.11,
-            "updated_at": 1789705238123,
+            "updated_at": 1789724440357,
             "company": "rotowire"
           }
         },
@@ -3478,7 +3478,7 @@
             "pts_ppr": 10.3,
             "pts_half_ppr": 8.3,
             "pts_std": 6.31,
-            "updated_at": 1789705238182,
+            "updated_at": 1789724440429,
             "company": "rotowire"
           }
         },
@@ -3501,7 +3501,7 @@
             "pts_ppr": 6.28,
             "pts_half_ppr": 5.66,
             "pts_std": 5.04,
-            "updated_at": 1789705238032,
+            "updated_at": 1789724440263,
             "company": "rotowire"
           }
         },
@@ -3524,7 +3524,7 @@
             "pts_ppr": 8.51,
             "pts_half_ppr": 8.51,
             "pts_std": 8.51,
-            "updated_at": 1789705237692,
+            "updated_at": 1789724439909,
             "company": "rotowire"
           }
         },
@@ -3547,7 +3547,7 @@
             "pts_ppr": 5.76,
             "pts_half_ppr": 5.76,
             "pts_std": 5.76,
-            "updated_at": 1789705237784,
+            "updated_at": 1789724440007,
             "company": "rotowire"
           }
         },
@@ -3570,7 +3570,7 @@
             "pts_ppr": 9.78,
             "pts_half_ppr": 9.78,
             "pts_std": 9.78,
-            "updated_at": 1789705237780,
+            "updated_at": 1789724440002,
             "company": "rotowire"
           }
         }
@@ -3684,7 +3684,7 @@
             "pts_ppr": 12.16,
             "pts_half_ppr": 9.8,
             "pts_std": 7.43,
-            "updated_at": 1789705237715,
+            "updated_at": 1789724439926,
             "company": "rotowire"
           }
         },
@@ -3707,7 +3707,7 @@
             "pts_ppr": 10.64,
             "pts_half_ppr": 10.27,
             "pts_std": 9.9,
-            "updated_at": 1789705238179,
+            "updated_at": 1789724440424,
             "company": "rotowire"
           }
         },
@@ -3730,7 +3730,7 @@
             "pts_ppr": 9.46,
             "pts_half_ppr": 7.94,
             "pts_std": 6.42,
-            "updated_at": 1789705238024,
+            "updated_at": 1789724440259,
             "company": "rotowire"
           }
         },
@@ -3753,7 +3753,7 @@
             "pts_ppr": 9.56,
             "pts_half_ppr": 7.65,
             "pts_std": 5.74,
-            "updated_at": 1789705237979,
+            "updated_at": 1789724440199,
             "company": "rotowire"
           }
         },
@@ -3776,7 +3776,7 @@
             "pts_ppr": 7.0,
             "pts_half_ppr": 6.47,
             "pts_std": 5.93,
-            "updated_at": 1789705238016,
+            "updated_at": 1789724440255,
             "company": "rotowire"
           }
         },
@@ -3799,7 +3799,7 @@
             "pts_ppr": 12.53,
             "pts_half_ppr": 10.83,
             "pts_std": 9.14,
-            "updated_at": 1789705238163,
+            "updated_at": 1789724440413,
             "company": "rotowire"
           }
         },
@@ -3822,7 +3822,7 @@
             "pts_ppr": 20.26,
             "pts_half_ppr": 20.26,
             "pts_std": 20.26,
-            "updated_at": 1789705238035,
+            "updated_at": 1789724440266,
             "company": "rotowire"
           }
         },
@@ -3845,7 +3845,7 @@
             "pts_ppr": 4.32,
             "pts_half_ppr": 3.56,
             "pts_std": 2.8,
-            "updated_at": 1789705237967,
+            "updated_at": 1789724440184,
             "company": "rotowire"
           }
         },
@@ -3868,7 +3868,7 @@
             "pts_ppr": 18.54,
             "pts_half_ppr": 15.48,
             "pts_std": 12.43,
-            "updated_at": 1789705238051,
+            "updated_at": 1789724440276,
             "company": "rotowire"
           }
         },
@@ -3891,7 +3891,7 @@
             "pts_ppr": 17.49,
             "pts_half_ppr": 14.48,
             "pts_std": 11.46,
-            "updated_at": 1789705238098,
+            "updated_at": 1789724440343,
             "company": "rotowire"
           }
         },
@@ -3914,7 +3914,7 @@
             "pts_ppr": 11.71,
             "pts_half_ppr": 9.41,
             "pts_std": 7.11,
-            "updated_at": 1789705237815,
+            "updated_at": 1789724440043,
             "company": "rotowire"
           }
         },
@@ -3937,7 +3937,7 @@
             "pts_ppr": 20.79,
             "pts_half_ppr": 20.79,
             "pts_std": 20.79,
-            "updated_at": 1789705237881,
+            "updated_at": 1789724440102,
             "company": "rotowire"
           }
         },
@@ -3960,7 +3960,7 @@
             "pts_ppr": 6.41,
             "pts_half_ppr": 5.77,
             "pts_std": 5.13,
-            "updated_at": 1789705238161,
+            "updated_at": 1789724440411,
             "company": "rotowire"
           }
         },
@@ -3983,7 +3983,7 @@
             "pts_ppr": 13.91,
             "pts_half_ppr": 12.5,
             "pts_std": 11.09,
-            "updated_at": 1789705237941,
+            "updated_at": 1789724440174,
             "company": "rotowire"
           }
         },
@@ -4006,7 +4006,7 @@
             "pts_ppr": 7.36,
             "pts_half_ppr": 7.36,
             "pts_std": 7.36,
-            "updated_at": 1789705238054,
+            "updated_at": 1789724440288,
             "company": "rotowire"
           }
         },
@@ -4029,7 +4029,7 @@
             "pts_ppr": 8.04,
             "pts_half_ppr": 6.73,
             "pts_std": 5.42,
-            "updated_at": 1789705237894,
+            "updated_at": 1789724440112,
             "company": "rotowire"
           }
         },
@@ -4052,7 +4052,7 @@
             "pts_ppr": 6.9,
             "pts_half_ppr": 6.9,
             "pts_std": 6.9,
-            "updated_at": 1789705238025,
+            "updated_at": 1789724440249,
             "company": "rotowire"
           }
         },
@@ -4075,7 +4075,7 @@
             "pts_ppr": 8.55,
             "pts_half_ppr": 8.55,
             "pts_std": 8.55,
-            "updated_at": 1789705238244,
+            "updated_at": 1789724440494,
             "company": "rotowire"
           }
         }
@@ -4189,7 +4189,7 @@
             "pts_ppr": 16.68,
             "pts_half_ppr": 16.68,
             "pts_std": 16.68,
-            "updated_at": 1789705238012,
+            "updated_at": 1789724440248,
             "company": "rotowire"
           }
         },
@@ -4212,7 +4212,7 @@
             "pts_ppr": 9.22,
             "pts_half_ppr": 7.33,
             "pts_std": 5.45,
-            "updated_at": 1789705238183,
+            "updated_at": 1789724440430,
             "company": "rotowire"
           }
         },
@@ -4235,7 +4235,7 @@
             "pts_ppr": 13.74,
             "pts_half_ppr": 12.14,
             "pts_std": 10.54,
-            "updated_at": 1789705238034,
+            "updated_at": 1789724440265,
             "company": "rotowire"
           }
         },
@@ -4258,7 +4258,7 @@
             "pts_ppr": 12.44,
             "pts_half_ppr": 11.5,
             "pts_std": 10.55,
-            "updated_at": 1789705237699,
+            "updated_at": 1789724439917,
             "company": "rotowire"
           }
         },
@@ -4281,7 +4281,7 @@
             "pts_ppr": 10.8,
             "pts_half_ppr": 9.16,
             "pts_std": 7.52,
-            "updated_at": 1789705237810,
+            "updated_at": 1789724440018,
             "company": "rotowire"
           }
         },
@@ -4304,7 +4304,7 @@
             "pts_ppr": 9.54,
             "pts_half_ppr": 8.45,
             "pts_std": 7.36,
-            "updated_at": 1789705237698,
+            "updated_at": 1789724439916,
             "company": "rotowire"
           }
         },
@@ -4327,7 +4327,7 @@
             "pts_ppr": 5.11,
             "pts_half_ppr": 4.0,
             "pts_std": 2.88,
-            "updated_at": 1789705237959,
+            "updated_at": 1789724440191,
             "company": "rotowire"
           }
         },
@@ -4350,7 +4350,7 @@
             "pts_ppr": 8.87,
             "pts_half_ppr": 7.39,
             "pts_std": 5.91,
-            "updated_at": 1789705237725,
+            "updated_at": 1789724439925,
             "company": "rotowire"
           }
         },
@@ -4396,7 +4396,7 @@
             "pts_ppr": 7.31,
             "pts_half_ppr": 7.31,
             "pts_std": 7.31,
-            "updated_at": 1789705237836,
+            "updated_at": 1789724440047,
             "company": "rotowire"
           }
         },
@@ -4419,7 +4419,7 @@
             "pts_ppr": 8.77,
             "pts_half_ppr": 7.15,
             "pts_std": 5.54,
-            "updated_at": 1789705237720,
+            "updated_at": 1789724439923,
             "company": "rotowire"
           }
         },
@@ -4442,7 +4442,7 @@
             "pts_ppr": 16.84,
             "pts_half_ppr": 16.84,
             "pts_std": 16.84,
-            "updated_at": 1789705238175,
+            "updated_at": 1789724440422,
             "company": "rotowire"
           }
         },
@@ -4465,7 +4465,7 @@
             "pts_ppr": 10.38,
             "pts_half_ppr": 8.36,
             "pts_std": 6.33,
-            "updated_at": 1789705237827,
+            "updated_at": 1789724440042,
             "company": "rotowire"
           }
         },
@@ -4511,7 +4511,7 @@
             "pts_ppr": 3.91,
             "pts_half_ppr": 3.44,
             "pts_std": 2.98,
-            "updated_at": 1789705238249,
+            "updated_at": 1789724440499,
             "company": "rotowire"
           }
         },
@@ -4534,7 +4534,7 @@
             "pts_ppr": 18.79,
             "pts_half_ppr": 17.37,
             "pts_std": 15.96,
-            "updated_at": 1789705238178,
+            "updated_at": 1789724440425,
             "company": "rotowire"
           }
         },
@@ -4557,7 +4557,7 @@
             "pts_ppr": 9.87,
             "pts_half_ppr": 7.72,
             "pts_std": 5.57,
-            "updated_at": 1789705237984,
+            "updated_at": 1789724440206,
             "company": "rotowire"
           }
         },
@@ -4580,7 +4580,7 @@
             "pts_ppr": 12.28,
             "pts_half_ppr": 10.89,
             "pts_std": 9.49,
-            "updated_at": 1789705237700,
+            "updated_at": 1789724439918,
             "company": "rotowire"
           }
         },
@@ -4603,7 +4603,7 @@
             "pts_ppr": 6.92,
             "pts_half_ppr": 5.43,
             "pts_std": 3.95,
-            "updated_at": 1789705237827,
+            "updated_at": 1789724440042,
             "company": "rotowire"
           }
         },
@@ -4626,7 +4626,7 @@
             "pts_ppr": 8.75,
             "pts_half_ppr": 8.75,
             "pts_std": 8.75,
-            "updated_at": 1789705238173,
+            "updated_at": 1789724440420,
             "company": "rotowire"
           }
         }
@@ -4740,7 +4740,7 @@
             "pts_ppr": 13.93,
             "pts_half_ppr": 11.26,
             "pts_std": 8.58,
-            "updated_at": 1789705238256,
+            "updated_at": 1789724440510,
             "company": "rotowire"
           }
         },
@@ -4763,7 +4763,7 @@
             "pts_ppr": 18.89,
             "pts_half_ppr": 18.89,
             "pts_std": 18.89,
-            "updated_at": 1789705237694,
+            "updated_at": 1789724439912,
             "company": "rotowire"
           }
         },
@@ -4786,7 +4786,7 @@
             "pts_ppr": 11.84,
             "pts_half_ppr": 9.91,
             "pts_std": 7.99,
-            "updated_at": 1789705237866,
+            "updated_at": 1789724440100,
             "company": "rotowire"
           }
         },
@@ -4809,7 +4809,7 @@
             "pts_ppr": 14.87,
             "pts_half_ppr": 13.34,
             "pts_std": 11.82,
-            "updated_at": 1789705238101,
+            "updated_at": 1789724440342,
             "company": "rotowire"
           }
         },
@@ -4855,7 +4855,7 @@
             "pts_ppr": 8.86,
             "pts_half_ppr": 7.29,
             "pts_std": 5.72,
-            "updated_at": 1789705238187,
+            "updated_at": 1789724440434,
             "company": "rotowire"
           }
         },
@@ -4878,7 +4878,7 @@
             "pts_ppr": 7.34,
             "pts_half_ppr": 6.08,
             "pts_std": 4.81,
-            "updated_at": 1789705238116,
+            "updated_at": 1789724440353,
             "company": "rotowire"
           }
         },
@@ -4901,7 +4901,7 @@
             "pts_ppr": 3.18,
             "pts_half_ppr": 2.56,
             "pts_std": 1.93,
-            "updated_at": 1789705237890,
+            "updated_at": 1789724440108,
             "company": "rotowire"
           }
         },
@@ -4924,7 +4924,7 @@
             "pts_ppr": 0.78,
             "pts_half_ppr": 0.64,
             "pts_std": 0.5,
-            "updated_at": 1789705238261,
+            "updated_at": 1789724440514,
             "company": "rotowire"
           }
         },
@@ -4947,7 +4947,7 @@
             "pts_ppr": 12.67,
             "pts_half_ppr": 10.31,
             "pts_std": 7.94,
-            "updated_at": 1789705238126,
+            "updated_at": 1789724440365,
             "company": "rotowire"
           }
         },
@@ -4970,7 +4970,7 @@
             "pts_ppr": 19.76,
             "pts_half_ppr": 17.44,
             "pts_std": 15.11,
-            "updated_at": 1789705238248,
+            "updated_at": 1789724440499,
             "company": "rotowire"
           }
         },
@@ -4993,7 +4993,7 @@
             "pts_ppr": 6.61,
             "pts_half_ppr": 6.61,
             "pts_std": 6.61,
-            "updated_at": 1789705237721,
+            "updated_at": 1789724439948,
             "company": "rotowire"
           }
         },
@@ -5016,7 +5016,7 @@
             "pts_ppr": 12.71,
             "pts_half_ppr": 10.43,
             "pts_std": 8.15,
-            "updated_at": 1789705238042,
+            "updated_at": 1789724440271,
             "company": "rotowire"
           }
         },
@@ -5039,7 +5039,7 @@
             "pts_ppr": 12.41,
             "pts_half_ppr": 11.4,
             "pts_std": 10.39,
-            "updated_at": 1789705237952,
+            "updated_at": 1789724440181,
             "company": "rotowire"
           }
         },
@@ -5062,7 +5062,7 @@
             "pts_ppr": 11.85,
             "pts_half_ppr": 9.92,
             "pts_std": 7.99,
-            "updated_at": 1789705237874,
+            "updated_at": 1789724440111,
             "company": "rotowire"
           }
         },
@@ -5085,7 +5085,7 @@
             "pts_ppr": 10.9,
             "pts_half_ppr": 9.24,
             "pts_std": 7.57,
-            "updated_at": 1789705238102,
+            "updated_at": 1789724440348,
             "company": "rotowire"
           }
         },
@@ -5108,7 +5108,7 @@
             "pts_ppr": 17.88,
             "pts_half_ppr": 17.88,
             "pts_std": 17.88,
-            "updated_at": 1789705237785,
+            "updated_at": 1789724440003,
             "company": "rotowire"
           }
         },
@@ -5131,7 +5131,7 @@
             "pts_ppr": 9.6,
             "pts_half_ppr": 9.6,
             "pts_std": 9.6,
-            "updated_at": 1789705237879,
+            "updated_at": 1789724440100,
             "company": "rotowire"
           }
         }
@@ -5245,7 +5245,7 @@
             "pts_ppr": 11.58,
             "pts_half_ppr": 9.67,
             "pts_std": 7.76,
-            "updated_at": 1789705237872,
+            "updated_at": 1789724440096,
             "company": "rotowire"
           }
         },
@@ -5268,7 +5268,7 @@
             "pts_ppr": 6.12,
             "pts_half_ppr": 6.12,
             "pts_std": 6.12,
-            "updated_at": 1789705237806,
+            "updated_at": 1789724440039,
             "company": "rotowire"
           }
         },
@@ -5291,7 +5291,7 @@
             "pts_ppr": 13.82,
             "pts_half_ppr": 12.44,
             "pts_std": 11.06,
-            "updated_at": 1789705237804,
+            "updated_at": 1789724440010,
             "company": "rotowire"
           }
         },
@@ -5314,7 +5314,7 @@
             "pts_ppr": 7.27,
             "pts_half_ppr": 6.63,
             "pts_std": 5.99,
-            "updated_at": 1789705237809,
+            "updated_at": 1789724440009,
             "company": "rotowire"
           }
         },
@@ -5337,7 +5337,7 @@
             "pts_ppr": 9.27,
             "pts_half_ppr": 7.96,
             "pts_std": 6.65,
-            "updated_at": 1789705238034,
+            "updated_at": 1789724440260,
             "company": "rotowire"
           }
         },
@@ -5360,7 +5360,7 @@
             "pts_ppr": 6.36,
             "pts_half_ppr": 5.21,
             "pts_std": 4.06,
-            "updated_at": 1789705238258,
+            "updated_at": 1789724440508,
             "company": "rotowire"
           }
         },
@@ -5383,7 +5383,7 @@
             "pts_ppr": 10.23,
             "pts_half_ppr": 8.25,
             "pts_std": 6.27,
-            "updated_at": 1789705237728,
+            "updated_at": 1789724439948,
             "company": "rotowire"
           }
         },
@@ -5429,7 +5429,7 @@
             "pts_ppr": 22.02,
             "pts_half_ppr": 22.02,
             "pts_std": 22.02,
-            "updated_at": 1789705237693,
+            "updated_at": 1789724439910,
             "company": "rotowire"
           }
         },
@@ -5452,7 +5452,7 @@
             "pts_ppr": 5.73,
             "pts_half_ppr": 4.49,
             "pts_std": 3.25,
-            "updated_at": 1789705237729,
+            "updated_at": 1789724439949,
             "company": "rotowire"
           }
         },
@@ -5475,7 +5475,7 @@
             "pts_ppr": 8.9,
             "pts_half_ppr": 8.14,
             "pts_std": 7.38,
-            "updated_at": 1789705237955,
+            "updated_at": 1789724440182,
             "company": "rotowire"
           }
         },
@@ -5498,7 +5498,7 @@
             "pts_ppr": 9.55,
             "pts_half_ppr": 7.62,
             "pts_std": 5.69,
-            "updated_at": 1789705237894,
+            "updated_at": 1789724440119,
             "company": "rotowire"
           }
         },
@@ -5521,7 +5521,7 @@
             "pts_ppr": 8.34,
             "pts_half_ppr": 7.02,
             "pts_std": 5.69,
-            "updated_at": 1789705237894,
+            "updated_at": 1789724440112,
             "company": "rotowire"
           }
         },
@@ -5544,7 +5544,7 @@
             "pts_ppr": 14.6,
             "pts_half_ppr": 11.24,
             "pts_std": 7.88,
-            "updated_at": 1789705238177,
+            "updated_at": 1789724440433,
             "company": "rotowire"
           }
         },
@@ -5567,7 +5567,7 @@
             "pts_ppr": 18.78,
             "pts_half_ppr": 15.55,
             "pts_std": 12.32,
-            "updated_at": 1789705238237,
+            "updated_at": 1789724440492,
             "company": "rotowire"
           }
         },
@@ -5613,7 +5613,7 @@
             "pts_ppr": 9.82,
             "pts_half_ppr": 8.18,
             "pts_std": 6.55,
-            "updated_at": 1789705238046,
+            "updated_at": 1789724440271,
             "company": "rotowire"
           }
         },
@@ -5636,7 +5636,7 @@
             "pts_ppr": 14.04,
             "pts_half_ppr": 11.59,
             "pts_std": 9.14,
-            "updated_at": 1789705237892,
+            "updated_at": 1789724440115,
             "company": "rotowire"
           }
         },
@@ -5659,7 +5659,7 @@
             "pts_ppr": 5.24,
             "pts_half_ppr": 5.24,
             "pts_std": 5.24,
-            "updated_at": 1789705237763,
+            "updated_at": 1789724439993,
             "company": "rotowire"
           }
         }
@@ -5773,7 +5773,7 @@
             "pts_ppr": 5.68,
             "pts_half_ppr": 4.77,
             "pts_std": 3.86,
-            "updated_at": 1789705237821,
+            "updated_at": 1789724440040,
             "company": "rotowire"
           }
         },
@@ -5819,7 +5819,7 @@
             "pts_ppr": 18.07,
             "pts_half_ppr": 18.07,
             "pts_std": 18.07,
-            "updated_at": 1789705238245,
+            "updated_at": 1789724440496,
             "company": "rotowire"
           }
         },
@@ -5842,7 +5842,7 @@
             "pts_ppr": 14.6,
             "pts_half_ppr": 12.36,
             "pts_std": 10.12,
-            "updated_at": 1789705237955,
+            "updated_at": 1789724440186,
             "company": "rotowire"
           }
         },
@@ -5865,7 +5865,7 @@
             "pts_ppr": 15.27,
             "pts_half_ppr": 15.27,
             "pts_std": 15.27,
-            "updated_at": 1789705237965,
+            "updated_at": 1789724440182,
             "company": "rotowire"
           }
         },
@@ -5888,7 +5888,7 @@
             "pts_ppr": 6.28,
             "pts_half_ppr": 5.15,
             "pts_std": 4.03,
-            "updated_at": 1789705237899,
+            "updated_at": 1789724440115,
             "company": "rotowire"
           }
         },
@@ -5911,7 +5911,7 @@
             "pts_ppr": 7.15,
             "pts_half_ppr": 7.15,
             "pts_std": 7.15,
-            "updated_at": 1789705237880,
+            "updated_at": 1789724440113,
             "company": "rotowire"
           }
         },
@@ -5934,7 +5934,7 @@
             "pts_ppr": 7.22,
             "pts_half_ppr": 5.93,
             "pts_std": 4.63,
-            "updated_at": 1789705238233,
+            "updated_at": 1789724440497,
             "company": "rotowire"
           }
         },
@@ -5957,7 +5957,7 @@
             "pts_ppr": 14.01,
             "pts_half_ppr": 12.93,
             "pts_std": 11.85,
-            "updated_at": 1789705238091,
+            "updated_at": 1789724440335,
             "company": "rotowire"
           }
         },
@@ -5980,7 +5980,7 @@
             "pts_ppr": 16.64,
             "pts_half_ppr": 15.44,
             "pts_std": 14.25,
-            "updated_at": 1789705237885,
+            "updated_at": 1789724440106,
             "company": "rotowire"
           }
         },
@@ -6003,7 +6003,7 @@
             "pts_ppr": 10.17,
             "pts_half_ppr": 8.32,
             "pts_std": 6.47,
-            "updated_at": 1789705237905,
+            "updated_at": 1789724440126,
             "company": "rotowire"
           }
         },
@@ -6026,7 +6026,7 @@
             "pts_ppr": 14.76,
             "pts_half_ppr": 12.21,
             "pts_std": 9.65,
-            "updated_at": 1789705237891,
+            "updated_at": 1789724440110,
             "company": "rotowire"
           }
         },
@@ -6049,7 +6049,7 @@
             "pts_ppr": 10.95,
             "pts_half_ppr": 8.71,
             "pts_std": 6.48,
-            "updated_at": 1789705237711,
+            "updated_at": 1789724439922,
             "company": "rotowire"
           }
         },
@@ -6072,7 +6072,7 @@
             "pts_ppr": 11.58,
             "pts_half_ppr": 9.97,
             "pts_std": 8.36,
-            "updated_at": 1789705238189,
+            "updated_at": 1789724440427,
             "company": "rotowire"
           }
         },
@@ -6095,7 +6095,7 @@
             "pts_ppr": 15.11,
             "pts_half_ppr": 12.31,
             "pts_std": 9.52,
-            "updated_at": 1789705237951,
+            "updated_at": 1789724440180,
             "company": "rotowire"
           }
         },
@@ -6118,7 +6118,7 @@
             "pts_ppr": 12.62,
             "pts_half_ppr": 10.74,
             "pts_std": 8.85,
-            "updated_at": 1789705237793,
+            "updated_at": 1789724440009,
             "company": "rotowire"
           }
         },
@@ -6141,7 +6141,7 @@
             "pts_ppr": 3.45,
             "pts_half_ppr": 3.28,
             "pts_std": 3.1,
-            "updated_at": 1789705237887,
+            "updated_at": 1789724440105,
             "company": "rotowire"
           }
         },
@@ -6164,7 +6164,7 @@
             "pts_ppr": 16.93,
             "pts_half_ppr": 15.15,
             "pts_std": 13.38,
-            "updated_at": 1789705238174,
+            "updated_at": 1789724440420,
             "company": "rotowire"
           }
         },
@@ -6210,7 +6210,7 @@
             "pts_ppr": 9.17,
             "pts_half_ppr": 9.17,
             "pts_std": 9.17,
-            "updated_at": 1789705238242,
+            "updated_at": 1789724440491,
             "company": "rotowire"
           }
         }
@@ -6324,7 +6324,7 @@
             "pts_ppr": 4.27,
             "pts_half_ppr": 3.83,
             "pts_std": 3.39,
-            "updated_at": 1789705237697,
+            "updated_at": 1789724439916,
             "company": "rotowire"
           }
         },
@@ -6347,7 +6347,7 @@
             "pts_ppr": 8.25,
             "pts_half_ppr": 6.57,
             "pts_std": 4.9,
-            "updated_at": 1789705238242,
+            "updated_at": 1789724440502,
             "company": "rotowire"
           }
         },
@@ -6370,7 +6370,7 @@
             "pts_ppr": 9.85,
             "pts_half_ppr": 8.27,
             "pts_std": 6.68,
-            "updated_at": 1789705238262,
+            "updated_at": 1789724440517,
             "company": "rotowire"
           }
         },
@@ -6393,7 +6393,7 @@
             "pts_ppr": 11.6,
             "pts_half_ppr": 9.47,
             "pts_std": 7.34,
-            "updated_at": 1789705238033,
+            "updated_at": 1789724440274,
             "company": "rotowire"
           }
         },
@@ -6416,7 +6416,7 @@
             "pts_ppr": 1.37,
             "pts_half_ppr": 1.1,
             "pts_std": 0.84,
-            "updated_at": 1789705238121,
+            "updated_at": 1789724440355,
             "company": "rotowire"
           }
         },
@@ -6439,7 +6439,7 @@
             "pts_ppr": 12.48,
             "pts_half_ppr": 11.82,
             "pts_std": 11.16,
-            "updated_at": 1789705238108,
+            "updated_at": 1789724440348,
             "company": "rotowire"
           }
         },
@@ -6462,7 +6462,7 @@
             "pts_ppr": 2.1,
             "pts_half_ppr": 1.83,
             "pts_std": 1.56,
-            "updated_at": 1789705238030,
+            "updated_at": 1789724440254,
             "company": "rotowire"
           }
         },
@@ -6485,7 +6485,7 @@
             "pts_ppr": 6.75,
             "pts_half_ppr": 6.75,
             "pts_std": 6.75,
-            "updated_at": 1789705238244,
+            "updated_at": 1789724440506,
             "company": "rotowire"
           }
         },
@@ -6508,7 +6508,7 @@
             "pts_ppr": 17.67,
             "pts_half_ppr": 17.67,
             "pts_std": 17.67,
-            "updated_at": 1789705238246,
+            "updated_at": 1789724440496,
             "company": "rotowire"
           }
         },
@@ -6531,7 +6531,7 @@
             "pts_ppr": 6.31,
             "pts_half_ppr": 6.31,
             "pts_std": 6.31,
-            "updated_at": 1789705238269,
+            "updated_at": 1789724440525,
             "company": "rotowire"
           }
         },
@@ -6554,7 +6554,7 @@
             "pts_ppr": 17.27,
             "pts_half_ppr": 17.27,
             "pts_std": 17.27,
-            "updated_at": 1789705237782,
+            "updated_at": 1789724440004,
             "company": "rotowire"
           }
         },
@@ -6577,7 +6577,7 @@
             "pts_ppr": 13.12,
             "pts_half_ppr": 10.92,
             "pts_std": 8.72,
-            "updated_at": 1789705237699,
+            "updated_at": 1789724439918,
             "company": "rotowire"
           }
         },
@@ -6600,7 +6600,7 @@
             "pts_ppr": 9.62,
             "pts_half_ppr": 7.94,
             "pts_std": 6.26,
-            "updated_at": 1789705238046,
+            "updated_at": 1789724440269,
             "company": "rotowire"
           }
         },
@@ -6623,7 +6623,7 @@
             "pts_ppr": 12.13,
             "pts_half_ppr": 10.22,
             "pts_std": 8.32,
-            "updated_at": 1789705237813,
+            "updated_at": 1789724440041,
             "company": "rotowire"
           }
         },
@@ -6646,7 +6646,7 @@
             "pts_ppr": 13.95,
             "pts_half_ppr": 11.66,
             "pts_std": 9.37,
-            "updated_at": 1789705238121,
+            "updated_at": 1789724440357,
             "company": "rotowire"
           }
         },
@@ -6669,7 +6669,7 @@
             "pts_ppr": 10.99,
             "pts_half_ppr": 9.65,
             "pts_std": 8.32,
-            "updated_at": 1789705237971,
+            "updated_at": 1789724440190,
             "company": "rotowire"
           }
         },
@@ -6692,7 +6692,7 @@
             "pts_ppr": 19.5,
             "pts_half_ppr": 18.09,
             "pts_std": 16.67,
-            "updated_at": 1789705237695,
+            "updated_at": 1789724439913,
             "company": "rotowire"
           }
         },
@@ -6715,7 +6715,7 @@
             "pts_ppr": 8.22,
             "pts_half_ppr": 8.22,
             "pts_std": 8.22,
-            "updated_at": 1789705238028,
+            "updated_at": 1789724440259,
             "company": "rotowire"
           }
         }
@@ -6829,7 +6829,7 @@
         "pts_ppr": 4.59,
         "pts_half_ppr": 3.73,
         "pts_std": 2.87,
-        "updated_at": 1789705238052,
+        "updated_at": 1789724440284,
         "company": "rotowire"
       }
     },
@@ -6906,7 +6906,7 @@
       "team": "LV",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 107,
+      "search_rank": 108,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -6983,7 +6983,7 @@
         "pts_ppr": 12.05,
         "pts_half_ppr": 12.05,
         "pts_std": 12.05,
-        "updated_at": 1789705237953,
+        "updated_at": 1789724440175,
         "company": "rotowire"
       }
     },
@@ -7137,7 +7137,7 @@
         "pts_ppr": 3.86,
         "pts_half_ppr": 3.04,
         "pts_std": 2.22,
-        "updated_at": 1789705238050,
+        "updated_at": 1789724440280,
         "company": "rotowire"
       }
     },
@@ -7159,7 +7159,7 @@
         "pts_ppr": 14.78,
         "pts_half_ppr": 14.78,
         "pts_std": 14.78,
-        "updated_at": 1789705238175,
+        "updated_at": 1789724440417,
         "company": "rotowire"
       }
     },
@@ -7170,7 +7170,7 @@
       "team": "CAR",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 132,
+      "search_rank": 133,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -7181,7 +7181,7 @@
         "pts_ppr": 16.47,
         "pts_half_ppr": 16.47,
         "pts_std": 16.47,
-        "updated_at": 1789705237946,
+        "updated_at": 1789724440174,
         "company": "rotowire"
       }
     },
@@ -7203,7 +7203,7 @@
         "pts_ppr": 5.36,
         "pts_half_ppr": 4.29,
         "pts_std": 3.22,
-        "updated_at": 1789705238195,
+        "updated_at": 1789724440445,
         "company": "rotowire"
       }
     },
@@ -7247,7 +7247,7 @@
         "pts_ppr": 4.77,
         "pts_half_ppr": 3.66,
         "pts_std": 2.55,
-        "updated_at": 1789705237956,
+        "updated_at": 1789724440193,
         "company": "rotowire"
       }
     },
@@ -7291,7 +7291,7 @@
         "pts_ppr": 0.79,
         "pts_half_ppr": 0.69,
         "pts_std": 0.6,
-        "updated_at": 1789705238037,
+        "updated_at": 1789724440267,
         "company": "rotowire"
       }
     },
@@ -7313,7 +7313,7 @@
         "pts_ppr": 3.38,
         "pts_half_ppr": 2.73,
         "pts_std": 2.09,
-        "updated_at": 1789705238262,
+        "updated_at": 1789724440517,
         "company": "rotowire"
       }
     },
@@ -7357,7 +7357,7 @@
         "pts_ppr": 6.75,
         "pts_half_ppr": 6.75,
         "pts_std": 6.75,
-        "updated_at": 1789705237912,
+        "updated_at": 1789724440132,
         "company": "rotowire"
       }
     },
@@ -7401,7 +7401,7 @@
         "pts_ppr": 6.29,
         "pts_half_ppr": 4.91,
         "pts_std": 3.52,
-        "updated_at": 1789705237976,
+        "updated_at": 1789724440199,
         "company": "rotowire"
       }
     },
@@ -7423,7 +7423,7 @@
         "pts_ppr": 1.81,
         "pts_half_ppr": 1.75,
         "pts_std": 1.69,
-        "updated_at": 1789705237806,
+        "updated_at": 1789724440012,
         "company": "rotowire"
       }
     },
@@ -7445,7 +7445,7 @@
         "pts_ppr": 3.22,
         "pts_half_ppr": 3.04,
         "pts_std": 2.85,
-        "updated_at": 1789705238110,
+        "updated_at": 1789724440350,
         "company": "rotowire"
       }
     },
@@ -7467,7 +7467,7 @@
         "pts_ppr": 6.25,
         "pts_half_ppr": 6.25,
         "pts_std": 6.25,
-        "updated_at": 1789705237735,
+        "updated_at": 1789724439954,
         "company": "rotowire"
       }
     },
@@ -7511,7 +7511,7 @@
         "pts_ppr": 2.02,
         "pts_half_ppr": 1.94,
         "pts_std": 1.87,
-        "updated_at": 1789705238225,
+        "updated_at": 1789724440490,
         "company": "rotowire"
       }
     },
@@ -7577,7 +7577,7 @@
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1789705237957,
+        "updated_at": 1789724440178,
         "company": "rotowire"
       }
     },
@@ -7643,7 +7643,7 @@
         "pts_ppr": 1.37,
         "pts_half_ppr": 1.13,
         "pts_std": 0.89,
-        "updated_at": 1789705238044,
+        "updated_at": 1789724440267,
         "company": "rotowire"
       }
     },
@@ -7687,7 +7687,7 @@
         "pts_ppr": 1.74,
         "pts_half_ppr": 1.62,
         "pts_std": 1.49,
-        "updated_at": 1789705237857,
+        "updated_at": 1789724440090,
         "company": "rotowire"
       }
     },
@@ -7709,7 +7709,7 @@
         "pts_ppr": 2.75,
         "pts_half_ppr": 2.41,
         "pts_std": 2.07,
-        "updated_at": 1789705238177,
+        "updated_at": 1789724440422,
         "company": "rotowire"
       }
     },
@@ -7731,7 +7731,7 @@
         "pts_ppr": 1.46,
         "pts_half_ppr": 1.19,
         "pts_std": 0.93,
-        "updated_at": 1789705237964,
+        "updated_at": 1789724440187,
         "company": "rotowire"
       }
     },
@@ -7753,7 +7753,7 @@
         "pts_ppr": 6.77,
         "pts_half_ppr": 6.77,
         "pts_std": 6.77,
-        "updated_at": 1789705238269,
+        "updated_at": 1789724440519,
         "company": "rotowire"
       }
     },
@@ -7775,7 +7775,7 @@
         "pts_ppr": 3.77,
         "pts_half_ppr": 3.5,
         "pts_std": 3.22,
-        "updated_at": 1789705238093,
+        "updated_at": 1789724440337,
         "company": "rotowire"
       }
     },
@@ -7819,7 +7819,7 @@
         "pts_ppr": 6.37,
         "pts_half_ppr": 6.37,
         "pts_std": 6.37,
-        "updated_at": 1789705238055,
+        "updated_at": 1789724440281,
         "company": "rotowire"
       }
     },
@@ -7885,7 +7885,7 @@
         "pts_ppr": 5.1,
         "pts_half_ppr": 4.32,
         "pts_std": 3.53,
-        "updated_at": 1789705237968,
+        "updated_at": 1789724440191,
         "company": "rotowire"
       }
     },
@@ -7907,7 +7907,7 @@
         "pts_ppr": 4.39,
         "pts_half_ppr": 3.93,
         "pts_std": 3.48,
-        "updated_at": 1789705237969,
+        "updated_at": 1789724440187,
         "company": "rotowire"
       }
     },
@@ -7929,7 +7929,7 @@
         "pts_ppr": 0.54,
         "pts_half_ppr": 0.46,
         "pts_std": 0.39,
-        "updated_at": 1789705238249,
+        "updated_at": 1789724440501,
         "company": "rotowire"
       }
     },
@@ -7995,7 +7995,7 @@
         "pts_ppr": 3.98,
         "pts_half_ppr": 3.31,
         "pts_std": 2.64,
-        "updated_at": 1789705237791,
+        "updated_at": 1789724440007,
         "company": "rotowire"
       }
     },
@@ -8017,7 +8017,7 @@
         "pts_ppr": 3.05,
         "pts_half_ppr": 2.55,
         "pts_std": 2.05,
-        "updated_at": 1789705237970,
+        "updated_at": 1789724440189,
         "company": "rotowire"
       }
     },
@@ -8039,7 +8039,7 @@
         "pts_ppr": 16.24,
         "pts_half_ppr": 16.24,
         "pts_std": 16.24,
-        "updated_at": 1789705237803,
+        "updated_at": 1789724440009,
         "company": "rotowire"
       }
     },
@@ -8127,7 +8127,7 @@
         "pts_ppr": 4.63,
         "pts_half_ppr": 3.86,
         "pts_std": 3.09,
-        "updated_at": 1789705237822,
+        "updated_at": 1789724440011,
         "company": "rotowire"
       }
     },
@@ -8149,7 +8149,7 @@
         "pts_ppr": 6.42,
         "pts_half_ppr": 6.42,
         "pts_std": 6.42,
-        "updated_at": 1789705238035,
+        "updated_at": 1789724440276,
         "company": "rotowire"
       }
     },
@@ -8193,7 +8193,7 @@
         "pts_ppr": 3.07,
         "pts_half_ppr": 2.5,
         "pts_std": 1.93,
-        "updated_at": 1789705238040,
+        "updated_at": 1789724440266,
         "company": "rotowire"
       }
     },
@@ -8215,7 +8215,7 @@
         "pts_ppr": 4.27,
         "pts_half_ppr": 3.55,
         "pts_std": 2.82,
-        "updated_at": 1789705238254,
+        "updated_at": 1789724440510,
         "company": "rotowire"
       }
     },
@@ -8237,7 +8237,7 @@
         "pts_ppr": 1.26,
         "pts_half_ppr": 1.03,
         "pts_std": 0.81,
-        "updated_at": 1789705237811,
+        "updated_at": 1789724440016,
         "company": "rotowire"
       }
     },
@@ -8259,7 +8259,7 @@
         "pts_ppr": 3.13,
         "pts_half_ppr": 2.6,
         "pts_std": 2.07,
-        "updated_at": 1789705237702,
+        "updated_at": 1789724439921,
         "company": "rotowire"
       }
     },
@@ -8281,7 +8281,7 @@
         "pts_ppr": 3.95,
         "pts_half_ppr": 3.3,
         "pts_std": 2.65,
-        "updated_at": 1789705237819,
+        "updated_at": 1789724440019,
         "company": "rotowire"
       }
     },
@@ -8325,7 +8325,7 @@
         "pts_ppr": 6.73,
         "pts_half_ppr": 5.52,
         "pts_std": 4.31,
-        "updated_at": 1789705238185,
+        "updated_at": 1789724440433,
         "company": "rotowire"
       }
     },
@@ -8347,7 +8347,7 @@
         "pts_ppr": 6.53,
         "pts_half_ppr": 6.53,
         "pts_std": 6.53,
-        "updated_at": 1789705237830,
+        "updated_at": 1789724440052,
         "company": "rotowire"
       }
     },
@@ -8369,7 +8369,7 @@
         "pts_ppr": 2.02,
         "pts_half_ppr": 1.68,
         "pts_std": 1.34,
-        "updated_at": 1789705238231,
+        "updated_at": 1789724440495,
         "company": "rotowire"
       }
     },
@@ -8391,7 +8391,7 @@
         "pts_ppr": 8.03,
         "pts_half_ppr": 6.72,
         "pts_std": 5.41,
-        "updated_at": 1789705238047,
+        "updated_at": 1789724440278,
         "company": "rotowire"
       }
     },
@@ -8435,7 +8435,7 @@
         "pts_ppr": 0.92,
         "pts_half_ppr": 0.76,
         "pts_std": 0.6,
-        "updated_at": 1789705237903,
+        "updated_at": 1789724440117,
         "company": "rotowire"
       }
     },
@@ -8501,7 +8501,7 @@
         "pts_ppr": 12.39,
         "pts_half_ppr": 12.39,
         "pts_std": 12.39,
-        "updated_at": 1789705238159,
+        "updated_at": 1789724440409,
         "company": "rotowire"
       }
     },
@@ -8523,7 +8523,7 @@
         "pts_ppr": 3.07,
         "pts_half_ppr": 2.58,
         "pts_std": 2.09,
-        "updated_at": 1789705237713,
+        "updated_at": 1789724439924,
         "company": "rotowire"
       }
     },
@@ -8545,7 +8545,7 @@
         "pts_ppr": 4.55,
         "pts_half_ppr": 3.69,
         "pts_std": 2.82,
-        "updated_at": 1789705238107,
+        "updated_at": 1789724440354,
         "company": "rotowire"
       }
     },
@@ -8699,7 +8699,7 @@
         "pts_ppr": 1.07,
         "pts_half_ppr": 0.85,
         "pts_std": 0.62,
-        "updated_at": 1789705238199,
+        "updated_at": 1789724440447,
         "company": "rotowire"
       }
     },
@@ -8710,7 +8710,7 @@
       "team": "NYJ",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 213,
+      "search_rank": 214,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -8721,7 +8721,7 @@
         "pts_ppr": 14.9,
         "pts_half_ppr": 14.9,
         "pts_std": 14.9,
-        "updated_at": 1789705237933,
+        "updated_at": 1789724440167,
         "company": "rotowire"
       }
     },
@@ -8732,7 +8732,7 @@
       "team": "PHI",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 215,
+      "search_rank": 214,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -8743,7 +8743,7 @@
         "pts_ppr": 6.03,
         "pts_half_ppr": 6.03,
         "pts_std": 6.03,
-        "updated_at": 1789705237909,
+        "updated_at": 1789724440129,
         "company": "rotowire"
       }
     },
@@ -8858,28 +8858,6 @@
       }
     },
     {
-      "player_id": "5995",
-      "name": "Justice Hill",
-      "position": "RB",
-      "team": "BAL",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 220,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "NO",
-        "game_date": "2026-09-20",
-        "projected_points": 5.21,
-        "pts_ppr": 5.24,
-        "pts_half_ppr": 4.49,
-        "pts_std": 3.74,
-        "updated_at": 1789705237886,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "954",
       "name": "Cam Newton",
       "position": "QB",
@@ -8898,6 +8876,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "5995",
+      "name": "Justice Hill",
+      "position": "RB",
+      "team": "BAL",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 221,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "NO",
+        "game_date": "2026-09-20",
+        "projected_points": 5.21,
+        "pts_ppr": 5.24,
+        "pts_half_ppr": 4.49,
+        "pts_std": 3.74,
+        "updated_at": 1789724440105,
         "company": "rotowire"
       }
     },
@@ -8941,7 +8941,7 @@
         "pts_ppr": 0.25,
         "pts_half_ppr": 0.24,
         "pts_std": 0.24,
-        "updated_at": 1789705238246,
+        "updated_at": 1789724440501,
         "company": "rotowire"
       }
     },
@@ -9051,7 +9051,7 @@
         "pts_ppr": 8.85,
         "pts_half_ppr": 7.04,
         "pts_std": 5.22,
-        "updated_at": 1789705237827,
+        "updated_at": 1789724440049,
         "company": "rotowire"
       }
     },
@@ -9073,7 +9073,7 @@
         "pts_ppr": 5.75,
         "pts_half_ppr": 4.58,
         "pts_std": 3.41,
-        "updated_at": 1789705238189,
+        "updated_at": 1789724440437,
         "company": "rotowire"
       }
     },
@@ -9188,6 +9188,28 @@
       }
     },
     {
+      "player_id": "8249",
+      "name": "Lucas Krull",
+      "position": "TE",
+      "team": "DEN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 235,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "3969",
       "name": "Leonard Fournette",
       "position": "RB",
@@ -9271,15 +9293,15 @@
         "pts_ppr": 7.18,
         "pts_half_ppr": 7.18,
         "pts_std": 7.18,
-        "updated_at": 1789705238124,
+        "updated_at": 1789724440364,
         "company": "rotowire"
       }
     },
     {
-      "player_id": "8249",
-      "name": "Lucas Krull",
-      "position": "TE",
-      "team": "DEN",
+      "player_id": "12884",
+      "name": "Quincy Skinner",
+      "position": "WR",
+      "team": "GB",
       "status": "Active",
       "injury_status": null,
       "search_rank": 239,
@@ -9315,7 +9337,7 @@
         "pts_ppr": 5.09,
         "pts_half_ppr": 5.09,
         "pts_std": 5.09,
-        "updated_at": 1789705238196,
+        "updated_at": 1789724440444,
         "company": "rotowire"
       }
     },
@@ -9359,7 +9381,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.2,
         "pts_std": 0.18,
-        "updated_at": 1789705237721,
+        "updated_at": 1789724439945,
         "company": "rotowire"
       }
     },
@@ -9452,28 +9474,6 @@
       }
     },
     {
-      "player_id": "12884",
-      "name": "Quincy Skinner",
-      "position": "WR",
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 243,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "11964",
       "name": "Dayton Wade",
       "position": "WR",
@@ -9513,7 +9513,7 @@
         "pts_ppr": 0.31,
         "pts_half_ppr": 0.25,
         "pts_std": 0.19,
-        "updated_at": 1789705237953,
+        "updated_at": 1789724440195,
         "company": "rotowire"
       }
     },
@@ -9689,7 +9689,7 @@
         "pts_ppr": 6.73,
         "pts_half_ppr": 6.73,
         "pts_std": 6.73,
-        "updated_at": 1789705237900,
+        "updated_at": 1789724440123,
         "company": "rotowire"
       }
     },
@@ -10002,13 +10002,13 @@
       }
     },
     {
-      "player_id": "13355",
-      "name": "DJ Rogers",
+      "player_id": "11225",
+      "name": "Noah Gindorff",
       "position": "TE",
-      "team": "DAL",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "search_rank": 266,
+      "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 267,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -10024,12 +10024,12 @@
       }
     },
     {
-      "player_id": "11225",
-      "name": "Noah Gindorff",
+      "player_id": "13355",
+      "name": "DJ Rogers",
       "position": "TE",
-      "team": null,
-      "status": "Active",
-      "injury_status": null,
+      "team": "DAL",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 267,
       "projection": {
         "week": 2,
@@ -10074,7 +10074,7 @@
       "team": "LV",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 269,
+      "search_rank": 270,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -10085,7 +10085,7 @@
         "pts_ppr": 13.58,
         "pts_half_ppr": 13.58,
         "pts_std": 13.58,
-        "updated_at": 1789705238099,
+        "updated_at": 1789724440341,
         "company": "rotowire"
       }
     },
@@ -10662,10 +10662,10 @@
       }
     },
     {
-      "player_id": "8218",
-      "name": "Max Borghi",
-      "position": "RB",
-      "team": null,
+      "player_id": "13272",
+      "name": "Carson Beck",
+      "position": "QB",
+      "team": "ARI",
       "status": "Active",
       "injury_status": null,
       "search_rank": 285,
@@ -10684,35 +10684,13 @@
       }
     },
     {
-      "player_id": "13272",
-      "name": "Carson Beck",
-      "position": "QB",
-      "team": "ARI",
+      "player_id": "8218",
+      "name": "Max Borghi",
+      "position": "RB",
+      "team": null,
       "status": "Active",
       "injury_status": null,
-      "search_rank": 286,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13151",
-      "name": "Nick Kallerup",
-      "position": "TE",
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 286,
+      "search_rank": 285,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -10799,6 +10777,28 @@
       "position": "QB",
       "team": null,
       "status": "Inactive",
+      "injury_status": null,
+      "search_rank": 288,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13151",
+      "name": "Nick Kallerup",
+      "position": "TE",
+      "team": "SEA",
+      "status": "Active",
       "injury_status": null,
       "search_rank": 288,
       "projection": {
@@ -11036,28 +11036,6 @@
       }
     },
     {
-      "player_id": "13013",
-      "name": "Mark Redman",
-      "position": "TE",
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 293,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "12373",
       "name": "Peter LeBlanc",
       "position": "WR",
@@ -11076,6 +11054,50 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13013",
+      "name": "Mark Redman",
+      "position": "TE",
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 295,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "4017",
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "team": "CLE",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 295,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "TB",
+        "game_date": "2026-09-20",
+        "projected_points": 16.64,
+        "pts_ppr": 13.93,
+        "pts_half_ppr": 13.93,
+        "pts_std": 13.93,
+        "updated_at": 1789724439912,
         "company": "rotowire"
       }
     },
@@ -11190,28 +11212,6 @@
       }
     },
     {
-      "player_id": "4017",
-      "name": "Deshaun Watson",
-      "position": "QB",
-      "team": "CLE",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 297,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "TB",
-        "game_date": "2026-09-20",
-        "projected_points": 16.64,
-        "pts_ppr": 13.93,
-        "pts_half_ppr": 13.93,
-        "pts_std": 13.93,
-        "updated_at": 1789705237693,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "6967",
       "name": "Aaron Fuller",
       "position": "WR",
@@ -11219,28 +11219,6 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 299,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13310",
-      "name": "Miller Moss",
-      "position": "QB",
-      "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 300,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -11388,6 +11366,28 @@
       }
     },
     {
+      "player_id": "13310",
+      "name": "Miller Moss",
+      "position": "QB",
+      "team": "CHI",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 303,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "8118",
       "name": "David Bell",
       "position": "WR",
@@ -11439,28 +11439,6 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 304,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13964",
-      "name": "Myles Montgomery",
-      "position": "RB",
-      "team": "NE",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "search_rank": 306,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -11593,6 +11571,28 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 307,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13964",
+      "name": "Myles Montgomery",
+      "position": "RB",
+      "team": "NE",
+      "status": "Inactive",
+      "injury_status": "IR",
+      "search_rank": 308,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -11999,7 +11999,7 @@
         "pts_ppr": 4.79,
         "pts_half_ppr": 4.79,
         "pts_std": 4.79,
-        "updated_at": 1789705237736,
+        "updated_at": 1789724439956,
         "company": "rotowire"
       }
     },
@@ -12074,28 +12074,6 @@
       "name": "Marcus Kemp",
       "position": "WR",
       "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 321,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "3258",
-      "name": "Nick Vannett",
-      "position": "TE",
-      "team": "BAL",
       "status": "Active",
       "injury_status": null,
       "search_rank": 321,
@@ -12246,6 +12224,28 @@
       }
     },
     {
+      "player_id": "3258",
+      "name": "Nick Vannett",
+      "position": "TE",
+      "team": "BAL",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 323,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "10955",
       "name": "Chad Ryland",
       "position": "K",
@@ -12263,7 +12263,7 @@
         "pts_ppr": 5.73,
         "pts_half_ppr": 5.73,
         "pts_std": 5.73,
-        "updated_at": 1789705238179,
+        "updated_at": 1789724440435,
         "company": "rotowire"
       }
     },
@@ -12351,7 +12351,7 @@
         "pts_ppr": 4.97,
         "pts_half_ppr": 4.97,
         "pts_std": 4.97,
-        "updated_at": 1789705237978,
+        "updated_at": 1789724440203,
         "company": "rotowire"
       }
     },
@@ -12395,7 +12395,7 @@
         "pts_ppr": 6.51,
         "pts_half_ppr": 6.51,
         "pts_std": 6.51,
-        "updated_at": 1789705237972,
+        "updated_at": 1789724440208,
         "company": "rotowire"
       }
     },
@@ -12483,7 +12483,7 @@
         "pts_ppr": 6.02,
         "pts_half_ppr": 6.02,
         "pts_std": 6.02,
-        "updated_at": 1789705238267,
+        "updated_at": 1789724440523,
         "company": "rotowire"
       }
     },
@@ -13082,28 +13082,6 @@
       }
     },
     {
-      "player_id": "13597",
-      "name": "Matthew Caldwell",
-      "position": "QB",
-      "team": "LAR",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "search_rank": 342,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "5292",
       "name": "Devin Ross",
       "position": "WR",
@@ -13154,6 +13132,28 @@
       "team": null,
       "status": "Active",
       "injury_status": null,
+      "search_rank": 344,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13597",
+      "name": "Matthew Caldwell",
+      "position": "QB",
+      "team": "LAR",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 344,
       "projection": {
         "week": 2,
@@ -13649,7 +13649,7 @@
         "pts_ppr": 6.54,
         "pts_half_ppr": 6.54,
         "pts_std": 6.54,
-        "updated_at": 1789705238196,
+        "updated_at": 1789724440443,
         "company": "rotowire"
       }
     },
@@ -13830,13 +13830,13 @@
       }
     },
     {
-      "player_id": "8107",
-      "name": "Nikola Kalinic",
-      "position": "TE",
-      "team": "CHI",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "search_rank": 360,
+      "player_id": "928",
+      "name": "Randall Cobb",
+      "position": "WR",
+      "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 361,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -13852,12 +13852,12 @@
       }
     },
     {
-      "player_id": "928",
-      "name": "Randall Cobb",
-      "position": "WR",
-      "team": null,
-      "status": "Active",
-      "injury_status": null,
+      "player_id": "8107",
+      "name": "Nikola Kalinic",
+      "position": "TE",
+      "team": "CHI",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 361,
       "projection": {
         "week": 2,
@@ -13918,28 +13918,6 @@
       }
     },
     {
-      "player_id": "13421",
-      "name": "Eli Raridon",
-      "position": "TE",
-      "team": "NE",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 363,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "PIT",
-        "game_date": "2026-09-20",
-        "projected_points": 3.94,
-        "pts_ppr": 3.91,
-        "pts_half_ppr": 3.09,
-        "pts_std": 2.26,
-        "updated_at": 1789705237731,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "12218",
       "name": "Jalen Jackson",
       "position": "RB",
@@ -13980,6 +13958,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13421",
+      "name": "Eli Raridon",
+      "position": "TE",
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 365,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "PIT",
+        "game_date": "2026-09-20",
+        "projected_points": 3.94,
+        "pts_ppr": 3.91,
+        "pts_half_ppr": 3.09,
+        "pts_std": 2.26,
+        "updated_at": 1789724439950,
         "company": "rotowire"
       }
     },
@@ -14160,28 +14160,6 @@
       }
     },
     {
-      "player_id": "13411",
-      "name": "Zavion Thomas",
-      "position": "WR",
-      "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 367,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "MIN",
-        "game_date": "2026-09-20",
-        "projected_points": 0.72,
-        "pts_ppr": 0.73,
-        "pts_half_ppr": 0.6,
-        "pts_std": 0.48,
-        "updated_at": 1789705238020,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "12479",
       "name": "Ja'Quinden Jackson",
       "position": "RB",
@@ -14332,6 +14310,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13411",
+      "name": "Zavion Thomas",
+      "position": "WR",
+      "team": "CHI",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 368,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "MIN",
+        "game_date": "2026-09-20",
+        "projected_points": 0.72,
+        "pts_ppr": 0.73,
+        "pts_half_ppr": 0.6,
+        "pts_std": 0.48,
+        "updated_at": 1789724440262,
         "company": "rotowire"
       }
     },
@@ -14705,7 +14705,7 @@
         "pts_ppr": 0.14,
         "pts_half_ppr": 0.11,
         "pts_std": 0.08,
-        "updated_at": 1789705237974,
+        "updated_at": 1789724440197,
         "company": "rotowire"
       }
     },
@@ -14886,28 +14886,6 @@
       }
     },
     {
-      "player_id": "12548",
-      "name": "Lenny Krieg",
-      "position": "K",
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 380,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "6063",
       "name": "Tyron Billy-Johnson",
       "position": "WR",
@@ -14959,6 +14937,28 @@
       "status": "Inactive",
       "injury_status": null,
       "search_rank": 380,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "12548",
+      "name": "Lenny Krieg",
+      "position": "K",
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 381,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -15062,6 +15062,28 @@
       }
     },
     {
+      "player_id": "13424",
+      "name": "Seth McGowan",
+      "position": "RB",
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 382,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "KC",
+        "game_date": "2026-09-20",
+        "projected_points": 2.41,
+        "pts_ppr": 2.41,
+        "pts_half_ppr": 2.18,
+        "pts_std": 1.95,
+        "updated_at": 1789724440420,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "6919",
       "name": "Thaddeus Moss",
       "position": "TE",
@@ -15102,28 +15124,6 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13424",
-      "name": "Seth McGowan",
-      "position": "RB",
-      "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 383,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "KC",
-        "game_date": "2026-09-20",
-        "projected_points": 2.41,
-        "pts_ppr": 2.41,
-        "pts_half_ppr": 2.18,
-        "pts_std": 1.95,
-        "updated_at": 1789705238176,
         "company": "rotowire"
       }
     },
@@ -15458,13 +15458,13 @@
       }
     },
     {
-      "player_id": "13412",
-      "name": "Kendrick Law",
+      "player_id": "7559",
+      "name": "Ihmir Smith-Marsette",
       "position": "WR",
-      "team": "DET",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "search_rank": 388,
+      "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 389,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -15480,12 +15480,12 @@
       }
     },
     {
-      "player_id": "7559",
-      "name": "Ihmir Smith-Marsette",
+      "player_id": "13412",
+      "name": "Kendrick Law",
       "position": "WR",
-      "team": null,
-      "status": "Active",
-      "injury_status": null,
+      "team": "DET",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 389,
       "projection": {
         "week": 2,
@@ -15546,28 +15546,6 @@
       }
     },
     {
-      "player_id": "13303",
-      "name": "Cade Klubnik",
-      "position": "QB",
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 392,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "11115",
       "name": "Terrell Bynum",
       "position": "WR",
@@ -15594,6 +15572,28 @@
       "name": "Hunter Renfrow",
       "position": "WR",
       "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 393,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13303",
+      "name": "Cade Klubnik",
+      "position": "QB",
+      "team": "NYJ",
       "status": "Active",
       "injury_status": null,
       "search_rank": 393,
@@ -15849,7 +15849,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.18,
         "pts_std": 0.13,
-        "updated_at": 1789705237733,
+        "updated_at": 1789724439952,
         "company": "rotowire"
       }
     },
@@ -16091,7 +16091,7 @@
         "pts_ppr": 0.7,
         "pts_half_ppr": 0.57,
         "pts_std": 0.43,
-        "updated_at": 1789705237797,
+        "updated_at": 1789724440014,
         "company": "rotowire"
       }
     },
@@ -16228,28 +16228,6 @@
       }
     },
     {
-      "player_id": "7527",
-      "name": "Mac Jones",
-      "position": "QB",
-      "team": "SF",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 405,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "12260",
       "name": "Mason Fairchild",
       "position": "TE",
@@ -16279,6 +16257,50 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 406,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "7527",
+      "name": "Mac Jones",
+      "position": "QB",
+      "team": "SF",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 406,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13302",
+      "name": "Adam Randall",
+      "position": "RB",
+      "team": "BAL",
+      "status": "Inactive",
+      "injury_status": "IR",
+      "search_rank": 407,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -16389,28 +16411,6 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 408,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13302",
-      "name": "Adam Randall",
-      "position": "RB",
-      "team": "BAL",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "search_rank": 409,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -16619,7 +16619,7 @@
         "pts_ppr": 0.19,
         "pts_half_ppr": 0.16,
         "pts_std": 0.14,
-        "updated_at": 1789705237815,
+        "updated_at": 1789724440007,
         "company": "rotowire"
       }
     },
@@ -17372,28 +17372,6 @@
       }
     },
     {
-      "player_id": "12113",
-      "name": "Thomas Yassmin",
-      "position": "TE",
-      "team": "GB",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "search_rank": 427,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "8186",
       "name": "Devon Williams",
       "position": "WR",
@@ -17438,12 +17416,12 @@
       }
     },
     {
-      "player_id": "13208",
-      "name": "Kyrese Rowan",
-      "position": "WR",
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
+      "player_id": "12113",
+      "name": "Thomas Yassmin",
+      "position": "TE",
+      "team": "GB",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 428,
       "projection": {
         "week": 2,
@@ -17464,28 +17442,6 @@
       "name": "Miller Forristall",
       "position": "TE",
       "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 429,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "7591",
-      "name": "Justin Fields",
-      "position": "QB",
-      "team": "KC",
       "status": "Active",
       "injury_status": null,
       "search_rank": 429,
@@ -17526,6 +17482,28 @@
       }
     },
     {
+      "player_id": "7591",
+      "name": "Justin Fields",
+      "position": "QB",
+      "team": "KC",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 430,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "3202",
       "name": "Austin Hooper",
       "position": "TE",
@@ -17543,7 +17521,29 @@
         "pts_ppr": 2.3,
         "pts_half_ppr": 1.81,
         "pts_std": 1.31,
-        "updated_at": 1789705237896,
+        "updated_at": 1789724440117,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13208",
+      "name": "Kyrese Rowan",
+      "position": "WR",
+      "team": "NO",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 430,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -17856,28 +17856,6 @@
       }
     },
     {
-      "player_id": "12901",
-      "name": "Patrick Herbert",
-      "position": "TE",
-      "team": "LAC",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 437,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "147",
       "name": "DeSean Jackson",
       "position": "WR",
@@ -17948,6 +17926,28 @@
       "name": "Riley Sharp",
       "position": "TE",
       "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 438,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "12901",
+      "name": "Patrick Herbert",
+      "position": "TE",
+      "team": "LAC",
       "status": "Active",
       "injury_status": null,
       "search_rank": 438,
@@ -18082,28 +18082,6 @@
       "team": "DAL",
       "status": "Inactive",
       "injury_status": "IR",
-      "search_rank": 440,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13122",
-      "name": "Carter Runyon",
-      "position": "TE",
-      "team": "LV",
-      "status": "Inactive",
-      "injury_status": "IR",
       "search_rank": 441,
       "projection": {
         "week": 2,
@@ -18126,6 +18104,28 @@
       "team": null,
       "status": "Active",
       "injury_status": null,
+      "search_rank": 442,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13122",
+      "name": "Carter Runyon",
+      "position": "TE",
+      "team": "LV",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 442,
       "projection": {
         "week": 2,
@@ -18192,7 +18192,7 @@
       "team": "NYG",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 443,
+      "search_rank": 444,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -18203,7 +18203,7 @@
         "pts_ppr": 1.98,
         "pts_half_ppr": 1.61,
         "pts_std": 1.23,
-        "updated_at": 1789705238260,
+        "updated_at": 1789724440514,
         "company": "rotowire"
       }
     },
@@ -18296,28 +18296,6 @@
       }
     },
     {
-      "player_id": "8917",
-      "name": "KaVontae Turpin",
-      "position": "WR",
-      "team": "DAL",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 446,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "WAS",
-        "game_date": "2026-09-20",
-        "projected_points": 3.98,
-        "pts_ppr": 3.97,
-        "pts_half_ppr": 3.46,
-        "pts_std": 2.95,
-        "updated_at": 1789705238045,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "8229",
       "name": "Isaiah Weston",
       "position": "WR",
@@ -18384,28 +18362,6 @@
       }
     },
     {
-      "player_id": "11370",
-      "name": "Chris Brooks",
-      "position": "RB",
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 447,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "NYJ",
-        "game_date": "2026-09-20",
-        "projected_points": 8.06,
-        "pts_ppr": 8.04,
-        "pts_half_ppr": 7.16,
-        "pts_std": 6.28,
-        "updated_at": 1789705237859,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "7539",
       "name": "Gerrid Doaks",
       "position": "RB",
@@ -18424,6 +18380,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "8917",
+      "name": "KaVontae Turpin",
+      "position": "WR",
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 447,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "WAS",
+        "game_date": "2026-09-20",
+        "projected_points": 3.98,
+        "pts_ppr": 3.97,
+        "pts_half_ppr": 3.46,
+        "pts_std": 2.95,
+        "updated_at": 1789724440283,
         "company": "rotowire"
       }
     },
@@ -18472,6 +18450,28 @@
       }
     },
     {
+      "player_id": "11370",
+      "name": "Chris Brooks",
+      "position": "RB",
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 448,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "NYJ",
+        "game_date": "2026-09-20",
+        "projected_points": 8.06,
+        "pts_ppr": 8.04,
+        "pts_half_ppr": 7.16,
+        "pts_std": 6.28,
+        "updated_at": 1789724440092,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "5142",
       "name": "Kurt Benkert",
       "position": "QB",
@@ -18512,28 +18512,6 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13319",
-      "name": "Oscar Delp",
-      "position": "TE",
-      "team": "NO",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "search_rank": 449,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "BAL",
-        "game_date": "2026-09-20",
-        "projected_points": 2.28,
-        "pts_ppr": 2.29,
-        "pts_half_ppr": 1.77,
-        "pts_std": 1.24,
-        "updated_at": 1789705237981,
         "company": "rotowire"
       }
     },
@@ -18582,24 +18560,24 @@
       }
     },
     {
-      "player_id": "4147",
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
+      "player_id": "13319",
+      "name": "Oscar Delp",
+      "position": "TE",
+      "team": "NO",
       "status": "Active",
       "injury_status": "Questionable",
-      "search_rank": 451,
+      "search_rank": 450,
       "projection": {
         "week": 2,
         "season": "2026",
         "season_type": "regular",
-        "opponent": "HOU",
+        "opponent": "BAL",
         "game_date": "2026-09-20",
-        "projected_points": 5.16,
-        "pts_ppr": 5.19,
-        "pts_half_ppr": 4.49,
-        "pts_std": 3.79,
-        "updated_at": 1789705237699,
+        "projected_points": 2.28,
+        "pts_ppr": 2.29,
+        "pts_half_ppr": 1.77,
+        "pts_std": 1.24,
+        "updated_at": 1789724440202,
         "company": "rotowire"
       }
     },
@@ -18692,6 +18670,28 @@
       }
     },
     {
+      "player_id": "4147",
+      "name": "Samaje Perine",
+      "position": "RB",
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "search_rank": 454,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "HOU",
+        "game_date": "2026-09-20",
+        "projected_points": 5.16,
+        "pts_ppr": 5.19,
+        "pts_half_ppr": 4.49,
+        "pts_std": 3.79,
+        "updated_at": 1789724439913,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "6001",
       "name": "Drew Sample",
       "position": "TE",
@@ -18709,7 +18709,7 @@
         "pts_ppr": 1.83,
         "pts_half_ppr": 1.41,
         "pts_std": 0.99,
-        "updated_at": 1789705237733,
+        "updated_at": 1789724439951,
         "company": "rotowire"
       }
     },
@@ -18775,7 +18775,7 @@
         "pts_ppr": 7.76,
         "pts_half_ppr": 7.03,
         "pts_std": 6.31,
-        "updated_at": 1789705238229,
+        "updated_at": 1789724440486,
         "company": "rotowire"
       }
     },
@@ -18912,28 +18912,6 @@
       }
     },
     {
-      "player_id": "12521",
-      "name": "Elijah Arroyo",
-      "position": "TE",
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 457,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "ARI",
-        "game_date": "2026-09-20",
-        "projected_points": 3.42,
-        "pts_ppr": 3.39,
-        "pts_half_ppr": 2.77,
-        "pts_std": 2.16,
-        "updated_at": 1789705238241,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "6269",
       "name": "Kyle Shurmur",
       "position": "QB",
@@ -19000,10 +18978,10 @@
       }
     },
     {
-      "player_id": "13533",
-      "name": "Barion Brown",
-      "position": "WR",
-      "team": "NO",
+      "player_id": "12521",
+      "name": "Elijah Arroyo",
+      "position": "TE",
+      "team": "SEA",
       "status": "Active",
       "injury_status": null,
       "search_rank": 458,
@@ -19011,13 +18989,13 @@
         "week": 2,
         "season": "2026",
         "season_type": "regular",
-        "opponent": "BAL",
+        "opponent": "ARI",
         "game_date": "2026-09-20",
-        "projected_points": 3.16,
-        "pts_ppr": 3.16,
-        "pts_half_ppr": 2.51,
-        "pts_std": 1.86,
-        "updated_at": 1789705237973,
+        "projected_points": 3.42,
+        "pts_ppr": 3.39,
+        "pts_half_ppr": 2.77,
+        "pts_std": 2.16,
+        "updated_at": 1789724440499,
         "company": "rotowire"
       }
     },
@@ -19066,10 +19044,10 @@
       }
     },
     {
-      "player_id": "4066",
-      "name": "Evan Engram",
-      "position": "TE",
-      "team": "DEN",
+      "player_id": "13533",
+      "name": "Barion Brown",
+      "position": "WR",
+      "team": "NO",
       "status": "Active",
       "injury_status": null,
       "search_rank": 460,
@@ -19077,13 +19055,13 @@
         "week": 2,
         "season": "2026",
         "season_type": "regular",
-        "opponent": "JAX",
+        "opponent": "BAL",
         "game_date": "2026-09-20",
-        "projected_points": 4.27,
-        "pts_ppr": 4.28,
-        "pts_half_ppr": 3.18,
-        "pts_std": 2.08,
-        "updated_at": 1789705238049,
+        "projected_points": 3.16,
+        "pts_ppr": 3.16,
+        "pts_half_ppr": 2.51,
+        "pts_std": 1.86,
+        "updated_at": 1789724440192,
         "company": "rotowire"
       }
     },
@@ -19154,6 +19132,28 @@
       }
     },
     {
+      "player_id": "4066",
+      "name": "Evan Engram",
+      "position": "TE",
+      "team": "DEN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 461,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "JAX",
+        "game_date": "2026-09-20",
+        "projected_points": 4.27,
+        "pts_ppr": 4.28,
+        "pts_half_ppr": 3.18,
+        "pts_std": 2.08,
+        "updated_at": 1789724440275,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "11159",
       "name": "Zion Bowens",
       "position": "WR",
@@ -19220,6 +19220,28 @@
       }
     },
     {
+      "player_id": "11508",
+      "name": "Princeton Fant",
+      "position": "TE",
+      "team": "DAL",
+      "status": "Inactive",
+      "injury_status": "IR",
+      "search_rank": 463,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "4157",
       "name": "Tarik Cohen",
       "position": "RB",
@@ -19270,28 +19292,6 @@
       "team": null,
       "status": "Active",
       "injury_status": null,
-      "search_rank": 465,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "11508",
-      "name": "Princeton Fant",
-      "position": "TE",
-      "team": "DAL",
-      "status": "Inactive",
-      "injury_status": "IR",
       "search_rank": 465,
       "projection": {
         "week": 2,
@@ -19743,7 +19743,7 @@
         "pts_ppr": 0.11,
         "pts_half_ppr": 0.09,
         "pts_std": 0.06,
-        "updated_at": 1789705237825,
+        "updated_at": 1789724440050,
         "company": "rotowire"
       }
     },
@@ -19792,28 +19792,6 @@
       }
     },
     {
-      "player_id": "9479",
-      "name": "Darnell Washington",
-      "position": "TE",
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 473,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "NE",
-        "game_date": "2026-09-20",
-        "projected_points": 3.7,
-        "pts_ppr": 3.71,
-        "pts_half_ppr": 2.94,
-        "pts_std": 2.16,
-        "updated_at": 1789705237825,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "7536",
       "name": "Quintin Morris",
       "position": "TE",
@@ -19831,29 +19809,7 @@
         "pts_ppr": 0.41,
         "pts_half_ppr": 0.32,
         "pts_std": 0.23,
-        "updated_at": 1789705238127,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13420",
-      "name": "Bryce Lance",
-      "position": "WR",
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 473,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "BAL",
-        "game_date": "2026-09-20",
-        "projected_points": 2.0,
-        "pts_ppr": 2.0,
-        "pts_half_ppr": 1.61,
-        "pts_std": 1.22,
-        "updated_at": 1789705237977,
+        "updated_at": 1789724440361,
         "company": "rotowire"
       }
     },
@@ -19880,10 +19836,10 @@
       }
     },
     {
-      "player_id": "13400",
-      "name": "Justin Joly",
+      "player_id": "9479",
+      "name": "Darnell Washington",
       "position": "TE",
-      "team": "MIA",
+      "team": "PIT",
       "status": "Active",
       "injury_status": null,
       "search_rank": 474,
@@ -19891,13 +19847,35 @@
         "week": 2,
         "season": "2026",
         "season_type": "regular",
-        "opponent": "SF",
+        "opponent": "NE",
         "game_date": "2026-09-20",
-        "projected_points": 0.55,
-        "pts_ppr": 0.53,
-        "pts_half_ppr": 0.42,
-        "pts_std": 0.31,
-        "updated_at": 1789705238191,
+        "projected_points": 3.7,
+        "pts_ppr": 3.71,
+        "pts_half_ppr": 2.94,
+        "pts_std": 2.16,
+        "updated_at": 1789724440047,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13420",
+      "name": "Bryce Lance",
+      "position": "WR",
+      "team": "NO",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 474,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "BAL",
+        "game_date": "2026-09-20",
+        "projected_points": 2.0,
+        "pts_ppr": 2.0,
+        "pts_half_ppr": 1.61,
+        "pts_std": 1.22,
+        "updated_at": 1789724440197,
         "company": "rotowire"
       }
     },
@@ -19968,13 +19946,35 @@
       }
     },
     {
-      "player_id": "9229",
-      "name": "Anthony Richardson",
-      "position": "QB",
-      "team": "IND",
+      "player_id": "13400",
+      "name": "Justin Joly",
+      "position": "TE",
+      "team": "MIA",
       "status": "Active",
       "injury_status": null,
       "search_rank": 475,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "SF",
+        "game_date": "2026-09-20",
+        "projected_points": 0.55,
+        "pts_ppr": 0.53,
+        "pts_half_ppr": 0.42,
+        "pts_std": 0.31,
+        "updated_at": 1789724440439,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "7703",
+      "name": "Jacob Harris",
+      "position": "WR",
+      "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 476,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -19990,10 +19990,10 @@
       }
     },
     {
-      "player_id": "7703",
-      "name": "Jacob Harris",
-      "position": "WR",
-      "team": null,
+      "player_id": "9229",
+      "name": "Anthony Richardson",
+      "position": "QB",
+      "team": "IND",
       "status": "Active",
       "injury_status": null,
       "search_rank": 476,
@@ -20034,28 +20034,6 @@
       }
     },
     {
-      "player_id": "13423",
-      "name": "Eli Heidenreich",
-      "position": "RB",
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 477,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "NE",
-        "game_date": "2026-09-20",
-        "projected_points": 0.23,
-        "pts_ppr": 0.23,
-        "pts_half_ppr": 0.21,
-        "pts_std": 0.19,
-        "updated_at": 1789705237807,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "13143",
       "name": "Dymere Miller",
       "position": "WR",
@@ -20078,28 +20056,6 @@
       }
     },
     {
-      "player_id": "12495",
-      "name": "Ollie Gordon",
-      "position": "RB",
-      "team": "MIA",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 478,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "SF",
-        "game_date": "2026-09-20",
-        "projected_points": 2.64,
-        "pts_ppr": 2.64,
-        "pts_half_ppr": 2.3,
-        "pts_std": 1.95,
-        "updated_at": 1789705238173,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "6147",
       "name": "Clayton Thorson",
       "position": "QB",
@@ -20118,6 +20074,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13423",
+      "name": "Eli Heidenreich",
+      "position": "RB",
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 479,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "NE",
+        "game_date": "2026-09-20",
+        "projected_points": 0.23,
+        "pts_ppr": 0.23,
+        "pts_half_ppr": 0.21,
+        "pts_std": 0.19,
+        "updated_at": 1789724440013,
         "company": "rotowire"
       }
     },
@@ -20166,6 +20144,28 @@
       }
     },
     {
+      "player_id": "12495",
+      "name": "Ollie Gordon",
+      "position": "RB",
+      "team": "MIA",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 480,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "SF",
+        "game_date": "2026-09-20",
+        "projected_points": 2.64,
+        "pts_ppr": 2.64,
+        "pts_half_ppr": 2.3,
+        "pts_std": 1.95,
+        "updated_at": 1789724440418,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "8207",
       "name": "Tyler Goodson",
       "position": "RB",
@@ -20183,7 +20183,7 @@
         "pts_ppr": 0.81,
         "pts_half_ppr": 0.67,
         "pts_std": 0.54,
-        "updated_at": 1789705238038,
+        "updated_at": 1789724440274,
         "company": "rotowire"
       }
     },
@@ -20645,7 +20645,7 @@
         "pts_ppr": 0.57,
         "pts_half_ppr": 0.55,
         "pts_std": 0.53,
-        "updated_at": 1789705237696,
+        "updated_at": 1789724439914,
         "company": "rotowire"
       }
     },
@@ -20679,28 +20679,6 @@
       "status": "Active",
       "injury_status": "Questionable",
       "search_rank": 487,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "19",
-      "name": "Joe Flacco",
-      "position": "QB",
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 488,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -20755,7 +20733,7 @@
         "pts_ppr": 3.79,
         "pts_half_ppr": 2.96,
         "pts_std": 2.13,
-        "updated_at": 1789705238030,
+        "updated_at": 1789724440271,
         "company": "rotowire"
       }
     },
@@ -20782,24 +20760,24 @@
       }
     },
     {
-      "player_id": "9501",
-      "name": "DeMario Douglas",
-      "position": "WR",
-      "team": "NE",
+      "player_id": "19",
+      "name": "Joe Flacco",
+      "position": "QB",
+      "team": "CIN",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 489,
+      "search_rank": 490,
       "projection": {
         "week": 2,
         "season": "2026",
         "season_type": "regular",
-        "opponent": "PIT",
-        "game_date": "2026-09-20",
-        "projected_points": 8.22,
-        "pts_ppr": 8.24,
-        "pts_half_ppr": 6.65,
-        "pts_std": 5.06,
-        "updated_at": 1789705237724,
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -20909,7 +20887,7 @@
         "pts_ppr": 2.41,
         "pts_half_ppr": 1.9,
         "pts_std": 1.39,
-        "updated_at": 1789705238267,
+        "updated_at": 1789724440518,
         "company": "rotowire"
       }
     },
@@ -20998,6 +20976,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "9501",
+      "name": "DeMario Douglas",
+      "position": "WR",
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 493,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "PIT",
+        "game_date": "2026-09-20",
+        "projected_points": 8.22,
+        "pts_ppr": 8.24,
+        "pts_half_ppr": 6.65,
+        "pts_std": 5.06,
+        "updated_at": 1789724439929,
         "company": "rotowire"
       }
     },
@@ -21156,54 +21156,32 @@
       }
     },
     {
-      "player_id": "2306",
-      "name": "Jameis Winston",
-      "position": "QB",
-      "team": "NYG",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 495,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "12510",
-      "name": "Jalen Milroe",
-      "position": "QB",
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 495,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "6820",
       "name": "Clyde Edwards-Helaire",
       "position": "RB",
       "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 496,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "2306",
+      "name": "Jameis Winston",
+      "position": "QB",
+      "team": "NYG",
       "status": "Active",
       "injury_status": null,
       "search_rank": 496,
@@ -21244,6 +21222,28 @@
       }
     },
     {
+      "player_id": "12510",
+      "name": "Jalen Milroe",
+      "position": "QB",
+      "team": "SEA",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 496,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "11911",
       "name": "Jeshaun Jones",
       "position": "WR",
@@ -21262,28 +21262,6 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "10226",
-      "name": "Andrei Iosivas",
-      "position": "WR",
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 497,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "HOU",
-        "game_date": "2026-09-20",
-        "projected_points": 5.22,
-        "pts_ppr": 5.21,
-        "pts_half_ppr": 4.34,
-        "pts_std": 3.48,
-        "updated_at": 1789705237726,
         "company": "rotowire"
       }
     },
@@ -21393,7 +21371,7 @@
         "pts_ppr": 0.15,
         "pts_half_ppr": 0.13,
         "pts_std": 0.11,
-        "updated_at": 1789705238254,
+        "updated_at": 1789724440508,
         "company": "rotowire"
       }
     },
@@ -21416,6 +21394,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "10226",
+      "name": "Andrei Iosivas",
+      "position": "WR",
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 499,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "HOU",
+        "game_date": "2026-09-20",
+        "projected_points": 5.22,
+        "pts_ppr": 5.21,
+        "pts_half_ppr": 4.34,
+        "pts_std": 3.48,
+        "updated_at": 1789724439927,
         "company": "rotowire"
       }
     },
@@ -21640,28 +21640,6 @@
       }
     },
     {
-      "player_id": "12511",
-      "name": "Will Howard",
-      "position": "QB",
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 502,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "8423",
       "name": "Brittain Brown",
       "position": "RB",
@@ -21701,7 +21679,7 @@
         "pts_ppr": 4.99,
         "pts_half_ppr": 4.59,
         "pts_std": 4.19,
-        "updated_at": 1789705238041,
+        "updated_at": 1789724440272,
         "company": "rotowire"
       }
     },
@@ -21745,7 +21723,7 @@
         "pts_ppr": 1.36,
         "pts_half_ppr": 1.09,
         "pts_std": 0.83,
-        "updated_at": 1789705238108,
+        "updated_at": 1789724440356,
         "company": "rotowire"
       }
     },
@@ -21811,7 +21789,7 @@
         "pts_ppr": 1.24,
         "pts_half_ppr": 1.01,
         "pts_std": 0.77,
-        "updated_at": 1789705238039,
+        "updated_at": 1789724440278,
         "company": "rotowire"
       }
     },
@@ -21820,6 +21798,28 @@
       "name": "Cephus Johnson",
       "position": "WR",
       "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 503,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "12511",
+      "name": "Will Howard",
+      "position": "QB",
+      "team": "PIT",
       "status": "Active",
       "injury_status": null,
       "search_rank": 503,
@@ -21855,7 +21855,7 @@
         "pts_ppr": 0.43,
         "pts_half_ppr": 0.37,
         "pts_std": 0.3,
-        "updated_at": 1789705238180,
+        "updated_at": 1789724440423,
         "company": "rotowire"
       }
     },
@@ -21943,7 +21943,7 @@
         "pts_ppr": 1.7,
         "pts_half_ppr": 1.36,
         "pts_std": 1.02,
-        "updated_at": 1789705237907,
+        "updated_at": 1789724440125,
         "company": "rotowire"
       }
     },
@@ -21970,28 +21970,6 @@
       }
     },
     {
-      "player_id": "8119",
-      "name": "Jahan Dotson",
-      "position": "WR",
-      "team": "ATL",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 506,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "CAR",
-        "game_date": "2026-09-20",
-        "projected_points": 4.11,
-        "pts_ppr": 4.11,
-        "pts_half_ppr": 3.4,
-        "pts_std": 2.69,
-        "updated_at": 1789705237892,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "13258",
       "name": "Phil Lutz",
       "position": "WR",
@@ -22014,24 +21992,24 @@
       }
     },
     {
-      "player_id": "12544",
-      "name": "LeQuint Allen",
-      "position": "RB",
-      "team": "JAX",
+      "player_id": "8119",
+      "name": "Jahan Dotson",
+      "position": "WR",
+      "team": "ATL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "search_rank": 507,
       "projection": {
         "week": 2,
         "season": "2026",
         "season_type": "regular",
-        "opponent": "DEN",
+        "opponent": "CAR",
         "game_date": "2026-09-20",
-        "projected_points": 2.23,
-        "pts_ppr": 2.23,
-        "pts_half_ppr": 1.71,
-        "pts_std": 1.19,
-        "updated_at": 1789705238112,
+        "projected_points": 4.11,
+        "pts_ppr": 4.11,
+        "pts_half_ppr": 3.4,
+        "pts_std": 2.69,
+        "updated_at": 1789724440111,
         "company": "rotowire"
       }
     },
@@ -22053,7 +22031,7 @@
         "pts_ppr": 0.56,
         "pts_half_ppr": 0.43,
         "pts_std": 0.31,
-        "updated_at": 1789705237727,
+        "updated_at": 1789724439947,
         "company": "rotowire"
       }
     },
@@ -22142,6 +22120,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "12544",
+      "name": "LeQuint Allen",
+      "position": "RB",
+      "team": "JAX",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "search_rank": 509,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "DEN",
+        "game_date": "2026-09-20",
+        "projected_points": 2.23,
+        "pts_ppr": 2.23,
+        "pts_half_ppr": 1.71,
+        "pts_std": 1.19,
+        "updated_at": 1789724440347,
         "company": "rotowire"
       }
     },
@@ -22405,7 +22405,7 @@
         "pts_ppr": 0.27,
         "pts_half_ppr": 0.2,
         "pts_std": 0.14,
-        "updated_at": 1789705238118,
+        "updated_at": 1789724440358,
         "company": "rotowire"
       }
     },
@@ -22427,7 +22427,7 @@
         "pts_ppr": 4.27,
         "pts_half_ppr": 3.33,
         "pts_std": 2.39,
-        "updated_at": 1789705238192,
+        "updated_at": 1789724440441,
         "company": "rotowire"
       }
     },
@@ -22603,7 +22603,7 @@
         "pts_ppr": 2.4,
         "pts_half_ppr": 1.99,
         "pts_std": 1.57,
-        "updated_at": 1789705237939,
+        "updated_at": 1789724440171,
         "company": "rotowire"
       }
     },
@@ -22889,7 +22889,7 @@
         "pts_ppr": 6.47,
         "pts_half_ppr": 5.51,
         "pts_std": 4.55,
-        "updated_at": 1789705238253,
+        "updated_at": 1789724440505,
         "company": "rotowire"
       }
     },
@@ -23043,7 +23043,7 @@
         "pts_ppr": 1.42,
         "pts_half_ppr": 1.14,
         "pts_std": 0.87,
-        "updated_at": 1789705238180,
+        "updated_at": 1789724440426,
         "company": "rotowire"
       }
     },
@@ -23158,13 +23158,13 @@
       }
     },
     {
-      "player_id": "13962",
-      "name": "Cameron Dorner",
-      "position": "WR",
-      "team": "NE",
+      "player_id": "3340",
+      "name": "Jerell Adams",
+      "position": "TE",
+      "team": null,
       "status": "Active",
       "injury_status": null,
-      "search_rank": 525,
+      "search_rank": 526,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -23180,10 +23180,10 @@
       }
     },
     {
-      "player_id": "3340",
-      "name": "Jerell Adams",
-      "position": "TE",
-      "team": null,
+      "player_id": "13962",
+      "name": "Cameron Dorner",
+      "position": "WR",
+      "team": "NE",
       "status": "Active",
       "injury_status": null,
       "search_rank": 526,
@@ -23219,7 +23219,7 @@
         "pts_ppr": 3.47,
         "pts_half_ppr": 3.37,
         "pts_std": 3.27,
-        "updated_at": 1789705237770,
+        "updated_at": 1789724440003,
         "company": "rotowire"
       }
     },
@@ -23241,7 +23241,7 @@
         "pts_ppr": 4.85,
         "pts_half_ppr": 4.02,
         "pts_std": 3.19,
-        "updated_at": 1789705237953,
+        "updated_at": 1789724440183,
         "company": "rotowire"
       }
     },
@@ -23307,7 +23307,7 @@
         "pts_ppr": 1.12,
         "pts_half_ppr": 0.88,
         "pts_std": 0.65,
-        "updated_at": 1789705238194,
+        "updated_at": 1789724440437,
         "company": "rotowire"
       }
     },
@@ -24055,7 +24055,7 @@
         "pts_ppr": 0.21,
         "pts_half_ppr": 0.17,
         "pts_std": 0.12,
-        "updated_at": 1789705237732,
+        "updated_at": 1789724439954,
         "company": "rotowire"
       }
     },
@@ -24429,7 +24429,7 @@
         "pts_ppr": 0.12,
         "pts_half_ppr": 0.09,
         "pts_std": 0.07,
-        "updated_at": 1789705238154,
+        "updated_at": 1789724440403,
         "company": "rotowire"
       }
     },
@@ -24583,7 +24583,7 @@
         "pts_ppr": 0.54,
         "pts_half_ppr": 0.45,
         "pts_std": 0.36,
-        "updated_at": 1789705238184,
+        "updated_at": 1789724440438,
         "company": "rotowire"
       }
     },
@@ -24847,7 +24847,7 @@
         "pts_ppr": 1.04,
         "pts_half_ppr": 0.87,
         "pts_std": 0.69,
-        "updated_at": 1789705238189,
+        "updated_at": 1789724440431,
         "company": "rotowire"
       }
     },
@@ -25186,28 +25186,6 @@
       "name": "Keelan Marion",
       "position": "WR",
       "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 557,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "10983",
-      "name": "Sean Clifford",
-      "position": "QB",
-      "team": "CIN",
       "status": "Active",
       "injury_status": null,
       "search_rank": 557,
@@ -25661,7 +25639,7 @@
         "pts_ppr": 0.5,
         "pts_half_ppr": 0.4,
         "pts_std": 0.3,
-        "updated_at": 1789705237828,
+        "updated_at": 1789724440045,
         "company": "rotowire"
       }
     },
@@ -25771,7 +25749,29 @@
         "pts_ppr": 2.6,
         "pts_half_ppr": 2.02,
         "pts_std": 1.45,
-        "updated_at": 1789705237731,
+        "updated_at": 1789724439953,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "10983",
+      "name": "Sean Clifford",
+      "position": "QB",
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 565,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -25815,7 +25815,7 @@
         "pts_ppr": 0.46,
         "pts_half_ppr": 0.37,
         "pts_std": 0.28,
-        "updated_at": 1789705237832,
+        "updated_at": 1789724440036,
         "company": "rotowire"
       }
     },
@@ -26079,7 +26079,7 @@
         "pts_ppr": 1.25,
         "pts_half_ppr": 1.03,
         "pts_std": 0.81,
-        "updated_at": 1789705237726,
+        "updated_at": 1789724439946,
         "company": "rotowire"
       }
     },
@@ -26157,28 +26157,6 @@
       "status": "Active",
       "injury_status": null,
       "search_rank": 572,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13318",
-      "name": "Noah Thomas",
-      "position": "WR",
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 573,
       "projection": {
         "week": 2,
         "season": "2026",
@@ -26330,28 +26308,6 @@
       "name": "Quentin Skinner",
       "position": "WR",
       "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 574,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "11421",
-      "name": "Ryan Miller",
-      "position": "WR",
-      "team": "MIA",
       "status": "Active",
       "injury_status": null,
       "search_rank": 574,
@@ -26563,7 +26519,7 @@
         "pts_ppr": 0.41,
         "pts_half_ppr": 0.32,
         "pts_std": 0.23,
-        "updated_at": 1789705238239,
+        "updated_at": 1789724440504,
         "company": "rotowire"
       }
     },
@@ -26651,7 +26607,7 @@
         "pts_ppr": 0.55,
         "pts_half_ppr": 0.42,
         "pts_std": 0.29,
-        "updated_at": 1789705237964,
+        "updated_at": 1789724440200,
         "company": "rotowire"
       }
     },
@@ -26854,6 +26810,28 @@
       }
     },
     {
+      "player_id": "13318",
+      "name": "Noah Thomas",
+      "position": "WR",
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 581,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "5119",
       "name": "Jason Sanders",
       "position": "K",
@@ -26871,7 +26849,7 @@
         "pts_ppr": 5.74,
         "pts_half_ppr": 5.74,
         "pts_std": 5.74,
-        "updated_at": 1789705237961,
+        "updated_at": 1789724440197,
         "company": "rotowire"
       }
     },
@@ -26893,7 +26871,29 @@
         "pts_ppr": 0.08,
         "pts_half_ppr": 0.07,
         "pts_std": 0.06,
-        "updated_at": 1789705237970,
+        "updated_at": 1789724440207,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "11421",
+      "name": "Ryan Miller",
+      "position": "WR",
+      "team": "MIA",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 582,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -27008,28 +27008,6 @@
       }
     },
     {
-      "player_id": "10866",
-      "name": "Aidan O'Connell",
-      "position": "QB",
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 583,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "6964",
       "name": "Sean McKeon",
       "position": "TE",
@@ -27118,54 +27096,10 @@
       }
     },
     {
-      "player_id": "8170",
-      "name": "James Mitchell",
-      "position": "TE",
-      "team": "DAL",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 586,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "11949",
       "name": "Brayden Narveson",
       "position": "K",
       "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 588,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "12775",
-      "name": "Max Brosmer",
-      "position": "QB",
-      "team": "MIN",
       "status": "Active",
       "injury_status": null,
       "search_rank": 588,
@@ -27316,6 +27250,28 @@
       }
     },
     {
+      "player_id": "12775",
+      "name": "Max Brosmer",
+      "position": "QB",
+      "team": "MIN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 589,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "12732",
       "name": "Dominic Lovett",
       "position": "WR",
@@ -27448,6 +27404,28 @@
       }
     },
     {
+      "player_id": "10866",
+      "name": "Aidan O'Connell",
+      "position": "QB",
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 592,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "12800",
       "name": "Oscar Cardenas",
       "position": "TE",
@@ -27514,6 +27492,28 @@
       }
     },
     {
+      "player_id": "8170",
+      "name": "James Mitchell",
+      "position": "TE",
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 595,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "8414",
       "name": "Britain Covey",
       "position": "WR",
@@ -27531,7 +27531,7 @@
         "pts_ppr": 0.15,
         "pts_half_ppr": 0.12,
         "pts_std": 0.09,
-        "updated_at": 1789705237903,
+        "updated_at": 1789724440123,
         "company": "rotowire"
       }
     },
@@ -27641,7 +27641,7 @@
         "pts_ppr": 2.99,
         "pts_half_ppr": 2.37,
         "pts_std": 1.75,
-        "updated_at": 1789705237963,
+        "updated_at": 1789724440198,
         "company": "rotowire"
       }
     },
@@ -27773,7 +27773,7 @@
         "pts_ppr": 0.27,
         "pts_half_ppr": 0.22,
         "pts_std": 0.17,
-        "updated_at": 1789705238111,
+        "updated_at": 1789724440345,
         "company": "rotowire"
       }
     },
@@ -27954,28 +27954,6 @@
       }
     },
     {
-      "player_id": "12797",
-      "name": "Ahmani Marshall",
-      "position": "RB",
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 602,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "6823",
       "name": "Jacob Eason",
       "position": "QB",
@@ -28024,6 +28002,28 @@
       "name": "Adrian Martinez",
       "position": "QB",
       "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 603,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "12797",
+      "name": "Ahmani Marshall",
+      "position": "RB",
+      "team": "CAR",
       "status": "Active",
       "injury_status": null,
       "search_rank": 603,
@@ -28235,7 +28235,7 @@
         "pts_ppr": 0.45,
         "pts_half_ppr": 0.41,
         "pts_std": 0.36,
-        "updated_at": 1789705238103,
+        "updated_at": 1789724440344,
         "company": "rotowire"
       }
     },
@@ -28246,28 +28246,6 @@
       "team": "NE",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 607,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "13124",
-      "name": "Jeremiah Webb",
-      "position": "WR",
-      "team": "NE",
-      "status": "Inactive",
-      "injury_status": "IR",
       "search_rank": 607,
       "projection": {
         "week": 2,
@@ -28312,6 +28290,28 @@
       "team": null,
       "status": "Inactive",
       "injury_status": "Questionable",
+      "search_rank": 608,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13124",
+      "name": "Jeremiah Webb",
+      "position": "WR",
+      "team": "NE",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 608,
       "projection": {
         "week": 2,
@@ -28411,7 +28411,7 @@
         "pts_ppr": 1.14,
         "pts_half_ppr": 0.94,
         "pts_std": 0.75,
-        "updated_at": 1789705237870,
+        "updated_at": 1789724440105,
         "company": "rotowire"
       }
     },
@@ -28746,28 +28746,6 @@
       }
     },
     {
-      "player_id": "7204",
-      "name": "Reggie Gilliam",
-      "position": "RB",
-      "team": "NE",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 612,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "PIT",
-        "game_date": "2026-09-20",
-        "projected_points": 0.28,
-        "pts_ppr": 0.27,
-        "pts_half_ppr": 0.23,
-        "pts_std": 0.18,
-        "updated_at": 1789705237782,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "7357",
       "name": "Dan Chisena",
       "position": "WR",
@@ -28807,29 +28785,7 @@
         "pts_ppr": 0.86,
         "pts_half_ppr": 0.73,
         "pts_std": 0.59,
-        "updated_at": 1789705238167,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "10223",
-      "name": "Eric Gray",
-      "position": "RB",
-      "team": "CLE",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 612,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
+        "updated_at": 1789724440410,
         "company": "rotowire"
       }
     },
@@ -28851,7 +28807,7 @@
         "pts_ppr": 0.69,
         "pts_half_ppr": 0.52,
         "pts_std": 0.36,
-        "updated_at": 1789705237898,
+        "updated_at": 1789724440121,
         "company": "rotowire"
       }
     },
@@ -28904,6 +28860,28 @@
       "name": "Kobe Hudson",
       "position": "WR",
       "team": null,
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 613,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "10223",
+      "name": "Eric Gray",
+      "position": "RB",
+      "team": "CLE",
       "status": "Active",
       "injury_status": null,
       "search_rank": 613,
@@ -28983,7 +28961,7 @@
         "pts_ppr": 1.06,
         "pts_half_ppr": 0.83,
         "pts_std": 0.6,
-        "updated_at": 1789705237961,
+        "updated_at": 1789724440196,
         "company": "rotowire"
       }
     },
@@ -28992,28 +28970,6 @@
       "name": "Andrew Beck",
       "position": "RB",
       "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 614,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "6386",
-      "name": "Alex Bachman",
-      "position": "WR",
-      "team": "LAR",
       "status": "Active",
       "injury_status": null,
       "search_rank": 614,
@@ -29049,7 +29005,7 @@
         "pts_ppr": 1.74,
         "pts_half_ppr": 1.38,
         "pts_std": 1.02,
-        "updated_at": 1789705237719,
+        "updated_at": 1789724439946,
         "company": "rotowire"
       }
     },
@@ -29120,6 +29076,28 @@
       }
     },
     {
+      "player_id": "6386",
+      "name": "Alex Bachman",
+      "position": "WR",
+      "team": "LAR",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 615,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "13670",
       "name": "Harrison Wallace",
       "position": "WR",
@@ -29159,7 +29137,7 @@
         "pts_ppr": 0.19,
         "pts_half_ppr": 0.16,
         "pts_std": 0.14,
-        "updated_at": 1789705238043,
+        "updated_at": 1789724440273,
         "company": "rotowire"
       }
     },
@@ -29203,7 +29181,7 @@
         "pts_ppr": 2.08,
         "pts_half_ppr": 1.72,
         "pts_std": 1.36,
-        "updated_at": 1789705238112,
+        "updated_at": 1789724440359,
         "company": "rotowire"
       }
     },
@@ -29247,29 +29225,7 @@
         "pts_ppr": 0.49,
         "pts_half_ppr": 0.41,
         "pts_std": 0.32,
-        "updated_at": 1789705238182,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "11201",
-      "name": "Blake Whiteheart",
-      "position": "TE",
-      "team": "CLE",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 617,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "TB",
-        "game_date": "2026-09-20",
-        "projected_points": 1.68,
-        "pts_ppr": 1.65,
-        "pts_half_ppr": 1.32,
-        "pts_std": 0.99,
-        "updated_at": 1789705237730,
+        "updated_at": 1789724440428,
         "company": "rotowire"
       }
     },
@@ -29335,7 +29291,7 @@
         "pts_ppr": 0.25,
         "pts_half_ppr": 0.24,
         "pts_std": 0.23,
-        "updated_at": 1789705238177,
+        "updated_at": 1789724440426,
         "company": "rotowire"
       }
     },
@@ -29358,6 +29314,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "11201",
+      "name": "Blake Whiteheart",
+      "position": "TE",
+      "team": "CLE",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 618,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "TB",
+        "game_date": "2026-09-20",
+        "projected_points": 1.68,
+        "pts_ppr": 1.65,
+        "pts_half_ppr": 1.32,
+        "pts_std": 0.99,
+        "updated_at": 1789724439950,
         "company": "rotowire"
       }
     },
@@ -29423,7 +29401,7 @@
         "pts_ppr": 0.08,
         "pts_half_ppr": 0.06,
         "pts_std": 0.04,
-        "updated_at": 1789705237823,
+        "updated_at": 1789724440044,
         "company": "rotowire"
       }
     },
@@ -29599,7 +29577,7 @@
         "pts_ppr": 0.5,
         "pts_half_ppr": 0.41,
         "pts_std": 0.32,
-        "updated_at": 1789705238119,
+        "updated_at": 1789724440356,
         "company": "rotowire"
       }
     },
@@ -29868,6 +29846,28 @@
       }
     },
     {
+      "player_id": "7204",
+      "name": "Reggie Gilliam",
+      "position": "RB",
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 623,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "PIT",
+        "game_date": "2026-09-20",
+        "projected_points": 0.28,
+        "pts_ppr": 0.27,
+        "pts_half_ppr": 0.23,
+        "pts_std": 0.18,
+        "updated_at": 1789724440004,
+        "company": "rotowire"
+      }
+    },
+    {
       "player_id": "5113",
       "name": "Cedrick Wilson",
       "position": "WR",
@@ -29973,7 +29973,7 @@
         "pts_ppr": 2.19,
         "pts_half_ppr": 1.8,
         "pts_std": 1.42,
-        "updated_at": 1789705237701,
+        "updated_at": 1789724439920,
         "company": "rotowire"
       }
     },
@@ -30017,7 +30017,7 @@
         "pts_ppr": 0.31,
         "pts_half_ppr": 0.24,
         "pts_std": 0.18,
-        "updated_at": 1789705238266,
+        "updated_at": 1789724440521,
         "company": "rotowire"
       }
     },
@@ -30127,7 +30127,7 @@
         "pts_ppr": 0.21,
         "pts_half_ppr": 0.16,
         "pts_std": 0.12,
-        "updated_at": 1789705238051,
+        "updated_at": 1789724440278,
         "company": "rotowire"
       }
     },
@@ -30149,7 +30149,7 @@
         "pts_ppr": 0.49,
         "pts_half_ppr": 0.4,
         "pts_std": 0.32,
-        "updated_at": 1789705237701,
+        "updated_at": 1789724439922,
         "company": "rotowire"
       }
     },
@@ -30171,29 +30171,7 @@
         "pts_ppr": 0.28,
         "pts_half_ppr": 0.22,
         "pts_std": 0.15,
-        "updated_at": 1789705238053,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "11304",
-      "name": "E.J. Jenkins",
-      "position": "TE",
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 629,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
+        "updated_at": 1789724440279,
         "company": "rotowire"
       }
     },
@@ -30215,7 +30193,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.18,
         "pts_std": 0.13,
-        "updated_at": 1789705238264,
+        "updated_at": 1789724440519,
         "company": "rotowire"
       }
     },
@@ -30303,7 +30281,7 @@
         "pts_ppr": 1.49,
         "pts_half_ppr": 1.21,
         "pts_std": 0.93,
-        "updated_at": 1789705238038,
+        "updated_at": 1789724440263,
         "company": "rotowire"
       }
     },
@@ -30347,7 +30325,7 @@
         "pts_ppr": 6.83,
         "pts_half_ppr": 6.83,
         "pts_std": 6.83,
-        "updated_at": 1789705238131,
+        "updated_at": 1789724440371,
         "company": "rotowire"
       }
     },
@@ -30457,7 +30435,29 @@
         "pts_ppr": 1.6,
         "pts_half_ppr": 1.24,
         "pts_std": 0.88,
-        "updated_at": 1789705238032,
+        "updated_at": 1789724440270,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "11304",
+      "name": "E.J. Jenkins",
+      "position": "TE",
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 631,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -30611,7 +30611,7 @@
         "pts_ppr": 16.14,
         "pts_half_ppr": 16.14,
         "pts_std": 16.14,
-        "updated_at": 1789705238089,
+        "updated_at": 1789724440334,
         "company": "rotowire"
       }
     },
@@ -30622,50 +30622,6 @@
       "team": "TEN",
       "status": "Active",
       "injury_status": null,
-      "search_rank": 633,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "8204",
-      "name": "Bo Melton",
-      "position": "WR",
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 633,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "NYJ",
-        "game_date": "2026-09-20",
-        "projected_points": 0.51,
-        "pts_ppr": 0.51,
-        "pts_half_ppr": 0.45,
-        "pts_std": 0.39,
-        "updated_at": 1789705237868,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "6453",
-      "name": "D.J. Montgomery",
-      "position": "WR",
-      "team": "IND",
-      "status": "Inactive",
-      "injury_status": "IR",
       "search_rank": 633,
       "projection": {
         "week": 2,
@@ -30875,7 +30831,7 @@
         "pts_ppr": 1.37,
         "pts_half_ppr": 1.11,
         "pts_std": 0.84,
-        "updated_at": 1789705238057,
+        "updated_at": 1789724440289,
         "company": "rotowire"
       }
     },
@@ -31051,7 +31007,7 @@
         "pts_ppr": 0.18,
         "pts_half_ppr": 0.14,
         "pts_std": 0.11,
-        "updated_at": 1789705238168,
+        "updated_at": 1789724440422,
         "company": "rotowire"
       }
     },
@@ -31095,7 +31051,7 @@
         "pts_ppr": 0.14,
         "pts_half_ppr": 0.12,
         "pts_std": 0.1,
-        "updated_at": 1789705237821,
+        "updated_at": 1789724440019,
         "company": "rotowire"
       }
     },
@@ -31249,7 +31205,7 @@
         "pts_ppr": 1.95,
         "pts_half_ppr": 1.6,
         "pts_std": 1.25,
-        "updated_at": 1789705237825,
+        "updated_at": 1789724440040,
         "company": "rotowire"
       }
     },
@@ -31337,7 +31293,7 @@
         "pts_ppr": 0.26,
         "pts_half_ppr": 0.22,
         "pts_std": 0.17,
-        "updated_at": 1789705237895,
+        "updated_at": 1789724440117,
         "company": "rotowire"
       }
     },
@@ -31513,7 +31469,7 @@
         "pts_ppr": 0.04,
         "pts_half_ppr": 0.04,
         "pts_std": 0.03,
-        "updated_at": 1789705237823,
+        "updated_at": 1789724440048,
         "company": "rotowire"
       }
     },
@@ -31667,7 +31623,7 @@
         "pts_ppr": 3.27,
         "pts_half_ppr": 2.55,
         "pts_std": 1.82,
-        "updated_at": 1789705237983,
+        "updated_at": 1789724440204,
         "company": "rotowire"
       }
     },
@@ -31799,7 +31755,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.17,
         "pts_std": 0.12,
-        "updated_at": 1789705237875,
+        "updated_at": 1789724440099,
         "company": "rotowire"
       }
     },
@@ -31865,7 +31821,7 @@
         "pts_ppr": 0.89,
         "pts_half_ppr": 0.81,
         "pts_std": 0.73,
-        "updated_at": 1789705237769,
+        "updated_at": 1789724440001,
         "company": "rotowire"
       }
     },
@@ -31931,7 +31887,7 @@
         "pts_ppr": 0.71,
         "pts_half_ppr": 0.57,
         "pts_std": 0.44,
-        "updated_at": 1789705237720,
+        "updated_at": 1789724439920,
         "company": "rotowire"
       }
     },
@@ -31997,7 +31953,7 @@
         "pts_ppr": 5.51,
         "pts_half_ppr": 4.36,
         "pts_std": 3.21,
-        "updated_at": 1789705238025,
+        "updated_at": 1789724440264,
         "company": "rotowire"
       }
     },
@@ -32019,7 +31975,7 @@
         "pts_ppr": 0.32,
         "pts_half_ppr": 0.25,
         "pts_std": 0.18,
-        "updated_at": 1789705237801,
+        "updated_at": 1789724440019,
         "company": "rotowire"
       }
     },
@@ -32261,7 +32217,7 @@
         "pts_ppr": 2.66,
         "pts_half_ppr": 2.13,
         "pts_std": 1.6,
-        "updated_at": 1789705238109,
+        "updated_at": 1789724440354,
         "company": "rotowire"
       }
     },
@@ -32294,6 +32250,28 @@
       "team": "TB",
       "status": "Active",
       "injury_status": null,
+      "search_rank": 647,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "6453",
+      "name": "D.J. Montgomery",
+      "position": "WR",
+      "team": "IND",
+      "status": "Inactive",
+      "injury_status": "IR",
       "search_rank": 647,
       "projection": {
         "week": 2,
@@ -32437,7 +32415,7 @@
         "pts_ppr": 1.64,
         "pts_half_ppr": 1.3,
         "pts_std": 0.96,
-        "updated_at": 1789705238182,
+        "updated_at": 1789724440430,
         "company": "rotowire"
       }
     },
@@ -32460,6 +32438,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "8204",
+      "name": "Bo Melton",
+      "position": "WR",
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 648,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "NYJ",
+        "game_date": "2026-09-20",
+        "projected_points": 0.51,
+        "pts_ppr": 0.51,
+        "pts_half_ppr": 0.45,
+        "pts_std": 0.39,
+        "updated_at": 1789724440103,
         "company": "rotowire"
       }
     },
@@ -32591,7 +32591,7 @@
         "pts_ppr": 2.88,
         "pts_half_ppr": 2.44,
         "pts_std": 2.0,
-        "updated_at": 1789705237899,
+        "updated_at": 1789724440119,
         "company": "rotowire"
       }
     },
@@ -32613,7 +32613,7 @@
         "pts_ppr": 1.76,
         "pts_half_ppr": 1.38,
         "pts_std": 1.0,
-        "updated_at": 1789705237949,
+        "updated_at": 1789724440178,
         "company": "rotowire"
       }
     },
@@ -32657,7 +32657,7 @@
         "pts_ppr": 0.47,
         "pts_half_ppr": 0.38,
         "pts_std": 0.29,
-        "updated_at": 1789705237795,
+        "updated_at": 1789724440012,
         "company": "rotowire"
       }
     },
@@ -32723,7 +32723,7 @@
         "pts_ppr": 0.46,
         "pts_half_ppr": 0.43,
         "pts_std": 0.39,
-        "updated_at": 1789705237959,
+        "updated_at": 1789724440184,
         "company": "rotowire"
       }
     },
@@ -32811,7 +32811,7 @@
         "pts_ppr": 1.7,
         "pts_half_ppr": 1.35,
         "pts_std": 1.01,
-        "updated_at": 1789705238197,
+        "updated_at": 1789724440452,
         "company": "rotowire"
       }
     },
@@ -32833,7 +32833,7 @@
         "pts_ppr": 0.48,
         "pts_half_ppr": 0.4,
         "pts_std": 0.33,
-        "updated_at": 1789705237812,
+        "updated_at": 1789724440014,
         "company": "rotowire"
       }
     },
@@ -32899,7 +32899,7 @@
         "pts_ppr": 0.21,
         "pts_half_ppr": 0.18,
         "pts_std": 0.15,
-        "updated_at": 1789705237901,
+        "updated_at": 1789724440121,
         "company": "rotowire"
       }
     },
@@ -33185,7 +33185,7 @@
         "pts_ppr": 0.22,
         "pts_half_ppr": 0.18,
         "pts_std": 0.14,
-        "updated_at": 1789705237817,
+        "updated_at": 1789724440039,
         "company": "rotowire"
       }
     },
@@ -33317,7 +33317,7 @@
         "pts_ppr": 1.45,
         "pts_half_ppr": 1.19,
         "pts_std": 0.93,
-        "updated_at": 1789705238115,
+        "updated_at": 1789724440349,
         "company": "rotowire"
       }
     },
@@ -33647,7 +33647,7 @@
         "pts_ppr": 0.5,
         "pts_half_ppr": 0.4,
         "pts_std": 0.3,
-        "updated_at": 1789705237901,
+        "updated_at": 1789724440121,
         "company": "rotowire"
       }
     },
@@ -33867,7 +33867,7 @@
         "pts_ppr": 4.82,
         "pts_half_ppr": 3.87,
         "pts_std": 2.92,
-        "updated_at": 1789705238127,
+        "updated_at": 1789724440367,
         "company": "rotowire"
       }
     },
@@ -33889,7 +33889,7 @@
         "pts_ppr": 1.83,
         "pts_half_ppr": 1.56,
         "pts_std": 1.29,
-        "updated_at": 1789705237697,
+        "updated_at": 1789724439919,
         "company": "rotowire"
       }
     },
@@ -33933,7 +33933,7 @@
         "pts_ppr": 0.77,
         "pts_half_ppr": 0.6,
         "pts_std": 0.43,
-        "updated_at": 1789705238200,
+        "updated_at": 1789724440444,
         "company": "rotowire"
       }
     },
@@ -33955,7 +33955,7 @@
         "pts_ppr": 3.93,
         "pts_half_ppr": 3.08,
         "pts_std": 2.23,
-        "updated_at": 1789705238048,
+        "updated_at": 1789724440287,
         "company": "rotowire"
       }
     },
@@ -33977,7 +33977,7 @@
         "pts_ppr": 0.32,
         "pts_half_ppr": 0.25,
         "pts_std": 0.19,
-        "updated_at": 1789705238172,
+        "updated_at": 1789724440427,
         "company": "rotowire"
       }
     },
@@ -34065,7 +34065,7 @@
         "pts_ppr": 0.93,
         "pts_half_ppr": 0.71,
         "pts_std": 0.5,
-        "updated_at": 1789705237958,
+        "updated_at": 1789724440189,
         "company": "rotowire"
       }
     },
@@ -34175,7 +34175,7 @@
         "pts_ppr": 2.92,
         "pts_half_ppr": 2.33,
         "pts_std": 1.73,
-        "updated_at": 1789705237834,
+        "updated_at": 1789724440038,
         "company": "rotowire"
       }
     },
@@ -34373,7 +34373,7 @@
         "pts_ppr": 5.81,
         "pts_half_ppr": 5.81,
         "pts_std": 5.81,
-        "updated_at": 1789705237986,
+        "updated_at": 1789724440208,
         "company": "rotowire"
       }
     },
@@ -34395,7 +34395,7 @@
         "pts_ppr": 1.73,
         "pts_half_ppr": 1.43,
         "pts_std": 1.14,
-        "updated_at": 1789705238022,
+        "updated_at": 1789724440266,
         "company": "rotowire"
       }
     },
@@ -35170,28 +35170,6 @@
       }
     },
     {
-      "player_id": "13804",
-      "name": "Kansei Matsuzawa",
-      "position": "K",
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 668,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "10231",
       "name": "Elijah Higgins",
       "position": "TE",
@@ -35209,7 +35187,7 @@
         "pts_ppr": 2.72,
         "pts_half_ppr": 2.07,
         "pts_std": 1.42,
-        "updated_at": 1789705238175,
+        "updated_at": 1789724440431,
         "company": "rotowire"
       }
     },
@@ -35275,7 +35253,7 @@
         "pts_ppr": 0.9,
         "pts_half_ppr": 0.71,
         "pts_std": 0.52,
-        "updated_at": 1789705238194,
+        "updated_at": 1789724440442,
         "company": "rotowire"
       }
     },
@@ -35341,7 +35319,7 @@
         "pts_ppr": 1.68,
         "pts_half_ppr": 1.35,
         "pts_std": 1.03,
-        "updated_at": 1789705238055,
+        "updated_at": 1789724440288,
         "company": "rotowire"
       }
     },
@@ -35429,7 +35407,7 @@
         "pts_ppr": 0.56,
         "pts_half_ppr": 0.46,
         "pts_std": 0.36,
-        "updated_at": 1789705237729,
+        "updated_at": 1789724439949,
         "company": "rotowire"
       }
     },
@@ -35495,7 +35473,7 @@
         "pts_ppr": 0.19,
         "pts_half_ppr": 0.15,
         "pts_std": 0.12,
-        "updated_at": 1789705238186,
+        "updated_at": 1789724440433,
         "company": "rotowire"
       }
     },
@@ -35583,7 +35561,7 @@
         "pts_ppr": 0.82,
         "pts_half_ppr": 0.66,
         "pts_std": 0.49,
-        "updated_at": 1789705237909,
+        "updated_at": 1789724440127,
         "company": "rotowire"
       }
     },
@@ -35627,7 +35605,7 @@
         "pts_ppr": 3.07,
         "pts_half_ppr": 2.43,
         "pts_std": 1.79,
-        "updated_at": 1789705238129,
+        "updated_at": 1789724440369,
         "company": "rotowire"
       }
     },
@@ -35715,7 +35693,7 @@
         "pts_ppr": 0.53,
         "pts_half_ppr": 0.45,
         "pts_std": 0.36,
-        "updated_at": 1789705238049,
+        "updated_at": 1789724440286,
         "company": "rotowire"
       }
     },
@@ -35759,7 +35737,7 @@
         "pts_ppr": 4.17,
         "pts_half_ppr": 3.34,
         "pts_std": 2.51,
-        "updated_at": 1789705238174,
+        "updated_at": 1789724440429,
         "company": "rotowire"
       }
     },
@@ -35825,7 +35803,7 @@
         "pts_ppr": 1.27,
         "pts_half_ppr": 0.98,
         "pts_std": 0.69,
-        "updated_at": 1789705238131,
+        "updated_at": 1789724440366,
         "company": "rotowire"
       }
     },
@@ -35957,7 +35935,7 @@
         "pts_ppr": 1.69,
         "pts_half_ppr": 1.42,
         "pts_std": 1.15,
-        "updated_at": 1789705237815,
+        "updated_at": 1789724440016,
         "company": "rotowire"
       }
     },
@@ -36089,7 +36067,7 @@
         "pts_ppr": 1.84,
         "pts_half_ppr": 1.47,
         "pts_std": 1.1,
-        "updated_at": 1789705238047,
+        "updated_at": 1789724440274,
         "company": "rotowire"
       }
     },
@@ -36098,28 +36076,6 @@
       "name": "Chris Blewitt",
       "position": "K",
       "team": null,
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 675,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": null,
-        "game_date": null,
-        "projected_points": 0,
-        "pts_ppr": null,
-        "pts_half_ppr": null,
-        "pts_std": null,
-        "updated_at": null,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "4718",
-      "name": "Dare Ogunbowale",
-      "position": "RB",
-      "team": "LV",
       "status": "Active",
       "injury_status": null,
       "search_rank": 675,
@@ -36265,7 +36221,7 @@
         "pts_ppr": 0.54,
         "pts_half_ppr": 0.44,
         "pts_std": 0.33,
-        "updated_at": 1789705238116,
+        "updated_at": 1789724440348,
         "company": "rotowire"
       }
     },
@@ -36397,7 +36353,7 @@
         "pts_ppr": 5.44,
         "pts_half_ppr": 4.76,
         "pts_std": 4.08,
-        "updated_at": 1789705238095,
+        "updated_at": 1789724440339,
         "company": "rotowire"
       }
     },
@@ -36485,29 +36441,7 @@
         "pts_ppr": null,
         "pts_half_ppr": null,
         "pts_std": null,
-        "updated_at": 1789705238252,
-        "company": "rotowire"
-      }
-    },
-    {
-      "player_id": "8208",
-      "name": "Tyler Badie",
-      "position": "RB",
-      "team": "DEN",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 678,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "JAX",
-        "game_date": "2026-09-20",
-        "projected_points": 0.94,
-        "pts_ppr": 0.89,
-        "pts_half_ppr": 0.69,
-        "pts_std": 0.49,
-        "updated_at": 1789705238028,
+        "updated_at": 1789724440502,
         "company": "rotowire"
       }
     },
@@ -36529,7 +36463,7 @@
         "pts_ppr": 2.25,
         "pts_half_ppr": 1.82,
         "pts_std": 1.38,
-        "updated_at": 1789705238191,
+        "updated_at": 1789724440433,
         "company": "rotowire"
       }
     },
@@ -36573,7 +36507,7 @@
         "pts_ppr": 0.79,
         "pts_half_ppr": 0.62,
         "pts_std": 0.45,
-        "updated_at": 1789705237905,
+        "updated_at": 1789724440129,
         "company": "rotowire"
       }
     },
@@ -36727,7 +36661,7 @@
         "pts_ppr": 6.41,
         "pts_half_ppr": 5.41,
         "pts_std": 4.41,
-        "updated_at": 1789705238258,
+        "updated_at": 1789724440510,
         "company": "rotowire"
       }
     },
@@ -36749,7 +36683,7 @@
         "pts_ppr": 0.46,
         "pts_half_ppr": 0.4,
         "pts_std": 0.34,
-        "updated_at": 1789705238114,
+        "updated_at": 1789724440361,
         "company": "rotowire"
       }
     },
@@ -36837,7 +36771,7 @@
         "pts_ppr": 7.18,
         "pts_half_ppr": 6.06,
         "pts_std": 4.94,
-        "updated_at": 1789705237821,
+        "updated_at": 1789724440013,
         "company": "rotowire"
       }
     },
@@ -36860,6 +36794,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "8208",
+      "name": "Tyler Badie",
+      "position": "RB",
+      "team": "DEN",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 680,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "JAX",
+        "game_date": "2026-09-20",
+        "projected_points": 0.94,
+        "pts_ppr": 0.89,
+        "pts_half_ppr": 0.69,
+        "pts_std": 0.49,
+        "updated_at": 1789724440252,
         "company": "rotowire"
       }
     },
@@ -36991,7 +36947,7 @@
         "pts_ppr": 3.93,
         "pts_half_ppr": 3.09,
         "pts_std": 2.24,
-        "updated_at": 1789705237972,
+        "updated_at": 1789724440201,
         "company": "rotowire"
       }
     },
@@ -37013,7 +36969,29 @@
         "pts_ppr": 1.02,
         "pts_half_ppr": 0.82,
         "pts_std": 0.61,
-        "updated_at": 1789705237968,
+        "updated_at": 1789724440204,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "13804",
+      "name": "Kansei Matsuzawa",
+      "position": "K",
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 681,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -37101,7 +37079,7 @@
         "pts_ppr": 0.23,
         "pts_half_ppr": 0.23,
         "pts_std": 0.23,
-        "updated_at": 1789705238014,
+        "updated_at": 1789724440253,
         "company": "rotowire"
       }
     },
@@ -37123,7 +37101,7 @@
         "pts_ppr": 10.78,
         "pts_half_ppr": 10.78,
         "pts_std": 10.78,
-        "updated_at": 1789705237881,
+        "updated_at": 1789724440100,
         "company": "rotowire"
       }
     },
@@ -37211,7 +37189,7 @@
         "pts_ppr": 0.24,
         "pts_half_ppr": 0.2,
         "pts_std": 0.16,
-        "updated_at": 1789705237890,
+        "updated_at": 1789724440110,
         "company": "rotowire"
       }
     },
@@ -37277,7 +37255,7 @@
         "pts_ppr": 4.21,
         "pts_half_ppr": 3.31,
         "pts_std": 2.41,
-        "updated_at": 1789705238266,
+        "updated_at": 1789724440521,
         "company": "rotowire"
       }
     },
@@ -37387,7 +37365,7 @@
         "pts_ppr": 2.05,
         "pts_half_ppr": 1.78,
         "pts_std": 1.51,
-        "updated_at": 1789705237723,
+        "updated_at": 1789724439923,
         "company": "rotowire"
       }
     },
@@ -37475,7 +37453,7 @@
         "pts_ppr": 1.83,
         "pts_half_ppr": 1.47,
         "pts_std": 1.12,
-        "updated_at": 1789705237828,
+        "updated_at": 1789724440044,
         "company": "rotowire"
       }
     },
@@ -37563,7 +37541,7 @@
         "pts_ppr": 4.25,
         "pts_half_ppr": 3.46,
         "pts_std": 2.66,
-        "updated_at": 1789705237717,
+        "updated_at": 1789724439944,
         "company": "rotowire"
       }
     },
@@ -37651,7 +37629,7 @@
         "pts_ppr": 2.13,
         "pts_half_ppr": 1.77,
         "pts_std": 1.41,
-        "updated_at": 1789705237897,
+        "updated_at": 1789724440119,
         "company": "rotowire"
       }
     },
@@ -37695,7 +37673,29 @@
         "pts_ppr": 0.4,
         "pts_half_ppr": 0.32,
         "pts_std": 0.23,
-        "updated_at": 1789705237876,
+        "updated_at": 1789724440108,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "4718",
+      "name": "Dare Ogunbowale",
+      "position": "RB",
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 685,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": null,
+        "game_date": null,
+        "projected_points": 0,
+        "pts_ppr": null,
+        "pts_half_ppr": null,
+        "pts_std": null,
+        "updated_at": null,
         "company": "rotowire"
       }
     },
@@ -37739,7 +37739,7 @@
         "pts_ppr": 2.3,
         "pts_half_ppr": 2.04,
         "pts_std": 1.79,
-        "updated_at": 1789705237889,
+        "updated_at": 1789724440108,
         "company": "rotowire"
       }
     },
@@ -37805,7 +37805,7 @@
         "pts_ppr": 0.24,
         "pts_half_ppr": 0.2,
         "pts_std": 0.16,
-        "updated_at": 1789705238258,
+        "updated_at": 1789724440512,
         "company": "rotowire"
       }
     },
@@ -37871,7 +37871,7 @@
         "pts_ppr": 0.82,
         "pts_half_ppr": 0.71,
         "pts_std": 0.59,
-        "updated_at": 1789705237695,
+        "updated_at": 1789724439915,
         "company": "rotowire"
       }
     },
@@ -38091,7 +38091,7 @@
         "pts_ppr": 5.68,
         "pts_half_ppr": 4.68,
         "pts_std": 3.69,
-        "updated_at": 1789705237819,
+        "updated_at": 1789724440020,
         "company": "rotowire"
       }
     },
@@ -38179,7 +38179,7 @@
         "pts_ppr": 0.45,
         "pts_half_ppr": 0.41,
         "pts_std": 0.37,
-        "updated_at": 1789705237950,
+        "updated_at": 1789724440179,
         "company": "rotowire"
       }
     },
@@ -38289,7 +38289,7 @@
         "pts_ppr": 5.88,
         "pts_half_ppr": 5.88,
         "pts_std": 5.88,
-        "updated_at": 1789705237963,
+        "updated_at": 1789724440199,
         "company": "rotowire"
       }
     },
@@ -38487,7 +38487,7 @@
         "pts_ppr": 5.2,
         "pts_half_ppr": 4.5,
         "pts_std": 3.81,
-        "updated_at": 1789705237695,
+        "updated_at": 1789724439915,
         "company": "rotowire"
       }
     },
@@ -38553,7 +38553,7 @@
         "pts_ppr": 13.31,
         "pts_half_ppr": 13.31,
         "pts_std": 13.31,
-        "updated_at": 1789705238223,
+        "updated_at": 1789724440484,
         "company": "rotowire"
       }
     },
@@ -38575,7 +38575,7 @@
         "pts_ppr": 0.1,
         "pts_half_ppr": 0.09,
         "pts_std": 0.07,
-        "updated_at": 1789705238187,
+        "updated_at": 1789724440439,
         "company": "rotowire"
       }
     },
@@ -38641,7 +38641,7 @@
         "pts_ppr": 1.71,
         "pts_half_ppr": 1.48,
         "pts_std": 1.25,
-        "updated_at": 1789705238123,
+        "updated_at": 1789724440363,
         "company": "rotowire"
       }
     },
@@ -38707,7 +38707,7 @@
         "pts_ppr": 2.31,
         "pts_half_ppr": 1.8,
         "pts_std": 1.28,
-        "updated_at": 1789705237804,
+        "updated_at": 1789724440037,
         "company": "rotowire"
       }
     },
@@ -38817,7 +38817,7 @@
         "pts_ppr": 1.95,
         "pts_half_ppr": 1.54,
         "pts_std": 1.13,
-        "updated_at": 1789705238097,
+        "updated_at": 1789724440341,
         "company": "rotowire"
       }
     },
@@ -38905,7 +38905,7 @@
         "pts_ppr": 0.61,
         "pts_half_ppr": 0.51,
         "pts_std": 0.4,
-        "updated_at": 1789705238254,
+        "updated_at": 1789724440506,
         "company": "rotowire"
       }
     },
@@ -39125,7 +39125,7 @@
         "pts_ppr": 4.35,
         "pts_half_ppr": 3.44,
         "pts_std": 2.53,
-        "updated_at": 1789705237878,
+        "updated_at": 1789724440110,
         "company": "rotowire"
       }
     },
@@ -39262,28 +39262,6 @@
       }
     },
     {
-      "player_id": "12539",
-      "name": "Arian Smith",
-      "position": "WR",
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "search_rank": 696,
-      "projection": {
-        "week": 2,
-        "season": "2026",
-        "season_type": "regular",
-        "opponent": "GB",
-        "game_date": "2026-09-20",
-        "projected_points": 0.31,
-        "pts_ppr": 0.33,
-        "pts_half_ppr": 0.28,
-        "pts_std": 0.22,
-        "updated_at": 1789705237946,
-        "company": "rotowire"
-      }
-    },
-    {
       "player_id": "7720",
       "name": "Kene Nwangwu",
       "position": "RB",
@@ -39301,7 +39279,7 @@
         "pts_ppr": 0.1,
         "pts_half_ppr": 0.09,
         "pts_std": 0.08,
-        "updated_at": 1789705237934,
+        "updated_at": 1789724440169,
         "company": "rotowire"
       }
     },
@@ -39345,7 +39323,7 @@
         "pts_ppr": 0.53,
         "pts_half_ppr": 0.44,
         "pts_std": 0.34,
-        "updated_at": 1789705237957,
+        "updated_at": 1789724440188,
         "company": "rotowire"
       }
     },
@@ -39433,7 +39411,7 @@
         "pts_ppr": 1.03,
         "pts_half_ppr": 0.85,
         "pts_std": 0.67,
-        "updated_at": 1789705238184,
+        "updated_at": 1789724440431,
         "company": "rotowire"
       }
     },
@@ -39521,7 +39499,7 @@
         "pts_ppr": 3.32,
         "pts_half_ppr": 2.69,
         "pts_std": 2.06,
-        "updated_at": 1789705237886,
+        "updated_at": 1789724440114,
         "company": "rotowire"
       }
     },
@@ -39544,6 +39522,28 @@
         "pts_half_ppr": null,
         "pts_std": null,
         "updated_at": null,
+        "company": "rotowire"
+      }
+    },
+    {
+      "player_id": "12539",
+      "name": "Arian Smith",
+      "position": "WR",
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "search_rank": 698,
+      "projection": {
+        "week": 2,
+        "season": "2026",
+        "season_type": "regular",
+        "opponent": "GB",
+        "game_date": "2026-09-20",
+        "projected_points": 0.31,
+        "pts_ppr": 0.33,
+        "pts_half_ppr": 0.28,
+        "pts_std": 0.22,
+        "updated_at": 1789724440187,
         "company": "rotowire"
       }
     },
@@ -39587,7 +39587,7 @@
         "pts_ppr": 0.63,
         "pts_half_ppr": 0.5,
         "pts_std": 0.37,
-        "updated_at": 1789705238193,
+        "updated_at": 1789724440439,
         "company": "rotowire"
       }
     },
@@ -39653,7 +39653,7 @@
         "pts_ppr": 0.34,
         "pts_half_ppr": 0.27,
         "pts_std": 0.21,
-        "updated_at": 1789705238165,
+        "updated_at": 1789724440415,
         "company": "rotowire"
       }
     },
@@ -39675,7 +39675,7 @@
         "pts_ppr": 1.52,
         "pts_half_ppr": 1.23,
         "pts_std": 0.93,
-        "updated_at": 1789705237907,
+        "updated_at": 1789724440124,
         "company": "rotowire"
       }
     },
@@ -39917,7 +39917,7 @@
         "pts_ppr": 0.12,
         "pts_half_ppr": 0.1,
         "pts_std": 0.07,
-        "updated_at": 1789705238104,
+        "updated_at": 1789724440350,
         "company": "rotowire"
       }
     },
@@ -40907,7 +40907,7 @@
         "pts_ppr": 1.78,
         "pts_half_ppr": 1.47,
         "pts_std": 1.16,
-        "updated_at": 1789705237897,
+        "updated_at": 1789724440124,
         "company": "rotowire"
       }
     },
@@ -41721,7 +41721,7 @@
         "pts_ppr": 0.0,
         "pts_half_ppr": 0.0,
         "pts_std": 0.0,
-        "updated_at": 1789705238178,
+        "updated_at": 1789724440424,
         "company": "rotowire"
       }
     },
@@ -41941,7 +41941,7 @@
         "pts_ppr": 1.32,
         "pts_half_ppr": 1.07,
         "pts_std": 0.81,
-        "updated_at": 1789705238262,
+        "updated_at": 1789724440513,
         "company": "rotowire"
       }
     },
@@ -42315,7 +42315,7 @@
         "pts_ppr": 1.09,
         "pts_half_ppr": 0.85,
         "pts_std": 0.61,
-        "updated_at": 1789705238125,
+        "updated_at": 1789724440359,
         "company": "rotowire"
       }
     },
@@ -47001,7 +47001,7 @@
         "pts_ppr": 0.18,
         "pts_half_ppr": 0.18,
         "pts_std": 0.18,
-        "updated_at": 1789705238212,
+        "updated_at": 1789724440465,
         "company": "rotowire"
       }
     },
@@ -71729,7 +71729,7 @@
         "pts_ppr": 5.15,
         "pts_half_ppr": 5.15,
         "pts_std": 5.15,
-        "updated_at": 1789705238173,
+        "updated_at": 1789724440413,
         "company": "rotowire"
       }
     },
@@ -71751,7 +71751,7 @@
         "pts_ppr": 4.41,
         "pts_half_ppr": 4.41,
         "pts_std": 4.41,
-        "updated_at": 1789705238157,
+        "updated_at": 1789724440407,
         "company": "rotowire"
       }
     },
@@ -71773,7 +71773,7 @@
         "pts_ppr": 4.35,
         "pts_half_ppr": 4.35,
         "pts_std": 4.35,
-        "updated_at": 1789705238097,
+        "updated_at": 1789724440337,
         "company": "rotowire"
       }
     },
@@ -71839,7 +71839,7 @@
         "pts_ppr": 4.91,
         "pts_half_ppr": 4.91,
         "pts_std": 4.91,
-        "updated_at": 1789705237929,
+        "updated_at": 1789724440165,
         "company": "rotowire"
       }
     },
@@ -71905,7 +71905,7 @@
         "pts_ppr": 6.51,
         "pts_half_ppr": 6.51,
         "pts_std": 6.51,
-        "updated_at": 1789705238034,
+        "updated_at": 1789724440264,
         "company": "rotowire"
       }
     },
@@ -71927,7 +71927,7 @@
         "pts_ppr": 5.07,
         "pts_half_ppr": 5.07,
         "pts_std": 5.07,
-        "updated_at": 1789705238103,
+        "updated_at": 1789724440343,
         "company": "rotowire"
       }
     },
@@ -72059,7 +72059,7 @@
         "pts_ppr": 5.08,
         "pts_half_ppr": 5.08,
         "pts_std": 5.08,
-        "updated_at": 1789705237691,
+        "updated_at": 1789724439908,
         "company": "rotowire"
       }
     },
@@ -72147,7 +72147,7 @@
         "pts_ppr": 6.68,
         "pts_half_ppr": 6.68,
         "pts_std": 6.68,
-        "updated_at": 1789705237877,
+        "updated_at": 1789724440098,
         "company": "rotowire"
       }
     },
@@ -72191,7 +72191,7 @@
         "pts_ppr": 7.72,
         "pts_half_ppr": 7.72,
         "pts_std": 7.72,
-        "updated_at": 1789705237942,
+        "updated_at": 1789724440171,
         "company": "rotowire"
       }
     },
@@ -72235,7 +72235,7 @@
         "pts_ppr": 6.32,
         "pts_half_ppr": 6.32,
         "pts_std": 6.32,
-        "updated_at": 1789705238103,
+        "updated_at": 1789724440335,
         "company": "rotowire"
       }
     },
@@ -72323,7 +72323,7 @@
         "pts_ppr": 4.91,
         "pts_half_ppr": 4.91,
         "pts_std": 4.91,
-        "updated_at": 1789705237963,
+        "updated_at": 1789724440179,
         "company": "rotowire"
       }
     },
@@ -72411,7 +72411,7 @@
         "pts_ppr": 2.99,
         "pts_half_ppr": 2.99,
         "pts_std": 2.99,
-        "updated_at": 1789705238169,
+        "updated_at": 1789724440414,
         "company": "rotowire"
       }
     },
@@ -72499,7 +72499,7 @@
         "pts_ppr": 7.16,
         "pts_half_ppr": 7.16,
         "pts_std": 7.16,
-        "updated_at": 1789705237690,
+        "updated_at": 1789724439907,
         "company": "rotowire"
       }
     },
@@ -72587,7 +72587,7 @@
         "pts_ppr": 3.97,
         "pts_half_ppr": 3.97,
         "pts_std": 3.97,
-        "updated_at": 1789705238243,
+        "updated_at": 1789724440494,
         "company": "rotowire"
       }
     },
@@ -72609,7 +72609,7 @@
         "pts_ppr": 4.84,
         "pts_half_ppr": 4.84,
         "pts_std": 4.84,
-        "updated_at": 1789705237951,
+        "updated_at": 1789724440174,
         "company": "rotowire"
       }
     },
@@ -72719,7 +72719,7 @@
         "pts_ppr": 7.08,
         "pts_half_ppr": 7.08,
         "pts_std": 7.08,
-        "updated_at": 1789705238009,
+        "updated_at": 1789724440246,
         "company": "rotowire"
       }
     },
@@ -72741,7 +72741,7 @@
         "pts_ppr": 6.04,
         "pts_half_ppr": 6.04,
         "pts_std": 6.04,
-        "updated_at": 1789705237691,
+        "updated_at": 1789724439908,
         "company": "rotowire"
       }
     },
