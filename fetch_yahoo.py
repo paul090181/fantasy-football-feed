@@ -93,6 +93,7 @@ def main():
     client_id = require_env("YAHOO_CLIENT_ID")
     client_secret = require_env("YAHOO_CLIENT_SECRET")
     refresh_token = require_env("YAHOO_REFRESH_TOKEN")
+    print(f"Stored Yahoo refresh token length: {len(refresh_token)} characters")
 
     token_response = post_refresh_token(client_id, client_secret, refresh_token)
 
