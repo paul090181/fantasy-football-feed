@@ -1,3 +1,4 @@
+import base64
 import json
 import os
 import sys
@@ -21,19 +22,45 @@ def require_env(name):
     return value
 
 
-def post_form(url, fields):
-    body = urllib.parse.urlencode(fields).encode("utf-8")
+def post_refresh_token(client_id, client_secret, refresh_token):
+    body = urllib.parse.urlencode(
+        {
+            "grant_type": "refresh_token",
+            "redirect_uri": REDIRECT_URI,
+            "refresh_token": refresh_token,
+        }
+    ).encode("utf-8")
+
+    credentials = base64.b64encode(
+        f"{client_id}:{client_secret}".encode("utf-8")
+    ).decode("ascii")
+
     request = urllib.request.Request(
-        url,
+        TOKEN_URL,
         data=body,
         method="POST",
         headers={
+            "Authorization": f"Basic {credentials}",
             "Content-Type": "application/x-www-form-urlencoded",
             "User-Agent": "fantasy-football-feed/1.0",
         },
     )
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.load(response)
+
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as exc:
+        raw = exc.read().decode("utf-8", errors="replace")
+        try:
+            payload = json.loads(raw)
+        except json.JSONDecodeError:
+            payload = {}
+        error = payload.get("error") or f"HTTP {exc.code}"
+        description = payload.get("error_description")
+        safe_message = f"Yahoo token refresh failed: {error}"
+        if description:
+            safe_message += f" - {description}"
+        raise RuntimeError(safe_message) from None
 
 
 def get_json(url, access_token):
@@ -67,16 +94,7 @@ def main():
     client_secret = require_env("YAHOO_CLIENT_SECRET")
     refresh_token = require_env("YAHOO_REFRESH_TOKEN")
 
-    token_response = post_form(
-        TOKEN_URL,
-        {
-            "client_id": client_id,
-            "client_secret": client_secret,
-            "redirect_uri": REDIRECT_URI,
-            "refresh_token": refresh_token,
-            "grant_type": "refresh_token",
-        },
-    )
+    token_response = post_refresh_token(client_id, client_secret, refresh_token)
 
     access_token = token_response.get("access_token")
     if not access_token:
@@ -113,5 +131,5 @@ if __name__ == "__main__":
     try:
         main()
     except urllib.error.HTTPError as exc:
-        print(f"Yahoo request failed with HTTP {exc.code}.", file=sys.stderr)
+        print(f"Yahoo Fantasy API request failed with HTTP {exc.code}.", file=sys.stderr)
         raise
