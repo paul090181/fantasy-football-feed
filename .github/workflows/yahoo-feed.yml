@@ -1,0 +1,34 @@
+name: Test Yahoo Fantasy Connection
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - feature/yahoo-readonly-feed
+    paths:
+      - "fetch_yahoo.py"
+      - ".github/workflows/yahoo-feed.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  yahoo-readonly-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Test Yahoo OAuth and Fantasy API
+        env:
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          YAHOO_CLIENT_SECRET: ${{ secrets.YAHOO_CLIENT_SECRET }}
+          YAHOO_REFRESH_TOKEN: ${{ secrets.YAHOO_REFRESH_TOKEN }}
+        run: python fetch_yahoo.py
