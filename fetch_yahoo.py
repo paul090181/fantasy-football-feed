@@ -8,6 +8,7 @@ import urllib.request
 
 
 TOKEN_URL = "https://api.login.yahoo.com/oauth2/get_token"
+PUBLIC_GAME_URL = "https://fantasysports.yahooapis.com/fantasy/v2/game/nfl?format=json"
 FANTASY_URL = (
     "https://fantasysports.yahooapis.com/fantasy/v2/"
     "users;use_login=1/games;game_keys=nfl/teams?format=json"
@@ -63,6 +64,38 @@ def post_refresh_token(client_id, client_secret, refresh_token):
         raise RuntimeError(safe_message) from None
 
 
+def describe_api_error(exc):
+    raw = exc.read().decode("utf-8", errors="replace").strip()
+    if not raw:
+        return f"HTTP {exc.code}"
+
+    try:
+        payload = json.loads(raw)
+        if isinstance(payload, dict):
+            description = (
+                payload.get("description")
+                or payload.get("error_description")
+                or payload.get("message")
+                or payload.get("error")
+            )
+            if description:
+                return f"HTTP {exc.code}: {description}"
+    except json.JSONDecodeError:
+        pass
+
+    # Yahoo Fantasy often returns XML errors. Extract only the human-readable
+    # description so logs stay useful without dumping full response bodies.
+    import re
+
+    match = re.search(r"<description>(.*?)</description>", raw, flags=re.I | re.S)
+    if match:
+        description = re.sub(r"\s+", " ", match.group(1)).strip()
+        return f"HTTP {exc.code}: {description}"
+
+    compact = re.sub(r"\s+", " ", raw)
+    return f"HTTP {exc.code}: {compact[:300]}"
+
+
 def get_json(url, access_token):
     request = urllib.request.Request(
         url,
@@ -72,8 +105,11 @@ def get_json(url, access_token):
             "User-Agent": "fantasy-football-feed/1.0",
         },
     )
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.load(response)
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as exc:
+        raise RuntimeError(describe_api_error(exc)) from None
 
 
 def collect_values(node, key):
@@ -109,6 +145,18 @@ def main():
             "::warning::Yahoo returned a different refresh token. "
             "The stored YAHOO_REFRESH_TOKEN may need to be updated before a future run."
         )
+
+    # Probe a basic game resource first. If this is forbidden too, the problem is
+    # app-level Fantasy API authorization rather than the user's league/team data.
+    try:
+        public_response = get_json(PUBLIC_GAME_URL, access_token)
+        if "fantasy_content" not in public_response:
+            raise RuntimeError(
+                "Yahoo basic game probe returned no fantasy_content"
+            )
+        print("Yahoo basic Fantasy API probe succeeded.")
+    except RuntimeError as exc:
+        raise RuntimeError(f"Yahoo basic Fantasy API probe failed: {exc}") from None
 
     fantasy_response = get_json(FANTASY_URL, access_token)
     if "fantasy_content" not in fantasy_response:
