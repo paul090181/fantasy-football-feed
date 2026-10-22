@@ -3,6 +3,7 @@ import os
 import tempfile
 import unittest
 from unittest.mock import patch
+from requests import HTTPError
 
 import yahoo_feed
 
@@ -66,6 +67,14 @@ class YahooOAuthTests(unittest.TestCase):
 
 
 class YahooDataTests(unittest.TestCase):
+    @patch("yahoo_feed.requests.get")
+    def test_yahoo_get_includes_provider_error_body(self, get):
+        get.return_value.status_code = 403
+        get.return_value.ok = False
+        get.return_value.text = '{"error":{"description":"Fantasy access denied"}}'
+        with self.assertRaisesRegex(HTTPError, "Fantasy access denied"):
+            yahoo_feed.yahoo_get("access-token", "game/nfl")
+
     def test_build_snapshot_discovers_league_and_team_then_fetches_core_resources(self):
         calls = []
 

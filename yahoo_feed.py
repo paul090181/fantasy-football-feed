@@ -106,7 +106,12 @@ def yahoo_get(access_token: str, resource: str) -> dict[str, Any]:
         params={"format": "json"},
         timeout=45,
     )
-    response.raise_for_status()
+    if not response.ok:
+        body = response.text[:1000].replace(access_token, "[redacted]")
+        raise requests.HTTPError(
+            f"Yahoo Fantasy API returned HTTP {response.status_code} for {resource}: {body}",
+            response=response,
+        )
     return response.json()
 
 
