@@ -1,6 +1,7 @@
 """Refresh and save Paul's read-only Yahoo Fantasy Football feed."""
 
 import os
+import sys
 
 from yahoo_feed import (
     build_snapshot,
@@ -9,6 +10,7 @@ from yahoo_feed import (
     refresh_access_token,
     write_json_atomic,
     yahoo_get,
+    YahooAuthorizationPending,
 )
 
 
@@ -32,7 +34,19 @@ if new_refresh_token != old_refresh_token:
     with open("yahoo_refresh_token.enc", "wb") as handle:
         handle.write(encrypt_refresh_token(new_refresh_token, token_key))
 
-snapshot = build_snapshot(lambda resource: yahoo_get(token["access_token"], resource))
+try:
+    snapshot = build_snapshot(lambda resource: yahoo_get(token["access_token"], resource))
+except YahooAuthorizationPending:
+    write_json_atomic(
+        "yahoo_status.json",
+        {
+            "platform": "yahoo",
+            "state": "awaiting_yahoo_api_provisioning",
+            "message": "Yahoo has not activated Fantasy Sports API access for this Client ID yet.",
+        },
+    )
+    print("Yahoo Fantasy API provisioning is still pending; no credentials need to be changed.")
+    sys.exit(0)
 write_json_atomic("yahoo_snapshot.json", snapshot)
 write_json_atomic(
     "yahoo_daily.json",
@@ -46,6 +60,16 @@ write_json_atomic(
             key: snapshot["resources"][key]
             for key in ("scoreboard", "standings", "transactions", "roster")
         },
+    },
+)
+write_json_atomic(
+    "yahoo_status.json",
+    {
+        "platform": "yahoo",
+        "state": "connected",
+        "generated_at": snapshot["generated_at"],
+        "league_key": snapshot["league_key"],
+        "team_key": snapshot["team_key"],
     },
 )
 print(f"Yahoo snapshot updated at {snapshot['generated_at']}")

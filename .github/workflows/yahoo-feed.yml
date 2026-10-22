@@ -52,7 +52,9 @@ jobs:
         run: |
           git config user.name "Yahoo Fantasy Bot"
           git config user.email "actions@github.com"
-          git add yahoo_refresh_token.enc yahoo_snapshot.json yahoo_daily.json
+          git add yahoo_refresh_token.enc yahoo_status.json
+          [ ! -f yahoo_snapshot.json ] || git add yahoo_snapshot.json
+          [ ! -f yahoo_daily.json ] || git add yahoo_daily.json
           if git diff --cached --quiet; then
             echo "No Yahoo feed changes to commit"
           else

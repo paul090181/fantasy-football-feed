@@ -68,6 +68,17 @@ class YahooOAuthTests(unittest.TestCase):
 
 class YahooDataTests(unittest.TestCase):
     @patch("yahoo_feed.requests.get")
+    def test_yahoo_get_classifies_unprovisioned_application(self, get):
+        get.return_value.status_code = 403
+        get.return_value.ok = False
+        get.return_value.text = (
+            '{"error":{"description":"This application is not authorized '
+            'to perform this action."}}'
+        )
+        with self.assertRaises(yahoo_feed.YahooAuthorizationPending):
+            yahoo_feed.yahoo_get("access-token", "game/nfl")
+
+    @patch("yahoo_feed.requests.get")
     def test_yahoo_get_includes_provider_error_body(self, get):
         get.return_value.status_code = 403
         get.return_value.ok = False

@@ -20,6 +20,10 @@ TOKEN_URL = "https://api.login.yahoo.com/oauth2/get_token"
 FANTASY_API = "https://fantasysports.yahooapis.com/fantasy/v2"
 
 
+class YahooAuthorizationPending(RuntimeError):
+    """Yahoo approved the app form but has not provisioned API access yet."""
+
+
 def _fernet(passphrase: str) -> Fernet:
     if len(passphrase) < 24:
         raise ValueError("Yahoo token encryption passphrase must be at least 24 characters")
@@ -108,6 +112,8 @@ def yahoo_get(access_token: str, resource: str) -> dict[str, Any]:
     )
     if not response.ok:
         body = response.text[:1000].replace(access_token, "[redacted]")
+        if response.status_code == 403 and "application is not authorized" in body.lower():
+            raise YahooAuthorizationPending(body)
         raise requests.HTTPError(
             f"Yahoo Fantasy API returned HTTP {response.status_code} for {resource}: {body}",
             response=response,
