@@ -8,6 +8,13 @@ import yahoo_feed
 
 
 class YahooOAuthTests(unittest.TestCase):
+    def test_extract_authorization_code_decodes_full_redirect_url(self):
+        redirect = "https://localhost:8080/?code=abc%2Fdef%3D&state=state-value"
+        self.assertEqual("abc/def=", yahoo_feed.extract_authorization_code(redirect))
+
+    def test_extract_authorization_code_accepts_code_only(self):
+        self.assertEqual("plain-code", yahoo_feed.extract_authorization_code("plain-code"))
+
     def test_authorization_url_uses_configured_redirect_and_read_access(self):
         url = yahoo_feed.build_authorization_url(
             client_id="client-id",

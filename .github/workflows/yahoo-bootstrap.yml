@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       authorization_code:
-        description: "One-time code from Yahoo's localhost redirect URL"
+        description: "Entire localhost redirect URL from Yahoo (preferred), or code only"
         required: true
         type: string
 

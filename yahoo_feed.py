@@ -9,7 +9,7 @@ import base64
 import hashlib
 from datetime import datetime, timezone
 from typing import Any, Iterable
-from urllib.parse import urlencode
+from urllib.parse import parse_qs, urlencode, urlparse
 
 import requests
 from cryptography.fernet import Fernet
@@ -45,6 +45,18 @@ def build_authorization_url(client_id: str, redirect_uri: str, state: str) -> st
         }
     )
     return f"{AUTHORIZATION_URL}?{query}"
+
+
+def extract_authorization_code(value: str) -> str:
+    value = value.strip()
+    if value.startswith(("http://", "https://")):
+        codes = parse_qs(urlparse(value).query).get("code", [])
+        if not codes or not codes[0]:
+            raise ValueError("Redirect URL does not contain a Yahoo authorization code")
+        return codes[0]
+    if not value:
+        raise ValueError("Yahoo authorization code is empty")
+    return value
 
 
 def exchange_authorization_code(

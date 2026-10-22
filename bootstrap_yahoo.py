@@ -2,7 +2,7 @@
 
 import os
 
-from yahoo_feed import exchange_authorization_code, encrypt_refresh_token
+from yahoo_feed import exchange_authorization_code, encrypt_refresh_token, extract_authorization_code
 
 
 def required(name: str) -> str:
@@ -15,7 +15,7 @@ def required(name: str) -> str:
 token = exchange_authorization_code(
     client_id=required("YAHOO_CLIENT_ID"),
     client_secret=required("YAHOO_CLIENT_SECRET"),
-    code=required("YAHOO_AUTHORIZATION_CODE"),
+    code=extract_authorization_code(required("YAHOO_AUTHORIZATION_CODE")),
     redirect_uri=required("YAHOO_REDIRECT_URI"),
 )
 refresh_token = token.get("refresh_token")
