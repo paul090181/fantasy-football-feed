@@ -1,0 +1,26 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Authorize Yahoo Fantasy Feed</title>
+<style>
+  body{font:16px system-ui;max-width:680px;margin:32px auto;padding:0 18px;line-height:1.5}
+  input,button{font:inherit;padding:12px;width:100%;box-sizing:border-box;margin:6px 0 16px}
+  button{font-weight:700;cursor:pointer}
+  code{overflow-wrap:anywhere}
+</style>
+<h1>Authorize Yahoo Fantasy Feed</h1>
+<p>Your Client ID stays in this browser and is sent only to Yahoo.</p>
+<label>Yahoo Client ID</label>
+<input id="client" autocomplete="off">
+<button id="authorize">Open Yahoo authorization</button>
+<p>After approval, Yahoo redirects to <code>https://localhost:8080/</code>. The page may fail to load; that is expected. Copy the value after <code>code=</code> from the address bar.</p>
+<script>
+document.querySelector('#authorize').onclick=()=>{
+  const client=document.querySelector('#client').value.trim();
+  if(!client){alert('Enter the Client ID');return}
+  const state=crypto.randomUUID();
+  sessionStorage.setItem('yahoo_oauth_state',state);
+  const q=new URLSearchParams({client_id:client,redirect_uri:'https://localhost:8080/',response_type:'code',state});
+  location.href='https://api.login.yahoo.com/oauth2/request_auth?'+q;
+};
+</script>

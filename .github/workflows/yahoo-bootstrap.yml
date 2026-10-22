@@ -1,0 +1,38 @@
+name: Authorize Yahoo Fantasy Feed
+
+on:
+  workflow_dispatch:
+    inputs:
+      authorization_code:
+        description: "One-time code from Yahoo's localhost redirect URL"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  authorize-yahoo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -r requirements-yahoo.txt
+      - name: Exchange and encrypt Yahoo refresh token
+        env:
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          YAHOO_CLIENT_SECRET: ${{ secrets.YAHOO_CLIENT_SECRET }}
+          YAHOO_TOKEN_KEY: ${{ secrets.YAHOO_TOKEN_KEY }}
+          YAHOO_AUTHORIZATION_CODE: ${{ inputs.authorization_code }}
+          YAHOO_REDIRECT_URI: https://localhost:8080/
+        run: python bootstrap_yahoo.py
+      - name: Store only encrypted token ciphertext
+        run: |
+          git config user.name "Yahoo Fantasy Bot"
+          git config user.email "actions@github.com"
+          git add yahoo_refresh_token.enc
+          git commit -m "Authorize Yahoo fantasy feed"
+          git pull --rebase origin main
+          git push

@@ -1,0 +1,54 @@
+name: Update Yahoo Fantasy Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: yahoo-fantasy-feed
+  cancel-in-progress: false
+
+jobs:
+  update-yahoo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Yahoo authorization
+        id: authorization
+        run: |
+          if [ -f yahoo_refresh_token.enc ]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "Yahoo has not been authorized yet; skipping refresh."
+          fi
+      - uses: actions/setup-python@v5
+        if: steps.authorization.outputs.ready == 'true'
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -r requirements-yahoo.txt
+        if: steps.authorization.outputs.ready == 'true'
+      - name: Fetch Yahoo league
+        if: steps.authorization.outputs.ready == 'true'
+        env:
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          YAHOO_CLIENT_SECRET: ${{ secrets.YAHOO_CLIENT_SECRET }}
+          YAHOO_TOKEN_KEY: ${{ secrets.YAHOO_TOKEN_KEY }}
+        run: python fetch_yahoo.py
+      - name: Save updated Yahoo feed
+        if: steps.authorization.outputs.ready == 'true'
+        run: |
+          git config user.name "Yahoo Fantasy Bot"
+          git config user.email "actions@github.com"
+          git add yahoo_refresh_token.enc yahoo_snapshot.json yahoo_daily.json
+          if git diff --cached --quiet; then
+            echo "No Yahoo feed changes to commit"
+          else
+            git commit -m "Update Yahoo league snapshot"
+            git pull --rebase origin main
+            git push
+          fi
