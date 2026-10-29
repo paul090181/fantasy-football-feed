@@ -1,5 +1,7 @@
 {
-  "message": "Yahoo has not activated Fantasy Sports API access for this Client ID yet.",
+  "generated_at": "2026-10-29T23:30:01.632742Z",
+  "league_key": "470.l.677429",
   "platform": "yahoo",
-  "state": "awaiting_yahoo_api_provisioning"
+  "state": "connected",
+  "team_key": "470.l.677429.t.8"
 }
