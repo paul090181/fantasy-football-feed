@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T02:49:15.784026Z",
+  "generated_at": "2026-10-30T10:22:45.657584Z",
   "league_key": "470.l.677429",
   "platform": "yahoo",
   "resources": {
@@ -1254,9 +1254,11 @@
                         {
                           "has_player_notes": 1
                         },
-                        [],
                         {
-                          "player_notes_last_timestamp": 1792968068
+                          "has_recent_player_notes": 1
+                        },
+                        {
+                          "player_notes_last_timestamp": 1793332785
                         }
                       ],
                       {
@@ -2172,7 +2174,7 @@
             }
           }
         ],
-        "time": "88.258981704712ms",
+        "time": "78.119039535522ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
       }
@@ -2199,7 +2201,7 @@
             "league_id": "677429",
             "league_key": "470.l.677429",
             "league_type": "private",
-            "league_update_timestamp": "1793257791",
+            "league_update_timestamp": "1793343758",
             "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
             "matchup_week": 8,
             "max_teams": "10",
@@ -2314,7 +2316,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "227.25",
+                                  "total": "227.17",
                                   "week": "8"
                                 },
                                 "win_probability": 0.49
@@ -2409,7 +2411,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "228.83",
+                                  "total": "229.12",
                                   "week": "8"
                                 },
                                 "win_probability": 0.51
@@ -2521,10 +2523,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "200.50",
+                                  "total": "200.60",
                                   "week": "8"
                                 },
-                                "win_probability": 0.27
+                                "win_probability": 0.24
                               }
                             ]
                           },
@@ -2614,15 +2616,15 @@
                               {
                                 "team_points": {
                                   "coverage_type": "week",
-                                  "total": "35.50",
+                                  "total": "44.90",
                                   "week": "8"
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "252.04",
+                                  "total": "251.92",
                                   "week": "8"
                                 },
-                                "win_probability": 0.73
+                                "win_probability": 0.76
                               }
                             ]
                           },
@@ -2731,7 +2733,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "193.13",
+                                  "total": "193.14",
                                   "week": "8"
                                 },
                                 "win_probability": 0.42000000000000004
@@ -2826,7 +2828,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "207.96",
+                                  "total": "207.89",
                                   "week": "8"
                                 },
                                 "win_probability": 0.58
@@ -2933,15 +2935,15 @@
                               {
                                 "team_points": {
                                   "coverage_type": "week",
-                                  "total": "80.00",
+                                  "total": "83.80",
                                   "week": "8"
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "242.13",
+                                  "total": "241.80",
                                   "week": "8"
                                 },
-                                "win_probability": 0.81
+                                "win_probability": 0.78
                               }
                             ]
                           },
@@ -3033,10 +3035,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "201.05",
+                                  "total": "200.59",
                                   "week": "8"
                                 },
-                                "win_probability": 0.18999999999999995
+                                "win_probability": 0.21999999999999997
                               }
                             ]
                           },
@@ -3138,15 +3140,15 @@
                               {
                                 "team_points": {
                                   "coverage_type": "week",
-                                  "total": "60.50",
+                                  "total": "67.80",
                                   "week": "8"
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "196.56",
+                                  "total": "196.95",
                                   "week": "8"
                                 },
-                                "win_probability": 0.44999999999999996
+                                "win_probability": 0.42999999999999994
                               }
                             ]
                           },
@@ -3238,10 +3240,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "218.81",
+                                  "total": "219.33",
                                   "week": "8"
                                 },
-                                "win_probability": 0.55
+                                "win_probability": 0.5700000000000001
                               }
                             ]
                           },
@@ -3266,7 +3268,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "163.11001777649ms",
+        "time": "106.88710212708ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/scoreboard"
       }
@@ -3293,7 +3295,7 @@
             "league_id": "677429",
             "league_key": "470.l.677429",
             "league_type": "private",
-            "league_update_timestamp": "1793257791",
+            "league_update_timestamp": "1793343758",
             "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
             "matchup_week": 8,
             "max_teams": "10",
@@ -4394,7 +4396,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "94.584941864014ms",
+        "time": "77.09002494812ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/standings"
       }
@@ -4421,7 +4423,7 @@
             "league_id": "677429",
             "league_key": "470.l.677429",
             "league_type": "private",
-            "league_update_timestamp": "1793257791",
+            "league_update_timestamp": "1793343758",
             "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
             "matchup_week": 8,
             "max_teams": "10",
@@ -16777,7 +16779,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "78.650951385498ms",
+        "time": "67.982912063599ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/transactions"
       }
