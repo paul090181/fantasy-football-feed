@@ -19,8 +19,29 @@ DRIVE_FILES = {
         "1vSuIm0I8GwXT6SwNJZ4o6XVQqfJcj3Si",
         "text/html",
     ),
+    "yahoo_snapshot.json": (
+        "15encsc7sDAqWIXfB43d8PqE-4MEpgxNz",
+        "application/json",
+    ),
+    "yahoo_daily.json": (
+        "1QMOOV5axM-CTSHgtWSsPq6wd4jjjGS18",
+        "application/json",
+    ),
+    "yahoo_status.json": (
+        "1--xCzrGpAnFUgOVlSvXBn0qB8SFifovf",
+        "application/json",
+    ),
 }
 
+
+requested_files = os.environ.get("DRIVE_UPLOAD_FILES", "").strip()
+if requested_files:
+    upload_files = [name.strip() for name in requested_files.split(",") if name.strip()]
+    unknown_files = sorted(set(upload_files) - set(DRIVE_FILES))
+    if unknown_files:
+        raise ValueError(f"Unknown Drive upload files: {', '.join(unknown_files)}")
+else:
+    upload_files = list(DRIVE_FILES)
 
 credentials_info = json.loads(
     os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
@@ -38,7 +59,8 @@ drive = build(
     cache_discovery=False,
 )
 
-for local_file, (drive_file_id, mime_type) in DRIVE_FILES.items():
+for local_file in upload_files:
+    drive_file_id, mime_type = DRIVE_FILES[local_file]
     media = MediaFileUpload(
         local_file,
         mimetype=mime_type,
