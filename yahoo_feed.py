@@ -172,6 +172,10 @@ def build_snapshot(get, generated_at: str | None = None) -> dict[str, Any]:
         "roster": get(f"team/{team_key}/roster"),
         "matchups": get(f"team/{team_key}/matchups"),
     }
+    resources["league_rosters"] = {
+        key: resources["roster"] if key == team_key else get(f"team/{key}/roster")
+        for key in unique(recursive_values(resources["teams"], "team_key"))
+    }
     return {
         "schema_version": 1,
         "platform": "yahoo",
