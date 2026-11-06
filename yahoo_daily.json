@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:12:38.617513Z",
+  "generated_at": "2026-11-06T15:18:00.953614Z",
   "league_key": "470.l.677429",
   "platform": "yahoo",
   "resources": {
@@ -338,131 +338,6 @@
                     "player": [
                       [
                         {
-                          "player_key": "470.p.40126"
-                        },
-                        {
-                          "player_id": "40126"
-                        },
-                        {
-                          "name": {
-                            "ascii_first": "Josh",
-                            "ascii_last": "Downs",
-                            "first": "Josh",
-                            "full": "Josh Downs",
-                            "last": "Downs"
-                          }
-                        },
-                        {
-                          "url": "https://sports.yahoo.com/nfl/players/40126"
-                        },
-                        {
-                          "editorial_player_key": "nfl.p.40126"
-                        },
-                        {
-                          "editorial_team_key": "nfl.t.11"
-                        },
-                        {
-                          "editorial_team_full_name": "Indianapolis Colts"
-                        },
-                        {
-                          "editorial_team_abbr": "Ind"
-                        },
-                        {
-                          "editorial_team_url": "https://sports.yahoo.com/nfl/teams/indianapolis/"
-                        },
-                        {
-                          "bye_weeks": {
-                            "week": "13"
-                          }
-                        },
-                        {
-                          "is_keeper": {
-                            "cost": false,
-                            "kept": false,
-                            "status": false
-                          }
-                        },
-                        {
-                          "uniform_number": "2"
-                        },
-                        {
-                          "display_position": "WR"
-                        },
-                        {
-                          "headshot": {
-                            "size": "small",
-                            "url": "https://s.yimg.com/iu/api/res/1.2/2N3fbHpcxarK6OYUackvOQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40126.1.png"
-                          },
-                          "image_url": "https://s.yimg.com/iu/api/res/1.2/2N3fbHpcxarK6OYUackvOQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40126.1.png"
-                        },
-                        {
-                          "is_undroppable": "0"
-                        },
-                        {
-                          "position_type": "O"
-                        },
-                        {
-                          "primary_position": "WR"
-                        },
-                        {
-                          "eligible_positions": [
-                            {
-                              "position": "WR"
-                            },
-                            {
-                              "position": "W/T"
-                            },
-                            {
-                              "position": "W/R/T"
-                            }
-                          ]
-                        },
-                        {
-                          "eligible_positions_to_add": [
-                            {
-                              "position": "QB"
-                            },
-                            {
-                              "position": "RB"
-                            },
-                            {
-                              "position": "TE"
-                            }
-                          ]
-                        },
-                        [],
-                        [],
-                        {
-                          "has_player_notes": 1
-                        },
-                        [],
-                        {
-                          "player_notes_last_timestamp": 1793832536
-                        }
-                      ],
-                      {
-                        "selected_position": [
-                          {
-                            "coverage_type": "week",
-                            "week": "9"
-                          },
-                          {
-                            "position": "BN"
-                          },
-                          {
-                            "is_flex": 0
-                          }
-                        ]
-                      },
-                      {
-                        "is_editable": 1
-                      }
-                    ]
-                  },
-                  "11": {
-                    "player": [
-                      [
-                        {
                           "player_key": "470.p.41900"
                         },
                         {
@@ -583,7 +458,7 @@
                       }
                     ]
                   },
-                  "12": {
+                  "11": {
                     "player": [
                       [
                         {
@@ -702,7 +577,7 @@
                       }
                     ]
                   },
-                  "13": {
+                  "12": {
                     "player": [
                       [
                         {
@@ -826,6 +701,141 @@
                       },
                       {
                         "is_editable": 0
+                      }
+                    ]
+                  },
+                  "13": {
+                    "player": [
+                      [
+                        {
+                          "player_key": "470.p.42626"
+                        },
+                        {
+                          "player_id": "42626"
+                        },
+                        {
+                          "name": {
+                            "ascii_first": "Carnell",
+                            "ascii_last": "Tate",
+                            "first": "Carnell",
+                            "full": "Carnell Tate",
+                            "last": "Tate"
+                          }
+                        },
+                        {
+                          "url": "https://sports.yahoo.com/nfl/players/42626"
+                        },
+                        {
+                          "status": "O",
+                          "status_full": "Out"
+                        },
+                        {
+                          "injury_note": "Shoulder"
+                        },
+                        {
+                          "editorial_player_key": "nfl.p.42626"
+                        },
+                        {
+                          "editorial_team_key": "nfl.t.10"
+                        },
+                        {
+                          "editorial_team_full_name": "Tennessee Titans"
+                        },
+                        {
+                          "editorial_team_abbr": "Ten"
+                        },
+                        {
+                          "editorial_team_url": "https://sports.yahoo.com/nfl/teams/tennessee/"
+                        },
+                        {
+                          "bye_weeks": {
+                            "week": "9"
+                          }
+                        },
+                        {
+                          "is_keeper": {
+                            "cost": false,
+                            "kept": false,
+                            "status": false
+                          }
+                        },
+                        {
+                          "uniform_number": "14"
+                        },
+                        {
+                          "display_position": "WR"
+                        },
+                        {
+                          "headshot": {
+                            "size": "small",
+                            "url": "https://s.yimg.com/iu/api/res/1.2/k9TrMbXiaW_YxKds95cjag--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/42626.1.png"
+                          },
+                          "image_url": "https://s.yimg.com/iu/api/res/1.2/k9TrMbXiaW_YxKds95cjag--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/42626.1.png"
+                        },
+                        {
+                          "is_undroppable": "0"
+                        },
+                        {
+                          "position_type": "O"
+                        },
+                        {
+                          "primary_position": "WR"
+                        },
+                        {
+                          "eligible_positions": [
+                            {
+                              "position": "WR"
+                            },
+                            {
+                              "position": "W/T"
+                            },
+                            {
+                              "position": "W/R/T"
+                            },
+                            {
+                              "position": "IR"
+                            }
+                          ]
+                        },
+                        {
+                          "eligible_positions_to_add": [
+                            {
+                              "position": "QB"
+                            },
+                            {
+                              "position": "RB"
+                            },
+                            {
+                              "position": "TE"
+                            }
+                          ]
+                        },
+                        [],
+                        [],
+                        {
+                          "has_player_notes": 1
+                        },
+                        [],
+                        {
+                          "player_notes_last_timestamp": 1793459401
+                        }
+                      ],
+                      {
+                        "selected_position": [
+                          {
+                            "coverage_type": "week",
+                            "week": "9"
+                          },
+                          {
+                            "position": "IR"
+                          },
+                          {
+                            "is_flex": 0
+                          }
+                        ]
+                      },
+                      {
+                        "is_editable": 1
                       }
                     ]
                   },
@@ -2018,48 +2028,41 @@
                     "player": [
                       [
                         {
-                          "player_key": "470.p.42626"
+                          "player_key": "470.p.40126"
                         },
                         {
-                          "player_id": "42626"
+                          "player_id": "40126"
                         },
                         {
                           "name": {
-                            "ascii_first": "Carnell",
-                            "ascii_last": "Tate",
-                            "first": "Carnell",
-                            "full": "Carnell Tate",
-                            "last": "Tate"
+                            "ascii_first": "Josh",
+                            "ascii_last": "Downs",
+                            "first": "Josh",
+                            "full": "Josh Downs",
+                            "last": "Downs"
                           }
                         },
                         {
-                          "url": "https://sports.yahoo.com/nfl/players/42626"
+                          "url": "https://sports.yahoo.com/nfl/players/40126"
                         },
                         {
-                          "status": "O",
-                          "status_full": "Out"
+                          "editorial_player_key": "nfl.p.40126"
                         },
                         {
-                          "injury_note": "Shoulder"
+                          "editorial_team_key": "nfl.t.11"
                         },
                         {
-                          "editorial_player_key": "nfl.p.42626"
+                          "editorial_team_full_name": "Indianapolis Colts"
                         },
                         {
-                          "editorial_team_key": "nfl.t.10"
+                          "editorial_team_abbr": "Ind"
                         },
                         {
-                          "editorial_team_full_name": "Tennessee Titans"
-                        },
-                        {
-                          "editorial_team_abbr": "Ten"
-                        },
-                        {
-                          "editorial_team_url": "https://sports.yahoo.com/nfl/teams/tennessee/"
+                          "editorial_team_url": "https://sports.yahoo.com/nfl/teams/indianapolis/"
                         },
                         {
                           "bye_weeks": {
-                            "week": "9"
+                            "week": "13"
                           }
                         },
                         {
@@ -2070,7 +2073,7 @@
                           }
                         },
                         {
-                          "uniform_number": "14"
+                          "uniform_number": "2"
                         },
                         {
                           "display_position": "WR"
@@ -2078,9 +2081,9 @@
                         {
                           "headshot": {
                             "size": "small",
-                            "url": "https://s.yimg.com/iu/api/res/1.2/k9TrMbXiaW_YxKds95cjag--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/42626.1.png"
+                            "url": "https://s.yimg.com/iu/api/res/1.2/2N3fbHpcxarK6OYUackvOQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40126.1.png"
                           },
-                          "image_url": "https://s.yimg.com/iu/api/res/1.2/k9TrMbXiaW_YxKds95cjag--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/42626.1.png"
+                          "image_url": "https://s.yimg.com/iu/api/res/1.2/2N3fbHpcxarK6OYUackvOQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/40126.1.png"
                         },
                         {
                           "is_undroppable": "0"
@@ -2101,9 +2104,6 @@
                             },
                             {
                               "position": "W/R/T"
-                            },
-                            {
-                              "position": "IR"
                             }
                           ]
                         },
@@ -2127,7 +2127,7 @@
                         },
                         [],
                         {
-                          "player_notes_last_timestamp": 1793459401
+                          "player_notes_last_timestamp": 1793832536
                         }
                       ],
                       {
@@ -2167,7 +2167,7 @@
             }
           }
         ],
-        "time": "76.097965240479ms",
+        "time": "101.18508338928ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
       }
@@ -2194,7 +2194,7 @@
             "league_id": "677429",
             "league_key": "470.l.677429",
             "league_type": "private",
-            "league_update_timestamp": "1793866641",
+            "league_update_timestamp": "1793952710",
             "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
             "matchup_week": 9,
             "max_teams": "10",
@@ -2309,7 +2309,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "219.13",
+                                  "total": "219.22",
                                   "week": "9"
                                 },
                                 "win_probability": 0.48
@@ -2404,7 +2404,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "228.35",
+                                  "total": "228.74",
                                   "week": "9"
                                 },
                                 "win_probability": 0.52
@@ -2516,7 +2516,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "220.84",
+                                  "total": "220.79",
                                   "week": "9"
                                 },
                                 "win_probability": 0.58
@@ -2611,7 +2611,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "199.98",
+                                  "total": "200.14",
                                   "week": "9"
                                 },
                                 "win_probability": 0.42000000000000004
@@ -2723,7 +2723,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "207.11",
+                                  "total": "207.02",
                                   "week": "9"
                                 },
                                 "win_probability": 0.38
@@ -2821,7 +2821,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "233.76",
+                                  "total": "233.80",
                                   "week": "9"
                                 },
                                 "win_probability": 0.62
@@ -2933,7 +2933,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "235.20",
+                                  "total": "235.18",
                                   "week": "9"
                                 },
                                 "win_probability": 0.59
@@ -3026,7 +3026,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "219.63",
+                                  "total": "219.60",
                                   "week": "9"
                                 },
                                 "win_probability": 0.41000000000000003
@@ -3138,7 +3138,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "215.48",
+                                  "total": "215.58",
                                   "week": "9"
                                 },
                                 "win_probability": 0.4
@@ -3233,7 +3233,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "223.77",
+                                  "total": "223.39",
                                   "week": "9"
                                 },
                                 "win_probability": 0.6
@@ -3261,7 +3261,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "108.22820663452ms",
+        "time": "133.94999504089ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/scoreboard"
       }
@@ -3288,7 +3288,7 @@
             "league_id": "677429",
             "league_key": "470.l.677429",
             "league_type": "private",
-            "league_update_timestamp": "1793866641",
+            "league_update_timestamp": "1793952710",
             "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
             "matchup_week": 9,
             "max_teams": "10",
@@ -4389,7 +4389,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "74.966907501221ms",
+        "time": "82.13210105896ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/standings"
       }
@@ -4416,7 +4416,7 @@
             "league_id": "677429",
             "league_key": "470.l.677429",
             "league_type": "private",
-            "league_update_timestamp": "1793866641",
+            "league_update_timestamp": "1793952710",
             "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
             "matchup_week": 9,
             "max_teams": "10",
@@ -17940,7 +17940,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "70.295095443726ms",
+        "time": "77.207088470459ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/transactions"
       }
