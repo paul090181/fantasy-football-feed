@@ -4,7 +4,7 @@
       "fantasy_content": {
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "30",
-        "time": "481.31704330444ms",
+        "time": "431.40482902527ms",
         "users": {
           "0": {
             "user": [
@@ -1354,7 +1354,7 @@
       "fantasy_content": {
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "30",
-        "time": "309.89193916321ms",
+        "time": "347.81813621521ms",
         "users": {
           "0": {
             "user": [
@@ -3728,7 +3728,7 @@
       }
     }
   },
-  "generated_at": "2026-11-07T01:04:13.411289Z",
+  "generated_at": "2026-11-07T07:39:28.824810Z",
   "league_key": "470.l.677429",
   "platform": "yahoo",
   "resources": {
@@ -3774,7 +3774,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "40.300846099854ms",
+        "time": "39.085865020752ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429"
       }
@@ -6015,7 +6015,7 @@
               }
             }
           ],
-          "time": "77.863931655884ms",
+          "time": "77.29697227478ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.1/roster"
         }
@@ -8376,7 +8376,7 @@
               }
             }
           ],
-          "time": "101.68099403381ms",
+          "time": "74.497938156128ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.10/roster"
         }
@@ -8806,9 +8806,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1793942929
                           }
@@ -10762,7 +10760,7 @@
               }
             }
           ],
-          "time": "87.230920791626ms",
+          "time": "76.091051101685ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.2/roster"
         }
@@ -12888,7 +12886,7 @@
               }
             }
           ],
-          "time": "76.4000415802ms",
+          "time": "106.32109642029ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.3/roster"
         }
@@ -15259,7 +15257,7 @@
               }
             }
           ],
-          "time": "92.997074127197ms",
+          "time": "73.969125747681ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.4/roster"
         }
@@ -17275,7 +17273,7 @@
                             }
                           },
                           {
-                            "uniform_number": "39"
+                            "uniform_number": ""
                           },
                           {
                             "display_position": "RB"
@@ -17357,7 +17355,7 @@
               }
             }
           ],
-          "time": "82.265138626099ms",
+          "time": "74.064970016479ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.5/roster"
         }
@@ -17661,9 +17659,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1793940196
                           }
@@ -18129,9 +18125,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1793942934
                           }
@@ -19546,7 +19540,7 @@
               }
             }
           ],
-          "time": "75.541019439697ms",
+          "time": "77.722072601318ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.6/roster"
         }
@@ -19733,9 +19727,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1793941766
                           }
@@ -21156,9 +21148,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1793941401
                           }
@@ -21807,7 +21797,7 @@
               }
             }
           ],
-          "time": "86.31706237793ms",
+          "time": "75.256109237671ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.7/roster"
         }
@@ -22241,9 +22231,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1793940553
                           }
@@ -22487,9 +22475,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1793942057
                           }
@@ -23978,7 +23964,7 @@
               }
             }
           ],
-          "time": "78.677177429199ms",
+          "time": "80.289125442505ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
         }
@@ -25792,9 +25778,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1793940932
                           }
@@ -26068,7 +26052,7 @@
               }
             }
           ],
-          "time": "102.78296470642ms",
+          "time": "80.374956130981ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.9/roster"
         }
@@ -28919,7 +28903,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "234.16",
+                              "total": "234.97",
                               "week": 9
                             },
                             "win_probability": 0.63
@@ -29129,7 +29113,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "213.09",
+                              "total": "213.06",
                               "week": 10
                             },
                             "win_probability": 0.66
@@ -29224,7 +29208,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "180.45",
+                              "total": "180.49",
                               "week": 10
                             },
                             "win_probability": 0.33999999999999997
@@ -29248,7 +29232,7 @@
             }
           }
         ],
-        "time": "482.73587226868ms",
+        "time": "409.14106369019ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/matchups"
       }
@@ -29682,9 +29666,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1793940553
                         }
@@ -29928,9 +29910,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1793942057
                         }
@@ -31419,7 +31399,7 @@
             }
           }
         ],
-        "time": "78.677177429199ms",
+        "time": "80.289125442505ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
       }
@@ -31561,10 +31541,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "219.07",
+                                  "total": "218.78",
                                   "week": "9"
                                 },
-                                "win_probability": 0.47
+                                "win_probability": 0.45999999999999996
                               }
                             ]
                           },
@@ -31656,10 +31636,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "230.66",
+                                  "total": "230.90",
                                   "week": "9"
                                 },
-                                "win_probability": 0.53
+                                "win_probability": 0.54
                               }
                             ]
                           },
@@ -31768,7 +31748,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "222.93",
+                                  "total": "223.41",
                                   "week": "9"
                                 },
                                 "win_probability": 0.6
@@ -31863,7 +31843,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "199.52",
+                                  "total": "199.76",
                                   "week": "9"
                                 },
                                 "win_probability": 0.4
@@ -32073,7 +32053,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "234.16",
+                                  "total": "234.97",
                                   "week": "9"
                                 },
                                 "win_probability": 0.63
@@ -32185,7 +32165,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "238.80",
+                                  "total": "238.77",
                                   "week": "9"
                                 },
                                 "win_probability": 0.6
@@ -32278,7 +32258,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "220.70",
+                                  "total": "220.71",
                                   "week": "9"
                                 },
                                 "win_probability": 0.4
@@ -32390,7 +32370,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "217.27",
+                                  "total": "217.29",
                                   "week": "9"
                                 },
                                 "win_probability": 0.51
@@ -32485,7 +32465,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "203.63",
+                                  "total": "203.83",
                                   "week": "9"
                                 },
                                 "win_probability": 0.49
@@ -32513,7 +32493,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "137.22920417786ms",
+        "time": "105.32903671265ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/scoreboard"
       }
@@ -34489,7 +34469,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "47.061920166016ms",
+        "time": "42.237043380737ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/settings"
       }
@@ -35617,7 +35597,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "85.829973220825ms",
+        "time": "80.337047576904ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/standings"
       }
@@ -36491,7 +36471,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "77.125072479248ms",
+        "time": "69.302082061768ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/teams"
       }
@@ -50138,7 +50118,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "75.529098510742ms",
+        "time": "78.055143356323ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/transactions"
       }
