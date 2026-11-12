@@ -4,7 +4,7 @@
       "fantasy_content": {
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "30",
-        "time": "295.93515396118ms",
+        "time": "448.59600067139ms",
         "users": {
           "0": {
             "user": [
@@ -1354,7 +1354,7 @@
       "fantasy_content": {
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "30",
-        "time": "286.54885292053ms",
+        "time": "289.75796699524ms",
         "users": {
           "0": {
             "user": [
@@ -3728,7 +3728,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T22:11:11.520944Z",
+  "generated_at": "2026-11-12T03:16:03.634569Z",
   "league_key": "470.l.677429",
   "platform": "yahoo",
   "resources": {
@@ -3774,7 +3774,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "45.464038848877ms",
+        "time": "36.742925643921ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429"
       }
@@ -4125,8 +4125,11 @@
                             "url": "https://sports.yahoo.com/nfl/players/40168"
                           },
                           {
-                            "status": "D",
-                            "status_full": "Doubtful"
+                            "status": "O",
+                            "status_full": "Out"
+                          },
+                          {
+                            "injury_note": "Knee - MCL"
                           },
                           {
                             "editorial_player_key": "nfl.p.40168"
@@ -4187,6 +4190,9 @@
                               },
                               {
                                 "position": "W/R/T"
+                              },
+                              {
+                                "position": "IR"
                               }
                             ]
                           },
@@ -6027,7 +6033,7 @@
               }
             }
           ],
-          "time": "87.656021118164ms",
+          "time": "75.997114181519ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.1/roster"
         }
@@ -6385,6 +6391,13 @@
                             "url": "https://sports.yahoo.com/nfl/players/41877"
                           },
                           {
+                            "status": "Q",
+                            "status_full": "Questionable"
+                          },
+                          {
+                            "injury_note": "Groin"
+                          },
+                          {
                             "editorial_player_key": "nfl.p.41877"
                           },
                           {
@@ -6464,9 +6477,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794185614
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794436768
                           }
                         ],
                         {
@@ -6586,9 +6601,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794358703
                           }
@@ -8406,7 +8419,7 @@
               }
             }
           ],
-          "time": "80.296039581299ms",
+          "time": "97.805976867676ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.10/roster"
         }
@@ -8993,13 +9006,6 @@
                             "url": "https://sports.yahoo.com/nfl/players/34659"
                           },
                           {
-                            "status": "Q",
-                            "status_full": "Questionable"
-                          },
-                          {
-                            "injury_note": "Knee"
-                          },
-                          {
                             "editorial_player_key": "nfl.p.34659"
                           },
                           {
@@ -9079,9 +9085,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794002571
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794443966
                           }
                         ],
                         {
@@ -9565,9 +9573,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794361674
                           }
@@ -10627,13 +10633,9 @@
                           },
                           [],
                           [],
-                          {
-                            "has_player_notes": 1
-                          },
                           [],
-                          {
-                            "player_notes_last_timestamp": 1793588120
-                          }
+                          [],
+                          []
                         ],
                         {
                           "selected_position": [
@@ -10749,9 +10751,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794364126
                           }
@@ -10782,7 +10782,7 @@
               }
             }
           ],
-          "time": "79.867124557495ms",
+          "time": "76.832056045532ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.2/roster"
         }
@@ -10980,7 +10980,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794429218
+                            "player_notes_last_timestamp": 1794442203
                           }
                         ],
                         {
@@ -12272,13 +12272,9 @@
                           },
                           [],
                           [],
-                          {
-                            "has_player_notes": 1
-                          },
                           [],
-                          {
-                            "player_notes_last_timestamp": 1793587083
-                          }
+                          [],
+                          []
                         ],
                         {
                           "selected_position": [
@@ -12661,7 +12657,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794430124
+                            "player_notes_last_timestamp": 1794441194
                           }
                         ],
                         {
@@ -12821,6 +12817,13 @@
                             "url": "https://sports.yahoo.com/nfl/players/41902"
                           },
                           {
+                            "status": "Q",
+                            "status_full": "Questionable"
+                          },
+                          {
+                            "injury_note": "Knee"
+                          },
+                          {
                             "editorial_player_key": "nfl.p.41902"
                           },
                           {
@@ -12897,9 +12900,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794194572
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794436943
                           }
                         ],
                         {
@@ -12928,7 +12933,7 @@
               }
             }
           ],
-          "time": "78.98998260498ms",
+          "time": "84.913015365601ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.3/roster"
         }
@@ -13259,6 +13264,128 @@
                       "player": [
                         [
                           {
+                            "player_key": "470.p.41795"
+                          },
+                          {
+                            "player_id": "41795"
+                          },
+                          {
+                            "name": {
+                              "ascii_first": "Colston",
+                              "ascii_last": "Loveland",
+                              "first": "Colston",
+                              "full": "Colston Loveland",
+                              "last": "Loveland"
+                            }
+                          },
+                          {
+                            "url": "https://sports.yahoo.com/nfl/players/41795"
+                          },
+                          {
+                            "editorial_player_key": "nfl.p.41795"
+                          },
+                          {
+                            "editorial_team_key": "nfl.t.3"
+                          },
+                          {
+                            "editorial_team_full_name": "Chicago Bears"
+                          },
+                          {
+                            "editorial_team_abbr": "Chi"
+                          },
+                          {
+                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/chicago/"
+                          },
+                          {
+                            "bye_weeks": {
+                              "week": "10"
+                            }
+                          },
+                          {
+                            "is_keeper": {
+                              "cost": false,
+                              "kept": false,
+                              "status": false
+                            }
+                          },
+                          {
+                            "uniform_number": "84"
+                          },
+                          {
+                            "display_position": "TE"
+                          },
+                          {
+                            "headshot": {
+                              "size": "small",
+                              "url": "https://s.yimg.com/iu/api/res/1.2/4OWJA89uWT_AgmMrHcSkUQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/41795.1.png"
+                            },
+                            "image_url": "https://s.yimg.com/iu/api/res/1.2/4OWJA89uWT_AgmMrHcSkUQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/41795.1.png"
+                          },
+                          {
+                            "is_undroppable": "0"
+                          },
+                          {
+                            "position_type": "O"
+                          },
+                          {
+                            "primary_position": "TE"
+                          },
+                          {
+                            "eligible_positions": [
+                              {
+                                "position": "TE"
+                              },
+                              {
+                                "position": "W/T"
+                              },
+                              {
+                                "position": "W/R/T"
+                              }
+                            ]
+                          },
+                          {
+                            "eligible_positions_to_add": [
+                              {
+                                "position": "QB"
+                              },
+                              {
+                                "position": "WR"
+                              },
+                              {
+                                "position": "RB"
+                              }
+                            ]
+                          },
+                          [],
+                          [],
+                          {
+                            "has_player_notes": 1
+                          },
+                          [],
+                          {
+                            "player_notes_last_timestamp": 1794201579
+                          }
+                        ],
+                        {
+                          "selected_position": [
+                            {
+                              "coverage_type": "week",
+                              "week": "10"
+                            },
+                            {
+                              "position": "BN"
+                            },
+                            {
+                              "is_flex": 0
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "11": {
+                      "player": [
+                        [
+                          {
                             "player_key": "470.p.41804"
                           },
                           {
@@ -13359,128 +13486,6 @@
                           [],
                           {
                             "player_notes_last_timestamp": 1794201645
-                          }
-                        ],
-                        {
-                          "selected_position": [
-                            {
-                              "coverage_type": "week",
-                              "week": "10"
-                            },
-                            {
-                              "position": "BN"
-                            },
-                            {
-                              "is_flex": 0
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    "11": {
-                      "player": [
-                        [
-                          {
-                            "player_key": "470.p.41293"
-                          },
-                          {
-                            "player_id": "41293"
-                          },
-                          {
-                            "name": {
-                              "ascii_first": "Jalen",
-                              "ascii_last": "Coker",
-                              "first": "Jalen",
-                              "full": "Jalen Coker",
-                              "last": "Coker"
-                            }
-                          },
-                          {
-                            "url": "https://sports.yahoo.com/nfl/players/41293"
-                          },
-                          {
-                            "editorial_player_key": "nfl.p.41293"
-                          },
-                          {
-                            "editorial_team_key": "nfl.t.29"
-                          },
-                          {
-                            "editorial_team_full_name": "Carolina Panthers"
-                          },
-                          {
-                            "editorial_team_abbr": "Car"
-                          },
-                          {
-                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/carolina/"
-                          },
-                          {
-                            "bye_weeks": {
-                              "week": "5"
-                            }
-                          },
-                          {
-                            "is_keeper": {
-                              "cost": false,
-                              "kept": false,
-                              "status": false
-                            }
-                          },
-                          {
-                            "uniform_number": "18"
-                          },
-                          {
-                            "display_position": "WR"
-                          },
-                          {
-                            "headshot": {
-                              "size": "small",
-                              "url": "https://s.yimg.com/iu/api/res/1.2/65k_7o4BvaoaSdVEIhckoQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41293.1.png"
-                            },
-                            "image_url": "https://s.yimg.com/iu/api/res/1.2/65k_7o4BvaoaSdVEIhckoQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41293.1.png"
-                          },
-                          {
-                            "is_undroppable": "0"
-                          },
-                          {
-                            "position_type": "O"
-                          },
-                          {
-                            "primary_position": "WR"
-                          },
-                          {
-                            "eligible_positions": [
-                              {
-                                "position": "WR"
-                              },
-                              {
-                                "position": "W/T"
-                              },
-                              {
-                                "position": "W/R/T"
-                              }
-                            ]
-                          },
-                          {
-                            "eligible_positions_to_add": [
-                              {
-                                "position": "QB"
-                              },
-                              {
-                                "position": "RB"
-                              },
-                              {
-                                "position": "TE"
-                              }
-                            ]
-                          },
-                          [],
-                          [],
-                          {
-                            "has_player_notes": 1
-                          },
-                          [],
-                          {
-                            "player_notes_last_timestamp": 1794192625
                           }
                         ],
                         {
@@ -13723,7 +13728,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794434155
+                            "player_notes_last_timestamp": 1794435743
                           }
                         ],
                         {
@@ -14803,128 +14808,6 @@
                       "player": [
                         [
                           {
-                            "player_key": "470.p.33989"
-                          },
-                          {
-                            "player_id": "33989"
-                          },
-                          {
-                            "name": {
-                              "ascii_first": "Christian",
-                              "ascii_last": "Watson",
-                              "first": "Christian",
-                              "full": "Christian Watson",
-                              "last": "Watson"
-                            }
-                          },
-                          {
-                            "url": "https://sports.yahoo.com/nfl/players/33989"
-                          },
-                          {
-                            "editorial_player_key": "nfl.p.33989"
-                          },
-                          {
-                            "editorial_team_key": "nfl.t.9"
-                          },
-                          {
-                            "editorial_team_full_name": "Green Bay Packers"
-                          },
-                          {
-                            "editorial_team_abbr": "GB"
-                          },
-                          {
-                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/green-bay/"
-                          },
-                          {
-                            "bye_weeks": {
-                              "week": "11"
-                            }
-                          },
-                          {
-                            "is_keeper": {
-                              "cost": false,
-                              "kept": false,
-                              "status": false
-                            }
-                          },
-                          {
-                            "uniform_number": "9"
-                          },
-                          {
-                            "display_position": "WR"
-                          },
-                          {
-                            "headshot": {
-                              "size": "small",
-                              "url": "https://s.yimg.com/iu/api/res/1.2/zdZ4n05lF0SOcdt4FXNbRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/33989.3.png"
-                            },
-                            "image_url": "https://s.yimg.com/iu/api/res/1.2/zdZ4n05lF0SOcdt4FXNbRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/33989.3.png"
-                          },
-                          {
-                            "is_undroppable": "0"
-                          },
-                          {
-                            "position_type": "O"
-                          },
-                          {
-                            "primary_position": "WR"
-                          },
-                          {
-                            "eligible_positions": [
-                              {
-                                "position": "WR"
-                              },
-                              {
-                                "position": "W/T"
-                              },
-                              {
-                                "position": "W/R/T"
-                              }
-                            ]
-                          },
-                          {
-                            "eligible_positions_to_add": [
-                              {
-                                "position": "QB"
-                              },
-                              {
-                                "position": "RB"
-                              },
-                              {
-                                "position": "TE"
-                              }
-                            ]
-                          },
-                          [],
-                          [],
-                          {
-                            "has_player_notes": 1
-                          },
-                          [],
-                          {
-                            "player_notes_last_timestamp": 1794192383
-                          }
-                        ],
-                        {
-                          "selected_position": [
-                            {
-                              "coverage_type": "week",
-                              "week": "10"
-                            },
-                            {
-                              "position": "W/T"
-                            },
-                            {
-                              "is_flex": 0
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    "7": {
-                      "player": [
-                        [
-                          {
                             "player_key": "470.p.33967"
                           },
                           {
@@ -15034,6 +14917,128 @@
                               "week": "10"
                             },
                             {
+                              "position": "W/T"
+                            },
+                            {
+                              "is_flex": 0
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "7": {
+                      "player": [
+                        [
+                          {
+                            "player_key": "470.p.41293"
+                          },
+                          {
+                            "player_id": "41293"
+                          },
+                          {
+                            "name": {
+                              "ascii_first": "Jalen",
+                              "ascii_last": "Coker",
+                              "first": "Jalen",
+                              "full": "Jalen Coker",
+                              "last": "Coker"
+                            }
+                          },
+                          {
+                            "url": "https://sports.yahoo.com/nfl/players/41293"
+                          },
+                          {
+                            "editorial_player_key": "nfl.p.41293"
+                          },
+                          {
+                            "editorial_team_key": "nfl.t.29"
+                          },
+                          {
+                            "editorial_team_full_name": "Carolina Panthers"
+                          },
+                          {
+                            "editorial_team_abbr": "Car"
+                          },
+                          {
+                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/carolina/"
+                          },
+                          {
+                            "bye_weeks": {
+                              "week": "5"
+                            }
+                          },
+                          {
+                            "is_keeper": {
+                              "cost": false,
+                              "kept": false,
+                              "status": false
+                            }
+                          },
+                          {
+                            "uniform_number": "18"
+                          },
+                          {
+                            "display_position": "WR"
+                          },
+                          {
+                            "headshot": {
+                              "size": "small",
+                              "url": "https://s.yimg.com/iu/api/res/1.2/65k_7o4BvaoaSdVEIhckoQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41293.1.png"
+                            },
+                            "image_url": "https://s.yimg.com/iu/api/res/1.2/65k_7o4BvaoaSdVEIhckoQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41293.1.png"
+                          },
+                          {
+                            "is_undroppable": "0"
+                          },
+                          {
+                            "position_type": "O"
+                          },
+                          {
+                            "primary_position": "WR"
+                          },
+                          {
+                            "eligible_positions": [
+                              {
+                                "position": "WR"
+                              },
+                              {
+                                "position": "W/T"
+                              },
+                              {
+                                "position": "W/R/T"
+                              }
+                            ]
+                          },
+                          {
+                            "eligible_positions_to_add": [
+                              {
+                                "position": "QB"
+                              },
+                              {
+                                "position": "RB"
+                              },
+                              {
+                                "position": "TE"
+                              }
+                            ]
+                          },
+                          [],
+                          [],
+                          {
+                            "has_player_notes": 1
+                          },
+                          [],
+                          {
+                            "player_notes_last_timestamp": 1794192625
+                          }
+                        ],
+                        {
+                          "selected_position": [
+                            {
+                              "coverage_type": "week",
+                              "week": "10"
+                            },
+                            {
                               "position": "W/R/T"
                             },
                             {
@@ -15044,6 +15049,128 @@
                       ]
                     },
                     "8": {
+                      "player": [
+                        [
+                          {
+                            "player_key": "470.p.33989"
+                          },
+                          {
+                            "player_id": "33989"
+                          },
+                          {
+                            "name": {
+                              "ascii_first": "Christian",
+                              "ascii_last": "Watson",
+                              "first": "Christian",
+                              "full": "Christian Watson",
+                              "last": "Watson"
+                            }
+                          },
+                          {
+                            "url": "https://sports.yahoo.com/nfl/players/33989"
+                          },
+                          {
+                            "editorial_player_key": "nfl.p.33989"
+                          },
+                          {
+                            "editorial_team_key": "nfl.t.9"
+                          },
+                          {
+                            "editorial_team_full_name": "Green Bay Packers"
+                          },
+                          {
+                            "editorial_team_abbr": "GB"
+                          },
+                          {
+                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/green-bay/"
+                          },
+                          {
+                            "bye_weeks": {
+                              "week": "11"
+                            }
+                          },
+                          {
+                            "is_keeper": {
+                              "cost": false,
+                              "kept": false,
+                              "status": false
+                            }
+                          },
+                          {
+                            "uniform_number": "9"
+                          },
+                          {
+                            "display_position": "WR"
+                          },
+                          {
+                            "headshot": {
+                              "size": "small",
+                              "url": "https://s.yimg.com/iu/api/res/1.2/zdZ4n05lF0SOcdt4FXNbRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/33989.3.png"
+                            },
+                            "image_url": "https://s.yimg.com/iu/api/res/1.2/zdZ4n05lF0SOcdt4FXNbRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08142026/33989.3.png"
+                          },
+                          {
+                            "is_undroppable": "0"
+                          },
+                          {
+                            "position_type": "O"
+                          },
+                          {
+                            "primary_position": "WR"
+                          },
+                          {
+                            "eligible_positions": [
+                              {
+                                "position": "WR"
+                              },
+                              {
+                                "position": "W/T"
+                              },
+                              {
+                                "position": "W/R/T"
+                              }
+                            ]
+                          },
+                          {
+                            "eligible_positions_to_add": [
+                              {
+                                "position": "QB"
+                              },
+                              {
+                                "position": "RB"
+                              },
+                              {
+                                "position": "TE"
+                              }
+                            ]
+                          },
+                          [],
+                          [],
+                          {
+                            "has_player_notes": 1
+                          },
+                          [],
+                          {
+                            "player_notes_last_timestamp": 1794192383
+                          }
+                        ],
+                        {
+                          "selected_position": [
+                            {
+                              "coverage_type": "week",
+                              "week": "10"
+                            },
+                            {
+                              "position": "BN"
+                            },
+                            {
+                              "is_flex": 0
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "9": {
                       "player": [
                         [
                           {
@@ -15152,129 +15279,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794431979
-                          }
-                        ],
-                        {
-                          "selected_position": [
-                            {
-                              "coverage_type": "week",
-                              "week": "10"
-                            },
-                            {
-                              "position": "BN"
-                            },
-                            {
-                              "is_flex": 0
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    "9": {
-                      "player": [
-                        [
-                          {
-                            "player_key": "470.p.41795"
-                          },
-                          {
-                            "player_id": "41795"
-                          },
-                          {
-                            "name": {
-                              "ascii_first": "Colston",
-                              "ascii_last": "Loveland",
-                              "first": "Colston",
-                              "full": "Colston Loveland",
-                              "last": "Loveland"
-                            }
-                          },
-                          {
-                            "url": "https://sports.yahoo.com/nfl/players/41795"
-                          },
-                          {
-                            "editorial_player_key": "nfl.p.41795"
-                          },
-                          {
-                            "editorial_team_key": "nfl.t.3"
-                          },
-                          {
-                            "editorial_team_full_name": "Chicago Bears"
-                          },
-                          {
-                            "editorial_team_abbr": "Chi"
-                          },
-                          {
-                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/chicago/"
-                          },
-                          {
-                            "bye_weeks": {
-                              "week": "10"
-                            }
-                          },
-                          {
-                            "is_keeper": {
-                              "cost": false,
-                              "kept": false,
-                              "status": false
-                            }
-                          },
-                          {
-                            "uniform_number": "84"
-                          },
-                          {
-                            "display_position": "TE"
-                          },
-                          {
-                            "headshot": {
-                              "size": "small",
-                              "url": "https://s.yimg.com/iu/api/res/1.2/4OWJA89uWT_AgmMrHcSkUQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/41795.1.png"
-                            },
-                            "image_url": "https://s.yimg.com/iu/api/res/1.2/4OWJA89uWT_AgmMrHcSkUQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/41795.1.png"
-                          },
-                          {
-                            "is_undroppable": "0"
-                          },
-                          {
-                            "position_type": "O"
-                          },
-                          {
-                            "primary_position": "TE"
-                          },
-                          {
-                            "eligible_positions": [
-                              {
-                                "position": "TE"
-                              },
-                              {
-                                "position": "W/T"
-                              },
-                              {
-                                "position": "W/R/T"
-                              }
-                            ]
-                          },
-                          {
-                            "eligible_positions_to_add": [
-                              {
-                                "position": "QB"
-                              },
-                              {
-                                "position": "WR"
-                              },
-                              {
-                                "position": "RB"
-                              }
-                            ]
-                          },
-                          [],
-                          [],
-                          {
-                            "has_player_notes": 1
-                          },
-                          [],
-                          {
-                            "player_notes_last_timestamp": 1794201579
+                            "player_notes_last_timestamp": 1794437715
                           }
                         ],
                         {
@@ -15303,7 +15308,7 @@
               }
             }
           ],
-          "time": "82.093000411987ms",
+          "time": "77.142000198364ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.4/roster"
         }
@@ -17407,7 +17412,7 @@
               }
             }
           ],
-          "time": "79.089879989624ms",
+          "time": "81.460952758789ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.5/roster"
         }
@@ -19064,13 +19069,9 @@
                           },
                           [],
                           [],
-                          {
-                            "has_player_notes": 1
-                          },
                           [],
-                          {
-                            "player_notes_last_timestamp": 1793587804
-                          }
+                          [],
+                          []
                         ],
                         {
                           "selected_position": [
@@ -19354,6 +19355,13 @@
                             "url": "https://sports.yahoo.com/nfl/players/29269"
                           },
                           {
+                            "status": "Q",
+                            "status_full": "Questionable"
+                          },
+                          {
+                            "injury_note": "Foot"
+                          },
+                          {
                             "editorial_player_key": "nfl.p.29269"
                           },
                           {
@@ -19433,9 +19441,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794189245
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794438648
                           }
                         ],
                         {
@@ -19464,7 +19474,7 @@
               }
             }
           ],
-          "time": "92.097997665405ms",
+          "time": "73.94003868103ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.6/roster"
         }
@@ -21181,7 +21191,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794434241
+                            "player_notes_last_timestamp": 1794439027
                           }
                         ],
                         {
@@ -21312,7 +21322,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794432447
+                            "player_notes_last_timestamp": 1794437404
                           }
                         ],
                         {
@@ -21701,7 +21711,7 @@
               }
             }
           ],
-          "time": "75.223922729492ms",
+          "time": "99.215984344482ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.7/roster"
         }
@@ -22146,7 +22156,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794431676
+                            "player_notes_last_timestamp": 1794443020
                           }
                         ],
                         {
@@ -22959,13 +22969,9 @@
                           },
                           [],
                           [],
-                          {
-                            "has_player_notes": 1
-                          },
                           [],
-                          {
-                            "player_notes_last_timestamp": 1793575650
-                          }
+                          [],
+                          []
                         ],
                         {
                           "selected_position": [
@@ -23873,7 +23879,7 @@
               }
             }
           ],
-          "time": "88.133096694946ms",
+          "time": "88.639974594116ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
         }
@@ -25968,7 +25974,7 @@
               }
             }
           ],
-          "time": "89.921951293945ms",
+          "time": "79.456090927124ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.9/roster"
         }
@@ -26613,10 +26619,10 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "232.13",
+                              "total": "231.40",
                               "week": 11
                             },
-                            "win_probability": 0.6799999999999999
+                            "win_probability": 0.67
                           }
                         ]
                       },
@@ -26708,10 +26714,10 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "193.31",
+                              "total": "193.16",
                               "week": 11
                             },
-                            "win_probability": 0.32000000000000006
+                            "win_probability": 0.32999999999999996
                           }
                         ]
                       },
@@ -26823,7 +26829,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "239.72",
+                              "total": "238.73",
                               "week": 12
                             },
                             "win_probability": 0.7
@@ -27034,7 +27040,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "224.17",
+                              "total": "223.56",
                               "week": 13
                             },
                             "win_probability": 0.8200000000000001
@@ -27244,7 +27250,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "173.51",
+                              "total": "172.89",
                               "week": 14
                             },
                             "win_probability": 0.35
@@ -29047,7 +29053,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "240.77",
+                              "total": "239.86",
                               "week": 10
                             },
                             "win_probability": 0.5700000000000001
@@ -29142,7 +29148,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "224.48",
+                              "total": "224.47",
                               "week": 10
                             },
                             "win_probability": 0.42999999999999994
@@ -29166,7 +29172,7 @@
             }
           }
         ],
-        "time": "571.20203971863ms",
+        "time": "449.45693016052ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/matchups"
       }
@@ -29611,7 +29617,7 @@
                           "has_recent_player_notes": 1
                         },
                         {
-                          "player_notes_last_timestamp": 1794431676
+                          "player_notes_last_timestamp": 1794443020
                         }
                       ],
                       {
@@ -30424,13 +30430,9 @@
                         },
                         [],
                         [],
-                        {
-                          "has_player_notes": 1
-                        },
                         [],
-                        {
-                          "player_notes_last_timestamp": 1793575650
-                        }
+                        [],
+                        []
                       ],
                       {
                         "selected_position": [
@@ -31338,7 +31340,7 @@
             }
           }
         ],
-        "time": "88.133096694946ms",
+        "time": "88.639974594116ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
       }
@@ -31480,10 +31482,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "196.11",
+                                  "total": "198.42",
                                   "week": "10"
                                 },
-                                "win_probability": 0.38
+                                "win_probability": 0.39
                               }
                             ]
                           },
@@ -31573,10 +31575,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "220.96",
+                                  "total": "220.95",
                                   "week": "10"
                                 },
-                                "win_probability": 0.62
+                                "win_probability": 0.61
                               }
                             ]
                           },
@@ -31685,10 +31687,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "186.74",
+                                  "total": "187.03",
                                   "week": "10"
                                 },
-                                "win_probability": 0.28
+                                "win_probability": 0.30000000000000004
                               }
                             ]
                           },
@@ -31780,10 +31782,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "238.39",
+                                  "total": "232.58",
                                   "week": "10"
                                 },
-                                "win_probability": 0.72
+                                "win_probability": 0.7
                               }
                             ]
                           },
@@ -31892,7 +31894,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "196.85",
+                                  "total": "195.84",
                                   "week": "10"
                                 },
                                 "win_probability": 0.66
@@ -31987,7 +31989,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "166.71",
+                                  "total": "167.35",
                                   "week": "10"
                                 },
                                 "win_probability": 0.33999999999999997
@@ -32099,7 +32101,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "224.48",
+                                  "total": "224.47",
                                   "week": "10"
                                 },
                                 "win_probability": 0.42999999999999994
@@ -32197,7 +32199,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "240.77",
+                                  "total": "239.86",
                                   "week": "10"
                                 },
                                 "win_probability": 0.5700000000000001
@@ -32309,7 +32311,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "214.20",
+                                  "total": "214.61",
                                   "week": "10"
                                 },
                                 "win_probability": 0.51
@@ -32404,7 +32406,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "212.85",
+                                  "total": "212.96",
                                   "week": "10"
                                 },
                                 "win_probability": 0.49
@@ -32432,7 +32434,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "153.78904342651ms",
+        "time": "102.2641658783ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/scoreboard"
       }
@@ -34408,7 +34410,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "46.801090240479ms",
+        "time": "39.690971374512ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/settings"
       }
@@ -35536,7 +35538,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "89.812994003296ms",
+        "time": "88.614225387573ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/standings"
       }
@@ -36410,7 +36412,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "73.031902313232ms",
+        "time": "72.350978851318ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/teams"
       }
@@ -51088,7 +51090,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "109.13395881653ms",
+        "time": "77.574968338013ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/transactions"
       }
