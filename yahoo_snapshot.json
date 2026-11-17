@@ -4,7 +4,7 @@
       "fantasy_content": {
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "30",
-        "time": "491.16706848145ms",
+        "time": "423.66194725037ms",
         "users": {
           "0": {
             "user": [
@@ -1378,7 +1378,7 @@
       "fantasy_content": {
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "30",
-        "time": "432.1620464325ms",
+        "time": "256.83498382568ms",
         "users": {
           "0": {
             "user": [
@@ -3776,7 +3776,7 @@
       }
     }
   },
-  "generated_at": "2026-11-16T20:38:49.120717Z",
+  "generated_at": "2026-11-17T04:06:34.816923Z",
   "league_key": "470.l.677429",
   "platform": "yahoo",
   "resources": {
@@ -3823,7 +3823,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "39.872884750366ms",
+        "time": "43.702125549316ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429"
       }
@@ -4013,9 +4013,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794798022
                           }
@@ -4134,9 +4132,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794796730
                           }
@@ -4255,9 +4251,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794790494
                           }
@@ -4379,9 +4373,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794784861
                           }
@@ -4865,9 +4857,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794203633
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794883984
                           }
                         ],
                         {
@@ -5312,9 +5306,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794798697
                           }
@@ -5440,7 +5432,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794810915
+                            "player_notes_last_timestamp": 1794879376
                           }
                         ],
                         {
@@ -5684,9 +5676,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794791908
                           }
@@ -5805,9 +5795,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794799274
                           }
@@ -5923,9 +5911,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794797242
                           }
@@ -6087,7 +6073,7 @@
               }
             }
           ],
-          "time": "88.824987411499ms",
+          "time": "71.22802734375ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.1/roster"
         }
@@ -6394,9 +6380,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794781400
                           }
@@ -6518,9 +6502,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794786298
                           }
@@ -6646,7 +6628,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794791347
+                            "player_notes_last_timestamp": 1794883127
                           }
                         ],
                         {
@@ -6760,9 +6742,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794788608
                           }
@@ -6894,9 +6874,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794506915
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794861599
                           }
                         ],
                         {
@@ -7023,9 +7005,15 @@
                           },
                           [],
                           [],
-                          [],
-                          [],
-                          []
+                          {
+                            "has_player_notes": 1
+                          },
+                          {
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794861448
+                          }
                         ],
                         {
                           "selected_position": [
@@ -7128,9 +7116,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794279037
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794886656
                           }
                         ],
                         {
@@ -7685,9 +7675,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794780328
                           }
@@ -7809,9 +7797,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794790250
                           }
@@ -7933,9 +7919,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794791424
                           }
@@ -8057,9 +8041,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794781899
                           }
@@ -8178,9 +8160,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794785865
                           }
@@ -8467,7 +8447,7 @@
               }
             }
           ],
-          "time": "77.619791030884ms",
+          "time": "78.053951263428ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.10/roster"
         }
@@ -8774,9 +8754,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794796511
                           }
@@ -9010,9 +8988,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794787003
                           }
@@ -9495,9 +9471,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794361674
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794887677
                           }
                         ],
                         {
@@ -9920,9 +9898,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794795425
                           }
@@ -10044,9 +10020,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794790204
                           }
@@ -10290,9 +10264,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794792651
                           }
@@ -10414,9 +10386,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794789055
                           }
@@ -10809,7 +10779,7 @@
               }
             }
           ],
-          "time": "77.223062515259ms",
+          "time": "79.460144042969ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.2/roster"
         }
@@ -10997,9 +10967,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794794557
                           }
@@ -11248,7 +11216,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794784696
+                            "player_notes_last_timestamp": 1794876551
                           }
                         ],
                         {
@@ -11729,9 +11697,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794196794
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794887241
                           }
                         ],
                         {
@@ -12052,9 +12022,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794795206
                           }
@@ -12799,9 +12767,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794783953
                           }
@@ -12966,7 +12932,7 @@
               }
             }
           ],
-          "time": "79.446077346802ms",
+          "time": "75.541973114014ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.3/roster"
         }
@@ -13282,9 +13248,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794779927
                           }
@@ -13644,9 +13608,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794796421
                           }
@@ -13765,9 +13727,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794799055
                           }
@@ -14002,9 +13962,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794200369
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794887418
                           }
                         ],
                         {
@@ -14325,9 +14287,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794782327
                           }
@@ -14449,9 +14409,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794801711
                           }
@@ -14573,9 +14531,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794798276
                           }
@@ -14697,9 +14653,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794799008
                           }
@@ -14943,9 +14897,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794789688
                           }
@@ -15064,9 +15016,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794796974
                           }
@@ -15221,7 +15171,7 @@
               }
             }
           ],
-          "time": "90.453863143921ms",
+          "time": "80.768823623657ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.4/roster"
         }
@@ -15409,9 +15359,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794780002
                           }
@@ -15662,9 +15610,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794772475
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794873173
                           }
                         ],
                         {
@@ -15920,9 +15870,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794765696
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794866714
                           }
                         ],
                         {
@@ -16036,9 +15988,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794801007
                           }
@@ -16144,9 +16094,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794279568
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794886945
                           }
                         ],
                         {
@@ -16715,9 +16667,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794791926
                           }
@@ -16839,9 +16789,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794792236
                           }
@@ -16963,9 +16911,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794795084
                           }
@@ -17087,9 +17033,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794785645
                           }
@@ -17361,7 +17305,7 @@
               }
             }
           ],
-          "time": "77.903985977173ms",
+          "time": "92.457056045532ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.5/roster"
         }
@@ -17547,9 +17491,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794789428
                           }
@@ -18028,9 +17970,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794792970
                           }
@@ -18133,9 +18073,15 @@
                           },
                           [],
                           [],
-                          [],
-                          [],
-                          []
+                          {
+                            "has_player_notes": 1
+                          },
+                          {
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794882868
+                          }
                         ],
                         {
                           "selected_position": [
@@ -18557,9 +18503,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794798198
                           }
@@ -18681,9 +18625,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794797092
                           }
@@ -18805,9 +18747,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794781070
                           }
@@ -19174,9 +19114,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794788999
                           }
@@ -19463,7 +19401,7 @@
               }
             }
           ],
-          "time": "77.067852020264ms",
+          "time": "87.109804153442ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.6/roster"
         }
@@ -19651,9 +19589,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794792320
                           }
@@ -19772,9 +19708,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794782784
                           }
@@ -20143,9 +20077,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794791813
                           }
@@ -20383,9 +20315,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794279559
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794888073
                           }
                         ],
                         {
@@ -20930,9 +20864,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794794638
                           }
@@ -21172,9 +21104,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794789499
                           }
@@ -21303,9 +21233,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794793576
                           }
@@ -21424,9 +21352,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794796397
                           }
@@ -21698,7 +21624,7 @@
               }
             }
           ],
-          "time": "74.426889419556ms",
+          "time": "79.196929931641ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.7/roster"
         }
@@ -21889,9 +21815,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794801481
                           }
@@ -22013,9 +21937,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794796942
                           }
@@ -22137,9 +22059,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794792577
                           }
@@ -22258,9 +22178,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794780498
                           }
@@ -22631,9 +22549,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794197955
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794887015
                           }
                         ],
                         {
@@ -23447,9 +23367,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794795444
                           }
@@ -23578,7 +23496,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794812170
+                            "player_notes_last_timestamp": 1794877638
                           }
                         ],
                         {
@@ -23947,9 +23865,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794783221
                           }
@@ -23991,7 +23907,7 @@
               }
             }
           ],
-          "time": "83.100080490112ms",
+          "time": "87.97287940979ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
         }
@@ -24300,9 +24216,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794783413
                           }
@@ -24553,7 +24467,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794799240
+                            "player_notes_last_timestamp": 1794881616
                           }
                         ],
                         {
@@ -24667,9 +24581,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794798708
                           }
@@ -25204,9 +25116,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794780394
                           }
@@ -25328,9 +25238,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794787762
                           }
@@ -25585,7 +25493,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794840172
+                            "player_notes_last_timestamp": 1794862828
                           }
                         ],
                         {
@@ -25705,9 +25613,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794791189
                           }
@@ -25829,9 +25735,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794792802
                           }
@@ -26112,7 +26016,7 @@
               }
             }
           ],
-          "time": "83.729982376099ms",
+          "time": "79.9880027771ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.9/roster"
         }
@@ -26763,7 +26667,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "235.03",
+                              "total": "234.92",
                               "week": 11
                             },
                             "win_probability": 0.79
@@ -26859,7 +26763,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "168.94",
+                              "total": "169.10",
                               "week": 11
                             },
                             "win_probability": 0.20999999999999996
@@ -26975,7 +26879,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "245.27",
+                              "total": "245.40",
                               "week": 12
                             },
                             "win_probability": 0.75
@@ -27072,7 +26976,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "190.89",
+                              "total": "190.82",
                               "week": 12
                             },
                             "win_probability": 0.25
@@ -29222,7 +29126,7 @@
                               "total": "244.08",
                               "week": 10
                             },
-                            "win_probability": 0.81
+                            "win_probability": 0.99
                           }
                         ]
                       },
@@ -29310,15 +29214,15 @@
                           {
                             "team_points": {
                               "coverage_type": "week",
-                              "total": "262.90",
+                              "total": "279.80",
                               "week": 10
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "222.04",
+                              "total": "221.94",
                               "week": 10
                             },
-                            "win_probability": 0.18999999999999995
+                            "win_probability": 0.010000000000000009
                           }
                         ]
                       },
@@ -29339,7 +29243,7 @@
             }
           }
         ],
-        "time": "454.6320438385ms",
+        "time": "507.8649520874ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/matchups"
       }
@@ -29530,9 +29434,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1794801481
                         }
@@ -29654,9 +29556,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1794796942
                         }
@@ -29778,9 +29678,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1794792577
                         }
@@ -29899,9 +29797,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1794780498
                         }
@@ -30272,9 +30168,11 @@
                         {
                           "has_player_notes": 1
                         },
-                        [],
                         {
-                          "player_notes_last_timestamp": 1794197955
+                          "has_recent_player_notes": 1
+                        },
+                        {
+                          "player_notes_last_timestamp": 1794887015
                         }
                       ],
                       {
@@ -31088,9 +30986,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1794795444
                         }
@@ -31219,7 +31115,7 @@
                           "has_recent_player_notes": 1
                         },
                         {
-                          "player_notes_last_timestamp": 1794812170
+                          "player_notes_last_timestamp": 1794877638
                         }
                       ],
                       {
@@ -31588,9 +31484,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1794783221
                         }
@@ -31632,7 +31526,7 @@
             }
           }
         ],
-        "time": "83.100080490112ms",
+        "time": "87.97287940979ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
       }
@@ -31865,12 +31759,12 @@
                               {
                                 "team_points": {
                                   "coverage_type": "week",
-                                  "total": "257.20",
+                                  "total": "280.20",
                                   "week": "10"
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "222.57",
+                                  "total": "222.61",
                                   "week": "10"
                                 },
                                 "win_probability": 0.99
@@ -32283,12 +32177,12 @@
                               {
                                 "team_points": {
                                   "coverage_type": "week",
-                                  "total": "165.07",
+                                  "total": "195.87",
                                   "week": "10"
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "194.78",
+                                  "total": "194.77",
                                   "week": "10"
                                 },
                                 "win_probability": 0.010000000000000009
@@ -32396,15 +32290,15 @@
                               {
                                 "team_points": {
                                   "coverage_type": "week",
-                                  "total": "262.90",
+                                  "total": "279.80",
                                   "week": "10"
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "222.04",
+                                  "total": "221.94",
                                   "week": "10"
                                 },
-                                "win_probability": 0.18999999999999995
+                                "win_probability": 0.01
                               }
                             ]
                           },
@@ -32503,7 +32397,7 @@
                                   "total": "244.08",
                                   "week": "10"
                                 },
-                                "win_probability": 0.81
+                                "win_probability": 0.99
                               }
                             ]
                           },
@@ -32608,12 +32502,12 @@
                               {
                                 "team_points": {
                                   "coverage_type": "week",
-                                  "total": "215.85",
+                                  "total": "225.85",
                                   "week": "10"
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "230.08",
+                                  "total": "230.04",
                                   "week": "10"
                                 },
                                 "win_probability": 0.99
@@ -32737,7 +32631,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "170.03202438354ms",
+        "time": "232.39779472351ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/scoreboard"
       }
@@ -34714,7 +34608,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "50.656080245972ms",
+        "time": "45.238018035889ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/settings"
       }
@@ -35853,7 +35747,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "87.476015090942ms",
+        "time": "87.553977966309ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/standings"
       }
@@ -36738,7 +36632,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "86.447954177856ms",
+        "time": "81.161975860596ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/teams"
       }
@@ -52297,7 +52191,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "86.00115776062ms",
+        "time": "82.773923873901ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/transactions"
       }
