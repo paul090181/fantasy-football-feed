@@ -4,7 +4,7 @@
       "fantasy_content": {
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "30",
-        "time": "800.61197280884ms",
+        "time": "381.17790222168ms",
         "users": {
           "0": {
             "user": [
@@ -1378,7 +1378,7 @@
       "fantasy_content": {
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "30",
-        "time": "467.36001968384ms",
+        "time": "293.15209388733ms",
         "users": {
           "0": {
             "user": [
@@ -2211,7 +2211,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "767",
+                                        "felo_score": "781",
                                         "felo_tier": "gold",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -3776,7 +3776,7 @@
       }
     }
   },
-  "generated_at": "2026-11-17T13:45:21.974897Z",
+  "generated_at": "2026-11-17T22:34:22.696310Z",
   "league_key": "470.l.677429",
   "platform": "yahoo",
   "resources": {
@@ -3823,7 +3823,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "60.925960540771ms",
+        "time": "35.829067230225ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429"
       }
@@ -3901,7 +3901,7 @@
                 "managers": [
                   {
                     "manager": {
-                      "felo_score": "566",
+                      "felo_score": "561",
                       "felo_tier": "bronze",
                       "guid": "--hidden--",
                       "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -6034,9 +6034,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794840953
                           }
@@ -6067,7 +6065,7 @@
               }
             }
           ],
-          "time": "83.636045455933ms",
+          "time": "82.072019577026ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.1/roster"
         }
@@ -6868,9 +6866,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794861599
                           }
@@ -7006,7 +7002,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794861448
+                            "player_notes_last_timestamp": 1794930352
                           }
                         ],
                         {
@@ -8436,7 +8432,7 @@
               }
             }
           ],
-          "time": "88.231801986694ms",
+          "time": "84.136962890625ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.10/roster"
         }
@@ -10770,7 +10766,7 @@
               }
             }
           ],
-          "time": "88.78493309021ms",
+          "time": "77.214956283569ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.2/roster"
         }
@@ -10847,7 +10843,7 @@
                 "managers": [
                   {
                     "manager": {
-                      "felo_score": "631",
+                      "felo_score": "660",
                       "felo_tier": "silver",
                       "guid": "--hidden--",
                       "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -11210,7 +11206,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794854608
+                            "player_notes_last_timestamp": 1794942682
                           }
                         ],
                         {
@@ -11338,7 +11334,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794876551
+                            "player_notes_last_timestamp": 1794952774
                           }
                         ],
                         {
@@ -12794,8 +12790,8 @@
                             "url": "https://sports.yahoo.com/nfl/players/33998"
                           },
                           {
-                            "status": "Q",
-                            "status_full": "Questionable"
+                            "status": "IR",
+                            "status_full": "Injured Reserve"
                           },
                           {
                             "injury_note": "Ankle"
@@ -12859,6 +12855,9 @@
                               },
                               {
                                 "position": "W/R/T"
+                              },
+                              {
+                                "position": "IR"
                               }
                             ]
                           },
@@ -12880,9 +12879,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794783953
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794950787
                           }
                         ],
                         {
@@ -12911,7 +12912,7 @@
               }
             }
           ],
-          "time": "84.028005599976ms",
+          "time": "75.34122467041ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.3/roster"
         }
@@ -12988,7 +12989,7 @@
                 "managers": [
                   {
                     "manager": {
-                      "felo_score": "862",
+                      "felo_score": "869",
                       "felo_tier": "platinum",
                       "guid": "--hidden--",
                       "image_url": "https://s.yimg.com/ag/images/4738/39045925476_e42bcf_64sq.jpg",
@@ -13106,9 +13107,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794849400
                           }
@@ -13252,41 +13251,41 @@
                       "player": [
                         [
                           {
-                            "player_key": "470.p.41293"
+                            "player_key": "470.p.41791"
                           },
                           {
-                            "player_id": "41293"
+                            "player_id": "41791"
                           },
                           {
                             "name": {
-                              "ascii_first": "Jalen",
-                              "ascii_last": "Coker",
-                              "first": "Jalen",
-                              "full": "Jalen Coker",
-                              "last": "Coker"
+                              "ascii_first": "Ashton",
+                              "ascii_last": "Jeanty",
+                              "first": "Ashton",
+                              "full": "Ashton Jeanty",
+                              "last": "Jeanty"
                             }
                           },
                           {
-                            "url": "https://sports.yahoo.com/nfl/players/41293"
+                            "url": "https://sports.yahoo.com/nfl/players/41791"
                           },
                           {
-                            "editorial_player_key": "nfl.p.41293"
+                            "editorial_player_key": "nfl.p.41791"
                           },
                           {
-                            "editorial_team_key": "nfl.t.29"
+                            "editorial_team_key": "nfl.t.13"
                           },
                           {
-                            "editorial_team_full_name": "Carolina Panthers"
+                            "editorial_team_full_name": "Las Vegas Raiders"
                           },
                           {
-                            "editorial_team_abbr": "Car"
+                            "editorial_team_abbr": "LV"
                           },
                           {
-                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/carolina/"
+                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/las-vegas/"
                           },
                           {
                             "bye_weeks": {
-                              "week": "5"
+                              "week": "13"
                             }
                           },
                           {
@@ -13297,17 +13296,17 @@
                             }
                           },
                           {
-                            "uniform_number": "18"
+                            "uniform_number": "2"
                           },
                           {
-                            "display_position": "WR"
+                            "display_position": "RB"
                           },
                           {
                             "headshot": {
                               "size": "small",
-                              "url": "https://s.yimg.com/iu/api/res/1.2/65k_7o4BvaoaSdVEIhckoQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41293.1.png"
+                              "url": "https://s.yimg.com/iu/api/res/1.2/k2bG2c3Hj.AqkE8fsH7VQw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/07282025/41791.png"
                             },
-                            "image_url": "https://s.yimg.com/iu/api/res/1.2/65k_7o4BvaoaSdVEIhckoQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41293.1.png"
+                            "image_url": "https://s.yimg.com/iu/api/res/1.2/k2bG2c3Hj.AqkE8fsH7VQw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/07282025/41791.png"
                           },
                           {
                             "is_undroppable": "0"
@@ -13316,15 +13315,12 @@
                             "position_type": "O"
                           },
                           {
-                            "primary_position": "WR"
+                            "primary_position": "RB"
                           },
                           {
                             "eligible_positions": [
                               {
-                                "position": "WR"
-                              },
-                              {
-                                "position": "W/T"
+                                "position": "RB"
                               },
                               {
                                 "position": "W/R/T"
@@ -13337,7 +13333,7 @@
                                 "position": "QB"
                               },
                               {
-                                "position": "RB"
+                                "position": "WR"
                               },
                               {
                                 "position": "TE"
@@ -13351,7 +13347,7 @@
                           },
                           [],
                           {
-                            "player_notes_last_timestamp": 1794802963
+                            "player_notes_last_timestamp": 1794796974
                           }
                         ],
                         {
@@ -13835,9 +13831,11 @@
                           {
                             "has_player_notes": 1
                           },
-                          [],
                           {
-                            "player_notes_last_timestamp": 1794666645
+                            "has_recent_player_notes": 1
+                          },
+                          {
+                            "player_notes_last_timestamp": 1794929708
                           }
                         ],
                         {
@@ -14779,6 +14777,128 @@
                       "player": [
                         [
                           {
+                            "player_key": "470.p.41293"
+                          },
+                          {
+                            "player_id": "41293"
+                          },
+                          {
+                            "name": {
+                              "ascii_first": "Jalen",
+                              "ascii_last": "Coker",
+                              "first": "Jalen",
+                              "full": "Jalen Coker",
+                              "last": "Coker"
+                            }
+                          },
+                          {
+                            "url": "https://sports.yahoo.com/nfl/players/41293"
+                          },
+                          {
+                            "editorial_player_key": "nfl.p.41293"
+                          },
+                          {
+                            "editorial_team_key": "nfl.t.29"
+                          },
+                          {
+                            "editorial_team_full_name": "Carolina Panthers"
+                          },
+                          {
+                            "editorial_team_abbr": "Car"
+                          },
+                          {
+                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/carolina/"
+                          },
+                          {
+                            "bye_weeks": {
+                              "week": "5"
+                            }
+                          },
+                          {
+                            "is_keeper": {
+                              "cost": false,
+                              "kept": false,
+                              "status": false
+                            }
+                          },
+                          {
+                            "uniform_number": "18"
+                          },
+                          {
+                            "display_position": "WR"
+                          },
+                          {
+                            "headshot": {
+                              "size": "small",
+                              "url": "https://s.yimg.com/iu/api/res/1.2/65k_7o4BvaoaSdVEIhckoQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41293.1.png"
+                            },
+                            "image_url": "https://s.yimg.com/iu/api/res/1.2/65k_7o4BvaoaSdVEIhckoQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08062026/41293.1.png"
+                          },
+                          {
+                            "is_undroppable": "0"
+                          },
+                          {
+                            "position_type": "O"
+                          },
+                          {
+                            "primary_position": "WR"
+                          },
+                          {
+                            "eligible_positions": [
+                              {
+                                "position": "WR"
+                              },
+                              {
+                                "position": "W/T"
+                              },
+                              {
+                                "position": "W/R/T"
+                              }
+                            ]
+                          },
+                          {
+                            "eligible_positions_to_add": [
+                              {
+                                "position": "QB"
+                              },
+                              {
+                                "position": "RB"
+                              },
+                              {
+                                "position": "TE"
+                              }
+                            ]
+                          },
+                          [],
+                          [],
+                          {
+                            "has_player_notes": 1
+                          },
+                          [],
+                          {
+                            "player_notes_last_timestamp": 1794802963
+                          }
+                        ],
+                        {
+                          "selected_position": [
+                            {
+                              "coverage_type": "week",
+                              "week": "11"
+                            },
+                            {
+                              "position": "W/R/T"
+                            },
+                            {
+                              "is_flex": 1
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "8": {
+                      "player": [
+                        [
+                          {
                             "player_key": "470.p.33989"
                           },
                           {
@@ -14888,16 +15008,16 @@
                               "week": "11"
                             },
                             {
-                              "position": "W/R/T"
+                              "position": "BN"
                             },
                             {
-                              "is_flex": 1
+                              "is_flex": 0
                             }
                           ]
                         }
                       ]
                     },
-                    "8": {
+                    "9": {
                       "player": [
                         [
                           {
@@ -15019,125 +15139,6 @@
                         }
                       ]
                     },
-                    "9": {
-                      "player": [
-                        [
-                          {
-                            "player_key": "470.p.41791"
-                          },
-                          {
-                            "player_id": "41791"
-                          },
-                          {
-                            "name": {
-                              "ascii_first": "Ashton",
-                              "ascii_last": "Jeanty",
-                              "first": "Ashton",
-                              "full": "Ashton Jeanty",
-                              "last": "Jeanty"
-                            }
-                          },
-                          {
-                            "url": "https://sports.yahoo.com/nfl/players/41791"
-                          },
-                          {
-                            "editorial_player_key": "nfl.p.41791"
-                          },
-                          {
-                            "editorial_team_key": "nfl.t.13"
-                          },
-                          {
-                            "editorial_team_full_name": "Las Vegas Raiders"
-                          },
-                          {
-                            "editorial_team_abbr": "LV"
-                          },
-                          {
-                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/las-vegas/"
-                          },
-                          {
-                            "bye_weeks": {
-                              "week": "13"
-                            }
-                          },
-                          {
-                            "is_keeper": {
-                              "cost": false,
-                              "kept": false,
-                              "status": false
-                            }
-                          },
-                          {
-                            "uniform_number": "2"
-                          },
-                          {
-                            "display_position": "RB"
-                          },
-                          {
-                            "headshot": {
-                              "size": "small",
-                              "url": "https://s.yimg.com/iu/api/res/1.2/k2bG2c3Hj.AqkE8fsH7VQw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/07282025/41791.png"
-                            },
-                            "image_url": "https://s.yimg.com/iu/api/res/1.2/k2bG2c3Hj.AqkE8fsH7VQw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/07282025/41791.png"
-                          },
-                          {
-                            "is_undroppable": "0"
-                          },
-                          {
-                            "position_type": "O"
-                          },
-                          {
-                            "primary_position": "RB"
-                          },
-                          {
-                            "eligible_positions": [
-                              {
-                                "position": "RB"
-                              },
-                              {
-                                "position": "W/R/T"
-                              }
-                            ]
-                          },
-                          {
-                            "eligible_positions_to_add": [
-                              {
-                                "position": "QB"
-                              },
-                              {
-                                "position": "WR"
-                              },
-                              {
-                                "position": "TE"
-                              }
-                            ]
-                          },
-                          [],
-                          [],
-                          {
-                            "has_player_notes": 1
-                          },
-                          [],
-                          {
-                            "player_notes_last_timestamp": 1794796974
-                          }
-                        ],
-                        {
-                          "selected_position": [
-                            {
-                              "coverage_type": "week",
-                              "week": "11"
-                            },
-                            {
-                              "position": "BN"
-                            },
-                            {
-                              "is_flex": 0
-                            }
-                          ]
-                        }
-                      ]
-                    },
                     "count": 18
                   }
                 },
@@ -15148,7 +15149,7 @@
               }
             }
           ],
-          "time": "81.63595199585ms",
+          "time": "83.92596244812ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.4/roster"
         }
@@ -15225,7 +15226,7 @@
                 "managers": [
                   {
                     "manager": {
-                      "felo_score": "554",
+                      "felo_score": "550",
                       "felo_tier": "bronze",
                       "guid": "--hidden--",
                       "image_url": "https://s.yimg.com/ag/images/27d859b0-4554-4621-8d77-920ca7b1098bv4_64sq.jpg",
@@ -15711,13 +15712,9 @@
                           },
                           [],
                           [],
-                          {
-                            "has_player_notes": 1
-                          },
                           [],
-                          {
-                            "player_notes_last_timestamp": 1794071274
-                          }
+                          [],
+                          []
                         ],
                         {
                           "selected_position": [
@@ -15843,9 +15840,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794866714
                           }
@@ -16514,9 +16509,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794853090
                           }
@@ -17276,7 +17269,7 @@
               }
             }
           ],
-          "time": "86.560010910034ms",
+          "time": "83.259105682373ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.5/roster"
         }
@@ -17351,7 +17344,7 @@
                 "managers": [
                   {
                     "manager": {
-                      "felo_score": "669",
+                      "felo_score": "688",
                       "felo_tier": "silver",
                       "guid": "--hidden--",
                       "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -17608,41 +17601,48 @@
                       "player": [
                         [
                           {
-                            "player_key": "470.p.40901"
+                            "player_key": "470.p.40042"
                           },
                           {
-                            "player_id": "40901"
+                            "player_id": "40042"
                           },
                           {
                             "name": {
-                              "ascii_first": "Rome",
-                              "ascii_last": "Odunze",
-                              "first": "Rome",
-                              "full": "Rome Odunze",
-                              "last": "Odunze"
+                              "ascii_first": "Jordan",
+                              "ascii_last": "Addison",
+                              "first": "Jordan",
+                              "full": "Jordan Addison",
+                              "last": "Addison"
                             }
                           },
                           {
-                            "url": "https://sports.yahoo.com/nfl/players/40901"
+                            "url": "https://sports.yahoo.com/nfl/players/40042"
                           },
                           {
-                            "editorial_player_key": "nfl.p.40901"
+                            "status": "O",
+                            "status_full": "Out"
                           },
                           {
-                            "editorial_team_key": "nfl.t.3"
+                            "injury_note": "Thumb"
                           },
                           {
-                            "editorial_team_full_name": "Chicago Bears"
+                            "editorial_player_key": "nfl.p.40042"
                           },
                           {
-                            "editorial_team_abbr": "Chi"
+                            "editorial_team_key": "nfl.t.16"
                           },
                           {
-                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/chicago/"
+                            "editorial_team_full_name": "Minnesota Vikings"
+                          },
+                          {
+                            "editorial_team_abbr": "Min"
+                          },
+                          {
+                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/minnesota/"
                           },
                           {
                             "bye_weeks": {
-                              "week": "10"
+                              "week": "6"
                             }
                           },
                           {
@@ -17653,7 +17653,7 @@
                             }
                           },
                           {
-                            "uniform_number": "15"
+                            "uniform_number": "3"
                           },
                           {
                             "display_position": "WR"
@@ -17661,9 +17661,9 @@
                           {
                             "headshot": {
                               "size": "small",
-                              "url": "https://s.yimg.com/iu/api/res/1.2/7mOuM7u9usQ7ge8D.SKj_w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/40901.1.png"
+                              "url": "https://s.yimg.com/iu/api/res/1.2/nn3eSJYNQea549YDPeNwQg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40042.1.png"
                             },
-                            "image_url": "https://s.yimg.com/iu/api/res/1.2/7mOuM7u9usQ7ge8D.SKj_w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/40901.1.png"
+                            "image_url": "https://s.yimg.com/iu/api/res/1.2/nn3eSJYNQea549YDPeNwQg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40042.1.png"
                           },
                           {
                             "is_undroppable": "0"
@@ -17684,6 +17684,9 @@
                               },
                               {
                                 "position": "W/R/T"
+                              },
+                              {
+                                "position": "IR"
                               }
                             ]
                           },
@@ -17707,7 +17710,7 @@
                           },
                           [],
                           {
-                            "player_notes_last_timestamp": 1794201544
+                            "player_notes_last_timestamp": 1794854710
                           }
                         ],
                         {
@@ -18184,108 +18187,6 @@
                       "player": [
                         [
                           {
-                            "player_key": "470.p.100016"
-                          },
-                          {
-                            "player_id": "100016"
-                          },
-                          {
-                            "name": {
-                              "ascii_first": "Vikings",
-                              "ascii_last": "",
-                              "first": "Vikings",
-                              "full": "Vikings",
-                              "last": ""
-                            }
-                          },
-                          {
-                            "url": "https://sports.yahoo.com/nfl/teams/minnesota/"
-                          },
-                          {
-                            "editorial_player_key": "nfl.p.100016"
-                          },
-                          {
-                            "editorial_team_key": "nfl.t.16"
-                          },
-                          {
-                            "editorial_team_full_name": "Minnesota Vikings"
-                          },
-                          {
-                            "editorial_team_abbr": "Min"
-                          },
-                          {
-                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/minnesota/"
-                          },
-                          {
-                            "bye_weeks": {
-                              "week": "6"
-                            }
-                          },
-                          {
-                            "is_keeper": {
-                              "cost": false,
-                              "kept": false,
-                              "status": false
-                            }
-                          },
-                          {
-                            "uniform_number": false
-                          },
-                          {
-                            "display_position": "DEF"
-                          },
-                          {
-                            "headshot": {
-                              "size": "small",
-                              "url": "https://s.yimg.com/xe/ipt/50x50w.6.gif"
-                            },
-                            "image_url": "https://s.yimg.com/xe/ipt/50x50w.6.gif"
-                          },
-                          {
-                            "is_undroppable": "0"
-                          },
-                          {
-                            "position_type": "DT"
-                          },
-                          {
-                            "primary_position": "DEF"
-                          },
-                          {
-                            "eligible_positions": [
-                              {
-                                "position": "DEF"
-                              }
-                            ]
-                          },
-                          {
-                            "eligible_positions_to_add": []
-                          },
-                          [],
-                          [],
-                          [],
-                          [],
-                          []
-                        ],
-                        {
-                          "selected_position": [
-                            {
-                              "coverage_type": "week",
-                              "week": "11"
-                            },
-                            {
-                              "position": "DEF"
-                            },
-                            {
-                              "is_flex": 0
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    "16": {
-                      "player": [
-                        [
-                          {
                             "player_key": "470.p.100023"
                           },
                           {
@@ -18342,6 +18243,108 @@
                               "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/pit.gif"
                             },
                             "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/pit.gif"
+                          },
+                          {
+                            "is_undroppable": "0"
+                          },
+                          {
+                            "position_type": "DT"
+                          },
+                          {
+                            "primary_position": "DEF"
+                          },
+                          {
+                            "eligible_positions": [
+                              {
+                                "position": "DEF"
+                              }
+                            ]
+                          },
+                          {
+                            "eligible_positions_to_add": []
+                          },
+                          [],
+                          [],
+                          [],
+                          [],
+                          []
+                        ],
+                        {
+                          "selected_position": [
+                            {
+                              "coverage_type": "week",
+                              "week": "11"
+                            },
+                            {
+                              "position": "DEF"
+                            },
+                            {
+                              "is_flex": 0
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "16": {
+                      "player": [
+                        [
+                          {
+                            "player_key": "470.p.100016"
+                          },
+                          {
+                            "player_id": "100016"
+                          },
+                          {
+                            "name": {
+                              "ascii_first": "Vikings",
+                              "ascii_last": "",
+                              "first": "Vikings",
+                              "full": "Vikings",
+                              "last": ""
+                            }
+                          },
+                          {
+                            "url": "https://sports.yahoo.com/nfl/teams/minnesota/"
+                          },
+                          {
+                            "editorial_player_key": "nfl.p.100016"
+                          },
+                          {
+                            "editorial_team_key": "nfl.t.16"
+                          },
+                          {
+                            "editorial_team_full_name": "Minnesota Vikings"
+                          },
+                          {
+                            "editorial_team_abbr": "Min"
+                          },
+                          {
+                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/minnesota/"
+                          },
+                          {
+                            "bye_weeks": {
+                              "week": "6"
+                            }
+                          },
+                          {
+                            "is_keeper": {
+                              "cost": false,
+                              "kept": false,
+                              "status": false
+                            }
+                          },
+                          {
+                            "uniform_number": false
+                          },
+                          {
+                            "display_position": "DEF"
+                          },
+                          {
+                            "headshot": {
+                              "size": "small",
+                              "url": "https://s.yimg.com/xe/ipt/50x50w.6.gif"
+                            },
+                            "image_url": "https://s.yimg.com/xe/ipt/50x50w.6.gif"
                           },
                           {
                             "is_undroppable": "0"
@@ -18873,41 +18876,41 @@
                       "player": [
                         [
                           {
-                            "player_key": "470.p.31896"
+                            "player_key": "470.p.40901"
                           },
                           {
-                            "player_id": "31896"
+                            "player_id": "40901"
                           },
                           {
                             "name": {
-                              "ascii_first": "DK",
-                              "ascii_last": "Metcalf",
-                              "first": "DK",
-                              "full": "DK Metcalf",
-                              "last": "Metcalf"
+                              "ascii_first": "Rome",
+                              "ascii_last": "Odunze",
+                              "first": "Rome",
+                              "full": "Rome Odunze",
+                              "last": "Odunze"
                             }
                           },
                           {
-                            "url": "https://sports.yahoo.com/nfl/players/31896"
+                            "url": "https://sports.yahoo.com/nfl/players/40901"
                           },
                           {
-                            "editorial_player_key": "nfl.p.31896"
+                            "editorial_player_key": "nfl.p.40901"
                           },
                           {
-                            "editorial_team_key": "nfl.t.23"
+                            "editorial_team_key": "nfl.t.3"
                           },
                           {
-                            "editorial_team_full_name": "Pittsburgh Steelers"
+                            "editorial_team_full_name": "Chicago Bears"
                           },
                           {
-                            "editorial_team_abbr": "Pit"
+                            "editorial_team_abbr": "Chi"
                           },
                           {
-                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/pittsburgh/"
+                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/chicago/"
                           },
                           {
                             "bye_weeks": {
-                              "week": "9"
+                              "week": "10"
                             }
                           },
                           {
@@ -18918,7 +18921,7 @@
                             }
                           },
                           {
-                            "uniform_number": "4"
+                            "uniform_number": "15"
                           },
                           {
                             "display_position": "WR"
@@ -18926,9 +18929,9 @@
                           {
                             "headshot": {
                               "size": "small",
-                              "url": "https://s.yimg.com/iu/api/res/1.2/xNQy._m0pGTaF4D.WKgjsA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/31896.1.png"
+                              "url": "https://s.yimg.com/iu/api/res/1.2/7mOuM7u9usQ7ge8D.SKj_w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/40901.1.png"
                             },
-                            "image_url": "https://s.yimg.com/iu/api/res/1.2/xNQy._m0pGTaF4D.WKgjsA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/31896.1.png"
+                            "image_url": "https://s.yimg.com/iu/api/res/1.2/7mOuM7u9usQ7ge8D.SKj_w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08122026/40901.1.png"
                           },
                           {
                             "is_undroppable": "0"
@@ -18972,7 +18975,7 @@
                           },
                           [],
                           {
-                            "player_notes_last_timestamp": 1794806356
+                            "player_notes_last_timestamp": 1794201544
                           }
                         ],
                         {
@@ -19114,6 +19117,128 @@
                       "player": [
                         [
                           {
+                            "player_key": "470.p.31896"
+                          },
+                          {
+                            "player_id": "31896"
+                          },
+                          {
+                            "name": {
+                              "ascii_first": "DK",
+                              "ascii_last": "Metcalf",
+                              "first": "DK",
+                              "full": "DK Metcalf",
+                              "last": "Metcalf"
+                            }
+                          },
+                          {
+                            "url": "https://sports.yahoo.com/nfl/players/31896"
+                          },
+                          {
+                            "editorial_player_key": "nfl.p.31896"
+                          },
+                          {
+                            "editorial_team_key": "nfl.t.23"
+                          },
+                          {
+                            "editorial_team_full_name": "Pittsburgh Steelers"
+                          },
+                          {
+                            "editorial_team_abbr": "Pit"
+                          },
+                          {
+                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/pittsburgh/"
+                          },
+                          {
+                            "bye_weeks": {
+                              "week": "9"
+                            }
+                          },
+                          {
+                            "is_keeper": {
+                              "cost": false,
+                              "kept": false,
+                              "status": false
+                            }
+                          },
+                          {
+                            "uniform_number": "4"
+                          },
+                          {
+                            "display_position": "WR"
+                          },
+                          {
+                            "headshot": {
+                              "size": "small",
+                              "url": "https://s.yimg.com/iu/api/res/1.2/xNQy._m0pGTaF4D.WKgjsA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/31896.1.png"
+                            },
+                            "image_url": "https://s.yimg.com/iu/api/res/1.2/xNQy._m0pGTaF4D.WKgjsA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242026/31896.1.png"
+                          },
+                          {
+                            "is_undroppable": "0"
+                          },
+                          {
+                            "position_type": "O"
+                          },
+                          {
+                            "primary_position": "WR"
+                          },
+                          {
+                            "eligible_positions": [
+                              {
+                                "position": "WR"
+                              },
+                              {
+                                "position": "W/T"
+                              },
+                              {
+                                "position": "W/R/T"
+                              }
+                            ]
+                          },
+                          {
+                            "eligible_positions_to_add": [
+                              {
+                                "position": "QB"
+                              },
+                              {
+                                "position": "RB"
+                              },
+                              {
+                                "position": "TE"
+                              }
+                            ]
+                          },
+                          [],
+                          [],
+                          {
+                            "has_player_notes": 1
+                          },
+                          [],
+                          {
+                            "player_notes_last_timestamp": 1794806356
+                          }
+                        ],
+                        {
+                          "selected_position": [
+                            {
+                              "coverage_type": "week",
+                              "week": "11"
+                            },
+                            {
+                              "position": "BN"
+                            },
+                            {
+                              "is_flex": 0
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "9": {
+                      "player": [
+                        [
+                          {
                             "player_key": "470.p.32696"
                           },
                           {
@@ -19226,140 +19351,6 @@
                         }
                       ]
                     },
-                    "9": {
-                      "player": [
-                        [
-                          {
-                            "player_key": "470.p.40042"
-                          },
-                          {
-                            "player_id": "40042"
-                          },
-                          {
-                            "name": {
-                              "ascii_first": "Jordan",
-                              "ascii_last": "Addison",
-                              "first": "Jordan",
-                              "full": "Jordan Addison",
-                              "last": "Addison"
-                            }
-                          },
-                          {
-                            "url": "https://sports.yahoo.com/nfl/players/40042"
-                          },
-                          {
-                            "status": "O",
-                            "status_full": "Out"
-                          },
-                          {
-                            "injury_note": "Thumb"
-                          },
-                          {
-                            "editorial_player_key": "nfl.p.40042"
-                          },
-                          {
-                            "editorial_team_key": "nfl.t.16"
-                          },
-                          {
-                            "editorial_team_full_name": "Minnesota Vikings"
-                          },
-                          {
-                            "editorial_team_abbr": "Min"
-                          },
-                          {
-                            "editorial_team_url": "https://sports.yahoo.com/nfl/teams/minnesota/"
-                          },
-                          {
-                            "bye_weeks": {
-                              "week": "6"
-                            }
-                          },
-                          {
-                            "is_keeper": {
-                              "cost": false,
-                              "kept": false,
-                              "status": false
-                            }
-                          },
-                          {
-                            "uniform_number": "3"
-                          },
-                          {
-                            "display_position": "WR"
-                          },
-                          {
-                            "headshot": {
-                              "size": "small",
-                              "url": "https://s.yimg.com/iu/api/res/1.2/nn3eSJYNQea549YDPeNwQg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40042.1.png"
-                            },
-                            "image_url": "https://s.yimg.com/iu/api/res/1.2/nn3eSJYNQea549YDPeNwQg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08192026/40042.1.png"
-                          },
-                          {
-                            "is_undroppable": "0"
-                          },
-                          {
-                            "position_type": "O"
-                          },
-                          {
-                            "primary_position": "WR"
-                          },
-                          {
-                            "eligible_positions": [
-                              {
-                                "position": "WR"
-                              },
-                              {
-                                "position": "W/T"
-                              },
-                              {
-                                "position": "W/R/T"
-                              },
-                              {
-                                "position": "IR"
-                              }
-                            ]
-                          },
-                          {
-                            "eligible_positions_to_add": [
-                              {
-                                "position": "QB"
-                              },
-                              {
-                                "position": "RB"
-                              },
-                              {
-                                "position": "TE"
-                              }
-                            ]
-                          },
-                          [],
-                          [],
-                          {
-                            "has_player_notes": 1
-                          },
-                          {
-                            "has_recent_player_notes": 1
-                          },
-                          {
-                            "player_notes_last_timestamp": 1794854710
-                          }
-                        ],
-                        {
-                          "selected_position": [
-                            {
-                              "coverage_type": "week",
-                              "week": "11"
-                            },
-                            {
-                              "position": "BN"
-                            },
-                            {
-                              "is_flex": 0
-                            }
-                          ]
-                        }
-                      ]
-                    },
                     "count": 17
                   }
                 },
@@ -19370,7 +19361,7 @@
               }
             }
           ],
-          "time": "80.296993255615ms",
+          "time": "77.754974365234ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.6/roster"
         }
@@ -19922,9 +19913,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794852193
                           }
@@ -21599,7 +21588,7 @@
               }
             }
           ],
-          "time": "80.277919769287ms",
+          "time": "70.435047149658ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.7/roster"
         }
@@ -21678,7 +21667,7 @@
                 "managers": [
                   {
                     "manager": {
-                      "felo_score": "767",
+                      "felo_score": "781",
                       "felo_tier": "gold",
                       "guid": "--hidden--",
                       "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -22410,9 +22399,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794839004
                           }
@@ -23768,7 +23755,7 @@
               }
             }
           ],
-          "time": "88.533163070679ms",
+          "time": "90.808868408203ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
         }
@@ -23845,7 +23832,7 @@
                 "managers": [
                   {
                     "manager": {
-                      "felo_score": "574",
+                      "felo_score": "578",
                       "felo_tier": "bronze",
                       "guid": "--hidden--",
                       "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -25348,9 +25335,7 @@
                           {
                             "has_player_notes": 1
                           },
-                          {
-                            "has_recent_player_notes": 1
-                          },
+                          [],
                           {
                             "player_notes_last_timestamp": 1794862828
                           }
@@ -25637,13 +25622,6 @@
                             "url": "https://sports.yahoo.com/nfl/players/41824"
                           },
                           {
-                            "status": "Q",
-                            "status_full": "Questionable"
-                          },
-                          {
-                            "injury_note": "Concussion"
-                          },
-                          {
                             "editorial_player_key": "nfl.p.41824"
                           },
                           {
@@ -25727,7 +25705,7 @@
                             "has_recent_player_notes": 1
                           },
                           {
-                            "player_notes_last_timestamp": 1794860725
+                            "player_notes_last_timestamp": 1794939757
                           }
                         ],
                         {
@@ -25875,7 +25853,7 @@
               }
             }
           ],
-          "time": "82.257986068726ms",
+          "time": "84.406137466431ms",
           "xml:lang": "en-US",
           "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.9/roster"
         }
@@ -25955,7 +25933,7 @@
               "managers": [
                 {
                   "manager": {
-                    "felo_score": "767",
+                    "felo_score": "781",
                     "felo_tier": "gold",
                     "guid": "--hidden--",
                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -26045,7 +26023,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -26275,7 +26253,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -26372,7 +26350,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "574",
+                                    "felo_score": "578",
                                     "felo_tier": "bronze",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -26505,7 +26483,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -26526,10 +26504,10 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "235.17",
+                              "total": "237.02",
                               "week": 11
                             },
-                            "win_probability": 0.8
+                            "win_probability": 0.79
                           }
                         ]
                       },
@@ -26602,7 +26580,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "574",
+                                    "felo_score": "578",
                                     "felo_tier": "bronze",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -26622,10 +26600,10 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "165.54",
+                              "total": "169.79",
                               "week": 11
                             },
-                            "win_probability": 0.19999999999999996
+                            "win_probability": 0.20999999999999996
                           }
                         ]
                       },
@@ -26717,7 +26695,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -26738,7 +26716,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "240.17",
+                              "total": "242.22",
                               "week": 12
                             },
                             "win_probability": 0.73
@@ -26814,7 +26792,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "566",
+                                    "felo_score": "561",
                                     "felo_tier": "bronze",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -26835,7 +26813,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "190.80",
+                              "total": "191.26",
                               "week": 12
                             },
                             "win_probability": 0.27
@@ -26930,7 +26908,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -26951,10 +26929,10 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "224.93",
+                              "total": "223.19",
                               "week": 13
                             },
-                            "win_probability": 0.8200000000000001
+                            "win_probability": 0.81
                           }
                         ]
                       },
@@ -27047,10 +27025,10 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "156.20",
+                              "total": "156.26",
                               "week": 13
                             },
-                            "win_probability": 0.17999999999999994
+                            "win_probability": 0.18999999999999995
                           }
                         ]
                       },
@@ -27142,7 +27120,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -27163,7 +27141,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "173.81",
+                              "total": "173.51",
                               "week": 14
                             },
                             "win_probability": 0.37
@@ -27237,7 +27215,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "669",
+                                    "felo_score": "688",
                                     "felo_tier": "silver",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -27257,7 +27235,7 @@
                             },
                             "team_projected_points": {
                               "coverage_type": "week",
-                              "total": "200.62",
+                              "total": "200.08",
                               "week": 14
                             },
                             "win_probability": 0.63
@@ -27352,7 +27330,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -27449,7 +27427,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "566",
+                                    "felo_score": "561",
                                     "felo_tier": "bronze",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -27583,7 +27561,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -27813,7 +27791,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -27908,7 +27886,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "669",
+                                    "felo_score": "688",
                                     "felo_tier": "silver",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -28041,7 +28019,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -28138,7 +28116,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "554",
+                                    "felo_score": "550",
                                     "felo_tier": "bronze",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/27d859b0-4554-4621-8d77-920ca7b1098bv4_64sq.jpg",
@@ -28271,7 +28249,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -28368,7 +28346,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "862",
+                                    "felo_score": "869",
                                     "felo_tier": "platinum",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4738/39045925476_e42bcf_64sq.jpg",
@@ -28501,7 +28479,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -28731,7 +28709,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -28828,7 +28806,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "631",
+                                    "felo_score": "660",
                                     "felo_tier": "silver",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -28961,7 +28939,7 @@
                               "managers": [
                                 {
                                   "manager": {
-                                    "felo_score": "767",
+                                    "felo_score": "781",
                                     "felo_tier": "gold",
                                     "guid": "--hidden--",
                                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -29120,7 +29098,7 @@
             }
           }
         ],
-        "time": "628.54504585266ms",
+        "time": "514.06002044678ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/matchups"
       }
@@ -29199,7 +29177,7 @@
               "managers": [
                 {
                   "manager": {
-                    "felo_score": "767",
+                    "felo_score": "781",
                     "felo_tier": "gold",
                     "guid": "--hidden--",
                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -29931,9 +29909,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1794839004
                         }
@@ -31289,7 +31265,7 @@
             }
           }
         ],
-        "time": "88.533163070679ms",
+        "time": "90.808868408203ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
       }
@@ -31412,7 +31388,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "566",
+                                        "felo_score": "561",
                                         "felo_tier": "bronze",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -31433,10 +31409,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "145.60",
+                                  "total": "142.95",
                                   "week": "11"
                                 },
-                                "win_probability": 0.27
+                                "win_probability": 0.25
                               }
                             ]
                           },
@@ -31529,10 +31505,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "186.56",
+                                  "total": "189.44",
                                   "week": "11"
                                 },
-                                "win_probability": 0.73
+                                "win_probability": 0.75
                               }
                             ]
                           },
@@ -31642,10 +31618,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "157.75",
+                                  "total": "159.59",
                                   "week": "11"
                                 },
-                                "win_probability": 0.24
+                                "win_probability": 0.20999999999999996
                               }
                             ]
                           },
@@ -31716,7 +31692,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "669",
+                                        "felo_score": "688",
                                         "felo_tier": "silver",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -31736,10 +31712,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "211.05",
+                                  "total": "221.03",
                                   "week": "11"
                                 },
-                                "win_probability": 0.76
+                                "win_probability": 0.79
                               }
                             ]
                           },
@@ -31829,7 +31805,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "631",
+                                        "felo_score": "660",
                                         "felo_tier": "silver",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -31849,10 +31825,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "179.26",
+                                  "total": "180.90",
                                   "week": "11"
                                 },
-                                "win_probability": 0.54
+                                "win_probability": 0.45999999999999996
                               }
                             ]
                           },
@@ -31925,7 +31901,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "862",
+                                        "felo_score": "869",
                                         "felo_tier": "platinum",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/4738/39045925476_e42bcf_64sq.jpg",
@@ -31945,10 +31921,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "172.08",
+                                  "total": "188.57",
                                   "week": "11"
                                 },
-                                "win_probability": 0.45999999999999996
+                                "win_probability": 0.54
                               }
                             ]
                           },
@@ -32038,7 +32014,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "554",
+                                        "felo_score": "550",
                                         "felo_tier": "bronze",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/27d859b0-4554-4621-8d77-920ca7b1098bv4_64sq.jpg",
@@ -32058,10 +32034,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "138.08",
+                                  "total": "139.94",
                                   "week": "11"
                                 },
-                                "win_probability": 0.47
+                                "win_probability": 0.45999999999999996
                               }
                             ]
                           },
@@ -32154,10 +32130,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "142.92",
+                                  "total": "145.82",
                                   "week": "11"
                                 },
-                                "win_probability": 0.53
+                                "win_probability": 0.54
                               }
                             ]
                           },
@@ -32249,7 +32225,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "767",
+                                        "felo_score": "781",
                                         "felo_tier": "gold",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -32270,10 +32246,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "235.17",
+                                  "total": "237.02",
                                   "week": "11"
                                 },
-                                "win_probability": 0.8
+                                "win_probability": 0.79
                               }
                             ]
                           },
@@ -32346,7 +32322,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "574",
+                                        "felo_score": "578",
                                         "felo_tier": "bronze",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -32366,10 +32342,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "165.54",
+                                  "total": "169.79",
                                   "week": "11"
                                 },
-                                "win_probability": 0.19999999999999996
+                                "win_probability": 0.20999999999999996
                               }
                             ]
                           },
@@ -32394,7 +32370,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "142.46702194214ms",
+        "time": "117.04897880554ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/scoreboard"
       }
@@ -34371,7 +34347,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "41.852951049805ms",
+        "time": "41.718006134033ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/settings"
       }
@@ -34492,7 +34468,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "767",
+                                "felo_score": "781",
                                 "felo_tier": "gold",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -34599,7 +34575,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "669",
+                                "felo_score": "688",
                                 "felo_tier": "silver",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -34707,7 +34683,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "862",
+                                "felo_score": "869",
                                 "felo_tier": "platinum",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/4738/39045925476_e42bcf_64sq.jpg",
@@ -34923,7 +34899,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "566",
+                                "felo_score": "561",
                                 "felo_tier": "bronze",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -35032,7 +35008,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "631",
+                                "felo_score": "660",
                                 "felo_tier": "silver",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -35248,7 +35224,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "574",
+                                "felo_score": "578",
                                 "felo_tier": "bronze",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -35464,7 +35440,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "554",
+                                "felo_score": "550",
                                 "felo_tier": "bronze",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/27d859b0-4554-4621-8d77-920ca7b1098bv4_64sq.jpg",
@@ -35510,7 +35486,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "98.40202331543ms",
+        "time": "93.55902671814ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/standings"
       }
@@ -35627,7 +35603,7 @@
                       "managers": [
                         {
                           "manager": {
-                            "felo_score": "566",
+                            "felo_score": "561",
                             "felo_tier": "bronze",
                             "guid": "--hidden--",
                             "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -35794,7 +35770,7 @@
                       "managers": [
                         {
                           "manager": {
-                            "felo_score": "631",
+                            "felo_score": "660",
                             "felo_tier": "silver",
                             "guid": "--hidden--",
                             "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -35877,7 +35853,7 @@
                       "managers": [
                         {
                           "manager": {
-                            "felo_score": "862",
+                            "felo_score": "869",
                             "felo_tier": "platinum",
                             "guid": "--hidden--",
                             "image_url": "https://s.yimg.com/ag/images/4738/39045925476_e42bcf_64sq.jpg",
@@ -35960,7 +35936,7 @@
                       "managers": [
                         {
                           "manager": {
-                            "felo_score": "554",
+                            "felo_score": "550",
                             "felo_tier": "bronze",
                             "guid": "--hidden--",
                             "image_url": "https://s.yimg.com/ag/images/27d859b0-4554-4621-8d77-920ca7b1098bv4_64sq.jpg",
@@ -36041,7 +36017,7 @@
                       "managers": [
                         {
                           "manager": {
-                            "felo_score": "669",
+                            "felo_score": "688",
                             "felo_tier": "silver",
                             "guid": "--hidden--",
                             "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -36209,7 +36185,7 @@
                       "managers": [
                         {
                           "manager": {
-                            "felo_score": "767",
+                            "felo_score": "781",
                             "felo_tier": "gold",
                             "guid": "--hidden--",
                             "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -36293,7 +36269,7 @@
                       "managers": [
                         {
                           "manager": {
-                            "felo_score": "574",
+                            "felo_score": "578",
                             "felo_tier": "bronze",
                             "guid": "--hidden--",
                             "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -36395,7 +36371,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "88.214874267578ms",
+        "time": "71.766138076782ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/teams"
       }
@@ -51979,7 +51955,7 @@
                               }
                             },
                             {
-                              "editorial_team_abbr": "Bal"
+                              "editorial_team_abbr": "LAR"
                             },
                             {
                               "display_position": "K"
@@ -52009,7 +51985,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "134.29403305054ms",
+        "time": "79.493999481201ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/transactions"
       }

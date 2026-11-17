@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:45:21.974897Z",
+  "generated_at": "2026-11-17T22:34:22.696310Z",
   "league_key": "470.l.677429",
   "platform": "yahoo",
   "resources": {
@@ -77,7 +77,7 @@
               "managers": [
                 {
                   "manager": {
-                    "felo_score": "767",
+                    "felo_score": "781",
                     "felo_tier": "gold",
                     "guid": "--hidden--",
                     "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -809,9 +809,7 @@
                         {
                           "has_player_notes": 1
                         },
-                        {
-                          "has_recent_player_notes": 1
-                        },
+                        [],
                         {
                           "player_notes_last_timestamp": 1794839004
                         }
@@ -2167,7 +2165,7 @@
             }
           }
         ],
-        "time": "88.533163070679ms",
+        "time": "90.808868408203ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
       }
@@ -2290,7 +2288,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "566",
+                                        "felo_score": "561",
                                         "felo_tier": "bronze",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -2311,10 +2309,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "145.60",
+                                  "total": "142.95",
                                   "week": "11"
                                 },
-                                "win_probability": 0.27
+                                "win_probability": 0.25
                               }
                             ]
                           },
@@ -2407,10 +2405,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "186.56",
+                                  "total": "189.44",
                                   "week": "11"
                                 },
-                                "win_probability": 0.73
+                                "win_probability": 0.75
                               }
                             ]
                           },
@@ -2520,10 +2518,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "157.75",
+                                  "total": "159.59",
                                   "week": "11"
                                 },
-                                "win_probability": 0.24
+                                "win_probability": 0.20999999999999996
                               }
                             ]
                           },
@@ -2594,7 +2592,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "669",
+                                        "felo_score": "688",
                                         "felo_tier": "silver",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -2614,10 +2612,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "211.05",
+                                  "total": "221.03",
                                   "week": "11"
                                 },
-                                "win_probability": 0.76
+                                "win_probability": 0.79
                               }
                             ]
                           },
@@ -2707,7 +2705,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "631",
+                                        "felo_score": "660",
                                         "felo_tier": "silver",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -2727,10 +2725,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "179.26",
+                                  "total": "180.90",
                                   "week": "11"
                                 },
-                                "win_probability": 0.54
+                                "win_probability": 0.45999999999999996
                               }
                             ]
                           },
@@ -2803,7 +2801,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "862",
+                                        "felo_score": "869",
                                         "felo_tier": "platinum",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/4738/39045925476_e42bcf_64sq.jpg",
@@ -2823,10 +2821,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "172.08",
+                                  "total": "188.57",
                                   "week": "11"
                                 },
-                                "win_probability": 0.45999999999999996
+                                "win_probability": 0.54
                               }
                             ]
                           },
@@ -2916,7 +2914,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "554",
+                                        "felo_score": "550",
                                         "felo_tier": "bronze",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/27d859b0-4554-4621-8d77-920ca7b1098bv4_64sq.jpg",
@@ -2936,10 +2934,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "138.08",
+                                  "total": "139.94",
                                   "week": "11"
                                 },
-                                "win_probability": 0.47
+                                "win_probability": 0.45999999999999996
                               }
                             ]
                           },
@@ -3032,10 +3030,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "142.92",
+                                  "total": "145.82",
                                   "week": "11"
                                 },
-                                "win_probability": 0.53
+                                "win_probability": 0.54
                               }
                             ]
                           },
@@ -3127,7 +3125,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "767",
+                                        "felo_score": "781",
                                         "felo_tier": "gold",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -3148,10 +3146,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "235.17",
+                                  "total": "237.02",
                                   "week": "11"
                                 },
-                                "win_probability": 0.8
+                                "win_probability": 0.79
                               }
                             ]
                           },
@@ -3224,7 +3222,7 @@
                                   "managers": [
                                     {
                                       "manager": {
-                                        "felo_score": "574",
+                                        "felo_score": "578",
                                         "felo_tier": "bronze",
                                         "guid": "--hidden--",
                                         "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -3244,10 +3242,10 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "165.54",
+                                  "total": "169.79",
                                   "week": "11"
                                 },
-                                "win_probability": 0.19999999999999996
+                                "win_probability": 0.20999999999999996
                               }
                             ]
                           },
@@ -3272,7 +3270,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "142.46702194214ms",
+        "time": "117.04897880554ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/scoreboard"
       }
@@ -3393,7 +3391,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "767",
+                                "felo_score": "781",
                                 "felo_tier": "gold",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/4534/26590152399_4e0b96_64sq.jpg",
@@ -3500,7 +3498,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "669",
+                                "felo_score": "688",
                                 "felo_tier": "silver",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -3608,7 +3606,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "862",
+                                "felo_score": "869",
                                 "felo_tier": "platinum",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/4738/39045925476_e42bcf_64sq.jpg",
@@ -3824,7 +3822,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "566",
+                                "felo_score": "561",
                                 "felo_tier": "bronze",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -3933,7 +3931,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "631",
+                                "felo_score": "660",
                                 "felo_tier": "silver",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -4149,7 +4147,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "574",
+                                "felo_score": "578",
                                 "felo_tier": "bronze",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
@@ -4365,7 +4363,7 @@
                           "managers": [
                             {
                               "manager": {
-                                "felo_score": "554",
+                                "felo_score": "550",
                                 "felo_tier": "bronze",
                                 "guid": "--hidden--",
                                 "image_url": "https://s.yimg.com/ag/images/27d859b0-4554-4621-8d77-920ca7b1098bv4_64sq.jpg",
@@ -4411,7 +4409,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "98.40202331543ms",
+        "time": "93.55902671814ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/standings"
       }
@@ -19995,7 +19993,7 @@
                               }
                             },
                             {
-                              "editorial_team_abbr": "Bal"
+                              "editorial_team_abbr": "LAR"
                             },
                             {
                               "display_position": "K"
@@ -20025,7 +20023,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "134.29403305054ms",
+        "time": "79.493999481201ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/transactions"
       }
