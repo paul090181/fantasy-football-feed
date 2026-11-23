@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:01:50.977692Z",
+  "generated_at": "2026-11-23T20:28:16.556609Z",
   "league_key": "470.l.677429",
   "platform": "yahoo",
   "resources": {
@@ -488,6 +488,13 @@
                           "url": "https://sports.yahoo.com/nfl/players/41900"
                         },
                         {
+                          "status": "Q",
+                          "status_full": "Questionable"
+                        },
+                        {
+                          "injury_note": "Ankle"
+                        },
+                        {
                           "editorial_player_key": "nfl.p.41900"
                         },
                         {
@@ -568,7 +575,7 @@
                           "has_recent_player_notes": 1
                         },
                         {
-                          "player_notes_last_timestamp": 1795400786
+                          "player_notes_last_timestamp": 1795463226
                         }
                       ],
                       {
@@ -2170,7 +2177,7 @@
             }
           }
         ],
-        "time": "82.459211349487ms",
+        "time": "91.063976287842ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/team/470.l.677429.t.8/roster"
       }
@@ -2198,7 +2205,7 @@
             "league_id": "677429",
             "league_key": "470.l.677429",
             "league_type": "private",
-            "league_update_timestamp": "1795248414",
+            "league_update_timestamp": "1795421133",
             "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
             "matchup_week": 11,
             "max_teams": "10",
@@ -2523,7 +2530,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "212.29",
+                                  "total": "212.37",
                                   "week": "11"
                                 },
                                 "win_probability": 0.19999999999999996
@@ -3151,7 +3158,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "256.86",
+                                  "total": "257.51",
                                   "week": "11"
                                 },
                                 "win_probability": 0.85
@@ -3247,7 +3254,7 @@
                                 },
                                 "team_projected_points": {
                                   "coverage_type": "week",
-                                  "total": "215.15",
+                                  "total": "215.51",
                                   "week": "11"
                                 },
                                 "win_probability": 0.15000000000000002
@@ -3275,7 +3282,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "148.08917045593ms",
+        "time": "151.64494514465ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/scoreboard"
       }
@@ -3303,7 +3310,7 @@
             "league_id": "677429",
             "league_key": "470.l.677429",
             "league_type": "private",
-            "league_update_timestamp": "1795248414",
+            "league_update_timestamp": "1795421133",
             "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
             "matchup_week": 11,
             "max_teams": "10",
@@ -4414,7 +4421,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "84.569931030273ms",
+        "time": "87.38899230957ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/standings"
       }
@@ -4442,7 +4449,7 @@
             "league_id": "677429",
             "league_key": "470.l.677429",
             "league_type": "private",
-            "league_update_timestamp": "1795248414",
+            "league_update_timestamp": "1795421133",
             "logo_url": "https://s.yimg.com/ep/cx/blendr/v2/image-avatar-football-trophy-kc-png_1721783527415.png",
             "matchup_week": 11,
             "max_teams": "10",
@@ -21717,7 +21724,7 @@
           }
         ],
         "refresh_rate": "30",
-        "time": "88.927984237671ms",
+        "time": "106.32491111755ms",
         "xml:lang": "en-US",
         "yahoo:uri": "/fantasy/v2/league/470.l.677429/transactions"
       }
